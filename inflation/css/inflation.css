@@ -1,0 +1,440 @@
+/* apply a natural box layout model to all elements */
+*, *:before, *:after {
+  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+ }
+
+
+#interactive table {
+    padding: 0;
+    margin: 0;
+    border: none;
+    vertical-align: middle;
+    border-spacing: 0;
+}
+
+#interactive table tr td {
+    padding: 10px;
+    height: 28px;
+    border: none;
+    border-spacing: 0;
+    vertical-align: middle;
+    text-align: center;
+
+}
+
+#interactive .blockheading {
+    color: #fff;
+    padding-left: 20px;
+    font-weight: 600;
+}
+
+#interactive .green {
+    background-color: #B7C846;
+    /*color: #fff;*/
+}
+
+#interactive p.green  {
+    font-weight: 400;
+}
+
+#interactive .blueBG {
+    background-color: #003D59;
+    color: #fff;
+}
+
+
+
+#interactive .title {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#interactive .subtitle {
+    font-size: 11px;
+    padding-right: 10px;
+}
+
+#interactive .currentRate {
+    font-size: 24px;
+    font-weight: 600;
+    padding: 0;
+    vertical-align: middle;
+}
+
+#interactive .downloadBox {
+    display: block;
+    padding: 5px 20px;
+    color: #fff;
+    background-color: #B7C846;
+    font-weight: 600;
+    text-align: center;
+}
+
+#interactive .download {
+}
+
+#interactive .alt {
+    background-color: #eee;
+}
+
+#interactive .info {
+    max-width: 30px;
+    max-height: 30px;
+}
+
+#interactive .up {
+    background-image: url(img/up-icon.png);
+}
+
+#interactive #chart {
+    height: 400px;
+    background-color: #B7C846;
+    background-color: #fff;
+}
+
+#interactive .row {
+    width: 100%;
+}
+
+#interactive .mainCol {
+    width: 73%;
+    float: left;
+}
+
+#interactive .sideCol {
+    float: right;
+    width: 25%;
+}
+
+#interactive .button {
+    padding-bottom: 4px;
+}
+
+#interactive .left,.mid,.right {
+    width: 25%;
+    float: left;
+}
+
+#interactive .thirds {
+    width: 33%;
+    float: left;
+}
+
+#interactive .threequarters {
+    width: 75%;
+    float: left;
+}
+
+#interactive .alignleft {
+    float: left;
+}
+#interactive .alignright {
+    float: right;
+}
+#interactive .padright {
+    padding-right:10px;
+}
+
+#interactive .clear {
+    clear: both;
+}
+
+#interactive .block {
+    padding-top: 8px 10px;
+    margin-left: 0;
+    margin-right: 14px;
+    font-weight: 600;
+}
+
+#interactive .tip {
+    position: absolute;
+    top: 0;
+    left: -1200px;
+    background: #fff;
+    border: 1px solid #eee;
+    font-size: 12px;
+    height: 120px;
+    width: 240px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #000;
+    box-shadow: 3px 3px 4px #999;
+    z-index: 500;
+}
+
+#interactive #natStat {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+#interactive h4 {
+    padding-top: 0;
+    font-size: 12px;
+}
+
+#interactive h3 {
+    padding-top: 8px;
+    padding-left: 20px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+#interactive h2 {
+    /*padding-top: 5px;*/
+    padding-left: 20px;
+}
+
+#interactive fieldset {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+#interactive ul.striped li {
+    display: block;
+    height: 22px;
+    background-color: #EEE;
+    margin: 0;
+    padding: 0;
+}
+
+#interactive legend {
+    margin-left: 30px;
+    height: 25px;
+    font-size: 14px;
+    font-weight: 600;
+    padding-top: 6px;
+}
+
+#interactive li input {
+    margin-left: 20px;
+}
+
+#interactive ul.striped li:first-child {
+}
+
+#interactive ul.striped li:last-child {
+}
+
+#interactive ul.striped li:nth-child(even) {
+    background-color: #fff;
+}
+
+#interactive ul {
+    margin: 0;
+    padding: 0;
+}
+
+#interactive .blue,.blue:visited,.blue:hover {
+    color: #003D59;
+}
+
+#interactive .white, .white:visited, .white:hover, .white:active {
+    color: #fff;
+     text-decoration: none;
+}
+
+
+
+#interactive .centred {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20px;
+}
+
+#interactive .leftText {
+    margin: 12px;
+    text-align: left;
+    vertical-align: middle;
+    padding: 5px;
+    line-height: 20px;
+}
+
+#interactive .rightText {
+    text-align: right;
+    vertical-align: middle;
+}
+
+#notes {
+    padding: 10px;
+}
+
+#notes ul {
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+#interactive .padded {
+    padding: 5px;
+}
+
+#interactive .margin {
+    margin: 10px 5px;
+
+}
+
+#interactive .marginleft {
+    margin: 10px;
+
+}
+
+#interactive .update {
+    font-size: 14px;
+   /* margin: 0 25px 20px 20px;*/
+    padding: 10px;
+}
+
+#interactive a:focus,a:active {
+    background: #575757;
+    color: #FFF;
+    text-decoration: underline;
+}
+
+#interactive .contact {
+    background-color:#ccc;
+    margin:10px;
+    margin-top: -14px;
+    padding: 0px 10px 25px 10px; 
+}
+#interactive .contact h3{
+    padding:10px 0px; 
+}
+#interactive .box{
+    border: 1px solid #999; 
+/*    background-color: #e99;*/
+    margin-bottom:20px;
+}
+#interactive .bottomline{
+    border-bottom: 1px solid #999; 
+}
+
+#interactive .reverseblue {
+    background-color: #e6e6e6;
+    color: #003D59;
+}
+#interactive .note {
+    padding-top:20px;
+    padding:10px;
+}
+#interactive th {
+  width: 10%;
+}
+#interactive th.thick {
+  width: 20%;
+}
+#interactive #chart {
+  line-height: 12px;
+}
+
+#interactive #updateBtn {
+
+    text-decoration: none;
+    display:block;
+    width:90%;
+    height:40px;
+    margin-top:30px;
+
+    float:right;
+
+    background-color: #003D59;
+    color: #FFF;
+    cursor: pointer;
+    cursor: hand; 
+}
+
+
+
+#interactive #downloadBtn {
+    height:40px;
+    margin-bottom: 20px
+}
+
+#interactive .alert {
+    padding:20px;
+    background-color: #f00;
+    color:#fff;
+}
+
+#interactive .alert p{
+    padding-left:20px;
+
+}
+
+
+
+#interactive .button {
+  padding:10px, 4px;
+  padding-left: 4px;
+  padding-right: 4px;
+  display:block;
+  width:auto;
+  vertical-align: middle;
+  color: #003D54;
+}
+
+
+#interactive a.button {
+    font-weight: 600;
+    display:block;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+
+
+#container3 {
+    margin-top:10px;
+    clear:left;
+    float:left;
+    width:100%;
+    overflow:hidden;
+    background:#fff; /* column 3 background colour */
+}
+#container2 {
+    clear:left;
+    float:left;
+    width:100%;
+    position:relative;
+    right:33.333%;
+    background:#fff; /* column 2 background colour */
+}
+#container1 {
+    float:left;
+    width:100%;
+    position:relative;
+    right:33.33%;
+    background:#fff; /* column 1 background colour */
+}
+
+#col1 {
+    background:#B7C846;
+    float:left;
+    width:29.33%;
+    height:100px;
+    position:relative;
+    left:68.67%;
+    overflow:hidden;
+    padding-bottom:0px;
+}
+#col2 {
+    background:#B7C846;
+    float:left;
+    width:29.33%;
+    height:100px;
+    position:relative;
+    left:72.67%;
+    overflow:hidden;
+    padding-bottom:0px;
+}
+#col3 {
+    background:#B7C846;
+    float:left;
+    width:29.33%;
+    height:100px;
+    position:relative;
+    left:76.67%;
+    overflow:hidden;
+    padding-bottom:0px;
+}

@@ -1,0 +1,1139 @@
+ABJQ,"Household final consumption expenditure: National concept CP SA £m",SA,0,CURR,0,CT
+ABJR,"Household final consumption expenditure :National concept CVM SA - £m",SA,2010,CONS,0,CT
+ABJS,"Household final consumption expenditure: National concept IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+ABQU,"Household final consumption expenditure: National concept IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+ABTF,"Household final consumption expenditure: Net tourist expenditure CP SA £m",SA,0,CURR,0,CT
+ABTA,"Household final consumption expenditure: UK tourist expenditure abroad CP NSA",NSA,0,CURR,0,CT
+ABTH,"Household final consumption expenditure :Net tourist expenditure CVM NAYear SA £",SA,2010,CONS,0,CT
+ABTB,"Household final consumption expenditure: UK tourist expenditure abroad CP SA",SA,0,CURR,0,CT
+ABTC,"Household final consumption expenditure :UK tourist expenditure abroad CVM NSA",NSA,2010,CONS,0,CT
+ABTD,"Household final consumption expenditure :UK tourist expenditure abroad CVM SA",SA,2010,CONS,0,CT
+ABPB,"Household final consumption expenditure: National concept CP NSA £m",NSA,0,CURR,0,CT
+ABPF,"Household final consumption expenditure :National concept CVM NAYear NSA £m",NSA,2010,CONS,0,CT
+ABZW,"01.1 Food CP NSA",NSA,0,CURR,0,CT
+ADFK,"01.2 Non-alcoholic beverages CP NSA",NSA,0,CURR,0,CT
+ADFM,"02.1 Alcoholic beverages (off trade) CP NSA",NSA,0,CURR,0,CT
+ADFN,"02.2 Tobacco CP NSA",NSA,0,CURR,0,CT
+ADFQ,"03.1 Clothing CP NSA",NSA,0,CURR,0,CT
+ADFR,"03.2 Footwear CP NSA",NSA,0,CURR,0,CT
+ABQI,"Household final consumption expenditure: Domestic concept CP NSA",NSA,0,CURR,0,CT
+ABQJ,"Household final consumption expenditure :Domestic concept CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADFT,"04.1 Actual rentals for housing CP NSA",NSA,0,CURR,0,CT
+ADFU,"04.2 Imputed rentals for housing CP NSA",NSA,0,CURR,0,CT
+ADFV,"04.3 Maintenance and repair of the dwelling CP NSA",NSA,0,CURR,0,CT
+ABTE,"Household final consumption expenditure: Net tourist expenditure CP NSA",NSA,0,CURR,0,CT
+ADFW,"04.4 Water supply and miscellaneous services CP NSA",NSA,0,CURR,0,CT
+ADFX,"04.5 Electricity; gas and other fuels CP NSA",NSA,0,CURR,0,CT
+ABTG,"Household final consumption expenditure :Net tourist expenditure CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADFZ,"05.1 Furniture and furnishings; carpets and other floor coverings CP NSA",NSA,0,CURR,0,CT
+ABZV,"01 Food and non-alcoholic beverages CP NSA",NSA,0,CURR,0,CT
+ADGG,"05.2 Household textiles CP NSA",NSA,0,CURR,0,CT
+ADGL,"05.3 Household appliances CP NSA",NSA,0,CURR,0,CT
+ADGM,"05.4 Glassware CP NSA",NSA,0,CURR,0,CT
+ADFL,"02 Alcoholic beverages and tobacco CP NSA",NSA,0,CURR,0,CT
+ADGN,"05.5 Tools and equipment for house and garden CP NSA",NSA,0,CURR,0,CT
+ADFP,"03 Clothing and footwear CP NSA",NSA,0,CURR,0,CT
+ADGO,"05.6 Goods and services for routine household maintenance CP NSA",NSA,0,CURR,0,CT
+ADFS,"04 Housing; water; electricity; gas and other fuels CP NSA",NSA,0,CURR,0,CT
+ADFY,"05 Furnishings; household equipment and routine maintenance of the house CP NSA",NSA,0,CURR,0,CT
+ADGQ,"06.1 Medical products CP NSA",NSA,0,CURR,0,CT
+ADGP,"06 Health CP NSA",NSA,0,CURR,0,CT
+ADGR,"06.2 Out-patient services CP NSA",NSA,0,CURR,0,CT
+ADGS,"06.3 Hospital services CP NSA",NSA,0,CURR,0,CT
+ADGT,"07 Transport CP NSA",NSA,0,CURR,0,CT
+ADGX,"08 Communication CP NSA",NSA,0,CURR,0,CT
+ADGU,"07.1 Purchase of vehicles CP NSA",NSA,0,CURR,0,CT
+ADGY,"09 Recreation and culture CP NSA",NSA,0,CURR,0,CT
+ADGV,"07.2 Operation of personal transport equipment CP NSA",NSA,0,CURR,0,CT
+ADIE,"10 Education CP NSA",NSA,0,CURR,0,CT
+ADGW,"07.3 Transport services CP NSA",NSA,0,CURR,0,CT
+ADIF,"11 Restaurants and hotels CP NSA",NSA,0,CURR,0,CT
+ADII,"12 Miscellaneous goods and services CP NSA",NSA,0,CURR,0,CT
+ADIP,"01 Food and non-alcoholic beverages CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADGZ,"09.1 Audio-visual; photo and information processing CP NSA",NSA,0,CURR,0,CT
+ADIS,"02 Alcoholic beverages and tobacco CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADHL,"09.2 Other major durables for recreation and culture CP NSA",NSA,0,CURR,0,CT
+ADIW,"03 Clothing and footwear CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADHZ,"09.3 Other recreational goods CP NSA",NSA,0,CURR,0,CT
+ADIZ,"04 Housing; water; electricity; gas and other fuels CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADIA,"09.4 Recreational and cultural services CP NSA",NSA,0,CURR,0,CT
+ADJF,"05 Furnishings;household equipment & routine maintenance of the house CVM NAYear",NSA,2010,CONS,0,CT
+ADIC,"09.5 Newspapers; books and stationery CP NSA",NSA,0,CURR,0,CT
+ADJM,"06 Health CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADID,"09.6 Package holidays CP NSA",NSA,0,CURR,0,CT
+ADJQ,"07 Transport CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJU,"08 Communication CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJV,"09 Recreation and culture CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADIG,"11.1 Catering services CP NSA",NSA,0,CURR,0,CT
+ADMJ,"10 Education CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADIH,"11.2 Accommodation services CP NSA",NSA,0,CURR,0,CT
+ADMK,"11 Restaurants and hotels CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADMN,"12 Miscellaneous goods and services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADIJ,"12.1 Personal care CP NSA",NSA,0,CURR,0,CT
+ADIK,"12.3 Personal effects CP NSA",NSA,0,CURR,0,CT
+ADIL,"12.4 Social protection CP NSA",NSA,0,CURR,0,CT
+ADIM,"12.5 Insurance CP NSA",NSA,0,CURR,0,CT
+ADIN,"12.6 Financial services CP NSA",NSA,0,CURR,0,CT
+ADIO,"12.7 Other services CP NSA",NSA,0,CURR,0,CT
+ADIQ,"01.1 Food CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADIR,"01.2 Non-alcoholic beverages CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADIT,"02.1 Alcoholic beverages (off trade) CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADIU,"02.2 Tobacco CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADIX,"03.1 Clothing CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADIY,"03.2 Footwear CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJA,"04.1 Actual rentals for housing CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJB,"04.2 Imputed rentals for housing CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJC,"04.3 Maintenance and repair of the dwelling CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJD,"04.4 Water supply and miscellaneous services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJE,"04.5 Electricity; gas and other fuels CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJG,"05.1 Furniture and furnishings; carpets and other floor coverings CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJH,"05.2 Household textiles CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJI,"05.3 Household appliances CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJJ,"05.4 Glassware CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJK,"05.5 Tools and equipment for house and garden CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJL,"05.6 Goods and services for routine household maintenance CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJN,"06.1 Medical products CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJO,"06.2 Out-patient services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJP,"06.3 Hospital services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJR,"07.1 Purchase of vehicles CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJS,"07.2 Operation of personal transport equipment CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJT,"07.3 Transport services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJW,"09.1 Audio-visual; photo and information processing CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJX,"09.2 Other major durables for recreation and culture CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJY,"09.3 Other recreational goods CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADJZ,"09.4 Recreational and cultural services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADKM,"09.5 Newspapers; books and stationery CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADMI,"09.6 Package holidays CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADML,"11.1 Catering services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADMM,"11.2 Accommodation services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADMO,"12.1 Personal care CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADMP,"12.3 Personal effects CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADMQ,"12.4 Social protection CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADMR,"12.5 Insurance CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADMS,"12.6 Financial services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADMT,"12.7 Other services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADMV,"01.1.1 Food Bread and cereals CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADNZ,"01.1.7 Food Vegetables CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADOA,"01.1.8 Food Sugar and sweet products CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADOB,"01.1.9 Food Other food not elsewhere classified CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADOI,"03.1.1 Clothing Clothing materials CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADOJ,"03.1.2 Clothing Garments CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADOK,"03.1.3 Clothing Other articles of clothing & clothing accessories CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADOL,"03.1.4 Clothing Cleaning and hire of clothing CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADOM,"03.2.1 Footwear Shoes and other footwear CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADOO,"04.1.1 Actual rentals paid by tenants CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADOP,"04.1.2 Other actual rentals CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADOR,"04.2.2 Other imputed rentals CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADOU,"04.4.1 Water supply CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADOW,"04.4.3 Sewerage collection CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADOZ,"04.5.2 Gas CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPA,"04.5.3 Liquid fuels CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPB,"04.5.4 Solid fuels CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPC,"04.5.5 Heat energy CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPD,"05.1.1 Furniture and furnishings CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPE,"05.1.2 Carpets and other floor coverings CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPF,"05.1.3 Repair of furniture etc CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPG,"05.3.1 Major household appliances whether electric or not CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPH,"05.3.2 Small electric household appliances CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPI,"05.3.3 Repair of household appliances CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPJ,"05.5.1 Major tools and equipment CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPK,"05.5.2 Small tools and miscellaneous accessories CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPL,"05.6.1 Non-durable household goods CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPM,"05.6.2 Domestic services and household services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPN,"06.2.1 Medical services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPO,"06.2.2 Dental services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPQ,"07.1.1 Purchase of vehicles Motor cars CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPR,"07.1.2 Purchase of vehicles Motor cycles CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPS,"07.1.3 Purchase of vehicles Bicycles CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPX,"07.2.4 Other vehicle services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADPZ,"07.3.2 Transport services Road CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQF,"08.2 Communication Telephone and telefax equipment CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQG,"08.3 Communication Telephone and telefax services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQH,"09.1.1 Audio visual equipment CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQI,"09.1.2 Photographic and optical equipment CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQJ,"09.1.3 Information processing equipment CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQK,"09.1.4 Recording media CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQL,"09.1.5 Repair of audio-vis.;photo&information processing eqpmnt CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQM,"09.2.1 Major durables for outdoor recreation CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQN,"09.2.2 Musical instruments & major durables for indoor recreation CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQO,"09.2.3 Maintenance of other major durables CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQP,"09.3.1 Other recreational goods Games CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQQ,"09.3.2 Other recreational goods Equipment for sport CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQS,"09.3.4 Other recreational goods Pets and related products CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQT,"09.3.5 Other recreational goods Vets and other services for pets CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQU,"09.4.1 Recreational and sporting services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQV,"09.4.2 Cultural services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADQZ,"09.5.3 Newspapers; books & stationery Misc.printed matter CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADSI,"09.5.4 Newspapers; books & stationery Stationery & drawing materials CVM NAYear",NSA,2010,CONS,0,CT
+ADSR,"11.1.1 Restaurants; cafes etc CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADST,"01.1.1 Food Bread and cereals CP NSA",NSA,0,CURR,0,CT
+ADSZ,"01.1.7 Food Vegetables CP NSA",NSA,0,CURR,0,CT
+ADTD,"01.1.8 Food Sugar and sweet products CP NSA",NSA,0,CURR,0,CT
+ADTH,"01.1.9 Food Other food not elsewhere classified CP NSA",NSA,0,CURR,0,CT
+ADUQ,"03.1.1 Clothing Clothing materials CP NSA",NSA,0,CURR,0,CT
+ADUR,"03.1.2 Clothing Garments CP NSA",NSA,0,CURR,0,CT
+ADUS,"03.1.3 Clothing Other articles of clothing and clothing accessories CP NSA",NSA,0,CURR,0,CT
+ADUT,"03.1.4 Clothing Cleaning and hire of clothing CP NSA",NSA,0,CURR,0,CT
+ADUV,"03.2.1 Footwear Shoes and other footwear CP NSA",NSA,0,CURR,0,CT
+ADUX,"04.1.1 Actual rentals paid by tenants CP NSA",NSA,0,CURR,0,CT
+ADUY,"04.1.2 Other actual rentals CP NSA",NSA,0,CURR,0,CT
+ADVB,"04.2.2 Other imputed rentals CP NSA",NSA,0,CURR,0,CT
+ADVE,"04.4.1 Water supply CP NSA",NSA,0,CURR,0,CT
+ADVG,"04.4.3 Sewerage collection CP NSA",NSA,0,CURR,0,CT
+ADVI,"04.5.2 Gas CP NSA",NSA,0,CURR,0,CT
+ADVJ,"04.5.3 Liquid fuels CP NSA",NSA,0,CURR,0,CT
+ADVK,"04.5.4 Solid fuels CP NSA",NSA,0,CURR,0,CT
+ADVL,"04.5.5 Heat energy CP NSA",NSA,0,CURR,0,CT
+ADVM,"05.1.1 Furniture and furnishings CP NSA",NSA,0,CURR,0,CT
+ADVN,"05.1.2 Carpets and other floor coverings CP NSA",NSA,0,CURR,0,CT
+ADVO,"05.1.3 Repair of furniture etc CP NSA",NSA,0,CURR,0,CT
+ADVP,"05.3.1 Major household appliances whether electric or not CP NSA",NSA,0,CURR,0,CT
+ADVQ,"05.3.2 Small electric household appliances CP NSA",NSA,0,CURR,0,CT
+ADVR,"05.3.3 Repair of household appliances CP NSA",NSA,0,CURR,0,CT
+ADVS,"05.5.1 Major tools and equipment CP NSA",NSA,0,CURR,0,CT
+ADVT,"05.5.2 Small tools and miscellaneous accessories CP NSA",NSA,0,CURR,0,CT
+ADVU,"05.6.1 Non-durable household goods CP NSA",NSA,0,CURR,0,CT
+ADVV,"05.6.2 Domestic services and household services CP NSA",NSA,0,CURR,0,CT
+ADVW,"06.2.1 Medical services CP NSA",NSA,0,CURR,0,CT
+ADVX,"06.2.2 Dental services CP NSA",NSA,0,CURR,0,CT
+ADVZ,"07.1.1 Purchase of vehicles Motor cars CP NSA",NSA,0,CURR,0,CT
+ADWA,"07.1.2 Purchase of vehicles Motor cycles CP NSA",NSA,0,CURR,0,CT
+ADWB,"07.1.3 Purchase of vehicles Bicycles CP NSA",NSA,0,CURR,0,CT
+ADWG,"07.2.4 Other vehicle services CP NSA",NSA,0,CURR,0,CT
+ADWI,"07.3.2 Transport services Road CP NSA",NSA,0,CURR,0,CT
+ADWO,"08.2 Communication Telephone and telefax equipment CP NSA",NSA,0,CURR,0,CT
+ADWP,"08.3 Communication Telephone and telefax services CP NSA",NSA,0,CURR,0,CT
+ADWQ,"09.1.1 Audio visual equipment CP NSA",NSA,0,CURR,0,CT
+ADWR,"09.1.2 Photographic and optical equipment CP NSA",NSA,0,CURR,0,CT
+ADWS,"09.1.3 Information processing equipment CP NSA",NSA,0,CURR,0,CT
+ADWT,"09.1.4 Recording media CP NSA",NSA,0,CURR,0,CT
+ADWU,"09.1.5 Repair of audio-visual; photo and information processing equipment CP NSA",NSA,0,CURR,0,CT
+ADWV,"09.2.1 Major durables for outdoor recreation CP NSA",NSA,0,CURR,0,CT
+ADWW,"09.2.2 Musical instruments and major durables for indoor recreation CP NSA",NSA,0,CURR,0,CT
+ADWX,"09.2.3 Maintenance of other major durables CP NSA",NSA,0,CURR,0,CT
+ADWY,"09.3.1 Other recreational goods Games CP NSA",NSA,0,CURR,0,CT
+ADWZ,"09.3.2 Other recreational goods Equipment for sport CP NSA",NSA,0,CURR,0,CT
+ADXB,"09.3.4 Other recreational goods Pets and related products CP NSA",NSA,0,CURR,0,CT
+ADXC,"09.3.5 Other recreational goods Veterinary and other services for pets CP NSA",NSA,0,CURR,0,CT
+ADXD,"09.4.1 Recreational and sporting services CP NSA",NSA,0,CURR,0,CT
+ADXE,"09.4.2 Cultural services CP NSA",NSA,0,CURR,0,CT
+ADXI,"09.5.3 Newspapers; books and stationery Miscellaneous printed matter CP NSA",NSA,0,CURR,0,CT
+ADXJ,"09.5.4 Newspapers; books and stationery Stationery and drawing materials CP NSA",NSA,0,CURR,0,CT
+ADXO,"11.1.1 Restaurants; cafes etc CP NSA",NSA,0,CURR,0,CT
+ADXP,"11.1.2 Canteens CP NSA",NSA,0,CURR,0,CT
+ADXR,"12.1.2 Electric appliances for personal care CP NSA",NSA,0,CURR,0,CT
+ADXS,"12.1.3 Personal care Other appliances CP NSA",NSA,0,CURR,0,CT
+ADXU,"12.3.1 Personal effects Jewellery CP NSA",NSA,0,CURR,0,CT
+ADXV,"12.3.2 Personal effects Other CP NSA",NSA,0,CURR,0,CT
+ADXW,"12.5.1 Life insurance CP NSA",NSA,0,CURR,0,CT
+ADXX,"12.5.2 Dwelling insurance CP NSA",NSA,0,CURR,0,CT
+ADXY,"12.5.3 Health insurance CP NSA",NSA,0,CURR,0,CT
+ADXZ,"12.5.4 Transport insurance CP NSA",NSA,0,CURR,0,CT
+ADYA,"12.5.5 Other insurance CP NSA",NSA,0,CURR,0,CT
+ADYC,"12.6.2 Other financial services CP NSA",NSA,0,CURR,0,CT
+ADYF,"11.1.2 Canteens CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADYH,"12.1.2 Electric appliances for personal care CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADYI,"12.1.3 Personal care Other appliances CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADYJ,"12.3.1 Personal effects Jewellery CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADYK,"12.3.2 Personal effects Other CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADYL,"12.5.1 Life insurance CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADYM,"12.5.4 Transport insurance CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADYN,"12.5.3 Health insurance CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADYO,"12.5.2 Dwelling insurance CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADYP,"12.5.5 Other insurance CVM NAYear NSA",NSA,2010,CONS,0,CT
+ADYR,"12.6.2 Other financial services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ATKH,"04.3.1 Materials for maintenance and repair of the dwelling CP NSA",NSA,0,CURR,0,CT
+ATKU,"03.2.1 Footwear Shoes and other footwear CP SA",SA,0,CURR,0,CT
+ATMA,"05.1.1 Furniture and furnishings CP SA",SA,0,CURR,0,CT
+ATME,"05.1.2 Carpets and other floor coverings CP SA",SA,0,CURR,0,CT
+ATMF,"05.2 Household textiles CP SA",SA,0,CURR,0,CT
+ATMJ,"05.4 Glassware CP SA",SA,0,CURR,0,CT
+ATMR,"08.2 Communication Telephone and telefax equipment CP SA",SA,0,CURR,0,CT
+ATMV,"09.1.1 Audio visual equipment CP SA",SA,0,CURR,0,CT
+ATMZ,"09.1.2 Photographic and optical equipment CP SA",SA,0,CURR,0,CT
+ATND,"09.1.3 Information processing equipment CP SA",SA,0,CURR,0,CT
+ATNH,"09.1.4 Recording media CP SA",SA,0,CURR,0,CT
+ATNL,"09.3.1 Other recreational goods Games CP SA",SA,0,CURR,0,CT
+ATNP,"12.1.3 Personal care Other appliances CP SA",SA,0,CURR,0,CT
+ATNX,"12.3.2 Personal effects Other CP SA",SA,0,CURR,0,CT
+ATOB,"04.3.1 Materials for maintenance and repair of the dwelling CP SA",SA,0,CURR,0,CT
+ATQG,"04.3.1 Materials for maintenance and repair of the dwelling CVM NAYear NSA",NSA,2010,CONS,0,CT
+ATQV,"03.2.1 Footwear Shoes and other footwear CVM NAYear SA",SA,2010,CONS,0,CT
+ATQX,"05.1.1 Furniture and furnishings CVM NAYear SA",SA,2010,CONS,0,CT
+ATRD,"05.1.2 Carpets and other floor coverings CVM NAYear SA",SA,2010,CONS,0,CT
+ATRF,"05.2 Household textiles CVM NAYear SA",SA,2010,CONS,0,CT
+ATRJ,"05.4 Glassware CVM NAYear SA",SA,2010,CONS,0,CT
+ATRR,"08.2 Communication Telephone and telefax equipment CVM NAYear SA",SA,2010,CONS,0,CT
+ATRV,"09.1.1 Audio visual equipment CVM NAYear SA",SA,2010,CONS,0,CT
+ATRZ,"09.1.2 Photographic and optical equipment CVM NAYear SA",SA,2010,CONS,0,CT
+ATSD,"09.1.3 Information processing equipment CVM NAYear SA",SA,2010,CONS,0,CT
+ATSH,"09.1.4 Recording media CVM NAYear SA",SA,2010,CONS,0,CT
+ATSL,"09.3.1 Other recreational goods Games CVM NAYear SA",SA,2010,CONS,0,CT
+ATSP,"12.1.3 Personal care Other appliances CVM NAYear SA",SA,2010,CONS,0,CT
+ATSX,"12.3.2 Personal effects Other CVM NAYear SA",SA,2010,CONS,0,CT
+ATUA,"04.3.1 Materials for maintenance and repair of the dwelling CVM NAYear SA",SA,2010,CONS,0,CT
+AWLJ,"01.1.1 Food Bread and cereals IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLK,"01.1.2 Food Meat IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLL,"01.1.3 Food Fish IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLM,"01.1.4 Food Milk; cheese and eggs IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLN,"01.1.5 Food Oils and fats IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLO,"01.1.6 Food Fruit IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLP,"01.1.7 Food Vegetables IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLQ,"01.1.8 Food Sugar and sweet products IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLR,"01.1.9 Food Other food not elsewhere classified IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLS,"01.2.1 Non-alcoholic beverages Coffee; tea and cocoa IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLT,"01.2.2 Non-alcoholic beverages Mineral water and soft drinks IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLU,"02.1.1 Alcoholic beverages (off trade) Spirits IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLV,"02.1.2 Alcoholic beverages (off trade) Wine IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLW,"02.1.3 Alcoholic beverages (off trade) Beer IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLX,"03.1.1 Clothing Clothing materials IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLY,"03.1.2 Clothing Garments IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWLZ,"03.1.3 Clothing Other articles of clothing & clothing accessories IDEF NSA 2010",NSA,2010,IMPL,2010,CT
+AWMA,"03.1.4 Clothing Cleaning and hire of clothing IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMB,"03.2.1 Footwear Shoes and other footwear IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMC,"03.2.2 Footwear Repair and hire of footwear IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMD,"04.1.1 Actual rentals paid by tenants IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMF,"04.2.1 Imputed rentals of owner-occupiers IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMG,"04.2.2 Other imputed rentals IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMH,"04.3.1 Materials for maintenance and repair of the dwelling IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMI,"04.3.2 Services for maintenance and repair of the dwelling IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMJ,"04.4.1 Water supply IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMK,"04.4.2 Refuse collection IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWML,"04.4.3 Sewerage collection IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMN,"04.5.1 Electricity IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMO,"04.5.2 Gas IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMP,"04.5.3 Liquid fuels IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMQ,"04.5.4 Solid fuels IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMS,"05.1.1 Furniture and furnishings IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMT,"05.1.2 Carpets and other floor coverings IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMU,"05.1.3 Repair of furniture etc IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMV,"05.3.1 Major household appliances whether electric or not IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMW,"05.3.2 Small electric household appliances IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMX,"05.3.3 Repair of household appliances IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMY,"05.5.1 Major tools and equipment IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWMZ,"05.5.2 Small tools and miscellaneous accessories IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNA,"05.6.1 Non-durable household goods IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNB,"05.6.2 Domestic services and household services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNC,"06.1.1 Pharmaceutical products IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWND,"06.1.2 Other medical products IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNE,"06.1.3 Therapeutic appliances and equipment IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNF,"06.2.1 Medical services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNG,"06.2.2 Dental services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNH,"06.2.3 Paramedical services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNI,"07.1.1 Purchase of vehicles Motor cars IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNJ,"07.1.2 Purchase of vehicles Motor cycles IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNK,"07.1.3 Purchase of vehicles Bicycles IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNL,"07.2.1 Motor vehicle spares IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNM,"07.2.2 Vehicle fuels and lubricants IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNN,"07.2.3 Vehicle maintenance and repair IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNO,"07.2.4 Other vehicle services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNP,"07.3.1 Transport services Rail IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNQ,"07.3.2 Transport services Road IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNR,"07.3.3 Transport services Air IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNS,"07.3.4 Transport services Sea and inland waterways IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNT,"07.3.6 Transport services Other purchased transport IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNU,"09.1.1 Audio visual equipment IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNV,"09.1.2 Photographic and optical equipment IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNW,"09.1.3 Information processing equipment IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNX,"09.1.4 Recording media IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWNY,"09.1.5 Repair of audio-visual; photo and inform. processing equip. IDEF NSA 2010",NSA,2010,IMPL,2010,CT
+AWNZ,"09.2.1 Major durables for outdoor recreation IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOA,"09.2.2 Musical instruments & major durables for indoor recreation IDEF NSA 2010",NSA,2010,IMPL,2010,CT
+AWOB,"09.2.3 Maintenance of other major durables IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOC,"09.3.1 Other recreational goods Games IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOD,"09.3.2 Other recreational goods Equipment for sport IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOE,"09.3.3 Other recreational goods Gardens; plants and flowers IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOF,"09.3.4 Other recreational goods Pets and related products IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOG,"09.3.5 Other recreational goods Veterinary and other services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOH,"09.4.1 Recreational and sporting services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOI,"09.4.2 Cultural services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOJ,"09.4.3 Recreation and culture: Games of chance IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOK,"09.5.1 Newspapers; books and stationery Books IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOL,"09.5.2 Newspapers; books and stationery Newspapers and periodicals IDEF NSA 2010",NSA,2010,IMPL,2010,CT
+AWON,"09.5.4 Newspapers;books & stationery Stationery & drawing mats IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOO,"11.1.1 Restaurants; cafes etc IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOP,"11.1.2 Canteens IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOQ,"12.1.1 Hairdressing salons & personal grooming establishments IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOR,"12.1.2 Electric appliances for personal care IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOS,"12.1.3 Personal care Other appliances IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOT,"12.3.1 Personal effects Jewellery IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOU,"12.3.2 Personal effects Other IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOV,"12.5.1 Life insurance IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOW,"12.5.2 Dwelling insurance IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOX,"12.5.3 Health insurance IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWOY,"12.5.4 Transport insurance IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWPA,"12.6.2 Other financial services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+AWPB,"01.1.1 Food Bread and cereals IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPC,"01.1.2 Food Meat IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPD,"01.1.3 Food Fish IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPE,"01.1.4 Food Milk; cheese and eggs IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPF,"01.1.5 Food Oils and fats IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPG,"01.1.6 Food Fruit IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPH,"01.1.7 Food Vegetables IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPI,"01.1.8 Food Sugar and sweet products IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPJ,"01.1.9 Food Other food not elsewhere classified IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPK,"01.2.1 Non-alcoholic beverages Coffee; tea and cocoa IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPL,"01.2.2 Non-alcoholic beverages Mineral water and soft drinks IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPM,"02.1.1 Alcoholic beverages (off trade) Spirits IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPN,"02.1.2 Alcoholic beverages (off trade) Wine IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPO,"02.1.3 Alcoholic beverages (off trade) Beer IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPP,"03.1.1 Clothing Clothing materials IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPQ,"03.1.2 Clothing Garments IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPR,"03.1.3 Clothing Other articles of clothing and clothing accessories IDEF SA 2010",SA,2010,IMPL,2010,CT
+AWPS,"03.1.4 Clothing Cleaning and hire of clothing IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPT,"03.2.1 Footwear Shoes and other footwear IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPU,"03.2.2 Footwear Repair and hire of footwear IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPV,"04.1.1 Actual rentals paid by tenants IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPX,"04.2.1 Imputed rentals of owner-occupiers IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPY,"04.2.2 Other imputed rentals IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWPZ,"04.3.1 Materials for maintenance and repair of the dwelling IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQA,"04.3.2 Services for maintenance and repair of the dwelling IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQB,"04.4.1 Water supply IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQC,"04.4.2 Refuse collection IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQD,"04.4.3 Sewerage collection IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQF,"04.5.1 Electricity IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQG,"04.5.2 Gas IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQH,"04.5.3 Liquid fuels IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQI,"04.5.4 Solid fuels IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQK,"05.1.1 Furniture and furnishings IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQL,"05.1.2 Carpets and other floor coverings IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQM,"05.1.3 Repair of furniture etc IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQN,"05.3.1 Major household appliances whether electric or not IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQO,"05.3.2 Small electric household appliances IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQP,"05.3.3 Repair of household appliances IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQQ,"05.5.1 Major tools and equipment IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQR,"05.5.2 Small tools and miscellaneous accessories IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQS,"05.6.1 Non-durable household goods IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQT,"05.6.2 Domestic services and household services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQU,"06.1.1 Pharmaceutical products IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQV,"06.1.2 Other medical products IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQW,"06.1.3 Therapeutic appliances and equipment IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQX,"06.2.1 Medical services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQY,"06.2.2 Dental services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWQZ,"06.2.3 Paramedical services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRA,"07.1.1 Purchase of vehicles Motor cars IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRB,"07.1.2 Purchase of vehicles Motor cycles IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRC,"07.1.3 Purchase of vehicles Bicycles IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRD,"07.2.1 Motor vehicle spares IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRE,"07.2.2 Vehicle fuels and lubricants IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRF,"07.2.3 Vehicle maintenance and repair IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRG,"07.2.4 Other vehicle services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRH,"07.3.1 Transport services Rail IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRI,"07.3.2 Transport services Road IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRJ,"07.3.3 Transport services Air IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRK,"07.3.4 Transport services Sea and inland waterways IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRL,"07.3.6 Transport services Other purchased transport IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRM,"09.1.1 Audio visual equipment IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRN,"09.1.2 Photographic and optical equipment IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRO,"09.1.3 Information processing equipment IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRP,"09.1.4 Recording media IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRQ,"09.1.5 Repair of audio-visual;photo & inform. processing equip.IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRR,"09.2.1 Major durables for outdoor recreation IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRS,"09.2.2 Musical instruments and major durables for indoor recreation IDEF SA 2010",SA,2010,IMPL,2010,CT
+AWRT,"09.2.3 Maintenance of other major durables IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRU,"09.3.1 Other recreational goods Games IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRV,"09.3.2 Other recreational goods Equipment for sport IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRW,"09.3.3 Other recreational goods Gardens; plants and flowers IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRX,"09.3.4 Other recreational goods Pets and related products IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRY,"09.3.5 Other recreational goods Veterinary and other services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWRZ,"09.4.1 Recreational and sporting services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSA,"09.4.2 Cultural services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSB,"09.4.3 Recreation and culture: Games of chance IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSC,"09.5.1 Newspapers; books and stationery Books IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSD,"09.5.2 Newspapers;books & stationery Newspapers and periodicals IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSF,"09.5.4 Newspapers;books & stationery Stationery & drawing mats IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSG,"11.1.1 Restaurants; cafes etc IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSH,"11.1.2 Canteens IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSI,"12.1.1 Hairdressing salons and personal grooming establishments IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSJ,"12.1.2 Electric appliances for personal care IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSK,"12.1.3 Personal care Other appliances IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSL,"12.3.1 Personal effects Jewellery IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSM,"12.3.2 Personal effects Other IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSN,"12.5.1 Life insurance IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSO,"12.5.2 Dwelling insurance IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSP,"12.5.3 Health insurance IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSQ,"12.5.4 Transport insurance IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWSS,"12.6.2 Other financial services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+AWTV,"07.2.1 Motor vehicle spares CP NSA",NSA,0,CURR,0,CT
+AWTW,"09.3.3 Other recreational goods Gardens; plants and flowers CP NSA",NSA,0,CURR,0,CT
+AWTX,"03.2.2 Footwear Repair and hire of footwear CP NSA",NSA,0,CURR,0,CT
+AWTY,"04.3.2 Services for maintenance and repair of the dwelling CP NSA",NSA,0,CURR,0,CT
+AWTZ,"07.2.3 Vehicle maintenance and repair CP NSA",NSA,0,CURR,0,CT
+AWUA,"07.3.1 Transport services Rail CP NSA",NSA,0,CURR,0,CT
+AWUB,"07.3.3 Transport services Air CP NSA",NSA,0,CURR,0,CT
+AWUC,"07.3.4 Transport services Sea and inland waterways CP NSA",NSA,0,CURR,0,CT
+AWUD,"07.3.6 Transport services Other purchased transport CP NSA",NSA,0,CURR,0,CT
+AWUE,"07.2.1 Motor vehicle spares CP SA",SA,0,CURR,0,CT
+AWUF,"09.3.3 Other recreational goods Gardens; plants and flowers CP SA",SA,0,CURR,0,CT
+AWUG,"03.2.2 Footwear Repair and hire of footwear CP SA",SA,0,CURR,0,CT
+AWUH,"04.3.2 Services for maintenance and repair of the dwelling CP SA",SA,0,CURR,0,CT
+AWUI,"07.2.3 Vehicle maintenance and repair CP SA",SA,0,CURR,0,CT
+AWUJ,"07.3.1 Transport services Rail CP SA",SA,0,CURR,0,CT
+AWUK,"07.3.3 Transport services Air CP SA",SA,0,CURR,0,CT
+AWUL,"07.3.4 Transport services Sea and inland waterways CP SA",SA,0,CURR,0,CT
+AWUM,"07.3.6 Transport services Other purchased transport CP SA",SA,0,CURR,0,CT
+AWUN,"07.2.1 Motor vehicle spares CVM NAYear NSA",NSA,2010,CONS,0,CT
+AWUO,"09.3.3 Other recreational goods Gardens; plants and flowers CVM NAYear NSA",NSA,2010,CONS,0,CT
+AWUP,"03.2.2 Footwear Repair and hire of footwear CVM NAYear NSA",NSA,2010,CONS,0,CT
+AWUQ,"04.3.2 Services for maintenance and repair of the dwelling CVM NAYear NSA",NSA,2010,CONS,0,CT
+AWUR,"07.2.3 Vehicle maintenance and repair CVM NAYear NSA",NSA,2010,CONS,0,CT
+AWUS,"07.3.1 Transport services Rail CVM NAYear NSA",NSA,2010,CONS,0,CT
+AWUT,"07.3.3 Transport services Air CVM NAYear NSA",NSA,2010,CONS,0,CT
+UTIB,"Durable goods: Total CP SA £m",SA,0,CURR,0,CT
+AWUU,"07.3.4 Transport services Sea and inland waterways CVM NAYear NSA",NSA,2010,CONS,0,CT
+UTID,"Durable goods :Total CVM NAYear SA £m",SA,2010,CONS,0,CT
+AWUV,"07.3.6 Transport services Other purchased transport CVM NAYear NSA",NSA,2010,CONS,0,CT
+UTIF,"Total goods: Total CP SA £m",SA,0,CURR,0,CT
+AWUW,"07.2.1 Motor vehicle spares CVM NAYear SA",SA,2010,CONS,0,CT
+UTIH,"Total goods :Total CVM NAYear SA £m",SA,2010,CONS,0,CT
+AWUX,"09.3.3 Other recreational goods Gardens; plants and flowers CVM NAYear SA",SA,2010,CONS,0,CT
+UTIJ,"Non-durable goods: Total CP SA £m",SA,0,CURR,0,CT
+AWUY,"03.2.2 Footwear Repair and hire of footwear CVM NAYear SA",SA,2010,CONS,0,CT
+UTIL,"Non-durable goods :Total CVM NAYear SA £m",SA,2010,CONS,0,CT
+AWUZ,"04.3.2 Services for maintenance and repair of the dwelling CVM NAYear SA",SA,2010,CONS,0,CT
+UTIN,"Services: Total CP SA £m",SA,0,CURR,0,CT
+AWVA,"07.2.3 Vehicle maintenance and repair CVM NAYear SA",SA,2010,CONS,0,CT
+UTIP,"Services :Total CVM NAYear SA £m",SA,2010,CONS,0,CT
+AWVB,"07.3.1 Transport services Rail CVM NAYear SA",SA,2010,CONS,0,CT
+UTIR,"Semi-durable goods: Total CP SA £m",SA,0,CURR,0,CT
+AWVC,"07.3.3 Transport services Air CVM NAYear SA",SA,2010,CONS,0,CT
+UTIT,"Semi-durable goods :Total CVM NAYear SA £m",SA,2010,CONS,0,CT
+AWVD,"07.3.4 Transport services Sea and inland waterways CVM NAYear SA",SA,2010,CONS,0,CT
+AWVE,"07.3.6 Transport services Other purchased transport CVM NAYear SA",SA,2010,CONS,0,CT
+BMBT,"04.1.1 Actual rentals paid by tenants CP SA",SA,0,CURR,0,CT
+C68S,"HHFCE:Financial intermediation services independently measured (FISIM) £M CP NSA",NSA,0,CURR,0,CT
+C68W,"HHFCE: Financial intermediation services independently measured (FISIM) £M CP SA",SA,0,CURR,0,CT
+C692,"HHFCE:Financial intermediation services independently measured(FISIM) £M CVM NSA",NSA,2010,CONS,0,CT
+C696,"HHFCE: Financial intermediation services independently measured (FISIM) £M KP SA",SA,2010,CONS,0,CT
+C69I,"HHFCE: Financial intermediation services independently measured (FISIM) IDEF NSA",NSA,2010,IMPL,0,CT
+C69M,"HHFCE: Financial intermediation services independently measured (FISIM) IDEF SA",SA,2010,IMPL,0,CT
+CCFG,"01.1.2 Food Meat CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAKV,"0 Household final consumption expenditure: Domestic concept CP SA £m",SA,0,CURR,0,CT
+CCFH,"01.1.3 Food Fish CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAKW,"0 Household final consumption expenditure :Domestic concept CVM NAYear SA £m",SA,2010,CONS,0,CT
+CCFI,"01.1.4 Food Milk; cheese and eggs CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAKX,"02 Alcoholic beverages and tobacco CP SA £m",SA,0,CURR,0,CT
+CCFJ,"01.1.5 Food Oils and fats CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAKY,"02 Alcoholic beverages and tobacco CVM NAYear SA £m",SA,2010,CONS,0,CT
+CCFK,"01.1.6 Food Fruit CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAKZ,"03 Clothing and footwear CP SA £m",SA,0,CURR,0,CT
+CCFP,"01.2.1 Non-alcoholic beverages Coffee; tea and cocoa CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZALA,"03 Clothing and footwear CVM NAYear SA £m",SA,2010,CONS,0,CT
+CCFQ,"01.2.2 Non-alcoholic beverages Mineral water and soft drinks CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAVN,"04 Housing; water; electricity; gas and other fuels CP SA £m",SA,0,CURR,0,CT
+CCFZ,"04.2.1 Imputed rentals of owner-occupiers CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAVO,"04 Housing; water; electricity; gas and other fuels CVM NAYear SA £m",SA,2010,CONS,0,CT
+CCGF,"04.5.1 Electricity CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAVV,"05 Furnishings; household equipment and routine maintenance of the house CP SA £",SA,0,CURR,0,CT
+CCGS,"07.2.2 Vehicle fuels and lubricants CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAVW,"05 Furnishings; household equipment & routine maintnce of the house CVM NAYear £",SA,2010,CONS,0,CT
+CCGZ,"08.1 Communication Postal services CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAWB,"06 Health CP SA £m",SA,0,CURR,0,CT
+CCHG,"09.4.3 Recreation and culture :Games of chance CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAWC,"06 Health CVM NAYear SA £m",SA,2010,CONS,0,CT
+CCHI,"09.5.1 Newspapers; books and stationery Books CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAWL,"07 Transport CP SA £m",SA,0,CURR,0,CT
+CCHJ,"09.5.2 Newspapers; books & stationery Newspapers & periodicals CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAWM,"07 Transport CVM NAYear SA £m",SA,2010,CONS,0,CT
+CCHP,"12.1.1 Hairdressing salons and personal grooming establishments CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAWV,"08 Communication CP SA £m",SA,0,CURR,0,CT
+CCHX,"Household final consumption Exp.:Foreign tourist Exp. CVM NAYear NSA",NSA,2010,CONS,0,CT
+ZAWW,"08 Communication CVM NAYear SA £m",SA,2010,CONS,0,CT
+CCQZ,"09.4.3 Recreation and culture: Games of chance CP SA",SA,0,CURR,0,CT
+ZAWZ,"09 Recreation and culture CP SA £m",SA,0,CURR,0,CT
+CCRE,"12.1.1 Hairdressing salons and personal grooming establishments CP SA",SA,0,CURR,0,CT
+ZAXA,"09 Recreation and culture CVM NAYear SA £m",SA,2010,CONS,0,CT
+CCRL,"01.1.2 Food Meat CP SA",SA,0,CURR,0,CT
+ZAXR,"11 Restaurants and hotels CP SA £m",SA,0,CURR,0,CT
+CCRM,"01.1.3 Food Fish CP SA",SA,0,CURR,0,CT
+ZAXS,"11 Restaurants and hotels CVM NAYear SA £m",SA,2010,CONS,0,CT
+CCRN,"01.1.4 Food Milk; cheese and eggs CP SA",SA,0,CURR,0,CT
+ZAYF,"12 Miscellaneous goods and services CP SA £m",SA,0,CURR,0,CT
+CCRO,"01.1.5 Food Oils and fats CP SA",SA,0,CURR,0,CT
+ZAYG,"12 Miscellaneous goods and services CVM NAYear SA £m",SA,2010,CONS,0,CT
+CCRP,"01.1.6 Food Fruit CP SA",SA,0,CURR,0,CT
+ZWUM,"01 Food and non-alcoholic beverages CP SA £m",SA,0,CURR,0,CT
+CCRW,"01.2.2 Non-alcoholic beverages Mineral water and soft drinks CP SA",SA,0,CURR,0,CT
+ZWUN,"01 Food and non-alcoholic beverages CVM NAYear SA £m",SA,2010,CONS,0,CT
+CCSC,"07.2.2 Vehicle fuels and lubricants CP SA",SA,0,CURR,0,CT
+ZWUS,"10 Education CP SA £m",SA,0,CURR,0,CT
+CCSE,"04.5.1 Electricity CP SA",SA,0,CURR,0,CT
+ZWUT,"10 Education CVM NAYear SA £m",SA,2010,CONS,0,CT
+CCSS,"04.2.1 Imputed rentals of owner-occupiers CP SA",SA,0,CURR,0,CT
+CCTK,"01.1.2 Food Meat CVM NAYear SA",SA,2010,CONS,0,CT
+CCTL,"01.1.3 Food Fish CVM NAYear SA",SA,2010,CONS,0,CT
+CCTM,"01.1.4 Food Milk; cheese and eggs CVM NAYear SA",SA,2010,CONS,0,CT
+CCTN,"01.1.5 Food Oils and fats CVM NAYear SA",SA,2010,CONS,0,CT
+CCTO,"01.1.6 Food Fruit CVM NAYear SA",SA,2010,CONS,0,CT
+CCTT,"01.2.1 Non-alcoholic beverages Coffee; tea and cocoa CVM NAYear SA",SA,2010,CONS,0,CT
+CCTU,"01.2.2 Non-alcoholic beverages Mineral water and soft drinks CVM NAYear SA",SA,2010,CONS,0,CT
+CCTY,"07.2.2 Vehicle fuels and lubricants CVM NAYear SA",SA,2010,CONS,0,CT
+CCUA,"04.5.1 Electricity CVM NAYear SA",SA,2010,CONS,0,CT
+CCUO,"04.2.1 Imputed rentals of owner-occupiers CVM NAYear SA",SA,2010,CONS,0,CT
+CCVA,"09.4.3 Recreation and culture :Games of chance CVM NAYear SA",SA,2010,CONS,0,CT
+CCVM,"08.1 Communication Postal services CVM NAYear SA",SA,2010,CONS,0,CT
+CCVO,"Household final consumption Exp.:Foreign tourist Exp. CVM NAYear SA",SA,2010,CONS,0,CT
+CCVS,"08.1 Communication Postal services CP SA",SA,0,CURR,0,CT
+CCVV,"Household final consumption expenditure: Foreign tourist expenditure CP SA",SA,0,CURR,0,CT
+CCVZ,"12.1.1 Hairdressing salons and personal grooming establishments CVM NAYear SA",SA,2010,CONS,0,CT
+CCWH,"01.2.1 Non-alcoholic beverages Coffee; tea and cocoa CP SA",SA,0,CURR,0,CT
+CDCJ,"01.1.2 Food Meat CP NSA",NSA,0,CURR,0,CT
+CDCK,"01.1.3 Food Fish CP NSA",NSA,0,CURR,0,CT
+CDCL,"01.1.4 Food Milk; cheese and eggs CP NSA",NSA,0,CURR,0,CT
+CDCM,"01.1.5 Food Oils and fats CP NSA",NSA,0,CURR,0,CT
+CDCN,"01.1.6 Food Fruit CP NSA",NSA,0,CURR,0,CT
+CDCU,"01.2.1 Non-alcoholic beverages Coffee; tea and cocoa CP NSA",NSA,0,CURR,0,CT
+CDCV,"01.2.2 Non-alcoholic beverages Mineral water and soft drinks CP NSA",NSA,0,CURR,0,CT
+CDDF,"04.2.1 Imputed rentals of owner-occupiers net of intermediate consumption CP NSA",NSA,0,CURR,0,CT
+CDDL,"04.5.1 Electricity CP NSA",NSA,0,CURR,0,CT
+CDDY,"07.2.2 Vehicle fuels and lubricants CP NSA",NSA,0,CURR,0,CT
+CDEF,"08.1 Communication Postal services CP NSA",NSA,0,CURR,0,CT
+CDEM,"09.4.3 Recreation and culture: Games of chance CP NSA",NSA,0,CURR,0,CT
+CDEO,"09.5.1 Newspapers; books and stationery Books CP NSA",NSA,0,CURR,0,CT
+CDEP,"09.5.2 Newspapers; books and stationery Newspapers and periodicals CP NSA",NSA,0,CURR,0,CT
+CDEV,"12.1.1 Hairdressing salons and personal grooming establishments CP NSA",NSA,0,CURR,0,CT
+CDFD,"Household final consumption expenditure: Foreign tourist expenditure CP NSA",NSA,0,CURR,0,CT
+CDZP,"09.5.1 Newspapers; books and stationery Books CP SA",SA,0,CURR,0,CT
+CDZQ,"09.5.1 Newspapers; books and stationery Books CVM NAYear SA",SA,2010,CONS,0,CT
+CDZX,"09.5.2 Newspapers; books and stationery Newspapers and periodicals CP SA",SA,0,CURR,0,CT
+CDZY,"09.5.2 Newspapers; books and stationery Newspapers and periodicals CVM NAYear SA",SA,2010,CONS,0,CT
+CJ72,"HHFCE 09.5.3: Miscellaneous printed matter: Implied deflator NSA 2010=100",NSA,2010,IMPL,0,CT
+CJ73,"HHFCE 09.5.3: Miscellaneous printed matter: Implied deflator SA 2010=100",SA,2010,IMPL,0,CT
+GBFG,"04.1.1 Actual rentals paid by tenants CVM NAYear SA",SA,2010,CONS,0,CT
+GBFJ,"04.2 Imputed rentals for housing CP SA",SA,0,CURR,0,CT
+GBFK,"04.2 Imputed rentals for housing CVM NAYear SA",SA,2010,CONS,0,CT
+GBFM,"04.2.2 Other imputed rentals CP SA",SA,0,CURR,0,CT
+GBFN,"04.2.2 Other imputed rentals CVM NAYear SA",SA,2010,CONS,0,CT
+GDPB,"Household final consumption expenditure:Foreign tourist expend IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+GDPD,"Household final consumption expenditure: Foreign tourist expend IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+GDPE,"Household final consumption expend:UK tourist expend abroad IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+GDPF,"Household final consumption expend:UK tourist expend abroad IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+JJDA,"02.1 Alcoholic beverages (off trade) CP SA",SA,0,CURR,0,CT
+JRBA,"02.1 Alcoholic beverages (off trade) CVM NAYear SA",SA,2010,CONS,0,CT
+LLIJ,"Durable goods: 05 Furnishings; household equipment etc CP NSA",NSA,0,CURR,0,CT
+LLIK,"Durable goods: 06 Health CP NSA",NSA,0,CURR,0,CT
+LLIL,"Durable goods: 07 Transport CP NSA",NSA,0,CURR,0,CT
+LLIM,"Durable goods: 08 Communication CP NSA",NSA,0,CURR,0,CT
+LLIN,"Durable goods: 09 Recreation and culture CP NSA",NSA,0,CURR,0,CT
+LLIO,"Durable goods: 12 Miscellaneous goods and services CP NSA",NSA,0,CURR,0,CT
+LLIP,"Total goods: 03 Clothing and footwear CP NSA",NSA,0,CURR,0,CT
+LLIQ,"Total goods: 04 Housing; water; electricity; gas and other fuels CP NSA",NSA,0,CURR,0,CT
+LLIR,"Total goods: 05 Furnishings; household equipment etc CP NSA",NSA,0,CURR,0,CT
+LLIS,"Total goods: 06 Health CP NSA",NSA,0,CURR,0,CT
+LLIT,"Total goods: 07 Transport CP NSA",NSA,0,CURR,0,CT
+LLIU,"Total goods: 08 Communication CP NSA",NSA,0,CURR,0,CT
+LLIV,"Total goods: 09 Recreation and culture CP NSA",NSA,0,CURR,0,CT
+LLIW,"Total goods: 12 Miscellaneous goods and services CP NSA",NSA,0,CURR,0,CT
+LLIX,"Non-durable goods: 04 Housing; water; electricity; gas and other fuels CP NSA",NSA,0,CURR,0,CT
+LLIY,"Non-durable goods: 05 Furnishings; household equipment etc CP NSA",NSA,0,CURR,0,CT
+LLIZ,"Non-durable goods: 06 Health CP NSA",NSA,0,CURR,0,CT
+LLJA,"Non-durable goods: 07 Transport CP NSA",NSA,0,CURR,0,CT
+LLJB,"Non-durable goods: 09 Recreation and culture CP NSA",NSA,0,CURR,0,CT
+LLJC,"Non-durable goods: 12 Miscellaneous goods and services CP NSA",NSA,0,CURR,0,CT
+LLJD,"Services: 03 Clothing and footwear CP NSA",NSA,0,CURR,0,CT
+LLJE,"Services: 04 Housing; water; electricity; gas and other fuels CP NSA",NSA,0,CURR,0,CT
+LLJF,"Services: 05 Furnishings; household equipment etc CP NSA",NSA,0,CURR,0,CT
+LLJG,"Services: 06 Health CP NSA",NSA,0,CURR,0,CT
+LLJH,"Services: 07 Transport CP NSA",NSA,0,CURR,0,CT
+LLJI,"Services: 08 Communication CP NSA",NSA,0,CURR,0,CT
+LLJJ,"Services: 09 Recreation and culture CP NSA",NSA,0,CURR,0,CT
+LLJK,"Services: 12 Miscellaneous goods and services CP NSA",NSA,0,CURR,0,CT
+LLJL,"Semi-durable goods: 03 Clothing and footwear CP NSA",NSA,0,CURR,0,CT
+LLJM,"Semi-durable: 05 Furnishings; household equipment etc CP NSA",NSA,0,CURR,0,CT
+LLJN,"Semi-durable: 07 Transport CP NSA",NSA,0,CURR,0,CT
+LLJO,"Semi-durable: 09 Recreation and culture CP NSA",NSA,0,CURR,0,CT
+LLJP,"Semi-durable: 12 Miscellaneous goods and services CP NSA",NSA,0,CURR,0,CT
+LLJQ,"Durable goods: 05 Furnishings; household equipment etc CP SA",SA,0,CURR,0,CT
+LLJR,"Durable goods: 06 Health CP SA",SA,0,CURR,0,CT
+LLJS,"Durable goods: 07 Transport CP SA",SA,0,CURR,0,CT
+LLJT,"Durable goods: 08 Communication CP SA",SA,0,CURR,0,CT
+LLJU,"Durable goods: 09 Recreation and culture CP SA",SA,0,CURR,0,CT
+LLJV,"Durable goods: 12 Miscellaneous goods and services CP SA",SA,0,CURR,0,CT
+LLJW,"Total goods: 03 Clothing and footwear CP SA",SA,0,CURR,0,CT
+LLJX,"Total goods: 04 Housing; water; electricity; gas and other fuels CP SA",SA,0,CURR,0,CT
+LLJY,"Total goods: 05 Furnishings; household equipment etc CP SA",SA,0,CURR,0,CT
+LLJZ,"Total goods: 06 Health CP SA",SA,0,CURR,0,CT
+LLKA,"Total goods: 07 Transport CP SA",SA,0,CURR,0,CT
+LLKB,"Total goods: 08 Communication CP SA",SA,0,CURR,0,CT
+LLKC,"Total goods: 09 Recreation and culture CP SA",SA,0,CURR,0,CT
+LLKD,"Total goods: 12 Miscellaneous goods and services CP SA",SA,0,CURR,0,CT
+LLKE,"Non-durable goods: 04 Housing; water; electricity; gas and other fuels CP SA",SA,0,CURR,0,CT
+LLKF,"Non-durable goods: 05 Furnishings; household equipment etc CP SA",SA,0,CURR,0,CT
+LLKG,"Non-durable goods: 06 Health CP SA",SA,0,CURR,0,CT
+LLKH,"Non-durable goods: 07 Transport CP SA",SA,0,CURR,0,CT
+LLKI,"Non-durable goods: 09 Recreation and culture CP SA",SA,0,CURR,0,CT
+LLKJ,"Non-durable goods: 12 Miscellaneous goods and services CP SA",SA,0,CURR,0,CT
+LLKK,"Services: 03 Clothing and footwear CP SA",SA,0,CURR,0,CT
+LLKL,"Services: 04 Housing; water; electricity; gas and other fuels CP SA",SA,0,CURR,0,CT
+LLKM,"Services: 05 Furnishings; household equipment etc CP SA",SA,0,CURR,0,CT
+LLKN,"Services: 06 Health CP SA",SA,0,CURR,0,CT
+LLKO,"Services: 07 Transport CP SA",SA,0,CURR,0,CT
+LLKP,"Services: 08 Communication CP SA",SA,0,CURR,0,CT
+LLKQ,"Services: 09 Recreation and culture CP SA",SA,0,CURR,0,CT
+LLKR,"Services: 12 Miscellaneous goods and services CP SA",SA,0,CURR,0,CT
+LLKS,"Semi-durable goods: 03 Clothing and footwear CP SA",SA,0,CURR,0,CT
+LLKT,"Semi-durable: 05 Furnishings; household equipment etc CP SA",SA,0,CURR,0,CT
+LLKU,"Semi-durable: 07 Transport CP SA",SA,0,CURR,0,CT
+LLKV,"Semi-durable: 09 Recreation and culture CP SA",SA,0,CURR,0,CT
+LLKW,"Semi-durable: 12 Miscellaneous goods and services CP SA",SA,0,CURR,0,CT
+LLKX,"Durable goods :05 Furnishings; household equipment etc CVM NAYear SA",SA,2010,CONS,0,CT
+LLKY,"Durable goods :06 Health CVM NAYear SA",SA,2010,CONS,0,CT
+LLKZ,"Durable goods :07 Transport CVM NAYear SA",SA,2010,CONS,0,CT
+LLLA,"Durable goods :08 Communication CVM NAYear SA",SA,2010,CONS,0,CT
+LLLB,"Durable goods :09 Recreation and culture CVM NAYear SA",SA,2010,CONS,0,CT
+LLLC,"Durable goods :12 Miscellaneous goods and services CVM NAYear SA",SA,2010,CONS,0,CT
+LLLD,"Total goods :03 Clothing and footwear CVM NAYear SA",SA,2010,CONS,0,CT
+LLLE,"Total goods :04 Housing; water; electricity; gas and other fuels CVM NAYear SA",SA,2010,CONS,0,CT
+LLLF,"Total goods :05 Furnishings; household equipment etc CVM NAYear SA",SA,2010,CONS,0,CT
+LLLG,"Total goods :06 Health CVM NAYear SA",SA,2010,CONS,0,CT
+LLLH,"Total goods :07 Transport CVM NAYear SA",SA,2010,CONS,0,CT
+LLLI,"Total goods :08 Communication CVM NAYear SA",SA,2010,CONS,0,CT
+LLLJ,"Total goods :09 Recreation and culture CVM NAYear SA",SA,2010,CONS,0,CT
+LLLK,"Total goods :12 Miscellaneous goods and services CVM NAYear SA",SA,2010,CONS,0,CT
+LLLL,"Non-durable goods:04 Housing; water; electricity;gas & other fuels CVM NAYear SA",SA,2010,CONS,0,CT
+LLLM,"Non-durable goods :05 Furnishings; household equipment etc CVM NAYear SA",SA,2010,CONS,0,CT
+LLLN,"Non-durable goods :06 Health CVM NAYear SA",SA,2010,CONS,0,CT
+LLLO,"Non-durable goods :07 Transport CVM NAYear SA",SA,2010,CONS,0,CT
+LLLP,"Non-durable goods :09 Recreation and culture CVM NAYear SA",SA,2010,CONS,0,CT
+LLLQ,"Non-durable goods :12 Miscellaneous goods and services CVM NAYear SA",SA,2010,CONS,0,CT
+LLLR,"Services :03 Clothing and footwear CVM NAYear SA",SA,2010,CONS,0,CT
+LLLS,"Services :04 Housing; water; electricity; gas and other fuels CVM NAYear SA",SA,2010,CONS,0,CT
+LLLT,"Services :05 Furnishings; household equipment etc CVM NAYear SA",SA,2010,CONS,0,CT
+LLLU,"Services :06 Health CVM NAYear SA",SA,2010,CONS,0,CT
+LLLV,"Services :07 Transport CVM NAYear SA",SA,2010,CONS,0,CT
+LLLW,"Services :08 Communication CVM NAYear SA",SA,2010,CONS,0,CT
+LLLX,"Services :09 Recreation and culture CVM NAYear SA",SA,2010,CONS,0,CT
+LLLY,"Services :12 Miscellaneous goods and services CVM NAYear SA",SA,2010,CONS,0,CT
+LLLZ,"Semi-durable goods :03 Clothing and footwear CVM NAYear SA",SA,2010,CONS,0,CT
+LLMA,"Semi-durable :05 Furnishings; household equipment etc CVM NAYear SA",SA,2010,CONS,0,CT
+LLMB,"Semi-durable :07 Transport CVM NAYear SA",SA,2010,CONS,0,CT
+LLMC,"Semi-durable :09 Recreation and culture CVM NAYear SA",SA,2010,CONS,0,CT
+LLMD,"Semi-durable :12 Miscellaneous goods and services CVM NAYear SA",SA,2010,CONS,0,CT
+LLME,"Durable goods :05 Furnishings; household equipment etc CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMF,"Durable goods :06 Health CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMG,"Durable goods :07 Transport CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMH,"Durable goods :08 Communication CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMI,"Durable goods :09 Recreation and culture CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMJ,"Durable goods :12 Miscellaneous goods and services CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMK,"Total goods :03 Clothing and footwear CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLML,"Total goods :04 Housing; water; electricity; gas and other fuels CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMM,"Total goods :05 Furnishings; household equipment etc CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMN,"Total goods :06 Health CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMO,"Total goods :07 Transport CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMP,"Total goods :08 Communication CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMQ,"Total goods :09 Recreation and culture CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMR,"Total goods :12 Miscellaneous goods and services CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMS,"Non-durable goods:04 Housing,water,electricity; gas & other fuels CVM NAYear NS",NSA,2010,CONS,0,CT
+LLMT,"Non-durable goods :05 Furnishings; household equipment etc CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMU,"Non-durable goods :06 Health CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMV,"Non-durable goods :07 Transport CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMW,"Non-durable goods :09 Recreation and culture CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMX,"Non-durable goods :12 Miscellaneous goods and services CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMY,"Services :03 Clothing and footwear CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLMZ,"Services :04 Housing; water; electricity; gas and other fuels CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLNA,"Services :05 Furnishings; household equipment etc CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLNB,"Services :06 Health CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLNC,"Services :07 Transport CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLND,"Services :08 Communication CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLNE,"Services :09 Recreation and culture CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLNF,"Services :12 Miscellaneous goods and services CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLNG,"Semi-durable goods :03 Clothing and footwear CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLNH,"Semi-durable :05 Furnishings; household equipment etc CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLNI,"Semi-durable :07 Transport CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLNJ,"Semi-durable :09 Recreation and culture CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLNK,"Semi-durable :12 Miscellaneous goods and services CVM NAYear NSA",NSA,2010,CONS,0,CT
+LLNL,"Durable goods: 05 Furnishings; household equipment etc IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLNM,"Durable goods: 06 Health IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLNN,"Durable goods: 07 Transport IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLNO,"Durable goods: 08 Communication IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLNP,"Durable goods: 09 Recreation and culture IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLNQ,"Durable goods: 12 Miscellaneous goods and services IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLNR,"Total goods: 03 Clothing and footwear IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLNS,"Total goods:04 Housing;water;electricity; gas and other fuels IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLNT,"Total goods: 05 Furnishings; household equipment etc IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLNU,"Total goods: 06 Health IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLNV,"Total goods: 07 Transport IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLNW,"Total goods: 08 Communication IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLNX,"Total goods: 09 Recreation and culture IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLNY,"Total goods: 12 Miscellaneous goods and services IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLNZ,"Non-durable goods:04 Housing;water;electric;gas & other fuels IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOA,"Non-durable goods: 05 Furnishings; household equipment etc IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOB,"Non-durable goods: 06 Health IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOC,"Non-durable goods: 07 Transport IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOD,"Non-durable goods: 09 Recreation and culture IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOE,"Non-durable goods: 12 Miscellaneous goods and services IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOF,"Services: 03 Clothing and footwear IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOG,"Services: 04 Housing; water; electricity; gas and other fuels IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOH,"Services: 05 Furnishings; household equipment etc IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOI,"Services: 06 Health IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOJ,"Services: 07 Transport IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOK,"Services: 08 Communication IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOL,"Services: 09 Recreation and culture IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOM,"Services: 12 Miscellaneous goods and services IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLON,"Semi-durable goods: 03 Clothing and footwear IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOO,"Semi-durable: 05 Furnishings; household equipment etc IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOP,"Semi-durable: 07 Transport IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOQ,"Semi-durable: 09 Recreation and culture IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOR,"Semi-durable: 12 Miscellaneous goods and services IDEF NSA 2010=100",NSA,2010,IMPL,0,CT
+LLOS,"Durable goods: 05 Furnishings; household equipment etc IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLOT,"Durable goods: 06 Health IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLOU,"Durable goods: 07 Transport IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLOV,"Durable goods: 08 Communication IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLOW,"Durable goods: 09 Recreation and culture IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLOX,"Durable goods: 12 Miscellaneous goods and services IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLOY,"Total goods: 03 Clothing and footwear IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLOZ,"Total goods: 04 Housing;water; electricity; gas and other fuels IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPA,"Total goods: 05 Furnishings; household equipment etc IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPB,"Total goods: 06 Health IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPC,"Total goods: 07 Transport IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPD,"Total goods: 08 Communication IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPE,"Total goods: 09 Recreation and culture IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPF,"Total goods: 12 Miscellaneous goods and services IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPG,"Non-durable goods:04 Housing;water;electric;gas & other fuels IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPH,"Non-durable goods: 05 Furnishings; household equipment etc IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPI,"Non-durable goods: 06 Health IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPJ,"Non-durable goods: 07 Transport IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPK,"Non-durable goods: 09 Recreation and culture IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPL,"Non-durable goods: 12 Miscellaneous goods and services IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPM,"Services: 03 Clothing and footwear IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPN,"Services: 04 Housing; water; electricity; gas and other fuels IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPO,"Services: 05 Furnishings; household equipment etc IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPP,"Services: 06 Health IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPQ,"Services: 07 Transport IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPR,"Services: 08 Communication IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPS,"Services: 09 Recreation and culture IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPT,"Services: 12 Miscellaneous goods and services IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPU,"Semi-durable goods: 03 Clothing and footwear IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPV,"Semi-durable: 05 Furnishings; household equipment etc IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPW,"Semi-durable: 07 Transport IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPX,"Semi-durable: 09 Recreation and culture IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LLPY,"Semi-durable: 12 Miscellaneous goods and services IDEF SA 2010=100",SA,2010,IMPL,0,CT
+LTYZ,"04.5.2 Gas CP SA",SA,0,CURR,0,CT
+LTZA,"04.5.2 Gas CVM NAYear SA",SA,2010,CONS,0,CT
+LTZB,"04.5.3 Liquid fuels CP SA",SA,0,CURR,0,CT
+LTZC,"04.5.3 Liquid fuels CVM NAYear SA",SA,2010,CONS,0,CT
+TMMH,"07.1 Purchase of vehicles CP SA",SA,0,CURR,0,CT
+TMMI,"07.1 Purchase of vehicles CVM NAYear SA",SA,2010,CONS,0,CT
+TMMJ,"07.1.1 Purchase of vehicles Motor cars CP SA",SA,0,CURR,0,CT
+TMML,"07.1.1 Purchase of vehicles Motor cars CVM NAYear SA",SA,2010,CONS,0,CT
+TMMY,"07.1.2 Purchase of vehicles Motor cycles CP SA",SA,0,CURR,0,CT
+TMMZ,"07.1.2 Purchase of vehicles Motor cycles CVM NAYear SA",SA,2010,CONS,0,CT
+TMNA,"09.2.1 Major durables for outdoor recreation CP SA",SA,0,CURR,0,CT
+TMNB,"09.2.1 Major durables for outdoor recreation CVM NAYear SA",SA,2010,CONS,0,CT
+TMNN,"07.1.3 Purchase of vehicles Bicycles CP SA",SA,0,CURR,0,CT
+TMNO,"07.1.3 Purchase of vehicles Bicycles CVM NAYear SA",SA,2010,CONS,0,CT
+TTAA,"04.5.4 Solid fuels CP SA",SA,0,CURR,0,CT
+TTAB,"04.5.4 Solid fuels CVM NAYear SA",SA,2010,CONS,0,CT
+UTHT,"02.1.2 Alcoholic beverages (off trade) Wine CP NSA",NSA,0,CURR,0,CT
+UTHU,"02.1.2 Alcoholic beverages (off trade) Wine CP SA",SA,0,CURR,0,CT
+UTHV,"02.1.2 Alcoholic beverages (off trade) Wine CVM NAYear NSA",NSA,2010,CONS,0,CT
+UTHW,"02.1.2 Alcoholic beverages (off trade) Wine CVM NAYear SA",SA,2010,CONS,0,CT
+UTJA,"0 Household final consumption expenditure: Domestic concept IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTJB,"01 Food and non-alcoholic beverages IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTJC,"02 Alcoholic beverages and tobacco IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTJD,"03 Clothing and footwear IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTJE,"04 Housing; water; electricity; gas and other fuels IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTJF,"05 Furnishings;household equipmt & routine maint. of the house IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTJG,"06 Health IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTJH,"07 Transport IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTJI,"08 Communication IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTJJ,"09 Recreation and culture IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTJK,"10 Education IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTJL,"11 Restaurants and hotels IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTJM,"12 Miscellaneous goods and services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTJN,"0 Household final consumption expenditure: Domestic concept IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTJO,"01 Food and non-alcoholic beverages IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTJP,"02 Alcoholic beverages and tobacco IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTJQ,"03 Clothing and footwear IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTJR,"04 Housing; water; electricity; gas and other fuels IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTJS,"05 Furnishings;household equipmt & routine maint. of the house IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTJT,"06 Health IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTJU,"07 Transport IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTJV,"08 Communication IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTJW,"09 Recreation and culture IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTJX,"10 Education IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTJY,"11 Restaurants and hotels IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTJZ,"12 Miscellaneous goods and services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTKS,"Durable goods: Total IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTKT,"Durable goods: Total IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTKU,"Total goods: Total IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTKV,"Total goods: Total IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTKW,"Non-durable goods: Total IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTKX,"Non-durable goods: Total IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTKY,"Services: Total IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTKZ,"Services: Total IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTLA,"Semi-durable goods: Total IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTLB,"Semi-durable goods: Total IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTME,"06.2.3 Paramedical services CP NSA",NSA,0,CURR,0,CT
+UTMF,"06.2.3 Paramedical services CP SA",SA,0,CURR,0,CT
+UTMG,"06.2.3 Paramedical services CVM NAYear NSA",NSA,2010,CONS,0,CT
+UTMH,"06.2.3 Paramedical services CVM NAYear SA",SA,2010,CONS,0,CT
+UTNC,"01.1 Food IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTND,"01.2 Non-alcoholic bverages IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNE,"02.1 Alcoholic beverages (off trade) IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNF,"02.2 Tobacco IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNG,"03.1 Clothing IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNH,"03.2 Footwear IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNI,"04.1 Actual rentals for housing IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNJ,"04.2 Imputed rentals for housing IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNK,"04.3 Maintenance and repair of the dwelling IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNL,"04.4 Water supply and miscellaneous services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNM,"04.5 Electricity; gas and other fuels IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNN,"05.1 Furniture & furnishings; carpets & other floor coverings IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNO,"05.2 Household textiles IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNP,"05.3 Household appliances IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNQ,"05.4 Glassware IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNR,"05.5 Tools and equipment for house and garden IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNS,"05.6 Goods and services for routine household maintenance IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNT,"06.1 Medical products IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNU,"06.2 Out-patient services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNV,"06.3 Hospital services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNW,"07.1 Purchase of vehicles IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNX,"07.2 Operation of personal transport equipment IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNY,"07.3 Transport services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTNZ,"08.1 Communication Postal services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOA,"08.2 Communication Telephone and telefax equipment IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOB,"08.3 Communication Telephone and telefax services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOC,"09.1 Audio-visual; photo and information processing IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOD,"09.2 Other major durables for recreation and culture IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOE,"09.3 Other recreational goods IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOF,"09.4 Recreational and cultural services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOG,"09.5 Newspapers; books and stationery IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTON,"11.1 Catering services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOO,"11.2 Accommodation services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOP,"12.1 Personal care IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOQ,"12.3 Personal effects IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOR,"12.4 Social protection IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOS,"12.5 Insurance IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOT,"12.6 Financial services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOU,"12.7 Other services IDEF NSA 2010=100",NSA,2010,IMPL,2010,CT
+UTOV,"01.1 Food IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTOW,"01.2 Non-alcoholic bverages IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTOX,"02.1 Alcoholic beverages (off trade) IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTOY,"02.2 Tobacco IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTOZ,"03.1 Clothing IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPA,"03.2 Footwear IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPB,"04.1 Actual rentals for housing IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPC,"04.2 Imputed rentals for housing IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPD,"04.3 Maintenance and repair of the dwelling IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPE,"04.4 Water supply and miscellaneous services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPF,"04.5 Electricity; gas and other fuels IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPG,"05.1 Furniture & furnishings;carpets & other floor coverings IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPH,"05.2 Household textiles IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPI,"05.3 Household appliances IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPJ,"05.4 Glassware IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPK,"05.5 Tools and equipment for house and garden IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPL,"05.6 Goods and services for routine household maintenance IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPM,"06.1 Medical products IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPN,"06.2 Out-patient services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPO,"06.3 Hospital services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPP,"07.1 Purchase of vehicles IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPQ,"07.2 Operation of personal transport equipment IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPR,"07.3 Transport services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPS,"08.1 Communication Postal services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPT,"08.2 Communication Telephone and telefax equipment IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPU,"08.3 Communication Telephone and telefax services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPV,"09.1 Audio-visual; photo and information processing IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPW,"09.2 Other major durables for recreation and culture IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPX,"09.3 Other recreational goods IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPY,"09.4 Recreational and cultural services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTPZ,"09.5 Newspapers; books and stationery IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTQG,"11.1 Catering services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTQH,"11.2 Accommodation services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTQI,"12.1 Personal care IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTQJ,"12.3 Personal effects IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTQK,"12.4 Social protection IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTQL,"12.5 Insurance IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTQM,"12.6 Financial services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTQN,"12.7 Other services IDEF SA 2010=100",SA,2010,IMPL,2010,CT
+UTXM,"06.1.1 Pharmaceutical products CP NSA",NSA,0,CURR,0,CT
+UTXN,"06.1.1 Pharmaceutical products CP SA",SA,0,CURR,0,CT
+UTXO,"06.1.1 Pharmaceutical products CVM NAYear NSA",NSA,2010,CONS,0,CT
+UTXP,"06.1.1 Pharmaceutical products CVM NAYear SA",SA,2010,CONS,0,CT
+UTYD,"06.3 Hospital services CP SA",SA,0,CURR,0,CT
+UTYF,"06.3 Hospital services CVM NAYear SA",SA,2010,CONS,0,CT
+UTYG,"12.5.1 Life insurance CP SA",SA,0,CURR,0,CT
+UTYH,"12.5.1 Life insurance CVM NAYear SA",SA,2010,CONS,0,CT
+UTZI,"04.4.1 Water supply CP SA",SA,0,CURR,0,CT
+UTZN,"04.4.1 Water supply CVM NAYear SA",SA,2010,CONS,0,CT
+UTZS,"04.4.3 Sewerage collection CP SA",SA,0,CURR,0,CT
+UTZX,"04.4.3 Sewerage collection CVM NAYear SA",SA,2010,CONS,0,CT
+UUHX,"02.1.1 Alcoholic beverages (off trade) Spirits CP NSA",NSA,0,CURR,0,CT
+UUIE,"02.1.1 Alcoholic beverages (off trade) Spirits CP SA",SA,0,CURR,0,CT
+UUIL,"02.1.1 Alcoholic beverages (off trade) Spirits CVM NAYear NSA",NSA,2010,CONS,0,CT
+UUIS,"02.1.1 Alcoholic beverages (off trade) Spirits CVM NAYear SA",SA,2010,CONS,0,CT
+UUMI,"02.1.3 Alcoholic beverages (off trade) Beer CP NSA",NSA,0,CURR,0,CT
+UUOX,"04.4.2 Refuse collection CP NSA",NSA,0,CURR,0,CT
+UUOY,"04.4.4 Other services relating to the dwelling CP NSA",NSA,0,CURR,0,CT
+UUPI,"02.1.3 Alcoholic beverages (off trade) Beer CP SA",SA,0,CURR,0,CT
+UUPU,"06.1.2 Other medical products CP NSA",NSA,0,CURR,0,CT
+UUPV,"06.1.3 Therapeutic appliances and equipment CP NSA",NSA,0,CURR,0,CT
+UUSC,"02.1.3 Alcoholic beverages (off trade) Beer CVM NAYear NSA",NSA,2010,CONS,0,CT
+UUVG,"02.1.3 Alcoholic beverages (off trade) Beer CVM NAYear SA",SA,2010,CONS,0,CT
+UVAE,"01.1 Food CP SA",SA,0,CURR,0,CT
+UVAF,"01.1.1 Food Bread and cereals CP SA",SA,0,CURR,0,CT
+UVDX,"01.1.7 Food Vegetables CP SA",SA,0,CURR,0,CT
+UVER,"01.1.8 Food Sugar and sweet products CP SA",SA,0,CURR,0,CT
+UVFB,"01.1.9 Food Other food not elsewhere classified CP SA",SA,0,CURR,0,CT
+UVFC,"01.2 Non-alcoholic bverages CP SA",SA,0,CURR,0,CT
+UVGC,"03.1.4 Clothing Cleaning and hire of clothing CP SA",SA,0,CURR,0,CT
+UVGD,"04.1.2 Other actual rentals CP SA",SA,0,CURR,0,CT
+UVGE,"04.4.2 Refuse collection CP SA",SA,0,CURR,0,CT
+UVGF,"04.4.4 Other services relating to the dwelling CP SA",SA,0,CURR,0,CT
+UVGG,"05.1.3 Repair of furniture etc CP SA",SA,0,CURR,0,CT
+UVGH,"05.3.3 Repair of household appliances CP SA",SA,0,CURR,0,CT
+UVGI,"05.6.1 Non-durable household goods CP SA",SA,0,CURR,0,CT
+UVGU,"05.6.2 Domestic services and household services CP SA",SA,0,CURR,0,CT
+UVGV,"06.1.2 Other medical products CP SA",SA,0,CURR,0,CT
+UVGW,"06.1.3 Therapeutic appliances and equipment CP SA",SA,0,CURR,0,CT
+UVJI,"09.1.5 Repair of audio-visual; photo and information processing equipment CP SA",SA,0,CURR,0,CT
+UVJJ,"09.2.3 Maintenance of other major durables CP SA",SA,0,CURR,0,CT
+UVJK,"09.3.4 Other recreational goods Pets and related products CP SA",SA,0,CURR,0,CT
+UVJX,"09.3.5 Other recreational goods Veterinary and other services for pets CP SA",SA,0,CURR,0,CT
+UVUC,"04.4.2 Refuse collection CVM NAYear NSA",NSA,2010,CONS,0,CT
+UVUD,"04.4.4 Other services relating to the dwelling CVM NAYear NSA",NSA,2010,CONS,0,CT
+UVUR,"06.1.2 Other medical products CVM NAYear NSA",NSA,2010,CONS,0,CT
+UVUS,"06.1.3 Therapeutic appliances and equipment CVM NAYear NSA",NSA,2010,CONS,0,CT
+UWBK,"01.1 Food CVM NAYear SA",SA,2010,CONS,0,CT
+UWBL,"01.1.1 Food Bread and cereals CVM NAYear SA",SA,2010,CONS,0,CT
+UWFD,"01.1.7 Food Vegetables CVM NAYear SA",SA,2010,CONS,0,CT
+UWFX,"01.1.8 Food Sugar and sweet products CVM NAYear SA",SA,2010,CONS,0,CT
+UWGH,"01.1.9 Food Other food not elsewhere classified CVM NAYear SA",SA,2010,CONS,0,CT
+UWGI,"01.2 Non-alcoholic bverages CVM NAYear SA",SA,2010,CONS,0,CT
+UWHI,"03.1.4 Clothing Cleaning and hire of clothing CVM NAYear SA",SA,2010,CONS,0,CT
+UWHJ,"04.1.2 Other actual rentals CVM NAYear SA",SA,2010,CONS,0,CT
+UWHK,"04.4.2 Refuse collection CVM NAYear SA",SA,2010,CONS,0,CT
+UWHL,"04.4.4 Other services relating to the dwelling CVM NAYear SA",SA,2010,CONS,0,CT
+UWHM,"05.1.3 Repair of furniture etc CVM NAYear SA",SA,2010,CONS,0,CT
+UWHN,"05.3.3 Repair of household appliances CVM NAYear SA",SA,2010,CONS,0,CT
+UWHO,"05.6.1 Non-durable household goods CVM NAYear SA",SA,2010,CONS,0,CT
+UWIA,"05.6.2 Domestic services and household services CVM NAYear SA",SA,2010,CONS,0,CT
+UWIB,"06.1.2 Other medical products CVM NAYear SA",SA,2010,CONS,0,CT
+UWIC,"06.1.3 Therapeutic appliances and equipment CVM NAYear SA",SA,2010,CONS,0,CT
+UWKO,"09.1.5 Repair of audio-vis.;photo & information processing equipment CVM NAYear",SA,2010,CONS,0,CT
+UWKP,"09.2.3 Maintenance of other major durables CVM SA",SA,2010,CONS,0,CT
+UWKQ,"09.3.4 Other recreational goods Pets and related products CVM NAYear SA",SA,2010,CONS,0,CT
+UWLD,"09.3.5 Oth recreational goods Veterinary & other services for pets CVM NAYear SA",SA,2010,CONS,0,CT
+UWTI,"05.6 Goods and services for routine household maintenance CP SA",SA,0,CURR,0,CT
+UWUC,"05.6 Goods and services for routine household maintenance CVM NAYear SA",SA,2010,CONS,0,CT
+XYDZ,"03.1.1 Clothing Clothing materials CP SA",SA,0,CURR,0,CT
+XYEA,"03.1.3 Clothing Other articles of clothing and clothing accessories CP SA",SA,0,CURR,0,CT
+XYEB,"05.3.1 Major household appliances whether electric or not CP SA",SA,0,CURR,0,CT
+XYEC,"05.3.2 Small electric household appliances CP SA",SA,0,CURR,0,CT
+XYED,"05.5.1 Major tools and equipment CP SA",SA,0,CURR,0,CT
+XYEE,"05.5.2 Small tools and miscellaneous accessories CP SA",SA,0,CURR,0,CT
+XYEF,"09.2.2 Musical instruments and major durables for indoor recreation CP SA",SA,0,CURR,0,CT
+XYEG,"09.3.2 Other recreational goods Equipment for sport CP SA",SA,0,CURR,0,CT
+XYEH,"09.5.3 Newspapers; books and stationery Miscellaneous printed matter CP SA",SA,0,CURR,0,CT
+XYEI,"09.5.4 Newspapers; books and stationery Stationery and drawing materials CP SA",SA,0,CURR,0,CT
+XYEJ,"12.1.2 Electric appliances for personal care CP SA",SA,0,CURR,0,CT
+XYEK,"05.5 Tools and equipment for house and garden CP SA",SA,0,CURR,0,CT
+XYJN,"03.1.1 Clothing Clothing materials CVM NAYear SA",SA,2010,CONS,0,CT
+XYJO,"03.1.3 Clothing Other articles of clothing & clothing accessories CVM NAYear SA",SA,2010,CONS,0,CT
+XYJP,"05.3.1 Major household appliances whether electric or not CVM NAYear SA",SA,2010,CONS,0,CT
+XYJQ,"05.3.2 Small electric household appliances CVM NAYear SA",SA,2010,CONS,0,CT
+XYJR,"05.5.1 Major tools and equipment CVM NAYear SA",SA,2010,CONS,0,CT
+XYJS,"05.5.2 Small tools and miscellaneous accessories CVM NAYear SA",SA,2010,CONS,0,CT
+XYJT,"09.2.2 Musical instruments & major durables for indoor recreation CVM NAYear SA",SA,2010,CONS,0,CT
+XYJU,"09.3.2 Other recreational goods Equipment for sport CVM NAYear SA",SA,2010,CONS,0,CT
+XYJV,"09.5.3 Newspapers; books & stationery Miscellaneous printed matter CVM NAYear SA",SA,2010,CONS,0,CT
+XYJW,"09.5.4 Newspapers; books & stationery Stationery & drawing materials CVM NAYear",SA,2010,CONS,0,CT
+XYJX,"12.1.2 Electric appliances for personal care CVM NAYear SA",SA,2010,CONS,0,CT
+XYJY,"05.5 Tools and equipment for house and garden CVM NAYear SA",SA,2010,CONS,0,CT
+ZALB,"03.1 Clothing CP SA",SA,0,CURR,0,CT
+ZALC,"03.1 Clothing CVM NAYear SA",SA,2010,CONS,0,CT
+ZAVJ,"03.1.2 Clothing Garments CP SA",SA,0,CURR,0,CT
+ZAVK,"03.1.2 Clothing Garments CVM NAYear SA",SA,2010,CONS,0,CT
+ZAVL,"03.2 Footwear CP SA",SA,0,CURR,0,CT
+ZAVM,"03.2 Footwear CVM NAYear SA",SA,2010,CONS,0,CT
+ZAVP,"04.1 Actual rentals for housing CP SA",SA,0,CURR,0,CT
+ZAVQ,"04.1 Actual rentals for housing CVM NAYear SA",SA,2010,CONS,0,CT
+ZAVR,"04.3 Maintenance and repair of the dwelling CP SA",SA,0,CURR,0,CT
+ZAVS,"04.3 Maintenance and repair of the dwelling CVM NAYear SA",SA,2010,CONS,0,CT
+ZAVT,"04.4 Water supply and miscellaneous services CP SA",SA,0,CURR,0,CT
+ZAVU,"04.4 Water supply and miscellaneous services CVM NAYear SA",SA,2010,CONS,0,CT
+ZAVX,"05.1 Furniture and furnishings; carpets and other floor coverings CP SA",SA,0,CURR,0,CT
+ZAVY,"05.1 Furniture and furnishings; carpets and other floor coverings CVM NAYear SA",SA,2010,CONS,0,CT
+ZAVZ,"05.3 Household appliances CP SA",SA,0,CURR,0,CT
+ZAWA,"05.3 Household appliances CVM NAYear SA",SA,2010,CONS,0,CT
+ZAWD,"06.1 Medical products CP SA",SA,0,CURR,0,CT
+ZAWE,"06.1 Medical products CVM NAYear SA",SA,2010,CONS,0,CT
+ZAWF,"06.2 Out-patient services CP SA",SA,0,CURR,0,CT
+ZAWG,"06.2 Out-patient services CVM NAYear SA",SA,2010,CONS,0,CT
+ZAWH,"06.2.1 Medical services CP SA",SA,0,CURR,0,CT
+ZAWI,"06.2.1 Medical services CVM NAYear SA",SA,2010,CONS,0,CT
+ZAWJ,"06.2.2 Dental services CP SA",SA,0,CURR,0,CT
+ZAWK,"06.2.2 Dental services CVM NAYear SA",SA,2010,CONS,0,CT
+ZAWN,"07.2 Operation of personal transport equipment CP SA",SA,0,CURR,0,CT
+ZAWO,"07.2 Operation of personal transport equipment CVM NAYear SA",SA,2010,CONS,0,CT
+ZAWP,"07.2.4 Other vehicle services CP SA",SA,0,CURR,0,CT
+ZAWQ,"07.2.4 Other vehicle services CVM NAYear SA",SA,2010,CONS,0,CT
+ZAWR,"07.3 Transport services CP SA",SA,0,CURR,0,CT
+ZAWS,"07.3 Transport services CVM NAYear SA",SA,2010,CONS,0,CT
+ZAWT,"07.3.2 Transport services Road CP SA",SA,0,CURR,0,CT
+ZAWU,"07.3.2 Transport services Road CVM NAYear SA",SA,2010,CONS,0,CT
+ZAWX,"08.3 Communication Telephone and telefax services CP SA",SA,0,CURR,0,CT
+ZAWY,"08.3 Communication Telephone and telefax services CVM NAYear SA",SA,2010,CONS,0,CT
+ZAXB,"09.1 Audio-visual; photo and information processing CP SA",SA,0,CURR,0,CT
+ZAXC,"09.1 Audio-visual; photo and information processing CVM NAYear SA",SA,2010,CONS,0,CT
+ZAXD,"09.2 Other major durables for recreation and culture CP SA",SA,0,CURR,0,CT
+ZAXE,"09.2 Other major durables for recreation and culture CVM NAYear SA",SA,2010,CONS,0,CT
+ZAXF,"09.3 Other recreational goods CP SA",SA,0,CURR,0,CT
+ZAXG,"09.3 Other recreational goods CVM NAYear SA",SA,2010,CONS,0,CT
+ZAXH,"09.4 Recreational and cultural services CP SA",SA,0,CURR,0,CT
+ZAXI,"09.4 Recreational and cultural services CVM NAYear SA",SA,2010,CONS,0,CT
+ZAXJ,"09.4.1 Recreational and sporting services CP SA",SA,0,CURR,0,CT
+ZAXK,"09.4.1 Recreational and sporting services CVM NAYear SA",SA,2010,CONS,0,CT
+ZAXL,"09.4.2 Cultural services CP SA",SA,0,CURR,0,CT
+ZAXM,"09.4.2 Cultural services CVM NAYear SA",SA,2010,CONS,0,CT
+ZAXN,"09.5 Newspapers; books and stationery CP SA",SA,0,CURR,0,CT
+ZAXO,"09.5 Newspapers; books and stationery CVM NAYear SA",SA,2010,CONS,0,CT
+ZAXP,"09.6 Package holidays CP SA",SA,0,CURR,0,CT
+ZAXQ,"09.6 Package holidays CVM NAYear SA",SA,2010,CONS,0,CT
+ZAXT,"11.1 Catering services CP SA",SA,0,CURR,0,CT
+ZAXU,"11.1 Catering services CVM NAYear SA",SA,2010,CONS,0,CT
+ZAXV,"11.1.1 Restaurants; cafes etc CP SA",SA,0,CURR,0,CT
+ZAXW,"11.1.1 Restaurants; cafes etc CVM NAYear SA",SA,2010,CONS,0,CT
+ZAYB,"11.1.2 Canteens CP SA",SA,0,CURR,0,CT
+ZAYC,"11.1.2 Canteens CVM NAYear SA",SA,2010,CONS,0,CT
+ZAYD,"11.2 Accommodation services CP SA",SA,0,CURR,0,CT
+ZAYE,"11.2 Accommodation services CVM NAYear SA",SA,2010,CONS,0,CT
+ZAYH,"12.1 Personal care CP SA",SA,0,CURR,0,CT
+ZAYI,"12.1 Personal care CVM NAYear SA",SA,2010,CONS,0,CT
+ZAYJ,"12.3 Personal effects CP SA",SA,0,CURR,0,CT
+ZAYK,"12.3 Personal effects CVM NAYear SA",SA,2010,CONS,0,CT
+ZAYL,"12.3.1 Personal effects Jewellery CP SA",SA,0,CURR,0,CT
+ZAYM,"12.3.1 Personal effects Jewellery CVM NAYear SA",SA,2010,CONS,0,CT
+ZAYN,"12.4 Social protection CP SA",SA,0,CURR,0,CT
+ZAYO,"12.4 Social protection CVM NAYear SA",SA,2010,CONS,0,CT
+ZAYP,"12.5 Insurance CP SA",SA,0,CURR,0,CT
+ZAYQ,"12.5 Insurance CVM NAYear SA",SA,2010,CONS,0,CT
+ZAYR,"12.5.2 Dwelling insurance CP SA",SA,0,CURR,0,CT
+ZAYS,"12.5.2 Dwelling insurance CVM NAYear SA",SA,2010,CONS,0,CT
+ZAYT,"12.5.3 Health insurance CP SA",SA,0,CURR,0,CT
+ZAYU,"12.5.3 Health insurance CVM NAYear SA",SA,2010,CONS,0,CT
+ZAYV,"12.5.4 Transport insurance CP SA",SA,0,CURR,0,CT
+ZAYW,"12.5.4 Transport insurance CVM NAYear SA",SA,2010,CONS,0,CT
+ZAYX,"12.5.5 Other insurance CP SA",SA,0,CURR,0,CT
+ZAYY,"12.5.5 Other insurance CVM NAYear SA",SA,2010,CONS,0,CT
+ZAYZ,"12.6 Financial services CP SA",SA,0,CURR,0,CT
+ZAZA,"12.6 Financial services CVM NAYear SA",SA,2010,CONS,0,CT
+ZAZB,"12.6.2 Other financial services CP SA",SA,0,CURR,0,CT
+ZAZC,"12.6.2 Other financial services CVM NAYear SA",SA,2010,CONS,0,CT
+ZAZD,"12.7 Other services CP SA",SA,0,CURR,0,CT
+ZAZE,"12.7 Other services CVM NAYear SA",SA,2010,CONS,0,CT
+ZWIU,"04.5.5 Heat energy CP SA",SA,0,CURR,0,CT
+ZWIV,"04.5.5 Heat energy CVM NAYear SA",SA,2010,CONS,0,CT
+ZWUO,"02.2 Tobacco CP SA",SA,0,CURR,0,CT
+ZWUP,"02.2 Tobacco CVM NAYear SA",SA,2010,CONS,0,CT
+ZWUQ,"04.5 Electricity; gas and other fuels CP SA",SA,0,CURR,0,CT
+ZWUR,"04.5 Electricity; gas and other fuels CVM NAYear SA",SA,2010,CONS,0,CT
+UTIA,"Durable goods: Total CP NSA",NSA,0,CURR,0,CT
+UTIC,"Durable goods :Total CVM NAYear NSA",NSA,2010,CONS,0,CT
+UTIE,"Total goods: Total CP NSA",NSA,0,CURR,0,CT
+UTIG,"Total goods :Total CVM NAYear NSA",NSA,2010,CONS,0,CT
+UTII,"Non-durable goods: Total CP NSA",NSA,0,CURR,0,CT
+UTIK,"Non-durable goods :Total CVM NAYear NSA",NSA,2010,CONS,0,CT
+UTIM,"Services: Total CP NSA",NSA,0,CURR,0,CT
+UTIO,"Services :Total CVM NAYear NSA",NSA,2010,CONS,0,CT
+UTIQ,"Semi-durable goods: Total CP NSA",NSA,0,CURR,0,CT

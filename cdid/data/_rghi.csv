@@ -1,0 +1,1600 @@
+C8G5,"GDHI UK per head £",NSA,0,CURR,0,RGHI
+C8GK,"GDHI UK per head index",NSA,0,CURR,0,RGHI
+C92I,"GDHI UKC North East raw total £m",NSA,0,CURR,0,RGHI
+C92J,"GDHI UKD North West raw total £m",NSA,0,CURR,0,RGHI
+C92K,"GDHI UKE Yorkshire & The Humber raw total £m",NSA,0,CURR,0,RGHI
+C92L,"GDHI UKF East Midlands raw total £m",NSA,0,CURR,0,RGHI
+C92M,"GDHI UKG West Midlands raw total £m",NSA,0,CURR,0,RGHI
+C92N,"GDHI UKH East of England raw total £m",NSA,0,CURR,0,RGHI
+C92O,"GDHI UKI London raw total £m",NSA,0,CURR,0,RGHI
+C92P,"GDHI UKJ South East raw total £m",NSA,0,CURR,0,RGHI
+C92Q,"GDHI UKK South West raw total £m",NSA,0,CURR,0,RGHI
+C92R,"GDHI England raw total £m",NSA,0,CURR,0,RGHI
+C92S,"GDHI UKL Wales raw total £m",NSA,0,CURR,0,RGHI
+C92T,"GDHI UKM Scotland raw total £m",NSA,0,CURR,0,RGHI
+C92U,"GDHI UKN Northern Ireland raw total £m",NSA,0,CURR,0,RGHI
+C92X,"GDHI UKC1 Tees Valley & Durham raw total £m",NSA,0,CURR,0,RGHI
+C92Y,"GDHI UKC2 Northumb & Tyne & Wear raw total £m",NSA,0,CURR,0,RGHI
+C92Z,"GDHI UKD1 Cumbria raw total £m",NSA,0,CURR,0,RGHI
+C932,"GDHI UKD6 Cheshire raw total £m",NSA,0,CURR,0,RGHI
+C933,"GDHI UKD3 Greater Manchester raw total £m",NSA,0,CURR,0,RGHI
+C934,"GDHI UKD4 Lancashire raw total £m",NSA,0,CURR,0,RGHI
+C935,"GDHI UKD7 Merseyside raw total £m",NSA,0,CURR,0,RGHI
+C936,"GDHI UKE1 East Yorks & North Lincs raw total £m",NSA,0,CURR,0,RGHI
+C937,"GDHI UKE2 North Yorkshire raw total £m",NSA,0,CURR,0,RGHI
+C938,"GDHI UKE3 South Yorkshire raw total £m",NSA,0,CURR,0,RGHI
+C939,"GDHI UKE4 West Yorkshire raw total £m",NSA,0,CURR,0,RGHI
+C93A,"GDHI UKF1 Derbyshire & Notts raw total £m",NSA,0,CURR,0,RGHI
+C93B,"GDHI UKF2 Leics, Rutland & Northants raw total £m",NSA,0,CURR,0,RGHI
+C93C,"GDHI UKF3 Lincolnshire raw total £m",NSA,0,CURR,0,RGHI
+C93D,"GDHI UKG1 Herefords, Worcs & Warks raw total £m",NSA,0,CURR,0,RGHI
+C93E,"GDHI UKG2 Shropshire & Staffs raw total £m",NSA,0,CURR,0,RGHI
+C93F,"GDHI UKG3 West Midlands raw total £m",NSA,0,CURR,0,RGHI
+C93G,"GDHI UKH1 East Anglia raw total £m",NSA,0,CURR,0,RGHI
+C93H,"GDHI UKH2 Beds & Herts raw total £m",NSA,0,CURR,0,RGHI
+C93I,"GDHI UKH3 Essex raw total £m",NSA,0,CURR,0,RGHI
+C93J,"GDHI UKI1 Inner London raw total £m",NSA,0,CURR,0,RGHI
+C93K,"GDHI UKI2 Outer London raw total £m",NSA,0,CURR,0,RGHI
+C93L,"GDHI UKJ1 Berks, Bucks & Oxon raw total £m",NSA,0,CURR,0,RGHI
+C93M,"GDHI UKJ2 Surrey, East & West Sussex raw total £m",NSA,0,CURR,0,RGHI
+C93N,"GDHI UKJ3 Hants & Isle of Wight raw total £m",NSA,0,CURR,0,RGHI
+C93O,"GDHI UKJ4 Kent raw total £m",NSA,0,CURR,0,RGHI
+C93P,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw total £m",NSA,0,CURR,0,RGHI
+C93Q,"GDHI UKK2 Dorset & Somerset raw total £m",NSA,0,CURR,0,RGHI
+C93R,"GDHI UKK3 Cornwall & Isles of Scilly raw total £m",NSA,0,CURR,0,RGHI
+C93S,"GDHI UKK4 Devon raw total £m",NSA,0,CURR,0,RGHI
+C93T,"GDHI UKL1 West Wales & The Valleys raw total £m",NSA,0,CURR,0,RGHI
+C93U,"GDHI UKL2 East Wales raw total £m",NSA,0,CURR,0,RGHI
+C93V,"GDHI UKM5 North Eastern Scotland raw total £m",NSA,0,CURR,0,RGHI
+C93W,"GDHI UKM2 Eastern Scotland raw total £m",NSA,0,CURR,0,RGHI
+C93X,"GDHI UKM3 South Western Scotland raw total £m",NSA,0,CURR,0,RGHI
+C93Y,"GDHI UKM6 Highlands & Islands raw total £m",NSA,0,CURR,0,RGHI
+C93Z,"GDHI UKC North East raw per head £",NSA,0,CURR,0,RGHI
+C942,"GDHI UKD North West raw per head £",NSA,0,CURR,0,RGHI
+C943,"GDHI UKE Yorkshire & The Humber raw per head £",NSA,0,CURR,0,RGHI
+C944,"GDHI UKF East Midlands raw per head £",NSA,0,CURR,0,RGHI
+C945,"GDHI UKG West Midlands raw per head £",NSA,0,CURR,0,RGHI
+C946,"GDHI UKH East of England raw per head £",NSA,0,CURR,0,RGHI
+C947,"GDHI UKI London raw per head £",NSA,0,CURR,0,RGHI
+C948,"GDHI UKJ South East raw per head £",NSA,0,CURR,0,RGHI
+C949,"GDHI UKK South West raw per head £",NSA,0,CURR,0,RGHI
+C94A,"GDHI England raw per head £",NSA,0,CURR,0,RGHI
+C94B,"GDHI UKL Wales raw per head £",NSA,0,CURR,0,RGHI
+C94C,"GDHI UKM Scotland raw per head £",NSA,0,CURR,0,RGHI
+C94D,"GDHI UKN Northern Ireland raw per head £",NSA,0,CURR,0,RGHI
+C94F,"GDHI UKC1 Tees Valley & Durham raw per head £",NSA,0,CURR,0,RGHI
+C94G,"GDHI UKC2 Northumb & Tyne & Wear raw per head £",NSA,0,CURR,0,RGHI
+C94H,"GDHI UKD1 Cumbria raw per head £",NSA,0,CURR,0,RGHI
+C94I,"GDHI UKD6 Cheshire raw per head £",NSA,0,CURR,0,RGHI
+C94J,"GDHI UKD3 Greater Manchester raw per head £",NSA,0,CURR,0,RGHI
+C94K,"GDHI UKD4 Lancashire raw per head £",NSA,0,CURR,0,RGHI
+C94L,"GDHI UKD7 Merseyside raw per head £",NSA,0,CURR,0,RGHI
+C94M,"GDHI UKE1 East Yorks & North Lincs raw per head £",NSA,0,CURR,0,RGHI
+C94N,"GDHI UKE2 North Yorkshire raw per head £",NSA,0,CURR,0,RGHI
+C94O,"GDHI UKE3 South Yorkshire raw per head £",NSA,0,CURR,0,RGHI
+C94P,"GDHI UKE4 West Yorkshire raw per head £",NSA,0,CURR,0,RGHI
+C94Q,"GDHI UKF1 Derbyshire & Notts raw per head £",NSA,0,CURR,0,RGHI
+C94R,"GDHI UKF2 Leics, Rutland & Northants raw per head £",NSA,0,CURR,0,RGHI
+C94S,"GDHI UKF3 Lincolnshire raw per head £",NSA,0,CURR,0,RGHI
+CO5F,"GDHI UKG1 Herefords, Worcs & Warks raw per head £",NSA,0,CURR,0,RGHI
+CO5G,"GDHI UKG2 Shropshire & Staffs raw per head £",NSA,0,CURR,0,RGHI
+CO5H,"GDHI UKG3 West Midlands raw per head £",NSA,0,CURR,0,RGHI
+CO5I,"GDHI UKH1 East Anglia raw per head £",NSA,0,CURR,0,RGHI
+CO5J,"GDHI UKH2 Beds & Herts raw per head £",NSA,0,CURR,0,RGHI
+CO5K,"GDHI UKH3 Essex raw per head £",NSA,0,CURR,0,RGHI
+CO5L,"GDHI UKI1 Inner London raw per head £",NSA,0,CURR,0,RGHI
+CO5M,"GDHI UKI2 Outer London raw per head £",NSA,0,CURR,0,RGHI
+CO5N,"GDHI UKJ1 Berks, Bucks & Oxon raw per head £",NSA,0,CURR,0,RGHI
+CO5O,"GDHI UKJ2 Surrey, East & West Sussex raw per head £",NSA,0,CURR,0,RGHI
+CO5P,"GDHI UKJ3 Hants & Isle of Wight raw per head £",NSA,0,CURR,0,RGHI
+CO5Q,"GDHI UKJ4 Kent raw per head £",NSA,0,CURR,0,RGHI
+CO5R,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw per head £",NSA,0,CURR,0,RGHI
+CO5S,"GDHI UKK2 Dorset & Somerset raw per head £",NSA,0,CURR,0,RGHI
+CO5T,"GDHI UKK3 Cornwall & Isles of Scilly raw per head £",NSA,0,CURR,0,RGHI
+CO5U,"GDHI UKK4 Devon raw per head £",NSA,0,CURR,0,RGHI
+CO5V,"GDHI UKL1 West Wales & The Valleys raw per head £",NSA,0,CURR,0,RGHI
+CO5W,"GDHI UKL2 East Wales raw per head £",NSA,0,CURR,0,RGHI
+CO5X,"GDHI UKM5 North Eastern Scotland raw per head £",NSA,0,CURR,0,RGHI
+CO5Y,"GDHI UKM2 Eastern Scotland raw per head £",NSA,0,CURR,0,RGHI
+CO5Z,"GDHI UKM3 South Western Scotland raw per head £",NSA,0,CURR,0,RGHI
+CO62,"GDHI UKM6 Highlands & Islands raw per head £",NSA,0,CURR,0,RGHI
+CO63,"GDHI UKC North East raw per head index",NSA,0,CURR,0,RGHI
+CO64,"GDHI UKD North West raw per head index",NSA,0,CURR,0,RGHI
+CO65,"GDHI UKE Yorkshire & The Humber raw per head index",NSA,0,CURR,0,RGHI
+CO66,"GDHI UKF East Midlands raw per head index",NSA,0,CURR,0,RGHI
+CO67,"GDHI UKG West Midlands raw per head index",NSA,0,CURR,0,RGHI
+CO68,"GDHI UKH East of England raw per head index",NSA,0,CURR,0,RGHI
+CO69,"GDHI UKI London raw per head index",NSA,0,CURR,0,RGHI
+CO6A,"GDHI UKJ South East raw per head index",NSA,0,CURR,0,RGHI
+CO6B,"GDHI UKK South West raw per head index",NSA,0,CURR,0,RGHI
+CO6C,"GDHI England raw per head index",NSA,0,CURR,0,RGHI
+CO6D,"GDHI UKL Wales raw per head index",NSA,0,CURR,0,RGHI
+CO6E,"GDHI UKM Scotland raw per head index",NSA,0,CURR,0,RGHI
+CO6F,"GDHI UKN Northern Ireland raw per head index",NSA,0,CURR,0,RGHI
+CO6H,"GDHI UKC1 Tees Valley & Durham raw per head index",NSA,0,CURR,0,RGHI
+CO6I,"GDHI UKC2 Northumb & Tyne & Wear raw per head index",NSA,0,CURR,0,RGHI
+CO6J,"GDHI UKD1 Cumbria raw per head index",NSA,0,CURR,0,RGHI
+CO6K,"GDHI UKD6 Cheshire raw per head index",NSA,0,CURR,0,RGHI
+CO6L,"GDHI UKD3 Greater Manchester raw per head index",NSA,0,CURR,0,RGHI
+CO6M,"GDHI UKD4 Lancashire raw per head index",NSA,0,CURR,0,RGHI
+CO6N,"GDHI UKD7 Merseyside raw per head index",NSA,0,CURR,0,RGHI
+CO6O,"GDHI UKE1 East Yorks & North Lincs raw per head index",NSA,0,CURR,0,RGHI
+CO6P,"GDHI UKE2 North Yorkshire raw per head index",NSA,0,CURR,0,RGHI
+CO6Q,"GDHI UKE3 South Yorkshire raw per head index",NSA,0,CURR,0,RGHI
+CO6R,"GDHI UKE4 West Yorkshire raw per head index",NSA,0,CURR,0,RGHI
+CO6S,"GDHI UKF1 Derbyshire & Notts raw per head index",NSA,0,CURR,0,RGHI
+CO6T,"GDHI UKF2 Leics, Rutland & Northants raw per head index",NSA,0,CURR,0,RGHI
+CO6U,"GDHI UKF3 Lincolnshire raw per head index",NSA,0,CURR,0,RGHI
+CO6V,"GDHI UKG1 Herefords, Worcs & Warks raw per head index",NSA,0,CURR,0,RGHI
+CO6W,"GDHI UKG2 Shropshire & Staffs raw per head index",NSA,0,CURR,0,RGHI
+CO6X,"GDHI UKG3 West Midlands raw per head index",NSA,0,CURR,0,RGHI
+CO6Y,"GDHI UKH1 East Anglia raw per head index",NSA,0,CURR,0,RGHI
+CO6Z,"GDHI UKH2 Beds & Herts raw per head index",NSA,0,CURR,0,RGHI
+CO72,"GDHI UKH3 Essex raw per head index",NSA,0,CURR,0,RGHI
+CO73,"GDHI UKI1 Inner London raw per head index",NSA,0,CURR,0,RGHI
+CO74,"GDHI UKI2 Outer London raw per head index",NSA,0,CURR,0,RGHI
+CO75,"GDHI UKJ1 Berks, Bucks & Oxon raw per head index",NSA,0,CURR,0,RGHI
+CO76,"GDHI UKJ2 Surrey, East & West Sussex raw per head index",NSA,0,CURR,0,RGHI
+CO77,"GDHI UKJ3 Hants & Isle of Wight raw per head index",NSA,0,CURR,0,RGHI
+CO78,"GDHI UKJ4 Kent raw per head index",NSA,0,CURR,0,RGHI
+CO79,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw per head index",NSA,0,CURR,0,RGHI
+CO7A,"GDHI UKK2 Dorset & Somerset raw per head index",NSA,0,CURR,0,RGHI
+CO7B,"GDHI UKK3 Cornwall & Isles of Scilly raw per head index",NSA,0,CURR,0,RGHI
+CO7C,"GDHI UKK4 Devon raw per head index",NSA,0,CURR,0,RGHI
+CO7D,"GDHI UKL1 West Wales & The Valleys raw per head index",NSA,0,CURR,0,RGHI
+CO7E,"GDHI UKL2 East Wales raw per head index",NSA,0,CURR,0,RGHI
+CO7F,"GDHI UKM5 North Eastern Scotland raw per head index",NSA,0,CURR,0,RGHI
+CO7G,"GDHI UKM2 Eastern Scotland raw per head index",NSA,0,CURR,0,RGHI
+CO7H,"GDHI UKM3 South Western Scotland raw per head index",NSA,0,CURR,0,RGHI
+CO7I,"GDHI UKM6 Highlands & Islands raw per head index",NSA,0,CURR,0,RGHI
+CO7J,"GDHI UKC1 Tees Valley & Durham raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CO7K,"GDHI UKC1 Tees Valley & Durham raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CO7L,"GDHI UKC1 Tees Valley & Durham raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CO7M,"GDHI UKC1 Tees Valley & Durham raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CO7N,"GDHI UKC1 Tees Valley & Durham raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CO7O,"GDHI UKC1 Tees Valley & Durham raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CO7P,"GDHI UKC1 Tees Valley & Durham raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CO7Q,"GDHI UKC1 Tees Valley & Durham raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CO7R,"GDHI UKC1 Tees Valley & Durham raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CO7S,"GDHI UKC1 Tees Valley & Durham raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CO7T,"GDHI UKC1 Tees Valley & Durham raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CO7U,"GDHI UKC1 Tees Valley & Durham raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CO7V,"GDHI UKC1 Tees Valley & Durham raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CO7W,"GDHI UKC1 Tees Valley & Durham raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CO7X,"GDHI UKC1 Tees Valley & Durham raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CO7Y,"GDHI UKC2 Northumb & Tyne & Wear raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CO7Z,"GDHI UKC2 Northumb & Tyne & Wear raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CO82,"GDHI UKC2 Northumb & Tyne & Wear raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CO83,"GDHI UKC2 Northumb & Tyne & Wear raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CO84,"GDHI UKC2 Northumb & Tyne & Wear raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CO85,"GDHI UKC2 Northumb & Tyne & Wear raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CO86,"GDHI UKC2 Northumb & Tyne & Wear raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CO87,"GDHI UKC2 Northumb & Tyne & Wear raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CO88,"GDHI UKC2 Northumb & Tyne & Wear raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CO89,"GDHI UKC2 Northumb & Tyne & Wear raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CO8A,"GDHI UKC2 Northumb & Tyne & Wear raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CO8B,"GDHI UKC2 Northumb & Tyne & Wear raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CO8C,"GDHI UKC2 Northumb & Tyne & Wear raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CO8D,"GDHI UKC2 Northumb & Tyne & Wear raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CO8E,"GDHI UKC2 Northumb & Tyne & Wear raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CO8F,"GDHI UKD1 Cumbria raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CO8G,"GDHI UKD1 Cumbria raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CO8H,"GDHI UKD1 Cumbria raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CO8I,"GDHI UKD1 Cumbria raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CO8J,"GDHI UKD1 Cumbria raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CO8K,"GDHI UKD1 Cumbria raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CO8L,"GDHI UKD1 Cumbria raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CO8M,"GDHI UKD1 Cumbria raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CO8N,"GDHI UKD1 Cumbria raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CO8O,"GDHI UKD1 Cumbria raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CO8P,"GDHI UKD1 Cumbria raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CO8Q,"GDHI UKD1 Cumbria raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CO8R,"GDHI UKD1 Cumbria raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CO8S,"GDHI UKD1 Cumbria raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CO8T,"GDHI UKD1 Cumbria raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CO8U,"GDHI UKD6 Cheshire raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CO8V,"GDHI UKD6 Cheshire raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CO8W,"GDHI UKD6 Cheshire raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CO8X,"GDHI UKD6 Cheshire raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CO8Y,"GDHI UKD6 Cheshire raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CO8Z,"GDHI UKD6 Cheshire raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CO92,"GDHI UKD6 Cheshire raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CO93,"GDHI UKD6 Cheshire raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CO94,"GDHI UKD6 Cheshire raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CO95,"GDHI UKD6 Cheshire raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CO96,"GDHI UKD6 Cheshire raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CO97,"GDHI UKD6 Cheshire raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CO98,"GDHI UKD6 Cheshire raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CO99,"GDHI UKD6 Cheshire raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CO9A,"GDHI UKD6 Cheshire raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CO9B,"GDHI UKD3 Greater Manchester raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CO9C,"GDHI UKD3 Greater Manchester raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CO9D,"GDHI UKD3 Greater Manchester raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CO9E,"GDHI UKD3 Greater Manchester raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CO9F,"GDHI UKD3 Greater Manchester raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CO9G,"GDHI UKD3 Greater Manchester raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CO9H,"GDHI UKD3 Greater Manchester raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CO9I,"GDHI UKD3 Greater Manchester raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CO9J,"GDHI UKD3 Greater Manchester raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CO9K,"GDHI UKD3 Greater Manchester raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CO9L,"GDHI UKD3 Greater Manchester raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CO9M,"GDHI UKD3 Greater Manchester raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CO9N,"GDHI UKD3 Greater Manchester raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CO9O,"GDHI UKD3 Greater Manchester raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CO9P,"GDHI UKD3 Greater Manchester raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CO9Q,"GDHI UKD4 Lancashire raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CO9R,"GDHI UKD4 Lancashire raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CO9S,"GDHI UKD4 Lancashire raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CO9T,"GDHI UKD4 Lancashire raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CO9U,"GDHI UKD4 Lancashire raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CO9V,"GDHI UKD4 Lancashire raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CO9W,"GDHI UKD4 Lancashire raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CO9X,"GDHI UKD4 Lancashire raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CO9Y,"GDHI UKD4 Lancashire raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CO9Z,"GDHI UKD4 Lancashire raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+COA2,"GDHI UKD4 Lancashire raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+COA3,"GDHI UKD4 Lancashire raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+COA4,"GDHI UKD4 Lancashire raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+COA5,"GDHI UKD4 Lancashire raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+COA6,"GDHI UKD4 Lancashire raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+COA7,"GDHI UKD7 Merseyside raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+COA8,"GDHI UKD7 Merseyside raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+COA9,"GDHI UKD7 Merseyside raw Property Income Received £m",NSA,0,CURR,0,RGHI
+COB2,"GDHI UKD7 Merseyside raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+COB3,"GDHI UKD7 Merseyside raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+COB4,"GDHI UKD7 Merseyside raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+COB5,"GDHI UKD7 Merseyside raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+COB6,"GDHI UKD7 Merseyside raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+COB7,"GDHI UKD7 Merseyside raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+COB8,"GDHI UKD7 Merseyside raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+COB9,"GDHI UKD7 Merseyside raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+COC2,"GDHI UKD7 Merseyside raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+COC3,"GDHI UKD7 Merseyside raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+COC4,"GDHI UKD7 Merseyside raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+COC5,"GDHI UKD7 Merseyside raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+COC6,"GDHI UKE1 East Yorks & North Lincs raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+COC7,"GDHI UKE1 East Yorks & North Lincs raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+COC8,"GDHI UKE1 East Yorks & North Lincs raw Property Income Received £m",NSA,0,CURR,0,RGHI
+COC9,"GDHI UKE1 East Yorks & North Lincs raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+COD2,"GDHI UKE1 East Yorks & North Lincs raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+COD3,"GDHI UKE1 East Yorks & North Lincs raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+COD4,"GDHI UKE1 East Yorks & North Lincs raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+COD5,"GDHI UKE1 East Yorks & North Lincs raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+COD6,"GDHI UKE1 East Yorks & North Lincs raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+COD7,"GDHI UKE1 East Yorks & North Lincs raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+COD8,"GDHI UKE1 East Yorks & North Lincs raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+COD9,"GDHI UKE1 East Yorks & North Lincs raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+COE2,"GDHI UKE1 East Yorks & North Lincs raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+COE3,"GDHI UKE1 East Yorks & North Lincs raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+COE4,"GDHI UKE1 East Yorks & North Lincs raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+COE5,"GDHI UKE2 North Yorkshire raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+COE6,"GDHI UKE2 North Yorkshire raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+COE7,"GDHI UKE2 North Yorkshire raw Property Income Received £m",NSA,0,CURR,0,RGHI
+COE8,"GDHI UKE2 North Yorkshire raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+COE9,"GDHI UKE2 North Yorkshire raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+COF2,"GDHI UKE2 North Yorkshire raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+COF3,"GDHI UKE2 North Yorkshire raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+COF4,"GDHI UKE2 North Yorkshire raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+COF5,"GDHI UKE2 North Yorkshire raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+COF6,"GDHI UKE2 North Yorkshire raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+COF7,"GDHI UKE2 North Yorkshire raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+COF8,"GDHI UKE2 North Yorkshire raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+COF9,"GDHI UKE2 North Yorkshire raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+COG2,"GDHI UKE2 North Yorkshire raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+COG3,"GDHI UKE2 North Yorkshire raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+COG4,"GDHI UKE3 South Yorkshire raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+COG5,"GDHI UKE3 South Yorkshire raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+COG6,"GDHI UKE3 South Yorkshire raw Property Income Received £m",NSA,0,CURR,0,RGHI
+COG7,"GDHI UKE3 South Yorkshire raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+COG8,"GDHI UKE3 South Yorkshire raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+COG9,"GDHI UKE3 South Yorkshire raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+COH2,"GDHI UKE3 South Yorkshire raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+COH3,"GDHI UKE3 South Yorkshire raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+COH4,"GDHI UKE3 South Yorkshire raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+COH5,"GDHI UKE3 South Yorkshire raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+COH6,"GDHI UKE3 South Yorkshire raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+COH7,"GDHI UKE3 South Yorkshire raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+COH8,"GDHI UKE3 South Yorkshire raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+COH9,"GDHI UKE3 South Yorkshire raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+COI2,"GDHI UKE3 South Yorkshire raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+COI3,"GDHI UKE4 West Yorkshire raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+COI4,"GDHI UKE4 West Yorkshire raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+COI5,"GDHI UKE4 West Yorkshire raw Property Income Received £m",NSA,0,CURR,0,RGHI
+COI6,"GDHI UKE4 West Yorkshire raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+COI7,"GDHI UKE4 West Yorkshire raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+COI8,"GDHI UKE4 West Yorkshire raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+COI9,"GDHI UKE4 West Yorkshire raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+COJ2,"GDHI UKE4 West Yorkshire raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+COJ3,"GDHI UKE4 West Yorkshire raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+COJ4,"GDHI UKE4 West Yorkshire raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+COJ5,"GDHI UKE4 West Yorkshire raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+COJ6,"GDHI UKE4 West Yorkshire raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+COJ7,"GDHI UKE4 West Yorkshire raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+COJ8,"GDHI UKE4 West Yorkshire raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+COJ9,"GDHI UKE4 West Yorkshire raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+COK2,"GDHI UKF1 Derbyshire & Notts raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+COK3,"GDHI UKF1 Derbyshire & Notts raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+COK4,"GDHI UKF1 Derbyshire & Notts raw Property Income Received £m",NSA,0,CURR,0,RGHI
+COK5,"GDHI UKF1 Derbyshire & Notts raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+COK6,"GDHI UKF1 Derbyshire & Notts raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+COK7,"GDHI UKF1 Derbyshire & Notts raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+COK8,"GDHI UKF1 Derbyshire & Notts raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+COK9,"GDHI UKF1 Derbyshire & Notts raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+COL2,"GDHI UKF1 Derbyshire & Notts raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+COL3,"GDHI UKF1 Derbyshire & Notts raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+COL4,"GDHI UKF1 Derbyshire & Notts raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+COL5,"GDHI UKF1 Derbyshire & Notts raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+COL6,"GDHI UKF1 Derbyshire & Notts raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+COL7,"GDHI UKF1 Derbyshire & Notts raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+COL8,"GDHI UKF1 Derbyshire & Notts raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+COL9,"GDHI UKF2 Leics, Rutland & Northants raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+COM2,"GDHI UKF2 Leics, Rutland & Northants raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+COM3,"GDHI UKF2 Leics, Rutland & Northants raw Property Income Received £m",NSA,0,CURR,0,RGHI
+COM4,"GDHI UKF2 Leics, Rutland & Northants raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+COM5,"GDHI UKF2 Leics, Rutland & Northants raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+COM6,"GDHI UKF2 Leics, Rutland & Northants raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+COM7,"GDHI UKF2 Leics, Rutland & Northants raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+COM8,"GDHI UKF2 Leics, Rutland & Northants raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+COM9,"GDHI UKF2 Leics, Rutland & Northants raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CON2,"GDHI UKF2 Leics, Rutland & Northants raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CON3,"GDHI UKF2 Leics, Rutland & Northants raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CON4,"GDHI UKF2 Leics, Rutland & Northants raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CON5,"GDHI UKF2 Leics, Rutland & Northants raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CON6,"GDHI UKF2 Leics, Rutland & Northants raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CON7,"GDHI UKF2 Leics, Rutland & Northants raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CON8,"GDHI UKF3 Lincolnshire raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CON9,"GDHI UKF3 Lincolnshire raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+COO2,"GDHI UKF3 Lincolnshire raw Property Income Received £m",NSA,0,CURR,0,RGHI
+COO3,"GDHI UKF3 Lincolnshire raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+COO4,"GDHI UKF3 Lincolnshire raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+COO5,"GDHI UKF3 Lincolnshire raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+COO6,"GDHI UKF3 Lincolnshire raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+COO7,"GDHI UKF3 Lincolnshire raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+COO8,"GDHI UKF3 Lincolnshire raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+COO9,"GDHI UKF3 Lincolnshire raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+COP2,"GDHI UKF3 Lincolnshire raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+COP3,"GDHI UKF3 Lincolnshire raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+COP4,"GDHI UKF3 Lincolnshire raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+COP5,"GDHI UKF3 Lincolnshire raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+COP6,"GDHI UKF3 Lincolnshire raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+COP7,"GDHI UKG1 Herefords, Worcs & Warks raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+COP8,"GDHI UKG1 Herefords, Worcs & Warks raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+COP9,"GDHI UKG1 Herefords, Worcs & Warks raw Property Income Received £m",NSA,0,CURR,0,RGHI
+COQ2,"GDHI UKG1 Herefords, Worcs & Warks raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+COQ3,"GDHI UKG1 Herefords, Worcs & Warks raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+COQ4,"GDHI UKG1 Herefords, Worcs & Warks raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+COQ5,"GDHI UKG1 Herefords, Worcs & Warks raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+COQ6,"GDHI UKG1 Herefords, Worcs & Warks raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+COQ7,"GDHI UKG1 Herefords, Worcs & Warks raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+COQ8,"GDHI UKG1 Herefords, Worcs & Warks raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+COQ9,"GDHI UKG1 Herefords, Worcs & Warks raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+COR2,"GDHI UKG1 Herefords, Worcs & Warks raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+COR3,"GDHI UKG1 Herefords, Worcs & Warks raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+COR4,"GDHI UKG1 Herefords, Worcs & Warks raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+COR5,"GDHI UKG1 Herefords, Worcs & Warks raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+COR6,"GDHI UKG2 Shropshire & Staffs raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+COR7,"GDHI UKG2 Shropshire & Staffs raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+COR8,"GDHI UKG2 Shropshire & Staffs raw Property Income Received £m",NSA,0,CURR,0,RGHI
+COR9,"GDHI UKG2 Shropshire & Staffs raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+COS2,"GDHI UKG2 Shropshire & Staffs raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+COS3,"GDHI UKG2 Shropshire & Staffs raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+COS4,"GDHI UKG2 Shropshire & Staffs raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+COS5,"GDHI UKG2 Shropshire & Staffs raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+COS6,"GDHI UKG2 Shropshire & Staffs raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+COS7,"GDHI UKG2 Shropshire & Staffs raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+COS8,"GDHI UKG2 Shropshire & Staffs raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+COS9,"GDHI UKG2 Shropshire & Staffs raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+COT2,"GDHI UKG2 Shropshire & Staffs raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+COT3,"GDHI UKG2 Shropshire & Staffs raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+COT4,"GDHI UKG2 Shropshire & Staffs raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+COT5,"GDHI UKG3 West Midlands raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+COT6,"GDHI UKG3 West Midlands raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+COT7,"GDHI UKG3 West Midlands raw Property Income Received £m",NSA,0,CURR,0,RGHI
+COT8,"GDHI UKG3 West Midlands raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+COT9,"GDHI UKG3 West Midlands raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+COU2,"GDHI UKG3 West Midlands raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+COU3,"GDHI UKG3 West Midlands raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+COU4,"GDHI UKG3 West Midlands raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+COU5,"GDHI UKG3 West Midlands raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+COU6,"GDHI UKG3 West Midlands raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+COU7,"GDHI UKG3 West Midlands raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+COU8,"GDHI UKG3 West Midlands raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+COU9,"GDHI UKG3 West Midlands raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+COV2,"GDHI UKG3 West Midlands raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+COV3,"GDHI UKG3 West Midlands raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+COV4,"GDHI UKH1 East Anglia raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+COV5,"GDHI UKH1 East Anglia raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+COV6,"GDHI UKH1 East Anglia raw Property Income Received £m",NSA,0,CURR,0,RGHI
+COV7,"GDHI UKH1 East Anglia raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+COV8,"GDHI UKH1 East Anglia raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+COV9,"GDHI UKH1 East Anglia raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+COW2,"GDHI UKH1 East Anglia raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+COW3,"GDHI UKH1 East Anglia raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+COW4,"GDHI UKH1 East Anglia raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+COW5,"GDHI UKH1 East Anglia raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+COW6,"GDHI UKH1 East Anglia raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+COW7,"GDHI UKH1 East Anglia raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+COW8,"GDHI UKH1 East Anglia raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+COW9,"GDHI UKH1 East Anglia raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+COX2,"GDHI UKH1 East Anglia raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+COX3,"GDHI UKH2 Beds & Herts raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+COX4,"GDHI UKH2 Beds & Herts raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+COX5,"GDHI UKH2 Beds & Herts raw Property Income Received £m",NSA,0,CURR,0,RGHI
+COX6,"GDHI UKH2 Beds & Herts raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+COX7,"GDHI UKH2 Beds & Herts raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+COX8,"GDHI UKH2 Beds & Herts raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+COX9,"GDHI UKH2 Beds & Herts raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+COY2,"GDHI UKH2 Beds & Herts raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+COY3,"GDHI UKH2 Beds & Herts raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+COY4,"GDHI UKH2 Beds & Herts raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+COY5,"GDHI UKH2 Beds & Herts raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+COY6,"GDHI UKH2 Beds & Herts raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+COY7,"GDHI UKH2 Beds & Herts raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+COY8,"GDHI UKH2 Beds & Herts raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+COY9,"GDHI UKH2 Beds & Herts raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+COZ2,"GDHI UKH3 Essex raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+COZ3,"GDHI UKH3 Essex raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+COZ4,"GDHI UKH3 Essex raw Property Income Received £m",NSA,0,CURR,0,RGHI
+COZ5,"GDHI UKH3 Essex raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+COZ6,"GDHI UKH3 Essex raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+COZ7,"GDHI UKH3 Essex raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+COZ8,"GDHI UKH3 Essex raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+COZ9,"GDHI UKH3 Essex raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP22,"GDHI UKH3 Essex raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP23,"GDHI UKH3 Essex raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP24,"GDHI UKH3 Essex raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP25,"GDHI UKH3 Essex raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP26,"GDHI UKH3 Essex raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP27,"GDHI UKH3 Essex raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP28,"GDHI UKH3 Essex raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP29,"GDHI UKI1 Inner London raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP2A,"GDHI UKI1 Inner London raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP2B,"GDHI UKI1 Inner London raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP2C,"GDHI UKI1 Inner London raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP2D,"GDHI UKI1 Inner London raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP2E,"GDHI UKI1 Inner London raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP2F,"GDHI UKI1 Inner London raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP2G,"GDHI UKI1 Inner London raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP2H,"GDHI UKI1 Inner London raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP2I,"GDHI UKI1 Inner London raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP2J,"GDHI UKI1 Inner London raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP2K,"GDHI UKI1 Inner London raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP2L,"GDHI UKI1 Inner London raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP2M,"GDHI UKI1 Inner London raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP2N,"GDHI UKI1 Inner London raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP2O,"GDHI UKI2 Outer London raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP2P,"GDHI UKI2 Outer London raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP2Q,"GDHI UKI2 Outer London raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP2R,"GDHI UKI2 Outer London raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP2S,"GDHI UKI2 Outer London raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP2T,"GDHI UKI2 Outer London raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP2U,"GDHI UKI2 Outer London raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP2V,"GDHI UKI2 Outer London raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP2W,"GDHI UKI2 Outer London raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP2X,"GDHI UKI2 Outer London raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP2Y,"GDHI UKI2 Outer London raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP2Z,"GDHI UKI2 Outer London raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP32,"GDHI UKI2 Outer London raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP33,"GDHI UKI2 Outer London raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP34,"GDHI UKI2 Outer London raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP35,"GDHI UKJ1 Berks, Bucks & Oxon raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP36,"GDHI UKJ1 Berks, Bucks & Oxon raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP37,"GDHI UKJ1 Berks, Bucks & Oxon raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP38,"GDHI UKJ1 Berks, Bucks & Oxon raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP39,"GDHI UKJ1 Berks, Bucks & Oxon raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP3A,"GDHI UKJ1 Berks, Bucks & Oxon raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP3B,"GDHI UKJ1 Berks, Bucks & Oxon raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP3C,"GDHI UKJ1 Berks, Bucks & Oxon raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP3D,"GDHI UKJ1 Berks, Bucks & Oxon raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP3E,"GDHI UKJ1 Berks, Bucks & Oxon raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP3F,"GDHI UKJ1 Berks, Bucks & Oxon raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP3G,"GDHI UKJ1 Berks, Bucks & Oxon raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP3H,"GDHI UKJ1 Berks, Bucks & Oxon raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP3I,"GDHI UKJ1 Berks, Bucks & Oxon raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP3J,"GDHI UKJ1 Berks, Bucks & Oxon raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP3K,"GDHI UKJ2 Surrey, East & West Sussex raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP3L,"GDHI UKJ2 Surrey, East & West Sussex raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP3M,"GDHI UKJ2 Surrey, East & West Sussex raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP3N,"GDHI UKJ2 Surrey, East & West Sussex raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP3O,"GDHI UKJ2 Surrey, East & West Sussex raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP3P,"GDHI UKJ2 Surrey, East & West Sussex raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP3Q,"GDHI UKJ2 Surrey, East & West Sussex raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP3R,"GDHI UKJ2 Surrey, East & West Sussex raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP3S,"GDHI UKJ2 Surrey, East & West Sussex raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP3T,"GDHI UKJ2 Surrey, East & West Sussex raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP3U,"GDHI UKJ2 Surrey, East & West Sussex raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP3V,"GDHI UKJ2 Surrey, East & West Sussex raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP3W,"GDHI UKJ2 Surrey, East & West Sussex raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP3X,"GDHI UKJ2 Surrey, East & West Sussex raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP3Y,"GDHI UKJ2 Surrey, East & West Sussex raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP3Z,"GDHI UKJ3 Hants & Isle of Wight raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP42,"GDHI UKJ3 Hants & Isle of Wight raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP43,"GDHI UKJ3 Hants & Isle of Wight raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP44,"GDHI UKJ3 Hants & Isle of Wight raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP45,"GDHI UKJ3 Hants & Isle of Wight raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP46,"GDHI UKJ3 Hants & Isle of Wight raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP47,"GDHI UKJ3 Hants & Isle of Wight raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP48,"GDHI UKJ3 Hants & Isle of Wight raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP49,"GDHI UKJ3 Hants & Isle of Wight raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP4A,"GDHI UKJ3 Hants & Isle of Wight raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP4B,"GDHI UKJ3 Hants & Isle of Wight raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP4C,"GDHI UKJ3 Hants & Isle of Wight raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP4D,"GDHI UKJ3 Hants & Isle of Wight raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP4E,"GDHI UKJ3 Hants & Isle of Wight raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP4F,"GDHI UKJ3 Hants & Isle of Wight raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP4G,"GDHI UKJ4 Kent raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP4H,"GDHI UKJ4 Kent raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP4I,"GDHI UKJ4 Kent raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP4J,"GDHI UKJ4 Kent raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP4K,"GDHI UKJ4 Kent raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP4L,"GDHI UKJ4 Kent raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP4M,"GDHI UKJ4 Kent raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP4N,"GDHI UKJ4 Kent raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP4O,"GDHI UKJ4 Kent raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP4P,"GDHI UKJ4 Kent raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP4Q,"GDHI UKJ4 Kent raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP4R,"GDHI UKJ4 Kent raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP4S,"GDHI UKJ4 Kent raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP4T,"GDHI UKJ4 Kent raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP4U,"GDHI UKJ4 Kent raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP4V,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP4W,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP4X,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP4Y,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP4Z,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP52,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP53,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP54,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP55,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP56,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP57,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP58,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP59,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP5A,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP5B,"GDHI UKK1 Glos, Wilts & Bristol/Bath raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP5C,"GDHI UKK2 Dorset & Somerset raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP5D,"GDHI UKK2 Dorset & Somerset raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP5E,"GDHI UKK2 Dorset & Somerset raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP5F,"GDHI UKK2 Dorset & Somerset raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP5G,"GDHI UKK2 Dorset & Somerset raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP5H,"GDHI UKK2 Dorset & Somerset raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP5I,"GDHI UKK2 Dorset & Somerset raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP5J,"GDHI UKK2 Dorset & Somerset raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP5K,"GDHI UKK2 Dorset & Somerset raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP5L,"GDHI UKK2 Dorset & Somerset raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP5M,"GDHI UKK2 Dorset & Somerset raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP5N,"GDHI UKK2 Dorset & Somerset raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP5O,"GDHI UKK2 Dorset & Somerset raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP5P,"GDHI UKK2 Dorset & Somerset raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP5Q,"GDHI UKK2 Dorset & Somerset raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP5R,"GDHI UKK3 Cornwall & Isles of Scilly raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP5S,"GDHI UKK3 Cornwall & Isles of Scilly raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP5T,"GDHI UKK3 Cornwall & Isles of Scilly raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP5U,"GDHI UKK3 Cornwall & Isles of Scilly raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP5V,"GDHI UKK3 Cornwall & Isles of Scilly raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP5W,"GDHI UKK3 Cornwall & Isles of Scilly raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP5X,"GDHI UKK3 Cornwall & Isles of Scilly raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP5Y,"GDHI UKK3 Cornwall & Isles of Scilly raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP5Z,"GDHI UKK3 Cornwall & Isles of Scilly raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP62,"GDHI UKK3 Cornwall & Isles of Scilly raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP63,"GDHI UKK3 Cornwall & Isles of Scilly raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP64,"GDHI UKK3 Cornwall & Isles of Scilly raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP65,"GDHI UKK3 Cornwall & Isles of Scilly raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP66,"GDHI UKK3 Cornwall & Isles of Scilly raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP67,"GDHI UKK3 Cornwall & Isles of Scilly raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP68,"GDHI UKK4 Devon raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP69,"GDHI UKK4 Devon raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP6A,"GDHI UKK4 Devon raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP6B,"GDHI UKK4 Devon raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP6C,"GDHI UKK4 Devon raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP6D,"GDHI UKK4 Devon raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP6E,"GDHI UKK4 Devon raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP6F,"GDHI UKK4 Devon raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP6G,"GDHI UKK4 Devon raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP6H,"GDHI UKK4 Devon raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP6I,"GDHI UKK4 Devon raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP6J,"GDHI UKK4 Devon raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP6K,"GDHI UKK4 Devon raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP6L,"GDHI UKK4 Devon raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP6M,"GDHI UKK4 Devon raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP6N,"GDHI UKL1 West Wales & The Valleys raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP6O,"GDHI UKL1 West Wales & The Valleys raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP6P,"GDHI UKL1 West Wales & The Valleys raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP6Q,"GDHI UKL1 West Wales & The Valleys raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP6R,"GDHI UKL1 West Wales & The Valleys raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP6S,"GDHI UKL1 West Wales & The Valleys raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP6T,"GDHI UKL1 West Wales & The Valleys raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP6U,"GDHI UKL1 West Wales & The Valleys raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP6V,"GDHI UKL1 West Wales & The Valleys raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP6W,"GDHI UKL1 West Wales & The Valleys raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP6X,"GDHI UKL1 West Wales & The Valleys raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP6Y,"GDHI UKL1 West Wales & The Valleys raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP6Z,"GDHI UKL1 West Wales & The Valleys raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP72,"GDHI UKL1 West Wales & The Valleys raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP73,"GDHI UKL1 West Wales & The Valleys raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP74,"GDHI UKL2 East Wales raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP75,"GDHI UKL2 East Wales raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP76,"GDHI UKL2 East Wales raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP77,"GDHI UKL2 East Wales raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP78,"GDHI UKL2 East Wales raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP79,"GDHI UKL2 East Wales raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP7A,"GDHI UKL2 East Wales raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP7B,"GDHI UKL2 East Wales raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP7C,"GDHI UKL2 East Wales raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP7D,"GDHI UKL2 East Wales raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP7E,"GDHI UKL2 East Wales raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP7F,"GDHI UKL2 East Wales raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP7G,"GDHI UKL2 East Wales raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP7H,"GDHI UKL2 East Wales raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP7I,"GDHI UKL2 East Wales raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP7J,"GDHI UKM5 North Eastern Scotland raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP7K,"GDHI UKM5 North Eastern Scotland raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP7L,"GDHI UKM5 North Eastern Scotland raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP7M,"GDHI UKM5 North Eastern Scotland raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP7N,"GDHI UKM5 North Eastern Scotland raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP7O,"GDHI UKM5 North Eastern Scotland raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP7P,"GDHI UKM5 North Eastern Scotland raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP7Q,"GDHI UKM5 North Eastern Scotland raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP7R,"GDHI UKM5 North Eastern Scotland raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP7S,"GDHI UKM5 North Eastern Scotland raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP7T,"GDHI UKM5 North Eastern Scotland raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP7U,"GDHI UKM5 North Eastern Scotland raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP7V,"GDHI UKM5 North Eastern Scotland raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP7W,"GDHI UKM5 North Eastern Scotland raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP7X,"GDHI UKM5 North Eastern Scotland raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP7Y,"GDHI UKM2 Eastern Scotland raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP7Z,"GDHI UKM2 Eastern Scotland raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP82,"GDHI UKM2 Eastern Scotland raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP83,"GDHI UKM2 Eastern Scotland raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP84,"GDHI UKM2 Eastern Scotland raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP85,"GDHI UKM2 Eastern Scotland raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP86,"GDHI UKM2 Eastern Scotland raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP87,"GDHI UKM2 Eastern Scotland raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP88,"GDHI UKM2 Eastern Scotland raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP89,"GDHI UKM2 Eastern Scotland raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP8A,"GDHI UKM2 Eastern Scotland raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP8B,"GDHI UKM2 Eastern Scotland raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP8C,"GDHI UKM2 Eastern Scotland raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP8D,"GDHI UKM2 Eastern Scotland raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP8E,"GDHI UKM2 Eastern Scotland raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP8F,"GDHI UKM3 South Western Scotland raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP8G,"GDHI UKM3 South Western Scotland raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP8H,"GDHI UKM3 South Western Scotland raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP8I,"GDHI UKM3 South Western Scotland raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP8J,"GDHI UKM3 South Western Scotland raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP8K,"GDHI UKM3 South Western Scotland raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP8L,"GDHI UKM3 South Western Scotland raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP8M,"GDHI UKM3 South Western Scotland raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP8N,"GDHI UKM3 South Western Scotland raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP8O,"GDHI UKM3 South Western Scotland raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP8P,"GDHI UKM3 South Western Scotland raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP8Q,"GDHI UKM3 South Western Scotland raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP8R,"GDHI UKM3 South Western Scotland raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP8S,"GDHI UKM3 South Western Scotland raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP8T,"GDHI UKM3 South Western Scotland raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP8U,"GDHI UKM6 Highlands & Islands raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP8V,"GDHI UKM6 Highlands & Islands raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP8W,"GDHI UKM6 Highlands & Islands raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP8X,"GDHI UKM6 Highlands & Islands raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP8Y,"GDHI UKM6 Highlands & Islands raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP8Z,"GDHI UKM6 Highlands & Islands raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP92,"GDHI UKM6 Highlands & Islands raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP93,"GDHI UKM6 Highlands & Islands raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP94,"GDHI UKM6 Highlands & Islands raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP95,"GDHI UKM6 Highlands & Islands raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP96,"GDHI UKM6 Highlands & Islands raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP97,"GDHI UKM6 Highlands & Islands raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP98,"GDHI UKM6 Highlands & Islands raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP99,"GDHI UKM6 Highlands & Islands raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP9A,"GDHI UKM6 Highlands & Islands raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CP9B,"GDHI UKN0 Northern Ireland raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+CP9C,"GDHI UKN0 Northern Ireland raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+CP9D,"GDHI UKN0 Northern Ireland raw Property Income Received £m",NSA,0,CURR,0,RGHI
+CP9E,"GDHI UKN0 Northern Ireland raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+CP9F,"GDHI UKN0 Northern Ireland raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+CP9G,"GDHI UKN0 Northern Ireland raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+CP9H,"GDHI UKN0 Northern Ireland raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+CP9I,"GDHI UKN0 Northern Ireland raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+CP9J,"GDHI UKN0 Northern Ireland raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+CP9K,"GDHI UKN0 Northern Ireland raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+CP9L,"GDHI UKN0 Northern Ireland raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+CP9M,"GDHI UKN0 Northern Ireland raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+CP9N,"GDHI UKN0 Northern Ireland raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+CP9O,"GDHI UKN0 Northern Ireland raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+CP9P,"GDHI UKN0 Northern Ireland raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+CQU9,"GDHI UKC11 Hartlepool & Stockton-on-Tees raw total £m",NSA,0,CURR,0,RGHI
+CQV2,"GDHI UKC12 South Teesside raw total £m",NSA,0,CURR,0,RGHI
+CQV3,"GDHI UKC13 Darlington raw total £m",NSA,0,CURR,0,RGHI
+CQV4,"GDHI UKC14 Durham CC raw total £m",NSA,0,CURR,0,RGHI
+CQV5,"GDHI UKC21 Northumberland raw total £m",NSA,0,CURR,0,RGHI
+CQV6,"GDHI UKC22 Tyneside raw total £m",NSA,0,CURR,0,RGHI
+CQV7,"GDHI UKC23 Sunderland raw total £m",NSA,0,CURR,0,RGHI
+CQV8,"GDHI UKD11 West Cumbria raw total £m",NSA,0,CURR,0,RGHI
+CQV9,"GDHI UKD12 East Cumbria raw total £m",NSA,0,CURR,0,RGHI
+CQW2,"GDHI UKD61 Warrington raw total £m",NSA,0,CURR,0,RGHI
+CQW3,"GDHI UKD62 Cheshire East raw total £m",NSA,0,CURR,0,RGHI
+CQW4,"GDHI UKD31 Greater Manchester South raw total £m",NSA,0,CURR,0,RGHI
+CQW5,"GDHI UKD32 Greater Manchester North raw total £m",NSA,0,CURR,0,RGHI
+CQW6,"GDHI UKD41 Blackburn with Darwen raw total £m",NSA,0,CURR,0,RGHI
+CQW7,"GDHI UKD42 Blackpool raw total £m",NSA,0,CURR,0,RGHI
+CQW8,"GDHI UKD43 Lancashire CC raw total £m",NSA,0,CURR,0,RGHI
+CQW9,"GDHI UKD71 East Merseyside raw total £m",NSA,0,CURR,0,RGHI
+CQX2,"GDHI UKD72 Liverpool raw total £m",NSA,0,CURR,0,RGHI
+CQX3,"GDHI UKD73 Sefton raw total £m",NSA,0,CURR,0,RGHI
+CQX4,"GDHI UKD74 Wirral raw total £m",NSA,0,CURR,0,RGHI
+CQX5,"GDHI UKE11 Kingston upon Hull raw total £m",NSA,0,CURR,0,RGHI
+CQX6,"GDHI UKE12 East Riding of Yorkshire raw total £m",NSA,0,CURR,0,RGHI
+CQX7,"GDHI UKE13 North & North East Lincolnshire raw total £m",NSA,0,CURR,0,RGHI
+CQX8,"GDHI UKE21 York raw total £m",NSA,0,CURR,0,RGHI
+CQX9,"GDHI UKE22 North Yorkshire CC raw total £m",NSA,0,CURR,0,RGHI
+CQY2,"GDHI UKE31 Barnsley, Doncaster & Rotherham raw total £m",NSA,0,CURR,0,RGHI
+CQY3,"GDHI UKE32 Sheffield raw total £m",NSA,0,CURR,0,RGHI
+CQY4,"GDHI UKE41 Bradford raw total £m",NSA,0,CURR,0,RGHI
+CQY5,"GDHI UKE42 Leeds raw total £m",NSA,0,CURR,0,RGHI
+CQY6,"GDHI UKE44 Calderdale & Kirklees raw total £m",NSA,0,CURR,0,RGHI
+CQY7,"GDHI UKF11 Derby raw total £m",NSA,0,CURR,0,RGHI
+CQY8,"GDHI UKF12 East Derbyshire raw total £m",NSA,0,CURR,0,RGHI
+CQY9,"GDHI UKF13 South & West Derbyshire raw total £m",NSA,0,CURR,0,RGHI
+CQZ2,"GDHI UKF14 Nottingham raw total £m",NSA,0,CURR,0,RGHI
+CQZ3,"GDHI UKF15 North Nottinghamshire raw total £m",NSA,0,CURR,0,RGHI
+CQZ4,"GDHI UKF16 South Nottinghamshire raw total £m",NSA,0,CURR,0,RGHI
+CQZ5,"GDHI UKF21 Leicester raw total £m",NSA,0,CURR,0,RGHI
+CQZ6,"GDHI UKF22 Leicestershire CC & Rutland raw total £m",NSA,0,CURR,0,RGHI
+CQZ7,"GDHI UKF24 West Northamptonshire raw total £m",NSA,0,CURR,0,RGHI
+CQZ8,"GDHI UKG11 Herefordshire raw total £m",NSA,0,CURR,0,RGHI
+CQZ9,"GDHI UKG12 Worcestershire raw total £m",NSA,0,CURR,0,RGHI
+CR22,"GDHI UKG13 Warwickshire raw total £m",NSA,0,CURR,0,RGHI
+CR23,"GDHI UKG21 Telford & Wrekin raw total £m",NSA,0,CURR,0,RGHI
+CR24,"GDHI UKG22 Shropshire CC raw total £m",NSA,0,CURR,0,RGHI
+CR25,"GDHI UKG23 Stoke-on-Trent raw total £m",NSA,0,CURR,0,RGHI
+CR26,"GDHI UKG24 Staffordshire CC raw total £m",NSA,0,CURR,0,RGHI
+CR27,"GDHI UKG31 Birmingham raw total £m",NSA,0,CURR,0,RGHI
+CR28,"GDHI UKG32 Solihull raw total £m",NSA,0,CURR,0,RGHI
+CR29,"GDHI UKG33 Coventry raw total £m",NSA,0,CURR,0,RGHI
+CR2A,"GDHI UKG36 Dudley raw total £m",NSA,0,CURR,0,RGHI
+CR2B,"GDHI UKG38 Walsall raw total £m",NSA,0,CURR,0,RGHI
+CR2C,"GDHI UKH11 Peterborough raw total £m",NSA,0,CURR,0,RGHI
+CR2D,"GDHI UKH12 Cambridgeshire CC raw total £m",NSA,0,CURR,0,RGHI
+CR2E,"GDHI UKH13 Norfolk raw total £m",NSA,0,CURR,0,RGHI
+CR2F,"GDHI UKH14 Suffolk raw total £m",NSA,0,CURR,0,RGHI
+CR2G,"GDHI UKH21 Luton raw total £m",NSA,0,CURR,0,RGHI
+CR2H,"GDHI UKH24 Bedford raw total £m",NSA,0,CURR,0,RGHI
+CR2I,"GDHI UKH23 Hertfordshire raw total £m",NSA,0,CURR,0,RGHI
+CR2J,"GDHI UKH31 Southend-on-Sea raw total £m",NSA,0,CURR,0,RGHI
+CR2K,"GDHI UKH32 Thurrock raw total £m",NSA,0,CURR,0,RGHI
+CR2L,"GDHI UKH33 Essex CC raw total £m",NSA,0,CURR,0,RGHI
+CR2M,"GDHI UKI11 Inner London - West raw total £m",NSA,0,CURR,0,RGHI
+CR2N,"GDHI UKI12 Inner London - East raw total £m",NSA,0,CURR,0,RGHI
+CR2O,"GDHI UKI21 Outer London - East & North East raw total £m",NSA,0,CURR,0,RGHI
+CR2P,"GDHI UKI22 Outer London - South raw total £m",NSA,0,CURR,0,RGHI
+CR2Q,"GDHI UKI23 Outer London - West & North West raw total £m",NSA,0,CURR,0,RGHI
+CR2R,"GDHI UKJ11 Berkshire raw total £m",NSA,0,CURR,0,RGHI
+CR2S,"GDHI UKJ12 Milton Keynes raw total £m",NSA,0,CURR,0,RGHI
+CR2T,"GDHI UKJ13 Buckinghamshire CC raw total £m",NSA,0,CURR,0,RGHI
+CR2U,"GDHI UKJ14 Oxfordshire raw total £m",NSA,0,CURR,0,RGHI
+CR2V,"GDHI UKJ21 Brighton & Hove raw total £m",NSA,0,CURR,0,RGHI
+CR2W,"GDHI UKJ22 East Sussex CC raw total £m",NSA,0,CURR,0,RGHI
+CR2X,"GDHI UKJ23 Surrey raw total £m",NSA,0,CURR,0,RGHI
+CR2Y,"GDHI UKJ24 West Sussex raw total £m",NSA,0,CURR,0,RGHI
+CR2Z,"GDHI UKJ31 Portsmouth raw total £m",NSA,0,CURR,0,RGHI
+CR32,"GDHI UKJ32 Southampton raw total £m",NSA,0,CURR,0,RGHI
+CR33,"GDHI UKJ33 Hampshire CC raw total £m",NSA,0,CURR,0,RGHI
+CR34,"GDHI UKJ34 Isle of Wight raw total £m",NSA,0,CURR,0,RGHI
+CR35,"GDHI UKJ41 Medway raw total £m",NSA,0,CURR,0,RGHI
+CR36,"GDHI UKJ42 Kent CC raw total £m",NSA,0,CURR,0,RGHI
+CR37,"GDHI UKK11 Bristol raw total £m",NSA,0,CURR,0,RGHI
+CR38,"GDHI UKK12 Bath, N & NE Somerset & South Glos raw total £m",NSA,0,CURR,0,RGHI
+CR39,"GDHI UKK13 Gloucestershire raw total £m",NSA,0,CURR,0,RGHI
+CR3A,"GDHI UKK14 Swindon raw total £m",NSA,0,CURR,0,RGHI
+CR3B,"GDHI UKK15 Wiltshire CC raw total £m",NSA,0,CURR,0,RGHI
+CR3C,"GDHI UKK21 Bournemouth & Poole raw total £m",NSA,0,CURR,0,RGHI
+CR3D,"GDHI UKK22 Dorset CC raw total £m",NSA,0,CURR,0,RGHI
+CR3E,"GDHI UKK23 Somerset raw total £m",NSA,0,CURR,0,RGHI
+CR3F,"GDHI UKK41 Plymouth raw total £m",NSA,0,CURR,0,RGHI
+CR3G,"GDHI UKK42 Torbay raw total £m",NSA,0,CURR,0,RGHI
+CR3H,"GDHI UKK43 Devon CC raw total £m",NSA,0,CURR,0,RGHI
+CR3I,"GDHI UKL11 Isle of Anglesey raw total £m",NSA,0,CURR,0,RGHI
+CR3J,"GDHI UKL12 Gwynedd raw total £m",NSA,0,CURR,0,RGHI
+CR3K,"GDHI UKL13 Conwy & Denbighshire raw total £m",NSA,0,CURR,0,RGHI
+CR3L,"GDHI UKL14 South West Wales raw total £m",NSA,0,CURR,0,RGHI
+CR3M,"GDHI UKL15 Central Valleys raw total £m",NSA,0,CURR,0,RGHI
+CR3N,"GDHI UKL16 Gwent Valleys raw total £m",NSA,0,CURR,0,RGHI
+CR3O,"GDHI UKL17 Bridgend & Neath Port Talbot raw total £m",NSA,0,CURR,0,RGHI
+CR3P,"GDHI UKL18 Swansea raw total £m",NSA,0,CURR,0,RGHI
+CR3Q,"GDHI UKL21 Monmouthshire & Newport raw total £m",NSA,0,CURR,0,RGHI
+CR3R,"GDHI UKL22 Cardiff & Vale of Glamorgan raw total £m",NSA,0,CURR,0,RGHI
+CR3S,"GDHI UKL23 Flintshire & Wrexham raw total £m",NSA,0,CURR,0,RGHI
+CR3T,"GDHI UKL24 Powys raw total £m",NSA,0,CURR,0,RGHI
+CR3U,"GDHI UKM21 Angus & Dundee City raw total £m",NSA,0,CURR,0,RGHI
+CR3V,"GDHI UKM22 Clackmannanshire & Fife raw total £m",NSA,0,CURR,0,RGHI
+CR3W,"GDHI UKM23 East Lothian & Midlothian raw total £m",NSA,0,CURR,0,RGHI
+CR3X,"GDHI UKM24 Scottish Borders raw total £m",NSA,0,CURR,0,RGHI
+CR3Y,"GDHI UKM25 Edinburgh raw total £m",NSA,0,CURR,0,RGHI
+CR3Z,"GDHI UKM26 Falkirk raw total £m",NSA,0,CURR,0,RGHI
+CR42,"GDHI UKM27 Perth & Kinross & Stirling raw total £m",NSA,0,CURR,0,RGHI
+CR43,"GDHI UKM28 West Lothian raw total £m",NSA,0,CURR,0,RGHI
+CR44,"GDHI UKM31 E & W Dunbartons, Helensburgh & Lomond raw total £m",NSA,0,CURR,0,RGHI
+CR45,"GDHI UKM32 Dumfries & Galloway raw total £m",NSA,0,CURR,0,RGHI
+CR46,"GDHI UKM33 East Ayrshire & North Ayrshire mainland raw total £m",NSA,0,CURR,0,RGHI
+CR47,"GDHI UKM34 Glasgow City raw total £m",NSA,0,CURR,0,RGHI
+CR48,"GDHI UKM35 Inverclyde, East Renfrews & Renfrews raw total £m",NSA,0,CURR,0,RGHI
+CR49,"GDHI UKM36 North Lanarkshire raw total £m",NSA,0,CURR,0,RGHI
+CR4A,"GDHI UKM37 South Ayrshire raw total £m",NSA,0,CURR,0,RGHI
+CR4B,"GDHI UKM38 South Lanarkshire raw total £m",NSA,0,CURR,0,RGHI
+CR4C,"GDHI UKM61 Caithness & Suth. & Ross & Cromarty raw total £m",NSA,0,CURR,0,RGHI
+CR4D,"GDHI UKM62 Inverness, Moray & Badenoch raw total £m",NSA,0,CURR,0,RGHI
+CR4E,"GDHI UKM63 Lochaber, Skye, Arran & Argyll raw total £m",NSA,0,CURR,0,RGHI
+CR4F,"GDHI UKM64 Eilean Siar (Western Isles) raw total £m",NSA,0,CURR,0,RGHI
+CR4G,"GDHI UKM65 Orkney Islands raw total £m",NSA,0,CURR,0,RGHI
+CR4H,"GDHI UKM66 Shetland Islands raw total £m",NSA,0,CURR,0,RGHI
+CR4I,"GDHI UKN01 Belfast raw total £m",NSA,0,CURR,0,RGHI
+CR4J,"GDHI UKN02 Outer Belfast raw total £m",NSA,0,CURR,0,RGHI
+CR4K,"GDHI UKN03 East of Northern Ireland raw total £m",NSA,0,CURR,0,RGHI
+CR4L,"GDHI UKN04 North of Northern Ireland raw total £m",NSA,0,CURR,0,RGHI
+CR4M,"GDHI UKN05 West & South of Northern Ireland raw total £m",NSA,0,CURR,0,RGHI
+CR4N,"GDHI UKC11 Hartlepool & Stockton-on-Tees raw per head £",NSA,0,CURR,0,RGHI
+CR4O,"GDHI UKC12 South Teesside raw per head £",NSA,0,CURR,0,RGHI
+CR4P,"GDHI UKC13 Darlington raw per head £",NSA,0,CURR,0,RGHI
+CR4Q,"GDHI UKC14 Durham CC raw per head £",NSA,0,CURR,0,RGHI
+CR4R,"GDHI UKC21 Northumberland raw per head £",NSA,0,CURR,0,RGHI
+CR4S,"GDHI UKC22 Tyneside raw per head £",NSA,0,CURR,0,RGHI
+CR4T,"GDHI UKC23 Sunderland raw per head £",NSA,0,CURR,0,RGHI
+CR4U,"GDHI UKD11 West Cumbria raw per head £",NSA,0,CURR,0,RGHI
+CR4V,"GDHI UKD12 East Cumbria raw per head £",NSA,0,CURR,0,RGHI
+CR4W,"GDHI UKD61 Warrington raw per head £",NSA,0,CURR,0,RGHI
+CR4X,"GDHI UKD62 Cheshire East raw per head £",NSA,0,CURR,0,RGHI
+CR4Y,"GDHI UKD31 Greater Manchester South raw per head £",NSA,0,CURR,0,RGHI
+CR4Z,"GDHI UKD32 Greater Manchester North raw per head £",NSA,0,CURR,0,RGHI
+CR52,"GDHI UKD41 Blackburn with Darwen raw per head £",NSA,0,CURR,0,RGHI
+CR53,"GDHI UKD42 Blackpool raw per head £",NSA,0,CURR,0,RGHI
+CR54,"GDHI UKD43 Lancashire CC raw per head £",NSA,0,CURR,0,RGHI
+CR55,"GDHI UKD71 East Merseyside raw per head £",NSA,0,CURR,0,RGHI
+CR56,"GDHI UKD72 Liverpool raw per head £",NSA,0,CURR,0,RGHI
+CR57,"GDHI UKD73 Sefton raw per head £",NSA,0,CURR,0,RGHI
+CR58,"GDHI UKD74 Wirral raw per head £",NSA,0,CURR,0,RGHI
+CR59,"GDHI UKE11 Kingston upon Hull raw per head £",NSA,0,CURR,0,RGHI
+CR5A,"GDHI UKE12 East Riding of Yorkshire raw per head £",NSA,0,CURR,0,RGHI
+CR5B,"GDHI UKE13 North & North East Lincolnshire raw per head £",NSA,0,CURR,0,RGHI
+CR5C,"GDHI UKE21 York raw per head £",NSA,0,CURR,0,RGHI
+CR5D,"GDHI UKE22 North Yorkshire CC raw per head £",NSA,0,CURR,0,RGHI
+CR5E,"GDHI UKE31 Barnsley, Doncaster & Rotherham raw per head £",NSA,0,CURR,0,RGHI
+CR5F,"GDHI UKE32 Sheffield raw per head £",NSA,0,CURR,0,RGHI
+CR5G,"GDHI UKE41 Bradford raw per head £",NSA,0,CURR,0,RGHI
+CR5H,"GDHI UKE42 Leeds raw per head £",NSA,0,CURR,0,RGHI
+CR5I,"GDHI UKE44 Calderdale & Kirklees raw per head £",NSA,0,CURR,0,RGHI
+CR5J,"GDHI UKF11 Derby raw per head £",NSA,0,CURR,0,RGHI
+CR5K,"GDHI UKF12 East Derbyshire raw per head £",NSA,0,CURR,0,RGHI
+CR5L,"GDHI UKF13 South & West Derbyshire raw per head £",NSA,0,CURR,0,RGHI
+CR5M,"GDHI UKF14 Nottingham raw per head £",NSA,0,CURR,0,RGHI
+CR5N,"GDHI UKF15 North Nottinghamshire raw per head £",NSA,0,CURR,0,RGHI
+CR5O,"GDHI UKF16 South Nottinghamshire raw per head £",NSA,0,CURR,0,RGHI
+CR5P,"GDHI UKF21 Leicester raw per head £",NSA,0,CURR,0,RGHI
+CR5Q,"GDHI UKF22 Leicestershire CC & Rutland raw per head £",NSA,0,CURR,0,RGHI
+CR5R,"GDHI UKF24 West Northamptonshire raw per head £",NSA,0,CURR,0,RGHI
+CR5S,"GDHI UKG11 Herefordshire raw per head £",NSA,0,CURR,0,RGHI
+CR5T,"GDHI UKG12 Worcestershire raw per head £",NSA,0,CURR,0,RGHI
+CR5U,"GDHI UKG13 Warwickshire raw per head £",NSA,0,CURR,0,RGHI
+CR5V,"GDHI UKG21 Telford & Wrekin raw per head £",NSA,0,CURR,0,RGHI
+CR5W,"GDHI UKG22 Shropshire CC raw per head £",NSA,0,CURR,0,RGHI
+CR5X,"GDHI UKG23 Stoke-on-Trent raw per head £",NSA,0,CURR,0,RGHI
+CR5Y,"GDHI UKG24 Staffordshire CC raw per head £",NSA,0,CURR,0,RGHI
+CR5Z,"GDHI UKG31 Birmingham raw per head £",NSA,0,CURR,0,RGHI
+CR62,"GDHI UKG32 Solihull raw per head £",NSA,0,CURR,0,RGHI
+CR63,"GDHI UKG33 Coventry raw per head £",NSA,0,CURR,0,RGHI
+CR64,"GDHI UKG36 Dudley raw per head £",NSA,0,CURR,0,RGHI
+CR65,"GDHI UKG38 Walsall raw per head £",NSA,0,CURR,0,RGHI
+CR66,"GDHI UKH11 Peterborough raw per head £",NSA,0,CURR,0,RGHI
+CR67,"GDHI UKH12 Cambridgeshire CC raw per head £",NSA,0,CURR,0,RGHI
+CR68,"GDHI UKH13 Norfolk raw per head £",NSA,0,CURR,0,RGHI
+CR69,"GDHI UKH14 Suffolk raw per head £",NSA,0,CURR,0,RGHI
+CR6A,"GDHI UKH21 Luton raw per head £",NSA,0,CURR,0,RGHI
+CR6B,"GDHI UKH24 Bedford raw per head £",NSA,0,CURR,0,RGHI
+CR6C,"GDHI UKH23 Hertfordshire raw per head £",NSA,0,CURR,0,RGHI
+CR6D,"GDHI UKH31 Southend-on-Sea raw per head £",NSA,0,CURR,0,RGHI
+CR6E,"GDHI UKH32 Thurrock raw per head £",NSA,0,CURR,0,RGHI
+CR6F,"GDHI UKH33 Essex CC raw per head £",NSA,0,CURR,0,RGHI
+CR6G,"GDHI UKI11 Inner London - West raw per head £",NSA,0,CURR,0,RGHI
+CR6H,"GDHI UKI12 Inner London - East raw per head £",NSA,0,CURR,0,RGHI
+CR6I,"GDHI UKI21 Outer London - East & North East raw per head £",NSA,0,CURR,0,RGHI
+CR6J,"GDHI UKI22 Outer London - South raw per head £",NSA,0,CURR,0,RGHI
+CR6K,"GDHI UKI23 Outer London - West & North West raw per head £",NSA,0,CURR,0,RGHI
+CR6L,"GDHI UKJ11 Berkshire raw per head £",NSA,0,CURR,0,RGHI
+CR6M,"GDHI UKJ12 Milton Keynes raw per head £",NSA,0,CURR,0,RGHI
+CR6N,"GDHI UKJ13 Buckinghamshire CC raw per head £",NSA,0,CURR,0,RGHI
+CR6O,"GDHI UKJ14 Oxfordshire raw per head £",NSA,0,CURR,0,RGHI
+CR6P,"GDHI UKJ21 Brighton & Hove raw per head £",NSA,0,CURR,0,RGHI
+CR6Q,"GDHI UKJ22 East Sussex CC raw per head £",NSA,0,CURR,0,RGHI
+CR6R,"GDHI UKJ23 Surrey raw per head £",NSA,0,CURR,0,RGHI
+CR6S,"GDHI UKJ24 West Sussex raw per head £",NSA,0,CURR,0,RGHI
+CR6T,"GDHI UKJ31 Portsmouth raw per head £",NSA,0,CURR,0,RGHI
+CR6U,"GDHI UKJ32 Southampton raw per head £",NSA,0,CURR,0,RGHI
+CR6V,"GDHI UKJ33 Hampshire CC raw per head £",NSA,0,CURR,0,RGHI
+CR6W,"GDHI UKJ34 Isle of Wight raw per head £",NSA,0,CURR,0,RGHI
+CR6X,"GDHI UKJ41 Medway raw per head £",NSA,0,CURR,0,RGHI
+CR6Y,"GDHI UKJ42 Kent CC raw per head £",NSA,0,CURR,0,RGHI
+CR6Z,"GDHI UKK11 Bristol raw per head £",NSA,0,CURR,0,RGHI
+CR72,"GDHI UKK12 Bath, N & NE Somerset & South Glos raw per head £",NSA,0,CURR,0,RGHI
+CR73,"GDHI UKK13 Gloucestershire raw per head £",NSA,0,CURR,0,RGHI
+CR74,"GDHI UKK14 Swindon raw per head £",NSA,0,CURR,0,RGHI
+CR75,"GDHI UKK15 Wiltshire CC raw per head £",NSA,0,CURR,0,RGHI
+CR76,"GDHI UKK21 Bournemouth & Poole raw per head £",NSA,0,CURR,0,RGHI
+CR77,"GDHI UKK22 Dorset CC raw per head £",NSA,0,CURR,0,RGHI
+CR99,"GDHI UKK23 Somerset raw per head £",NSA,0,CURR,0,RGHI
+CR9A,"GDHI UKK41 Plymouth raw per head £",NSA,0,CURR,0,RGHI
+CR9B,"GDHI UKK42 Torbay raw per head £",NSA,0,CURR,0,RGHI
+CR9C,"GDHI UKK43 Devon CC raw per head £",NSA,0,CURR,0,RGHI
+CR9D,"GDHI UKL11 Isle of Anglesey raw per head £",NSA,0,CURR,0,RGHI
+CR9E,"GDHI UKL12 Gwynedd raw per head £",NSA,0,CURR,0,RGHI
+CR9F,"GDHI UKL13 Conwy & Denbighshire raw per head £",NSA,0,CURR,0,RGHI
+CR9G,"GDHI UKL14 South West Wales raw per head £",NSA,0,CURR,0,RGHI
+CR9H,"GDHI UKL15 Central Valleys raw per head £",NSA,0,CURR,0,RGHI
+CR9I,"GDHI UKL16 Gwent Valleys raw per head £",NSA,0,CURR,0,RGHI
+CR9J,"GDHI UKL17 Bridgend & Neath Port Talbot raw per head £",NSA,0,CURR,0,RGHI
+CR9K,"GDHI UKL18 Swansea raw per head £",NSA,0,CURR,0,RGHI
+CR9L,"GDHI UKL21 Monmouthshire & Newport raw per head £",NSA,0,CURR,0,RGHI
+CR9M,"GDHI UKL22 Cardiff & Vale of Glamorgan raw per head £",NSA,0,CURR,0,RGHI
+CR9N,"GDHI UKL23 Flintshire & Wrexham raw per head £",NSA,0,CURR,0,RGHI
+CR9O,"GDHI UKL24 Powys raw per head £",NSA,0,CURR,0,RGHI
+CR9P,"GDHI UKM21 Angus & Dundee City raw per head £",NSA,0,CURR,0,RGHI
+CR9Q,"GDHI UKM22 Clackmannanshire & Fife raw per head £",NSA,0,CURR,0,RGHI
+CR9R,"GDHI UKM23 East Lothian & Midlothian raw per head £",NSA,0,CURR,0,RGHI
+CR9S,"GDHI UKM24 Scottish Borders raw per head £",NSA,0,CURR,0,RGHI
+CR9T,"GDHI UKM25 Edinburgh raw per head £",NSA,0,CURR,0,RGHI
+CR9U,"GDHI UKM26 Falkirk raw per head £",NSA,0,CURR,0,RGHI
+CR9V,"GDHI UKM27 Perth & Kinross & Stirling raw per head £",NSA,0,CURR,0,RGHI
+CR9W,"GDHI UKM28 West Lothian raw per head £",NSA,0,CURR,0,RGHI
+CR9X,"GDHI UKM31 E & W Dunbartons, Helensburgh & Lomond raw per head £",NSA,0,CURR,0,RGHI
+CR9Y,"GDHI UKM32 Dumfries & Galloway raw per head £",NSA,0,CURR,0,RGHI
+CR9Z,"GDHI UKM33 East Ayrshire & North Ayrshire mainland raw per head £",NSA,0,CURR,0,RGHI
+CRA2,"GDHI UKM34 Glasgow City raw per head £",NSA,0,CURR,0,RGHI
+CRA3,"GDHI UKM35 Inverclyde, East Renfrews & Renfrews raw per head £",NSA,0,CURR,0,RGHI
+CRA4,"GDHI UKM36 North Lanarkshire raw per head £",NSA,0,CURR,0,RGHI
+CRA5,"GDHI UKM37 South Ayrshire raw per head £",NSA,0,CURR,0,RGHI
+CRA6,"GDHI UKM38 South Lanarkshire raw per head £",NSA,0,CURR,0,RGHI
+CRA7,"GDHI UKM61 Caithness & Suth. & Ross & Cromarty raw per head £",NSA,0,CURR,0,RGHI
+CRA8,"GDHI UKM62 Inverness, Moray & Badenoch raw per head £",NSA,0,CURR,0,RGHI
+CRA9,"GDHI UKM63 Lochaber, Skye, Arran & Argyll raw per head £",NSA,0,CURR,0,RGHI
+CRB2,"GDHI UKM64 Eilean Siar (Western Isles) raw per head £",NSA,0,CURR,0,RGHI
+CRB3,"GDHI UKM65 Orkney Islands raw per head £",NSA,0,CURR,0,RGHI
+CRB4,"GDHI UKM66 Shetland Islands raw per head £",NSA,0,CURR,0,RGHI
+CRB5,"GDHI UKN01 Belfast raw per head £",NSA,0,CURR,0,RGHI
+CRB6,"GDHI UKN02 Outer Belfast raw per head £",NSA,0,CURR,0,RGHI
+CRB7,"GDHI UKN03 East of Northern Ireland raw per head £",NSA,0,CURR,0,RGHI
+CRB8,"GDHI UKN04 North of Northern Ireland raw per head £",NSA,0,CURR,0,RGHI
+CRB9,"GDHI UKN05 West & South of Northern Ireland raw per head £",NSA,0,CURR,0,RGHI
+CRC2,"GDHI UKC11 Hartlepool & Stockton-on-Tees raw per head index",NSA,0,CURR,0,RGHI
+CRC3,"GDHI UKC12 South Teesside raw per head index",NSA,0,CURR,0,RGHI
+CRC4,"GDHI UKC13 Darlington raw per head index",NSA,0,CURR,0,RGHI
+CRC5,"GDHI UKC14 Durham CC raw per head index",NSA,0,CURR,0,RGHI
+CRC6,"GDHI UKC21 Northumberland raw per head index",NSA,0,CURR,0,RGHI
+CRC7,"GDHI UKC22 Tyneside raw per head index",NSA,0,CURR,0,RGHI
+CRC8,"GDHI UKC23 Sunderland raw per head index",NSA,0,CURR,0,RGHI
+CRC9,"GDHI UKD11 West Cumbria raw per head index",NSA,0,CURR,0,RGHI
+CRD2,"GDHI UKD12 East Cumbria raw per head index",NSA,0,CURR,0,RGHI
+CRD3,"GDHI UKD61 Warrington raw per head index",NSA,0,CURR,0,RGHI
+CRD4,"GDHI UKD62 Cheshire East raw per head index",NSA,0,CURR,0,RGHI
+CRD5,"GDHI UKD31 Greater Manchester South raw per head index",NSA,0,CURR,0,RGHI
+CRD6,"GDHI UKD32 Greater Manchester North raw per head index",NSA,0,CURR,0,RGHI
+CRD7,"GDHI UKD41 Blackburn with Darwen raw per head index",NSA,0,CURR,0,RGHI
+CRD8,"GDHI UKD42 Blackpool raw per head index",NSA,0,CURR,0,RGHI
+CRD9,"GDHI UKD43 Lancashire CC raw per head index",NSA,0,CURR,0,RGHI
+CRE2,"GDHI UKD71 East Merseyside raw per head index",NSA,0,CURR,0,RGHI
+CRE3,"GDHI UKD72 Liverpool raw per head index",NSA,0,CURR,0,RGHI
+CRE4,"GDHI UKD73 Sefton raw per head index",NSA,0,CURR,0,RGHI
+CRE5,"GDHI UKD74 Wirral raw per head index",NSA,0,CURR,0,RGHI
+CRE6,"GDHI UKE11 Kingston upon Hull raw per head index",NSA,0,CURR,0,RGHI
+CRE7,"GDHI UKE12 East Riding of Yorkshire raw per head index",NSA,0,CURR,0,RGHI
+CRE8,"GDHI UKE13 North & North East Lincolnshire raw per head index",NSA,0,CURR,0,RGHI
+CRE9,"GDHI UKE21 York raw per head index",NSA,0,CURR,0,RGHI
+CRF2,"GDHI UKE22 North Yorkshire CC raw per head index",NSA,0,CURR,0,RGHI
+CRF3,"GDHI UKE31 Barnsley, Doncaster & Rotherham raw per head index",NSA,0,CURR,0,RGHI
+CRF4,"GDHI UKE32 Sheffield raw per head index",NSA,0,CURR,0,RGHI
+CRF5,"GDHI UKE41 Bradford raw per head index",NSA,0,CURR,0,RGHI
+CRF6,"GDHI UKE42 Leeds raw per head index",NSA,0,CURR,0,RGHI
+CRF7,"GDHI UKE44 Calderdale & Kirklees raw per head index",NSA,0,CURR,0,RGHI
+CRF8,"GDHI UKF11 Derby raw per head index",NSA,0,CURR,0,RGHI
+CRF9,"GDHI UKF12 East Derbyshire raw per head index",NSA,0,CURR,0,RGHI
+CRG2,"GDHI UKF13 South & West Derbyshire raw per head index",NSA,0,CURR,0,RGHI
+CRG3,"GDHI UKF14 Nottingham raw per head index",NSA,0,CURR,0,RGHI
+CRG4,"GDHI UKF15 North Nottinghamshire raw per head index",NSA,0,CURR,0,RGHI
+CRG5,"GDHI UKF16 South Nottinghamshire raw per head index",NSA,0,CURR,0,RGHI
+CRG6,"GDHI UKF21 Leicester raw per head index",NSA,0,CURR,0,RGHI
+CRG7,"GDHI UKF22 Leicestershire CC & Rutland raw per head index",NSA,0,CURR,0,RGHI
+CRG8,"GDHI UKF24 West Northamptonshire raw per head index",NSA,0,CURR,0,RGHI
+CRG9,"GDHI UKG11 Herefordshire raw per head index",NSA,0,CURR,0,RGHI
+CRH2,"GDHI UKG12 Worcestershire raw per head index",NSA,0,CURR,0,RGHI
+CRH3,"GDHI UKG13 Warwickshire raw per head index",NSA,0,CURR,0,RGHI
+CRH4,"GDHI UKG21 Telford & Wrekin raw per head index",NSA,0,CURR,0,RGHI
+CRH5,"GDHI UKG22 Shropshire CC raw per head index",NSA,0,CURR,0,RGHI
+CRH6,"GDHI UKG23 Stoke-on-Trent raw per head index",NSA,0,CURR,0,RGHI
+CRH7,"GDHI UKG24 Staffordshire CC raw per head index",NSA,0,CURR,0,RGHI
+CRH8,"GDHI UKG31 Birmingham raw per head index",NSA,0,CURR,0,RGHI
+CRH9,"GDHI UKG32 Solihull raw per head index",NSA,0,CURR,0,RGHI
+CRI2,"GDHI UKG33 Coventry raw per head index",NSA,0,CURR,0,RGHI
+CRI3,"GDHI UKG36 Dudley raw per head index",NSA,0,CURR,0,RGHI
+CRI4,"GDHI UKG38 Walsall raw per head index",NSA,0,CURR,0,RGHI
+CRI5,"GDHI UKH11 Peterborough raw per head index",NSA,0,CURR,0,RGHI
+CRI6,"GDHI UKH12 Cambridgeshire CC raw per head index",NSA,0,CURR,0,RGHI
+CRI7,"GDHI UKH13 Norfolk raw per head index",NSA,0,CURR,0,RGHI
+CRI8,"GDHI UKH14 Suffolk raw per head index",NSA,0,CURR,0,RGHI
+CRI9,"GDHI UKH21 Luton raw per head index",NSA,0,CURR,0,RGHI
+CRJ2,"GDHI UKH24 Bedford raw per head index",NSA,0,CURR,0,RGHI
+CRJ3,"GDHI UKH23 Hertfordshire raw per head index",NSA,0,CURR,0,RGHI
+CRJ4,"GDHI UKH31 Southend-on-Sea raw per head index",NSA,0,CURR,0,RGHI
+CRJ5,"GDHI UKH32 Thurrock raw per head index",NSA,0,CURR,0,RGHI
+CRJ6,"GDHI UKH33 Essex CC raw per head index",NSA,0,CURR,0,RGHI
+CRJ7,"GDHI UKI11 Inner London - West raw per head index",NSA,0,CURR,0,RGHI
+CRJ8,"GDHI UKI12 Inner London - East raw per head index",NSA,0,CURR,0,RGHI
+CRJ9,"GDHI UKI21 Outer London - East & North East raw per head index",NSA,0,CURR,0,RGHI
+CRK2,"GDHI UKI22 Outer London - South raw per head index",NSA,0,CURR,0,RGHI
+CRK3,"GDHI UKI23 Outer London - West & North West raw per head index",NSA,0,CURR,0,RGHI
+CRK4,"GDHI UKJ11 Berkshire raw per head index",NSA,0,CURR,0,RGHI
+CRK5,"GDHI UKJ12 Milton Keynes raw per head index",NSA,0,CURR,0,RGHI
+CRK6,"GDHI UKJ13 Buckinghamshire CC raw per head index",NSA,0,CURR,0,RGHI
+CRK7,"GDHI UKJ14 Oxfordshire raw per head index",NSA,0,CURR,0,RGHI
+CRK8,"GDHI UKJ21 Brighton & Hove raw per head index",NSA,0,CURR,0,RGHI
+CRK9,"GDHI UKJ22 East Sussex CC raw per head index",NSA,0,CURR,0,RGHI
+CRL2,"GDHI UKJ23 Surrey raw per head index",NSA,0,CURR,0,RGHI
+CRL3,"GDHI UKJ24 West Sussex raw per head index",NSA,0,CURR,0,RGHI
+CRL4,"GDHI UKJ31 Portsmouth raw per head index",NSA,0,CURR,0,RGHI
+CRL5,"GDHI UKJ32 Southampton raw per head index",NSA,0,CURR,0,RGHI
+CRL6,"GDHI UKJ33 Hampshire CC raw per head index",NSA,0,CURR,0,RGHI
+CRL7,"GDHI UKJ34 Isle of Wight raw per head index",NSA,0,CURR,0,RGHI
+CRL8,"GDHI UKJ41 Medway raw per head index",NSA,0,CURR,0,RGHI
+CRL9,"GDHI UKJ42 Kent CC raw per head index",NSA,0,CURR,0,RGHI
+CRM2,"GDHI UKK11 Bristol raw per head index",NSA,0,CURR,0,RGHI
+CRM3,"GDHI UKK12 Bath, N & NE Somerset & South Glos raw per head index",NSA,0,CURR,0,RGHI
+CRM4,"GDHI UKK13 Gloucestershire raw per head index",NSA,0,CURR,0,RGHI
+CRM5,"GDHI UKK14 Swindon raw per head index",NSA,0,CURR,0,RGHI
+CRM6,"GDHI UKK15 Wiltshire CC raw per head index",NSA,0,CURR,0,RGHI
+CRM7,"GDHI UKK21 Bournemouth & Poole raw per head index",NSA,0,CURR,0,RGHI
+CRM8,"GDHI UKK22 Dorset CC raw per head index",NSA,0,CURR,0,RGHI
+CRM9,"GDHI UKK23 Somerset raw per head index",NSA,0,CURR,0,RGHI
+CRN2,"GDHI UKK41 Plymouth raw per head index",NSA,0,CURR,0,RGHI
+CRN3,"GDHI UKK42 Torbay raw per head index",NSA,0,CURR,0,RGHI
+CRN4,"GDHI UKK43 Devon CC raw per head index",NSA,0,CURR,0,RGHI
+CRN5,"GDHI UKL11 Isle of Anglesey raw per head index",NSA,0,CURR,0,RGHI
+CRN6,"GDHI UKL12 Gwynedd raw per head index",NSA,0,CURR,0,RGHI
+CRN7,"GDHI UKL13 Conwy & Denbighshire raw per head index",NSA,0,CURR,0,RGHI
+CRN8,"GDHI UKL14 South West Wales raw per head index",NSA,0,CURR,0,RGHI
+CRN9,"GDHI UKL15 Central Valleys raw per head index",NSA,0,CURR,0,RGHI
+CRO2,"GDHI UKL16 Gwent Valleys raw per head index",NSA,0,CURR,0,RGHI
+CRO3,"GDHI UKL17 Bridgend & Neath Port Talbot raw per head index",NSA,0,CURR,0,RGHI
+CRO4,"GDHI UKL18 Swansea raw per head index",NSA,0,CURR,0,RGHI
+CRO5,"GDHI UKL21 Monmouthshire & Newport raw per head index",NSA,0,CURR,0,RGHI
+CRO6,"GDHI UKL22 Cardiff & Vale of Glamorgan raw per head index",NSA,0,CURR,0,RGHI
+CRO7,"GDHI UKL23 Flintshire & Wrexham raw per head index",NSA,0,CURR,0,RGHI
+CRO8,"GDHI UKL24 Powys raw per head index",NSA,0,CURR,0,RGHI
+CRO9,"GDHI UKM21 Angus & Dundee City raw per head index",NSA,0,CURR,0,RGHI
+CRP2,"GDHI UKM22 Clackmannanshire & Fife raw per head index",NSA,0,CURR,0,RGHI
+CRP3,"GDHI UKM23 East Lothian & Midlothian raw per head index",NSA,0,CURR,0,RGHI
+CRP4,"GDHI UKM24 Scottish Borders raw per head index",NSA,0,CURR,0,RGHI
+CRP5,"GDHI UKM25 Edinburgh raw per head index",NSA,0,CURR,0,RGHI
+CRP6,"GDHI UKM26 Falkirk raw per head index",NSA,0,CURR,0,RGHI
+CRP7,"GDHI UKM27 Perth & Kinross & Stirling raw per head index",NSA,0,CURR,0,RGHI
+CRP8,"GDHI UKM28 West Lothian raw per head index",NSA,0,CURR,0,RGHI
+CRP9,"GDHI UKM31 E & W Dunbartons, Helensburgh & Lomond raw per head index",NSA,0,CURR,0,RGHI
+CRQ2,"GDHI UKM32 Dumfries & Galloway raw per head index",NSA,0,CURR,0,RGHI
+CRQ3,"GDHI UKM33 East Ayrshire & North Ayrshire mainland raw per head index",NSA,0,CURR,0,RGHI
+CRQ4,"GDHI UKM34 Glasgow City raw per head index",NSA,0,CURR,0,RGHI
+CRQ5,"GDHI UKM35 Inverclyde, East Renfrews & Renfrews raw per head index",NSA,0,CURR,0,RGHI
+CRQ6,"GDHI UKM36 North Lanarkshire raw per head index",NSA,0,CURR,0,RGHI
+CRQ7,"GDHI UKM37 South Ayrshire raw per head index",NSA,0,CURR,0,RGHI
+CRQ8,"GDHI UKM38 South Lanarkshire raw per head index",NSA,0,CURR,0,RGHI
+CRQ9,"GDHI UKM61 Caithness & Suth. & Ross & Cromarty raw per head index",NSA,0,CURR,0,RGHI
+CRR2,"GDHI UKM62 Inverness, Moray & Badenoch raw per head index",NSA,0,CURR,0,RGHI
+CRR3,"GDHI UKM63 Lochaber, Skye, Arran & Argyll raw per head index",NSA,0,CURR,0,RGHI
+CRR4,"GDHI UKM64 Eilean Siar (Western Isles) raw per head index",NSA,0,CURR,0,RGHI
+CRR5,"GDHI UKM65 Orkney Islands raw per head index",NSA,0,CURR,0,RGHI
+CRR6,"GDHI UKM66 Shetland Islands raw per head index",NSA,0,CURR,0,RGHI
+CRR7,"GDHI UKN01 Belfast raw per head index",NSA,0,CURR,0,RGHI
+CRR8,"GDHI UKN02 Outer Belfast raw per head index",NSA,0,CURR,0,RGHI
+CRR9,"GDHI UKN03 East of Northern Ireland raw per head index",NSA,0,CURR,0,RGHI
+CRS2,"GDHI UKN04 North of Northern Ireland raw per head index",NSA,0,CURR,0,RGHI
+CRS3,"GDHI UKN05 West & South of Northern Ireland raw per head index",NSA,0,CURR,0,RGHI
+CRS4,"GDHI UKC11 Hartlepool & Stockton-on-Tees raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRS5,"GDHI UKC11 Hartlepool & Stockton-on-Tees raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRS6,"GDHI UKC12 South Teesside raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRS7,"GDHI UKC12 South Teesside raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRS8,"GDHI UKC13 Darlington raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRS9,"GDHI UKC13 Darlington raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRT2,"GDHI UKC14 Durham CC raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRT3,"GDHI UKC14 Durham CC raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRT4,"GDHI UKC21 Northumberland raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRT5,"GDHI UKC21 Northumberland raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRT6,"GDHI UKC22 Tyneside raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRT7,"GDHI UKC22 Tyneside raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRT8,"GDHI UKC23 Sunderland raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRT9,"GDHI UKC23 Sunderland raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRU2,"GDHI UKD11 West Cumbria raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRU3,"GDHI UKD11 West Cumbria raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRU4,"GDHI UKD12 East Cumbria raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRU5,"GDHI UKD12 East Cumbria raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRU6,"GDHI UKD61 Warrington raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRU7,"GDHI UKD61 Warrington raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRU8,"GDHI UKD62 Cheshire East raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRU9,"GDHI UKD62 Cheshire East raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRV2,"GDHI UKD31 Greater Manchester South raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRV3,"GDHI UKD31 Greater Manchester South raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRV4,"GDHI UKD32 Greater Manchester North raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRV5,"GDHI UKD32 Greater Manchester North raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRV6,"GDHI UKD41 Blackburn with Darwen raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRV7,"GDHI UKD41 Blackburn with Darwen raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRV8,"GDHI UKD42 Blackpool raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRV9,"GDHI UKD42 Blackpool raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRW2,"GDHI UKD43 Lancashire CC raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRW3,"GDHI UKD43 Lancashire CC raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRW4,"GDHI UKD71 East Merseyside raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRW5,"GDHI UKD71 East Merseyside raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRW6,"GDHI UKD72 Liverpool raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRW7,"GDHI UKD72 Liverpool raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRW8,"GDHI UKD73 Sefton raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRW9,"GDHI UKD73 Sefton raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRX2,"GDHI UKD74 Wirral raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRX3,"GDHI UKD74 Wirral raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRX4,"GDHI UKE11 Kingston upon Hull raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRX5,"GDHI UKE11 Kingston upon Hull raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRX6,"GDHI UKE12 East Riding of Yorkshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRX7,"GDHI UKE12 East Riding of Yorkshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRX8,"GDHI UKE13 North & North East Lincolnshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRX9,"GDHI UKE13 North & North East Lincolnshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRY2,"GDHI UKE21 York raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRY3,"GDHI UKE21 York raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRY4,"GDHI UKE22 North Yorkshire CC raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRY5,"GDHI UKE22 North Yorkshire CC raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRY6,"GDHI UKE31 Barnsley, Doncaster & Rotherham raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRY7,"GDHI UKE31 Barnsley, Doncaster & Rotherham raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRY8,"GDHI UKE32 Sheffield raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRY9,"GDHI UKE32 Sheffield raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRZ2,"GDHI UKE41 Bradford raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRZ3,"GDHI UKE41 Bradford raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRZ4,"GDHI UKE42 Leeds raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRZ5,"GDHI UKE42 Leeds raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRZ6,"GDHI UKE44 Calderdale & Kirklees raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRZ7,"GDHI UKE44 Calderdale & Kirklees raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CRZ8,"GDHI UKF11 Derby raw Primary Income £m",NSA,0,CURR,0,RGHI
+CRZ9,"GDHI UKF11 Derby raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS22,"GDHI UKF12 East Derbyshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS23,"GDHI UKF12 East Derbyshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS24,"GDHI UKF13 South & West Derbyshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS25,"GDHI UKF13 South & West Derbyshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS26,"GDHI UKF14 Nottingham raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS27,"GDHI UKF14 Nottingham raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS28,"GDHI UKF15 North Nottinghamshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS29,"GDHI UKF15 North Nottinghamshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS2A,"GDHI UKF16 South Nottinghamshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS2B,"GDHI UKF16 South Nottinghamshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS2C,"GDHI UKF21 Leicester raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS2D,"GDHI UKF21 Leicester raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS2E,"GDHI UKF22 Leicestershire CC & Rutland raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS2F,"GDHI UKF22 Leicestershire CC & Rutland raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS2G,"GDHI UKF24 West Northamptonshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS2H,"GDHI UKF24 West Northamptonshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS2I,"GDHI UKF30 Lincolnshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS2J,"GDHI UKF30 Lincolnshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS2K,"GDHI UKG11 Herefordshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS2L,"GDHI UKG11 Herefordshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS2M,"GDHI UKG12 Worcestershire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS2N,"GDHI UKG12 Worcestershire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS2O,"GDHI UKG13 Warwickshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS2P,"GDHI UKG13 Warwickshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS2Q,"GDHI UKG21 Telford & Wrekin raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS2R,"GDHI UKG21 Telford & Wrekin raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS2S,"GDHI UKG22 Shropshire CC raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS2T,"GDHI UKG22 Shropshire CC raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS2U,"GDHI UKG23 Stoke-on-Trent raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS2V,"GDHI UKG23 Stoke-on-Trent raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS2W,"GDHI UKG24 Staffordshire CC raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS2X,"GDHI UKG24 Staffordshire CC raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS2Y,"GDHI UKG31 Birmingham raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS2Z,"GDHI UKG31 Birmingham raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS32,"GDHI UKG32 Solihull raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS33,"GDHI UKG32 Solihull raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS34,"GDHI UKG33 Coventry raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS35,"GDHI UKG33 Coventry raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS36,"GDHI UKG36 Dudley raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS37,"GDHI UKG36 Dudley raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS38,"GDHI UKG38 Walsall raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS39,"GDHI UKG38 Walsall raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS3A,"GDHI UKH11 Peterborough raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS3B,"GDHI UKH11 Peterborough raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS3C,"GDHI UKH12 Cambridgeshire CC raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS3D,"GDHI UKH12 Cambridgeshire CC raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS3E,"GDHI UKH13 Norfolk raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS3F,"GDHI UKH13 Norfolk raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS3G,"GDHI UKH14 Suffolk raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS3H,"GDHI UKH14 Suffolk raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS3I,"GDHI UKH21 Luton raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS3J,"GDHI UKH21 Luton raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS3K,"GDHI UKH24 Bedford raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS3L,"GDHI UKH24 Bedford raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS3M,"GDHI UKH23 Hertfordshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS3N,"GDHI UKH23 Hertfordshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS3O,"GDHI UKH31 Southend-on-Sea raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS3P,"GDHI UKH31 Southend-on-Sea raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS3Q,"GDHI UKH32 Thurrock raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS3R,"GDHI UKH32 Thurrock raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS3S,"GDHI UKH33 Essex CC raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS3T,"GDHI UKH33 Essex CC raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS3U,"GDHI UKI11 Inner London - West raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS3V,"GDHI UKI11 Inner London - West raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS3W,"GDHI UKI12 Inner London - East raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS3X,"GDHI UKI12 Inner London - East raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS3Y,"GDHI UKI21 Outer London - East & North East raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS3Z,"GDHI UKI21 Outer London - East & North East raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS42,"GDHI UKI22 Outer London - South raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS43,"GDHI UKI22 Outer London - South raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS44,"GDHI UKI23 Outer London - West & North West raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS45,"GDHI UKI23 Outer London - West & North West raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS46,"GDHI UKJ11 Berkshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS47,"GDHI UKJ11 Berkshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS48,"GDHI UKJ12 Milton Keynes raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS49,"GDHI UKJ12 Milton Keynes raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS4A,"GDHI UKJ13 Buckinghamshire CC raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS4B,"GDHI UKJ13 Buckinghamshire CC raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS4C,"GDHI UKJ14 Oxfordshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS4D,"GDHI UKJ14 Oxfordshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS4E,"GDHI UKJ21 Brighton & Hove raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS4F,"GDHI UKJ21 Brighton & Hove raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS4G,"GDHI UKJ22 East Sussex CC raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS4H,"GDHI UKJ22 East Sussex CC raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS4I,"GDHI UKJ23 Surrey raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS4J,"GDHI UKJ23 Surrey raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS4K,"GDHI UKJ24 West Sussex raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS4L,"GDHI UKJ24 West Sussex raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS4M,"GDHI UKJ31 Portsmouth raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS4N,"GDHI UKJ31 Portsmouth raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS4O,"GDHI UKJ32 Southampton raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS4P,"GDHI UKJ32 Southampton raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS4Q,"GDHI UKJ33 Hampshire CC raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS4R,"GDHI UKJ33 Hampshire CC raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS4S,"GDHI UKJ34 Isle of Wight raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS4T,"GDHI UKJ34 Isle of Wight raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS4U,"GDHI UKJ41 Medway raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS4V,"GDHI UKJ41 Medway raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS4W,"GDHI UKJ42 Kent CC raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS4X,"GDHI UKJ42 Kent CC raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS4Y,"GDHI UKK11 Bristol raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS4Z,"GDHI UKK11 Bristol raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS52,"GDHI UKK12 Bath, N & NE Somerset & South Glos raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS53,"GDHI UKK12 Bath, N & NE Somerset & South Glos raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS54,"GDHI UKK13 Gloucestershire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS55,"GDHI UKK13 Gloucestershire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS56,"GDHI UKK14 Swindon raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS57,"GDHI UKK14 Swindon raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS58,"GDHI UKK15 Wiltshire CC raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS59,"GDHI UKK15 Wiltshire CC raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS5A,"GDHI UKK21 Bournemouth & Poole raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS5B,"GDHI UKK21 Bournemouth & Poole raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS5C,"GDHI UKK22 Dorset CC raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS5D,"GDHI UKK22 Dorset CC raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS5E,"GDHI UKK23 Somerset raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS5F,"GDHI UKK23 Somerset raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS5G,"GDHI UKK30 Cornwall & Isles of Scilly raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS5H,"GDHI UKK30 Cornwall & Isles of Scilly raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS5I,"GDHI UKK41 Plymouth raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS5J,"GDHI UKK41 Plymouth raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS5K,"GDHI UKK42 Torbay raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS5L,"GDHI UKK42 Torbay raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS5M,"GDHI UKK43 Devon CC raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS5N,"GDHI UKK43 Devon CC raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS5O,"GDHI UKL11 Isle of Anglesey raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS5P,"GDHI UKL11 Isle of Anglesey raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS5Q,"GDHI UKL12 Gwynedd raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS5R,"GDHI UKL12 Gwynedd raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS5S,"GDHI UKL13 Conwy & Denbighshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS5T,"GDHI UKL13 Conwy & Denbighshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS5U,"GDHI UKL14 South West Wales raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS5V,"GDHI UKL14 South West Wales raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS5W,"GDHI UKL15 Central Valleys raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS5X,"GDHI UKL15 Central Valleys raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS5Y,"GDHI UKL16 Gwent Valleys raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS5Z,"GDHI UKL16 Gwent Valleys raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS62,"GDHI UKL17 Bridgend & Neath Port Talbot raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS63,"GDHI UKL17 Bridgend & Neath Port Talbot raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS64,"GDHI UKL18 Swansea raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS65,"GDHI UKL18 Swansea raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS66,"GDHI UKL21 Monmouthshire & Newport raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS67,"GDHI UKL21 Monmouthshire & Newport raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS68,"GDHI UKL22 Cardiff & Vale of Glamorgan raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS69,"GDHI UKL22 Cardiff & Vale of Glamorgan raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS6A,"GDHI UKL23 Flintshire & Wrexham raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS6B,"GDHI UKL23 Flintshire & Wrexham raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS6C,"GDHI UKL24 Powys raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS6D,"GDHI UKL24 Powys raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS6E,"GDHI UKM50 Aberdeen City & Aberdeenshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS6F,"GDHI UKM50 Aberdeen City & Aberdeenshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS6G,"GDHI UKM21 Angus & Dundee City raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS6H,"GDHI UKM21 Angus & Dundee City raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS6I,"GDHI UKM22 Clackmannanshire & Fife raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS6J,"GDHI UKM22 Clackmannanshire & Fife raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS6K,"GDHI UKM23 East Lothian & Midlothian raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS6L,"GDHI UKM23 East Lothian & Midlothian raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS6M,"GDHI UKM24 Scottish Borders raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS6N,"GDHI UKM24 Scottish Borders raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS6O,"GDHI UKM25 Edinburgh raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS6P,"GDHI UKM25 Edinburgh raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS6Q,"GDHI UKM26 Falkirk raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS6R,"GDHI UKM26 Falkirk raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS6S,"GDHI UKM27 Perth & Kinross & Stirling raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS6T,"GDHI UKM27 Perth & Kinross & Stirling raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS6U,"GDHI UKM28 West Lothian raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS6V,"GDHI UKM28 West Lothian raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS6W,"GDHI UKM31 E & W Dunbartons, Helensburgh & Lomond raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS6X,"GDHI UKM31 E & W Dunbartons, Helensburgh & Lomond raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS6Y,"GDHI UKM32 Dumfries & Galloway raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS6Z,"GDHI UKM32 Dumfries & Galloway raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS72,"GDHI UKM33 East Ayrshire & North Ayrshire mainland raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS73,"GDHI UKM33 East Ayrshire & North Ayrshire mainland raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS74,"GDHI UKM34 Glasgow City raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS75,"GDHI UKM34 Glasgow City raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS76,"GDHI UKM35 Inverclyde, East Renfrews & Renfrews raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS77,"GDHI UKM35 Inverclyde, East Renfrews & Renfrews raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS78,"GDHI UKM36 North Lanarkshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS79,"GDHI UKM36 North Lanarkshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS7A,"GDHI UKM37 South Ayrshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS7B,"GDHI UKM37 South Ayrshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS7C,"GDHI UKM38 South Lanarkshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS7D,"GDHI UKM38 South Lanarkshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS7E,"GDHI UKM41 Caithness & Sutherland & Ross & Cromarty raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS7F,"GDHI UKM61 Caithness & Suth. & Ross & Cromarty raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS7G,"GDHI UKM62 Inverness, Moray & Badenoch raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS7H,"GDHI UKM62 Inverness, Moray & Badenoch raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS7I,"GDHI UKM63 Lochaber, Skye, Arran & Argyll raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS7J,"GDHI UKM63 Lochaber, Skye, Arran & Argyll raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS7K,"GDHI UKM64 Eilean Siar (Western Isles) raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS7L,"GDHI UKM64 Eilean Siar (Western Isles) raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS7M,"GDHI UKM65 Orkney Islands raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS7N,"GDHI UKM65 Orkney Islands raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS7O,"GDHI UKM66 Shetland Islands raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS7P,"GDHI UKM66 Shetland Islands raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS7Q,"GDHI UKN01 Belfast raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS7R,"GDHI UKN01 Belfast raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS7S,"GDHI UKN02 Outer Belfast raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS7T,"GDHI UKN02 Outer Belfast raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS7U,"GDHI UKN03 East of Northern Ireland raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS7V,"GDHI UKN03 East of Northern Ireland raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS7W,"GDHI UKN04 North of Northern Ireland raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS7X,"GDHI UKN04 North of Northern Ireland raw Secondary Income £m",NSA,0,CURR,0,RGHI
+CS7Y,"GDHI UKN05 West & South of Northern Ireland raw Primary Income £m",NSA,0,CURR,0,RGHI
+CS7Z,"GDHI UKN05 West & South of Northern Ireland raw Secondary Income £m",NSA,0,CURR,0,RGHI
+R3UF,"GDHI UK Compensation of Employees £m",NSA,0,CURR,0,RGHI
+R3UH,"GDHI UK Primary Resources total £m",NSA,0,CURR,0,RGHI
+R3UK,"GDHI UK Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+R3UO,"GDHI UK Taxes Paid £m",NSA,0,CURR,0,RGHI
+R3UP,"GDHI UK Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+R3UR,"GDHI UK Secondary Uses total £m",NSA,0,CURR,0,RGHI
+R3US,"GDHI UK Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+R3UT,"GDHI UK raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+R3UV,"GDHI UK raw Property Income Received £m",NSA,0,CURR,0,RGHI
+R3UX,"GDHI UK raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+R3UY,"GDHI UK raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+R3V2,"GDHI UK raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+R3V3,"GDHI UK raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+R3V4,"GDHI UK raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+R3V7,"GDHI UK raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+R4JP,"GDHI UKD63 Cheshire West & Chester raw total £m",NSA,0,CURR,0,RGHI
+R4JQ,"GDHI UKE45 Wakefield raw total £m",NSA,0,CURR,0,RGHI
+R4JR,"GDHI UKF25 North Northamptonshire raw total £m",NSA,0,CURR,0,RGHI
+R4JS,"GDHI UKG37 Sandwell raw total £m",NSA,0,CURR,0,RGHI
+R4JT,"GDHI UKG39 Wolverhampton raw total £m",NSA,0,CURR,0,RGHI
+R4JU,"GDHI UKH25 Central Bedfordshire raw total £m",NSA,0,CURR,0,RGHI
+R4JV,"GDHI UKD63 Cheshire West & Chester raw per head £",NSA,0,CURR,0,RGHI
+R4JW,"GDHI UKE45 Wakefield raw per head £",NSA,0,CURR,0,RGHI
+R4JX,"GDHI UKF25 North Northamptonshire raw per head £",NSA,0,CURR,0,RGHI
+R4JY,"GDHI UKG37 Sandwell raw per head £",NSA,0,CURR,0,RGHI
+R4JZ,"GDHI UKG39 Wolverhampton raw per head £",NSA,0,CURR,0,RGHI
+R4K2,"GDHI UKH25 Central Bedfordshire raw per head £",NSA,0,CURR,0,RGHI
+R4K3,"GDHI UKD63 Cheshire West & Chester raw per head index",NSA,0,CURR,0,RGHI
+R4K4,"GDHI UKE45 Wakefield raw per head index",NSA,0,CURR,0,RGHI
+R4K5,"GDHI UKF25 North Northamptonshire raw per head index",NSA,0,CURR,0,RGHI
+R4K6,"GDHI UKG37 Sandwell raw per head index",NSA,0,CURR,0,RGHI
+R4K7,"GDHI UKG39 Wolverhampton raw per head index",NSA,0,CURR,0,RGHI
+R4K8,"GDHI UKH25 Central Bedfordshire raw per head index",NSA,0,CURR,0,RGHI
+R4K9,"GDHI UKH25 Central Bedfordshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+R4KA,"GDHI UKH25 Central Bedfordshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+R58P,"GDHI UKD63 Cheshire West & Chester raw Primary Income £m",NSA,0,CURR,0,RGHI
+R58Q,"GDHI UKD63 Cheshire West & Chester raw Secondary Income £m",NSA,0,CURR,0,RGHI
+R58S,"GDHI UKE45 Wakefield raw Primary Income £m",NSA,0,CURR,0,RGHI
+R58T,"GDHI UKE45 Wakefield raw Secondary Income £m",NSA,0,CURR,0,RGHI
+R58V,"GDHI UKF25 North Northamptonshire raw Primary Income £m",NSA,0,CURR,0,RGHI
+R58W,"GDHI UKF25 North Northamptonshire raw Secondary Income £m",NSA,0,CURR,0,RGHI
+R58Y,"GDHI UKG37 Sandwell raw Primary Income £m",NSA,0,CURR,0,RGHI
+R58Z,"GDHI UKG37 Sandwell raw Secondary Income £m",NSA,0,CURR,0,RGHI
+R593,"GDHI UKG39 Wolverhampton raw Primary Income £m",NSA,0,CURR,0,RGHI
+R594,"GDHI UKG39 Wolverhampton raw Secondary Income £m",NSA,0,CURR,0,RGHI
+R59B,"GDHI England raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+R59C,"GDHI England raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+R59D,"GDHI England raw Property Income Received £m",NSA,0,CURR,0,RGHI
+R59E,"GDHI England raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+R59F,"GDHI England raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+R5V8,"GDHI England raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+R5V9,"GDHI England raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+R5VA,"GDHI England raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+R5VB,"GDHI England raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+R5VC,"GDHI England raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+R5VD,"GDHI England raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+R5VE,"GDHI England raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+R5VF,"GDHI England raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+R5VG,"GDHI England raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+R5VH,"GDHI England raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+RA22,"GDHI UKC North East raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+RA23,"GDHI UKC North East raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+RA24,"GDHI UKC North East raw Property Income Received £m",NSA,0,CURR,0,RGHI
+RA25,"GDHI UKC North East raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+RA26,"GDHI UKC North East raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+RA27,"GDHI UKC North East raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+RA28,"GDHI UKC North East raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+RA29,"GDHI UKC North East raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+RA2A,"GDHI UKC North East raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+RA2B,"GDHI UKC North East raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+RA2C,"GDHI UKC North East raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+RA2D,"GDHI UKC North East raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+RA2E,"GDHI UKC North East raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+RA2F,"GDHI UKC North East raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+RA2G,"GDHI UKC North East raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+RA2H,"GDHI UKD North West raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+RA2I,"GDHI UKD North West raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+RA2J,"GDHI UKD North West raw Property Income Received £m",NSA,0,CURR,0,RGHI
+RA2K,"GDHI UKD North West raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+RA2L,"GDHI UKD North West raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+RA2M,"GDHI UKD North West raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+RA2N,"GDHI UKD North West raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+RA2O,"GDHI UKD North West raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+RA2P,"GDHI UKD North West raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+RA2Q,"GDHI UKD North West raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+RA2R,"GDHI UKD North West raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+RA2S,"GDHI UKD North West raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+RA2T,"GDHI UKD North West raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+RA2U,"GDHI UKD North West raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+RA2V,"GDHI UKD North West raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+RA2W,"GDHI UKE Yorkshire & The Humber raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+RA2X,"GDHI UKE Yorkshire & The Humber raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+RA2Y,"GDHI UKE Yorkshire & The Humber raw Property Income Received £m",NSA,0,CURR,0,RGHI
+RA2Z,"GDHI UKE Yorkshire & The Humber raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+RA32,"GDHI UKE Yorkshire & The Humber raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+RA33,"GDHI UKE Yorkshire & The Humber raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+RA34,"GDHI UKE Yorkshire & The Humber raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+RA35,"GDHI UKE Yorkshire & The Humber raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+RA36,"GDHI UKE Yorkshire & The Humber raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+RA37,"GDHI UKE Yorkshire & The Humber raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+RA38,"GDHI UKE Yorkshire & The Humber raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+RA39,"GDHI UKE Yorkshire & The Humber raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+RA3A,"GDHI UKE Yorkshire & The Humber raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+RA3B,"GDHI UKE Yorkshire & The Humber raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+RA3C,"GDHI UKE Yorkshire & The Humber raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+RA3D,"GDHI UKF East Midlands raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+RA3E,"GDHI UKF East Midlands raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+RA3F,"GDHI UKF East Midlands raw Property Income Received £m",NSA,0,CURR,0,RGHI
+RA3G,"GDHI UKF East Midlands raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+RA3H,"GDHI UKF East Midlands raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+RA3I,"GDHI UKF East Midlands raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+RA3J,"GDHI UKF East Midlands raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+RA3K,"GDHI UKF East Midlands raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+RA3L,"GDHI UKF East Midlands raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+RA3M,"GDHI UKF East Midlands raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+RA3N,"GDHI UKF East Midlands raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+RA3O,"GDHI UKF East Midlands raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+RA3P,"GDHI UKF East Midlands raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+RA3Q,"GDHI UKF East Midlands raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+RA3R,"GDHI UKF East Midlands raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+RA3S,"GDHI UKG West Midlands raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+RA3T,"GDHI UKG West Midlands raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+RA3U,"GDHI UKG West Midlands raw Property Income Received £m",NSA,0,CURR,0,RGHI
+RA3V,"GDHI UKG West Midlands raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+RA3W,"GDHI UKG West Midlands raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+RA3X,"GDHI UKG West Midlands raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+RA3Y,"GDHI UKG West Midlands raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+RA3Z,"GDHI UKG West Midlands raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+RA42,"GDHI UKG West Midlands raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+RA43,"GDHI UKG West Midlands raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+RA44,"GDHI UKG West Midlands raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+RA45,"GDHI UKG West Midlands raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+RA46,"GDHI UKG West Midlands raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+RA47,"GDHI UKG West Midlands raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+RA48,"GDHI UKG West Midlands raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+RA49,"GDHI UKH East of England raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+RA4A,"GDHI UKH East of England raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+RA4B,"GDHI UKH East of England raw Property Income Received £m",NSA,0,CURR,0,RGHI
+RA4C,"GDHI UKH East of England raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+RA4D,"GDHI UKH East of England raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+RA4E,"GDHI UKH East of England raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+RA4F,"GDHI UKH East of England raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+RA4G,"GDHI UKH East of England raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+RA4H,"GDHI UKH East of England raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+RA4I,"GDHI UKH East of England raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+RA4J,"GDHI UKH East of England raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+RA4K,"GDHI UKH East of England raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+RA4L,"GDHI UKH East of England raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+RA4M,"GDHI UKH East of England raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+RA4N,"GDHI UKH East of England raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+RA4O,"GDHI UKI London raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+RA4P,"GDHI UKI London raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+RA4Q,"GDHI UKI London raw Property Income Received £m",NSA,0,CURR,0,RGHI
+RA4R,"GDHI UKI London raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+RA4S,"GDHI UKI London raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+RA4T,"GDHI UKI London raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+RA4U,"GDHI UKI London raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+RA4V,"GDHI UKI London raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+RA4W,"GDHI UKI London raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+RA4X,"GDHI UKI London raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+RA4Y,"GDHI UKI London raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+RA4Z,"GDHI UKI London raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+RA52,"GDHI UKI London raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+RA53,"GDHI UKI London raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+RA54,"GDHI UKI London raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+RA55,"GDHI UKJ South East raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+RA56,"GDHI UKJ South East raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+RA57,"GDHI UKJ South East raw Property Income Received £m",NSA,0,CURR,0,RGHI
+RA58,"GDHI UKJ South East raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+RA59,"GDHI UKJ South East raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+RA5A,"GDHI UKJ South East raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+RA5B,"GDHI UKJ South East raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+RA5C,"GDHI UKJ South East raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+RA5D,"GDHI UKJ South East raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+RA5E,"GDHI UKJ South East raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+RA5F,"GDHI UKJ South East raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+RA5G,"GDHI UKJ South East raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+RA5H,"GDHI UKJ South East raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+RA5I,"GDHI UKJ South East raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+RA5J,"GDHI UKJ South East raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+RA5K,"GDHI UKK South West raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+RA5L,"GDHI UKK South West raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+RA5M,"GDHI UKK South West raw Property Income Received £m",NSA,0,CURR,0,RGHI
+RA5N,"GDHI UKK South West raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+RA5O,"GDHI UKK South West raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+RA5P,"GDHI UKK South West raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+RA5Q,"GDHI UKK South West raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+RA5R,"GDHI UKK South West raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+RA5S,"GDHI UKK South West raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+RA5T,"GDHI UKK South West raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+RA5U,"GDHI UKK South West raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+RA5V,"GDHI UKK South West raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+RA5W,"GDHI UKK South West raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+RA5X,"GDHI UKK South West raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+RA5Y,"GDHI UKK South West raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+RA5Z,"GDHI UKL Wales raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+RA62,"GDHI UKL Wales raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+RA63,"GDHI UKL Wales raw Property Income Received £m",NSA,0,CURR,0,RGHI
+RA64,"GDHI UKL Wales raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+RA65,"GDHI UKL Wales raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+RA66,"GDHI UKL Wales raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+RA67,"GDHI UKL Wales raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+RA68,"GDHI UKL Wales raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+RA69,"GDHI UKL Wales raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+RA6A,"GDHI UKL Wales raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+RA6B,"GDHI UKL Wales raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+RA6C,"GDHI UKL Wales raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+RA6D,"GDHI UKL Wales raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+RA6E,"GDHI UKL Wales raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+RA6F,"GDHI UKL Wales raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+RA6G,"GDHI UKM Scotland raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+RA6H,"GDHI UKM Scotland raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+RA6I,"GDHI UKM Scotland raw Property Income Received £m",NSA,0,CURR,0,RGHI
+RA6J,"GDHI UKM Scotland raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+RA6K,"GDHI UKM Scotland raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+RA6L,"GDHI UKM Scotland raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+RA6M,"GDHI UKM Scotland raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+RA6N,"GDHI UKM Scotland raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+RA6O,"GDHI UKM Scotland raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+RA6P,"GDHI UKM Scotland raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+RA6Q,"GDHI UKM Scotland raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+RA6R,"GDHI UKM Scotland raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+RA6S,"GDHI UKM Scotland raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+RA6T,"GDHI UKM Scotland raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+RA6U,"GDHI UKM Scotland raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI
+RA6V,"GDHI UKN Northern Ireland raw Operating Surplus/Mixed Income £m",NSA,0,CURR,0,RGHI
+RA6W,"GDHI UKN Northern Ireland raw Compensation of Employees £m",NSA,0,CURR,0,RGHI
+RA6X,"GDHI UKN Northern Ireland raw Property Income Received £m",NSA,0,CURR,0,RGHI
+RA6Y,"GDHI UKN Northern Ireland raw Primary Resources total £m",NSA,0,CURR,0,RGHI
+RA6Z,"GDHI UKN Northern Ireland raw Property Income Paid £m",NSA,0,CURR,0,RGHI
+RA72,"GDHI UKN Northern Ireland raw Primary Uses total £m",NSA,0,CURR,0,RGHI
+RA73,"GDHI UKN Northern Ireland raw Balance of Primary Income £m",NSA,0,CURR,0,RGHI
+RA74,"GDHI UKN Northern Ireland raw Social Contributions Received £m",NSA,0,CURR,0,RGHI
+RA75,"GDHI UKN Northern Ireland raw Other Current Transfers In £m",NSA,0,CURR,0,RGHI
+RA76,"GDHI UKN Northern Ireland raw Secondary Resources total £m",NSA,0,CURR,0,RGHI
+RA77,"GDHI UKN Northern Ireland raw Taxes Paid £m",NSA,0,CURR,0,RGHI
+RA78,"GDHI UKN Northern Ireland raw Social Contributions Paid £m",NSA,0,CURR,0,RGHI
+RA79,"GDHI UKN Northern Ireland raw Other Current Transfers Out £m",NSA,0,CURR,0,RGHI
+RA7A,"GDHI UKN Northern Ireland raw Secondary Uses total £m",NSA,0,CURR,0,RGHI
+RA7B,"GDHI UKN Northern Ireland raw Balance of Secondary Income £m",NSA,0,CURR,0,RGHI

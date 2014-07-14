@@ -1,0 +1,2065 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Economic Snapshot: O N S</title>
+
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,800' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="css/jquery.mobile-1.4.2.css" />
+
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+
+
+
+    
+  <script src="js/jquery-1.10.1.min.js"></script>
+  <script src="js/jquery.mobile-1.4.2.js"></script>
+  <script src="js/highcharts.js"></script>
+
+  <link type="text/css" rel="stylesheet" href="css/demo.css" />
+  <link type="text/css" rel="stylesheet" href="css/jquery.mmenu.css" /> 
+
+
+  <style>
+  body{
+    font-family: "Open Sans";
+    background-color: 'rgb(65, 64, 66)';
+  }
+  form{
+   padding-left:10px;
+ }
+
+ .chart{
+  height:340px;
+  width:100%;
+  padding:10px 0;
+  margin:10px;
+}
+#menu{
+  font-family: "Open Sans";
+  text-transform: uppercase;
+  color:#fff;
+  height:340px;
+}
+
+
+.fullwidth{
+  width:100%;
+}
+.ui-table, table{
+  background-color: 'aliceblue';
+  margin:10px;
+  margin-left:10px;
+  width:96%;
+}
+
+th, td{
+  text-align: right;
+  vertical-align: top
+}
+td{
+  white-space:nowrap; 
+}
+
+table tr > td:first-child {  text-align: left;} /* first column */
+table tr > th:first-child {  text-align: left;} /* first column */
+table tr > td:first-child + td{ background-color: #E6E6E6;} /* 2nd column */
+table tr > td:first-child + td+ td + td { background-color: #E6E6E6;} /* fourth column */
+table tr > td:first-child + td+ td + td + td + td { background-color: #E6E6E6;} /* sixth column! */
+table tr > td:first-child + td+ td + td + td + td + td + td { background-color: #E6E6E6;} /* sixth column! */
+
+
+
+table { 
+ /* border-spacing: 1px;*/
+ border-collapse: separate;
+}
+/*
+   table tr:nth-child(3n+3) {  
+    //background-color: #ddd;
+    border-bottom: 1px solid black !important;
+}
+*/
+
+.notes{
+  display:block;
+ position: relative;
+ color:#eee;
+ background-color: #313131;
+ margin:0;
+ padding:20px;
+ min-height: 300px;
+ overflow:auto; 
+}
+
+.footnote{
+ margin:10px;
+ padding:10px;
+ font-size:0.8em;
+ color:#999;
+}
+
+.footnote h5{
+ font-weight:300;
+ color:#999;
+}
+
+.black{
+  color:#000;
+}
+
+.row{
+  clear:both;
+  line-height: 90px;
+  /*background-color: #ff3434*/;
+}
+
+
+.headline{
+  padding: 0px;
+  clear:left;
+  float:left;
+  font-size: 4em;
+  color:#fff;
+  font-weight:800;
+  vertical-align: top;
+}
+
+
+
+.secondary{
+  float:left;
+  font-size: 32px;
+  padding-top:10px;
+  padding-bottom:0;
+  line-height: 32px;
+  color:#fff;
+  font-weight:300;
+  vertical-align: top;
+  
+}
+
+.superscript{
+  vertical-align: super;
+}
+
+
+.subscript{
+  clear:both;
+  padding-top:0;
+  /*margin-top: -40px;*/
+  font-size: 32px;
+  line-height: 32px;
+  color:#ddd;
+  font-weight:300;
+  white-space:nowrap; 
+}
+
+.subtitle{
+  clear:both;
+  /* padding-top:25px;*/
+  padding-bottom:0;
+  /* margin-top: -30px;*/
+  font-size:1.5em;
+  color:#999;
+  font-weight:300;
+  white-space:nowrap; 
+  line-height: 32px;
+}
+
+.date{
+  position: absolute;
+  bottom:10px;
+  font-size: 18px;
+  color:#888;
+  font-weight:300;
+}
+
+
+
+#bop .headline{
+  padding-top:70px;
+  line-height: 60px;
+  text-align: center;
+  vertical-align: bottom;
+
+}
+
+#bop .subtitle{
+  float:right;
+
+}
+
+#prices .subtitle{
+  display:block;
+  clear:both;
+  padding-top:0;
+  padding-bottom:0;
+
+}
+
+#labour .subtitle{
+  padding-bottom:0;
+  margin-top: 10px;
+}
+
+#labour th{
+  font-size: 0.9em;
+}
+
+#sales .subscript{
+  font-size: 1.5em;
+}
+
+.alert{
+  color:#f00;
+
+}
+
+
+
+#listview{
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+
+
+.alignleft {
+  float: left;
+}
+.alignright {
+  float: right;
+}
+.shim {
+  padding:20px;
+}
+h2  {
+  padding-left:10px;
+  font-size:18px;
+  font-weight:300;
+}
+.header  {
+  font-size:18px;
+  font-weight:300;
+}
+.header .index {
+  color:#ccc;
+}
+
+
+html body .ui-group-theme-a a , li a{
+  font-family: 'Open Sans';
+  font-weight: 300;
+}
+
+
+}
+.item{
+  padding-bottom:40px;
+}
+
+
+.ui-listview > li > a.ui-btn{
+  font-family: 'Open Sans';
+  font-weight:400;
+  text-shadow: none;
+}
+.ui-listview > li > a.ui-btn span{
+  font-family: 'Open Sans';
+  font-weight:300;
+  font-size:1.2em;
+  color:#ddd;
+}
+
+
+.footer{
+  height:40px;
+  margin-top:20px;
+  font-weight:300;
+  background-color: #E9E9E9;
+  padding:15px;
+}
+
+.ui-page-theme-a .ui-bar-inherit{
+  padding:15px;
+
+  bottom:10px;
+
+  font-weight:300;
+}
+
+
+
+.ui-panel {
+  width:10em;
+}
+
+
+
+.notes h4{
+  color:#E6E6E6;
+  font-weight: 400;
+}
+.notes p{
+  color:#E6E6E6;
+  font-size:12px;
+  font-weight: 300;
+}
+.notes a{
+  color:#E6E6E6;
+  font-weight: 400;
+  text-decoration: none;
+}
+#hiddenFooter{
+  display:none;
+}
+.popup{
+  width:60%;
+  margin:auto;
+  padding:10px;
+}
+.popup h4{
+  font-weight: 400;
+}
+
+.ui-btn-icon-notext.ui-btn-corner-all, .ui-btn-icon-notext.ui-corner-all {
+    border-radius: 1.4em;
+}
+
+.ui-header .ui-btn, .ui-header .ui-icon, .ui-header .ui-btn-inner {
+    width: 45px;
+    height: 45px;
+}
+.ui-header .ui-btn-inner .ui-icon{
+    margin: 0px;
+    border-radius: 10px;
+}
+.ui-header {
+    height: 60px;
+}
+
+.ui-header .ui-title{
+margin-top: 10px;
+font-size:1.4em;
+
+}
+.ui-title, .ui-footer .ui-title {
+ color: #fff;
+ font-weight:300;
+ 
+}
+.ui-bar-a {
+  background-color: #313131;
+  border-color: #313131;
+}
+
+.ui-table td{
+  text-align: right;
+}
+.ui-table-reflow td{
+  text-align: left;
+}
+
+
+.ui-table-reflow tr td:first-child{
+    background-color: #313131;
+    color: #fff;
+}
+
+#listview li a{
+  background:#555;
+  border-color:#313131;
+}
+#listview li a:active{
+  background:#00ADEF;
+  box-shadow: none;
+}
+
+
+
+.ui-header .ui-btn, .ui-header .ui-icon, .ui-header .ui-btn-inner {
+    width: 45px;
+    height: 45px;
+}
+.ui-header .ui-btn-inner .ui-icon{
+    margin: 0px;
+    border-radius: 0;
+}
+.ui-header {
+    height: 60px;
+}
+
+
+.ui-icon-arrow:after {
+  background-image: url("img/black-chevron-right-16.svg");
+  /* Make your icon fit */
+  background-size: 30px 30px;
+  -moz-border-radius:0px;
+  -webkit-border-radius:0px;
+  border-radius:0px;
+  width:60px;
+  height:60px;
+  margin-top:-30px;/*Adjust this value to position the icon*/
+  margin-left:-28px;/*Adjust this value to position the icon*/
+
+}
+
+
+.ui-icon-menu:after {
+  background-image: url("img/black-bars-16.svg");
+  /* Make your icon fit */
+  background-size: 30px 30px;
+  -moz-border-radius:0px;
+  -webkit-border-radius:0px;
+  border-radius:0px;
+  width:60px;
+  height:60px;
+  margin-top:-30px;/*Adjust this value to position the icon*/
+  margin-left:-30px;/*Adjust this value to position the icon*/
+}
+
+
+
+.ui-nodisc-icon.ui-btn:after, .ui-nodisc-icon .ui-btn:after {
+    background-color: #fff;
+    border-color:#000;
+}
+
+.ui-page-theme-a .ui-btn, html .ui-bar-a .ui-btn, html .ui-body-a .ui-btn, html body .ui-group-theme-a .ui-btn, html head + body .ui-btn.ui-btn-a, .ui-page-theme-a .ui-btn:visited, html .ui-bar-a .ui-btn:visited, html .ui-body-a .ui-btn:visited, html body .ui-group-theme-a .ui-btn:visited, html head + body .ui-btn.ui-btn-a:visited {
+    border: none;
+}
+
+ a.ui-icon-menu:after{
+    color: #FFB384;
+}
+
+</style>
+
+
+
+
+
+
+<script id="panel-init">
+$(function() {
+  $( "body>[data-role='panel']" ).panel();
+});
+</script>
+
+</head>
+
+
+
+
+
+
+
+
+
+<body>
+
+
+    <div id="hiddenFooter" >
+    <div id="" data-role="footer" class="item footer">
+      <div >
+        <img  class="" src="img/logo.png" />
+      </div>
+        <div class="alignright footnote black">Latest data extracted on 4th June 2014.</div>
+    </div>
+    </div><!-- /hidden footer wrapper -->
+
+
+  <div data-role="panel" id="defaultpanel" data-position="left" data-display="overlay" data-theme="b">
+    <!-- panel content goes here -->
+
+    <nav id="menu">
+      <ul>
+        <li><a href="#home"  data-transition="slide">home</a></li>
+        <li><a href="#gdp"  data-transition="slide">GDP</a></li>
+        <li><a href="#bop"  data-transition="slide">BoP</a></li>
+        <li><a href="#labour"  data-transition="slide">Labour</a></li>
+        <li><a href="#prices" data-transition="slide" >Prices</a></li>
+        <li><a href="#sales" data-transition="slide" >Sales</a></li>
+        <li><a href="#debt" data-transition="slide" >Debt</a></li>
+      </ul>
+
+      <ul>
+        <li><a href="//www.ons.gov.uk">O N S</a></li>
+      </ul>
+
+    </nav>
+
+  </div><!-- /panel -->
+
+
+
+
+
+  <!-- Start of first page -->
+  <div data-role="page" id="home"> 
+
+
+    <div id=""  data-role="header" data-position="" data-theme="a">
+      <!-- <a href="#defaultpanel" class="ui-btn ui-shadow ui-corner-all ui-icon-bars ui-btn-icon-notext" ></a> -->
+      <a href="#defaultpanel" class="ui-btn ui-shadow ui-corner-all ui-icon-menu ui-btn-icon-left ui-btn-icon-notext ui-nodisc-icon ui-btn-inline menu"  data-transition="slide"></a>
+      <h1>The Economy</h1>
+      <!-- <a href="#gdp" class="ui-btn ui-shadow ui-corner-all ui-icon-carat-r ui-btn-icon-right ui-btn-icon-notext"  data-transition="slide">Next</a> -->
+      <a href="#gdp" class="ui-btn ui-shadow ui-corner-all ui-icon-arrow ui-btn-icon-right ui-btn-icon-notext ui-nodisc-icon ui-btn-inline"  data-transition="slide">Next</a>
+   <!--  <button class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">myicon</button> -->
+
+    
+ </a>
+
+
+
+    </div>
+
+
+    <div  id="" class="item notes" >
+      <p>
+        This snapshot shows key economic data.
+      </p>
+      <p>
+        Headline figures are shown below, and are linked to more detailed data. Click the info button for more details.
+      </p>
+
+      <ul id="listview" data-role="listview" data-inset="true" data-theme="b">
+        <li><a href="#gdp"  data-transition="slide">GDP: <span>x £ 372529 m</span></a></li>
+        <li><a href="#bop"  data-transition="slide">BoP: <span>x -£ 12300 m</span></a></li>
+        <li><a href="#labour"  data-transition="slide">Labour: <span>x 70.5% employment | 7.8% unemployment</span></a></li>
+        <li><a href="#prices" data-transition="slide" >Prices: <span>x 2.8% CPI | 2.6% RPIJ</span></a></li>
+        <li><a href="#sales" data-transition="slide" >Sales: <span>x 108.9</span></a></li>
+        <li><a href="#debt" data-transition="slide" >Debt: <span>x £ 2189.4 bn (148.7% GDP)</span></a></li>
+      </ul>
+
+      <h4> Note: </h4>
+      <p>
+        This is a prototype page looking to provide a summary of current economic statistics. We will be working to extend and enhance this page based on user feedback. If you have any feedback, comments or things you would like to see, please let us know at <a href="mailto:web.comments@ons.gsi.gov.uk">web.comments@ons.gsi.gov.uk</a>
+      </p>
+    </div>
+
+
+  <div class="item">
+  </div>
+
+
+
+
+</div><!-- /page -->
+
+
+
+
+
+<!--                             GDP                                            -->
+<!-- Start of second page -->
+
+<div id="gdp"  data-role="page" >
+
+
+  <div data-role="header" data-position="" data-theme="a">
+    <a href="#defaultpanel" class="ui-btn ui-shadow ui-corner-all ui-icon-menu ui-btn-icon-left ui-btn-icon-notext ui-nodisc-icon ui-btn-inline menu" ></a>
+    <h1>GDP, Q4 2013</h1>
+    <a href="#bop" class="ui-btn ui-shadow ui-corner-all ui-icon-arrow ui-btn-icon-right ui-btn-icon-notext ui-nodisc-icon ui-btn-inline"  data-transition="slide">Next</a>
+  </div>
+
+
+  <div class="item notes">
+    <div class="row">
+      <div class="alignleft">
+        <div class="headline">£ 372529 m</div>
+      </div>
+      <div class="alignright">
+        <div class="secondary alignright">-0.2%<span class="superscript">&dagger;</span></div>
+        <div class="subtitle alignright">Chained Volume Measure</div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="alignleft">
+        <div class="headline">£ 375316 m</div>
+      </div>
+      <div class="alignright">
+        <div class="secondary alignright">+0.3%<span class="superscript">&dagger;</span></div>
+        <div class="subtitle alignright">Current Prices</div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="alignleft">
+        <div class="headline alignright">£ 6005</div>
+      </div>
+      <div class="alignright">
+        <div class="secondary">&nbsp;</div>
+        <div class="subtitle alignleft"> GDP per head</div>
+      </div>
+    </div>
+    <!-- <div class="date">Q4 2013</div> -->
+  </div>
+
+
+  <div class="item footnote">
+    <h5>Notes:</h5>
+    <div id="" class="">
+      <p>
+        <span class="superscript">&dagger;</span> Shows the percentage change compared with the same month 12 months previously.
+      </p>
+    </div>
+  </div>
+
+
+  <div class="item">
+    <h2>Gross Domestic Product</h2>
+    <div id="chart_gdp" class="chart">
+    </div>
+  </div>
+
+
+  <div class="item">
+    <h2>Gross Domestic Product Data</h2>
+    <table class='table ' id='table_gdp' data-role="table" data-mode="reflow" >
+      <thead>
+        <tr>
+          <th width="20%">Date</th>
+          <th width="">GDP - CVM</th>
+          <th width="">GDP - CP</th>
+          <th data-priority="1" width="%">GDP: Q on Q CVM</th>
+          <th data-priority="1" width="%">GDP Q on Q CP</th>
+          <th data-priority="1" width="%">GDP per head</th>
+        </tr>
+      </thead>
+      <tbody class='count_13'>
+        <tr>
+          <td>2013 Q4</td><td>387138</td><td>411259</td><td>0.7</td><td>1.6</td><td>6393</td>
+        </tr>
+        <tr>
+          <td>2013 Q3</td><td>384533</td><td>404689</td><td>0.8</td><td>1.5</td><td>6302</td>
+        </tr>
+        <tr>
+          <td>2013 Q2</td><td>381318</td><td>398898</td><td>0.8</td><td>0.1</td><td>6223</td>
+        </tr>
+        <tr>
+          <td>2013 Q1</td><td>378439</td><td>398545</td><td>0.4</td><td>0.8</td><td>6227</td>
+        </tr>
+        <tr>
+          <td>2012 Q4</td><td>377081</td><td>395415</td><td>-0.2</td><td>1.8</td><td>6188</td>
+        </tr>
+        <tr>
+          <td>2012 Q3</td><td>377887</td><td>388398</td><td>0.8</td><td>0.8</td><td>6087</td>
+        </tr>
+        <tr>
+          <td>2012 Q2</td><td>374983</td><td>385466</td><td>-0.4</td><td>-0.9</td><td>6051</td>
+        </tr>
+        <tr>
+          <td>2012 Q1</td><td>376437</td><td>389136</td><td>0</td><td>0.5</td><td>6143</td>
+        </tr>
+        <tr>
+          <td>2011 Q4</td><td>376462</td><td>387267</td><td>-0.1</td><td>-0.2</td><td>6148</td>
+        </tr>
+        <tr>
+          <td>2011 Q3</td><td>376862</td><td>388054</td><td>0.6</td><td>1.8</td><td>6173</td>
+        </tr>
+        <tr>
+          <td>2011 Q2</td><td>374628</td><td>381379</td><td>0.1</td><td>0.3</td><td>6079</td>
+        </tr>
+        <tr>
+          <td>2011 Q1</td><td>374264</td><td>380237</td><td>0.5</td><td>1.3</td><td>6072</td>
+        </tr>
+        <tr>
+          <td>2010 Q4</td><td>372529</td><td>375316</td><td>-0.2</td><td>0.3</td><td>6005</td>
+        </tr>
+      </tbody> 
+    </table> 
+  </div>
+
+
+  <div class="item footnote">
+    <h5> Note: </h5>
+    <p>
+
+      This is a prototype page looking to provide a summary of current economic statistics. We will be working to extend and enhance this page based on user feedback. If you have any feedback, comments or things you would like to see, please let us know at <a href="mailto:web.comments@ons.gsi.gov.uk">web.comments@ons.gsi.gov.uk</a>
+    </p>
+  </div>
+
+
+</div><!-- /page -->
+
+
+
+
+
+<!--                             BOP                                            -->
+<!-- Start of page -->
+
+<div id="bop" data-role="page" >
+
+
+  <div data-role="header" data-position="" data-theme="a">
+    <a href="#defaultpanel" class="ui-btn ui-shadow ui-corner-all ui-icon-menu ui-btn-icon-left ui-btn-icon-notext ui-nodisc-icon ui-btn-inline menu" ></a>
+    <h1>Balance of Payment, Q2 2014</h1>
+    <a href="#labour" class="ui-btn ui-shadow ui-corner-all ui-icon-arrow ui-btn-icon-right ui-btn-icon-notext ui-nodisc-icon ui-btn-inline"  data-transition="slide">Next</a>
+  </div>
+
+
+  <div class="item notes">  
+    <div class="row">
+      <div class="headline">-£ 12 300 m</div>
+      <div class="subtitle alignright">Current Balance</div>
+    </div>
+    <!-- <div class="date">Q2 2014</div> -->
+  </div>
+
+
+  <div class="item footnote">
+    <h5>Notes:</h5>
+    <div id="" class="">
+      <p>
+        Nothing to see here. Please move along&hellip;
+      </p>
+    </div>
+  </div>
+
+
+  <div class="item">
+    <h2>Balance of Payments</h2>
+    <div id="chart_bop" class="chart">
+    </div>
+  </div>
+
+
+  <div class="item">
+    <h2>Balance of Payments Data</h2>
+    <table class='table ui-responsive' id='table_bop'>
+      <thead>
+        <tr>
+          <th>Date</th><th>BoP</th>
+        </tr>
+      </thead>
+      <tbody class='count_13'>
+        <tr>
+          <td>2013 Q4</td><td>-22360</td>
+        </tr>
+        <tr>
+          <td>2013 Q3</td><td>-22830</td>
+        </tr>
+        <tr>
+          <td>2013 Q2</td><td>-9418</td>
+        </tr>
+        <tr>
+          <td>2013 Q1</td><td>-16470</td>
+        </tr>
+        <tr>
+          <td>2012 Q4</td><td>-14136</td>
+        </tr>
+        <tr>
+          <td>2012 Q3</td><td>-14081</td>
+        </tr>
+        <tr>
+          <td>2012 Q2</td><td>-18641</td>
+        </tr>
+        <tr>
+          <td>2012 Q1</td><td>-12799</td>
+        </tr>
+        <tr>
+          <td>2011 Q4</td><td>-5514</td>
+        </tr>
+        <tr>
+          <td>2011 Q3</td><td>-9392</td>
+        </tr>
+        <tr>
+          <td>2011 Q2</td><td>-4333</td>
+        </tr>
+        <tr>
+          <td>2011 Q1</td><td>-3236</td>
+        </tr>
+        <tr>
+          <td>2010 Q4</td><td>-12300</td>
+        </tr>
+      </tbody> 
+    </table> 
+  </div>
+
+  <div class="item footnote">
+    <h5> Note: </h5>
+    <p>
+
+      This is a prototype page looking to provide a summary of current economic statistics. We will be working to extend and enhance this page based on user feedback. If you have any feedback, comments or things you would like to see, please let us know at <a href="mailto:web.comments@ons.gsi.gov.uk">web.comments@ons.gsi.gov.uk</a>
+    </p>
+  </div>
+
+
+</div><!-- /page -->
+
+
+
+
+
+<!--                             LABOUR MARKET                                            -->
+<!-- Start of page -->
+<div id="labour" data-role="page" >
+
+
+  <div data-role="header" data-position="" data-theme="a">
+    <a href="#defaultpanel" class="ui-btn ui-shadow ui-corner-all ui-icon-menu ui-btn-icon-left ui-btn-icon-notext ui-nodisc-icon ui-btn-inline menu" ></a>
+    <h1>Labour Market, Q4 2103</h1>
+    <a href="#prices" class="ui-btn ui-shadow ui-corner-all ui-icon-arrow ui-btn-icon-right ui-btn-icon-notext ui-nodisc-icon ui-btn-inline"  data-transition="slide">Next</a>
+  </div>
+
+
+  <div class="item notes">
+   <div class="row">
+     <div class="alignleft">
+      <div class="headline">70.5</div>
+      <div class="secondary">%</div>
+    </div>
+    <div class="alignright">
+      <div class="subtitle alignright">Employment</div>
+      <div class="subscript alignright">29 708 000</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="alignleft">
+      <div class="headline">7.8</div>
+      <div class="secondary">%</div>
+    </div>
+    <div class="alignright">
+      <div class="subtitle alignright">Unemployment</div>
+      <div class="subscript alignright">2 518 000</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="alignright">
+      <div class="subtitle alignright">Claimants:</div>
+      <div class="subscript alignright">1 538 000</div>
+    </div>
+  </div>
+  <!-- <div class="date">Q4 2013</div> -->
+</div>
+
+
+<div class="item footnote">
+  <h5>Notes:</h5>
+  <div id="" class="">
+    <p>
+      Nothing to see here. Please move along&hellip;
+    </p>
+  </div>
+</div>
+
+
+<div class="item">
+  <h2>Labour Market </h2>
+  <div id="chart_labour" class="chart">
+  </div>
+</div>
+
+
+<div class="item">
+  <h2>Labour Market Data</h2>
+  <table class='table ui-responsive' id='table_labour' data-role="table" data-mode="columntoggle">
+    <thead>
+      <tr>
+        <th width="25%">Date</th>
+        <th data-priority="1" width="15%">Employment Rate</th>
+        <th data-priority="2" width="15%">Employment</th>
+        <th data-priority="1" width="15%">Unemployment Rate</th>
+        <th data-priority="2" width="15%">Unemployment</th>
+        <th data-priority="3" width="15%">Claimants</th>
+      </tr>
+    </thead>
+    <tbody class='count_13'>
+      <tr>
+        <td>2013 Q4</td><td>72.1</td><td>null</td><td>null</td><td>null</td><td>1174.8</td>
+      </tr>
+      <tr>
+        <td>2013 Q3</td><td>71.8</td><td>null</td><td>null</td><td>null</td><td>1209.4</td>
+      </tr>
+      <tr>
+        <td>2013 Q2</td><td>71.5</td><td>30191</td><td>7.2</td><td>2326</td><td>1243.3</td>
+      </tr>
+      <tr>
+        <td>2013 Q1</td><td>71.4</td><td>30146</td><td>7.2</td><td>2342</td><td>1271</td>
+      </tr>
+      <tr>
+        <td>2012 Q4</td><td>71.6</td><td>30150</td><td>7.1</td><td>2320</td><td>1305.3</td>
+      </tr>
+      <tr>
+        <td>2012 Q3</td><td>71.2</td><td>30086</td><td>7.4</td><td>2388</td><td>1348.1</td>
+      </tr>
+      <tr>
+        <td>2012 Q2</td><td>71</td><td>29953</td><td>7.6</td><td>2466</td><td>1392.8</td>
+      </tr>
+      <tr>
+        <td>2012 Q1</td><td>70.6</td><td>29869</td><td>7.7</td><td>2487</td><td>1434.4</td>
+      </tr>
+      <tr>
+        <td>2011 Q4</td><td>70.4</td><td>29836</td><td>7.7</td><td>2487</td><td>1470.7</td>
+      </tr>
+      <tr>
+        <td>2011 Q3</td><td>70.2</td><td>29777</td><td>7.8</td><td>2514</td><td>1500.1</td>
+      </tr>
+      <tr>
+        <td>2011 Q2</td><td>70.6</td><td>29714</td><td>7.8</td><td>2505</td><td>1516.3</td>
+      </tr>
+      <tr>
+        <td>2011 Q1</td><td>70.7</td><td>29756</td><td>7.8</td><td>2511</td><td>1528.1</td>
+      </tr>
+      <tr>
+        <td>2010 Q4</td><td>70.5</td><td>29708</td><td>7.8</td><td>2518</td><td>1538</td>
+      </tr>
+    </tbody> 
+  </table> 
+</div>     
+
+
+<div class="item footnote">
+  <h5> Note: </h5>
+  <p>
+    This is a prototype page looking to provide a summary of current economic statistics. We will be working to extend and enhance this page based on user feedback. If you have any feedback, comments or things you would like to see, please let us know at <a href="mailto:web.comments@ons.gsi.gov.uk">web.comments@ons.gsi.gov.uk</a>
+  </p>
+</div> 
+
+
+</div><!-- /page -->
+
+
+
+
+
+<!--                             PRICES                                            -->
+<!-- Start of page -->
+<div id="prices" data-role="page" >
+
+
+  <div data-role="header" data-position="" data-theme="a">
+    <a href="#defaultpanel" class="ui-btn ui-shadow ui-corner-all ui-icon-menu ui-btn-icon-left ui-btn-icon-notext ui-nodisc-icon ui-btn-inline menu" ></a>
+    <h1>Price Indices, Feb 2014</h1>
+    <a href="#sales" class="ui-btn ui-shadow ui-corner-all ui-icon-arrow ui-btn-icon-right ui-btn-icon-notext ui-nodisc-icon ui-btn-inline"  data-transition="slide">Next</a>
+  </div>
+
+
+  <div class="item notes">
+
+    <div class="row">
+      <div class="alignleft">
+        <div class="headline">2.8</div>
+        <div class="secondary">%</div>
+        <div class="subtitle ">CPI (125.2 2005)</div>
+      </div>
+      <div class="alignright">
+        <div class="headline">2.6</div>
+        <div class="secondary">%</div>
+        <div class="subtitle ">CPIH (123.2 2005)</div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="alignleft">
+        <div class="headline">2.6</div>
+        <div class="secondary">%</div>
+        <div class="subtitle ">RPIJ (231.7 1987)</div>
+      </div>
+      <div class="alignright">
+        <div class="headline">-0.1</div>
+        <div class="secondary">%</div>
+        <div class="subtitle  alert"> ! RPI (247.6 1987) ! </div>
+      </div>
+    </div>
+    <!-- <div class="date">Q2 2014</div> -->
+  </div>
+
+
+  <div class="item footnote">
+    <h5>Notes:</h5>
+    <div id="" class="">
+      <p>
+        N.B. RPI is NOT a National Statistic.
+      </p>
+    </div>
+  </div>
+
+
+  <div class="item">
+    <h2>Price Indices</h2>
+    <div id="chart_prices" class="chart">
+    </div>
+  </div>
+
+
+  <div class="item">
+    <h2>Price Indices Data</h2>
+    <table class='table ui-responsive' id='table_cpi' data-role="table" data-mode="columntoggle">
+      <thead>
+        <tr>
+          <th width="20%">Date</th>
+          <th data-priority="1" width="10%">CPI % change</th>
+          <th  data-priority="3"width="10%">CPI</th>
+          <th data-priority="1" width="10%">CPIH % change</th>
+          <th data-priority="3" width="10%">CPIH</th>
+          <th data-priority="1" width="10%">RPIJ % change</th>
+          <th data-priority="3" width="10%">RPIJ</th>
+          <th data-priority="1" width="10%">RPI (% change)</th>
+          <th data-priority="3" width="10%">RPI</th>
+        </tr>
+      </thead>
+      <tbody class='count_13'>
+        <tr>
+          <td>2014 FEB</td><td>1.7</td><td>127.4</td><td>1.6</td><td>125.2</td><td>2</td><td>236.3</td><td>2.7</td><td>254.2</td>
+        </tr>
+        <tr>
+          <td>2014 JAN</td><td>1.9</td><td>126.7</td><td>1.8</td><td>124.7</td><td>2.1</td><td>235.4</td><td>2.8</td><td>252.6</td>
+        </tr>
+        <tr>
+          <td>2013 DEC</td><td>2</td><td>127.5</td><td>1.9</td><td>125.3</td><td>2</td><td>236.2</td><td>2.7</td><td>253.4</td>
+        </tr>
+        <tr>
+          <td>2013 NOV</td><td>2.1</td><td>127</td><td>1.9</td><td>124.8</td><td>2</td><td>235.1</td><td>2.6</td><td>252.1</td>
+        </tr>
+        <tr>
+          <td>2013 OCT</td><td>2.2</td><td>126.9</td><td>2</td><td>124.8</td><td>1.9</td><td>234.9</td><td>2.6</td><td>251.9</td>
+        </tr>
+        <tr>
+          <td>2013 SEP</td><td>2.7</td><td>126.8</td><td>2.5</td><td>124.7</td><td>2.5</td><td>235</td><td>3.2</td><td>251.9</td>
+        </tr>
+        <tr>
+          <td>2013 AUG</td><td>2.7</td><td>126.4</td><td>2.5</td><td>124.3</td><td>2.6</td><td>234.2</td><td>3.3</td><td>251</td>
+        </tr>
+        <tr>
+          <td>2013 JUL</td><td>2.8</td><td>125.8</td><td>2.5</td><td>123.8</td><td>2.6</td><td>233.2</td><td>3.1</td><td>249.7</td>
+        </tr>
+        <tr>
+          <td>2013 JUN</td><td>2.9</td><td>125.9</td><td>2.7</td><td>123.8</td><td>2.7</td><td>233.2</td><td>3.3</td><td>249.7</td>
+        </tr>
+        <tr>
+          <td>2013 MAY</td><td>2.7</td><td>126.1</td><td>2.5</td><td>124</td><td>2.5</td><td>233.5</td><td>3.1</td><td>250</td>
+        </tr>
+        <tr>
+          <td>2013 APR</td><td>2.4</td><td>125.9</td><td>2.2</td><td>123.8</td><td>2.3</td><td>233.2</td><td>2.9</td><td>249.5</td>
+        </tr>
+        <tr>
+          <td>2013 MAR</td><td>2.8</td><td>125.6</td><td>2.6</td><td>123.6</td><td>2.7</td><td>232.6</td><td>3.3</td><td>248.7</td>
+        </tr>
+        <tr>
+          <td>2013 FEB</td><td>2.8</td><td>125.2</td><td>2.6</td><td>123.2</td><td>2.6</td><td>231.7</td><td>3.2</td><td>247.6</td>
+        </tr>
+      </tbody> 
+    </table> 
+  </div>
+
+
+  <div class="item footnote">
+    <h5> Note: </h5>
+    <p>
+
+      This is a prototype page looking to provide a summary of current economic statistics. We will be working to extend and enhance this page based on user feedback. If you have any feedback, comments or things you would like to see, please let us know at <a href="mailto:web.comments@ons.gsi.gov.uk">web.comments@ons.gsi.gov.uk</a>
+    </p>
+  </div>  
+
+
+</div><!-- /page -->
+
+
+
+
+
+<!--                             SALES                                            -->
+<!-- Start of page -->
+<div id="sales" data-role="page" >
+
+
+  <div data-role="header" data-position="" data-theme="a">
+    <a href="#defaultpanel" class="ui-btn ui-shadow ui-corner-all ui-icon-menu ui-btn-icon-left ui-btn-icon-notext ui-nodisc-icon ui-btn-inline menu" ></a>
+    <h1>Retail Sales, Feb 2014</h1>
+    <a href="#debt" class="ui-btn ui-shadow ui-corner-all ui-icon-arrow ui-btn-icon-right ui-btn-icon-notext ui-nodisc-icon ui-btn-inline"  data-transition="slide">Next</a>
+  </div>
+
+
+  <div class="item notes">
+    <div class="row">
+      <div class="alignleftt">
+        <div class="headline">108.9</div>
+      </div>
+      <div class="alignright">
+        <div class="subscript">( Index, 2010 )</div>
+        <div class="subtitle alignright">including Fuel</div>
+      </div>
+    </div>
+    <div class="row">
+     <div class="alignleft">
+      <div class="headline">108.0</div>
+    </div>
+    <div class="alignright">
+      <div class="subscript">( Index, 2010 )</div>
+      <div class="subtitle alignright">excluding Fuel</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="alignleft">
+      <div class="headline">£ 234 722 m</div>
+    </div>
+    <div class="alignright">
+      <div class="subscript">&nbsp;</div>
+      <div class="subtitle alignright">Consumer Spending</div>
+    </div>
+  </div>
+  <!-- <div class="date">Feb 2013</div> -->
+</div>
+
+
+<div class="item footnote">
+  <h5>Notes:</h5>
+  <div id="" class="">
+    <p>
+      Nothing to see here. Please move along&hellip;
+    </p>
+  </div>
+</div>
+
+
+<div class="item">
+  <h2>Retail Sales</h2>
+  <div id="chart_sales" class="chart">
+  </div>
+</div>
+
+
+<div class="item">
+  <h2>Retail Sales Data</h2>
+  <table class='table ui-responsive' id='table_sales' data-role="table" data-mode="columntoggle">
+    <thead>
+      <tr>
+        <th width="20%">Date</th>
+        <th width="20%">Sales</th>
+        <th width="20%">Sales exc fuel</th>
+        <th width="20%">Consumer Spending</th>
+      </tr>
+    </thead>
+    <tbody class='count_13'>
+      <tr>
+        <td>2014 FEB</td><td>112.8</td><td>113.1</td><td>262369</td>
+      </tr>
+      <tr>
+        <td>2014 JAN</td><td>111.3</td><td>111.4</td><td>259255</td>
+      </tr>
+      <tr>
+        <td>2013 DEC</td><td>113.9</td><td>113.9</td><td>255589</td>
+      </tr>
+      <tr>
+        <td>2013 NOV</td><td>110.9</td><td>110.8</td><td>254521</td>
+      </tr>
+      <tr>
+        <td>2013 OCT</td><td>110.7</td><td>110.6</td><td>251186</td>
+      </tr>
+      <tr>
+        <td>2013 SEP</td><td>111.8</td><td>111.1</td><td>246493</td>
+      </tr>
+      <tr>
+        <td>2013 AUG</td><td>110.8</td><td>110</td><td>245250</td>
+      </tr>
+      <tr>
+        <td>2013 JUL</td><td>111.8</td><td>111</td><td>243326</td>
+      </tr>
+      <tr>
+        <td>2013 JUN</td><td>110.3</td><td>109.7</td><td>241914</td>
+      </tr>
+      <tr>
+        <td>2013 MAY</td><td>109.9</td><td>109.3</td><td>238784</td>
+      </tr>
+      <tr>
+        <td>2013 APR</td><td>107.7</td><td>106.9</td><td>237118</td>
+      </tr>
+      <tr>
+        <td>2013 MAR</td><td>108.8</td><td>107.9</td><td>236066</td>
+      </tr>
+      <tr>
+        <td>2013 FEB</td><td>108.9</td><td>108</td><td>234722</td>
+      </tr>
+    </tbody> 
+  </table> 
+</div>     
+
+
+<div class="item footnote">
+  <h5> Note: </h5>
+  <p>
+    This is a prototype page looking to provide a summary of current economic statistics. We will be working to extend and enhance this page based on user feedback. If you have any feedback, comments or things you would like to see, please let us know at <a href="mailto:web.comments@ons.gsi.gov.uk">web.comments@ons.gsi.gov.uk</a>
+  </p>
+</div>
+
+
+</div><!-- /page -->   
+
+
+
+
+
+<!--                             DEBT                                            -->
+<!-- Start of page -->
+<div id="debt" data-role="page" >
+
+
+  <div data-role="header" data-position="" data-theme="a">
+    <a href="#defaultpanel" class="ui-btn ui-shadow ui-corner-all ui-icon-menu ui-btn-icon-left ui-btn-icon-notext ui-nodisc-icon ui-btn-inline menu" ></a>
+    <h1>Net Debt, Feb 2014</h1>
+    <a href="index.html" class="ui-btn ui-shadow ui-corner-all ui-icon-arrow ui-btn-icon-right ui-btn-icon-notext ui-nodisc-icon ui-btn-inline"  data-transition="slide">Next</a>
+  </div>
+
+
+<div class="item notes">
+  <div class="row">
+    <div class="alignleft">
+      <div class="headline">£ 2189.4 bn</div>
+    </div>
+    <div class="alignright">
+      <div class="subscript alignright">148.7% GDP</div>
+      <div class="subtitle alignright">Current balance</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="alignleft">
+      <div class="headline">£ 984.2 bn</div>
+    </div>
+    <div class="alignright">
+      <div class="subscript alignright">65.0% GDP</div>
+      <div class="subtitle alignright">excluding Financial Intervention</div>
+    </div>
+  </div>
+  <!-- <div class="date">Feb 2014</div> -->
+</div>
+
+
+<div class="item footnote">
+  <h5>Notes:</h5>
+  <div id="" class="">
+    <p>
+      Percentage figure shows the current balance as a percentage of GDP for the year. Financial intervention is based on&hellip;
+    </p>
+  </div>
+</div>
+
+
+<div class="item">
+  <h2>Net Debt</h2>
+  <div id="chart_debt" class="chart">
+  </div>
+</div>
+
+
+<div class="item">
+  <h2>Net Debt Data</h2>
+  <table class='table ui-responsive' id='table_debt' data-role="table" data-mode="columntoggle">
+    <thead>
+      <tr>
+        <th width="20%">Date</th>
+        <th data-priority="1" width="20%">Net Debt</th>
+        <th data-priority="3" width="20%">Net Debt <br/>(% GDP)</th>
+        <th data-priority="1" width="20%">Net Debt <br/>exc FI</th>
+        <th data-priority="3" width="20%">Net Debt <br/>(% GDP) exc FI</th>
+      </tr>
+    </thead>
+    <tbody class='count_13'>
+      <tr>
+        <td>2014 FEB</td><td>2198.1</td><td>133</td><td>1254.7</td><td>75.7</td>
+      </tr>
+      <tr>
+        <td>2014 JAN</td><td>2191.7</td><td>132.9</td><td>1221.1</td><td>74.5</td>
+      </tr>
+      <tr>
+        <td>2013 DEC</td><td>2204.1</td><td>133.7</td><td>1207.3</td><td>74.3</td>
+      </tr>
+      <tr>
+        <td>2013 NOV</td><td>2187.4</td><td>136.7</td><td>1185.2</td><td>73.8</td>
+      </tr>
+      <tr>
+        <td>2013 OCT</td><td>2177.2</td><td>137.6</td><td>1182.4</td><td>74.4</td>
+      </tr>
+      <tr>
+        <td>2013 SEP</td><td>2179.2</td><td>136.6</td><td>1139.3</td><td>72.4</td>
+      </tr>
+      <tr>
+        <td>2013 AUG</td><td>2168.3</td><td>136.1</td><td>1118.5</td><td>71.4</td>
+      </tr>
+      <tr>
+        <td>2013 JUL</td><td>2168</td><td>139.1</td><td>1106.4</td><td>70.9</td>
+      </tr>
+      <tr>
+        <td>2013 JUN</td><td>2172.9</td><td>143.1</td><td>1093.6</td><td>70.4</td>
+      </tr>
+      <tr>
+        <td>2013 MAY</td><td>2175</td><td>144.3</td><td>1060.2</td><td>68.4</td>
+      </tr>
+      <tr>
+        <td>2013 APR</td><td>2179.3</td><td>146.8</td><td>1040.4</td><td>67.7</td>
+      </tr>
+      <tr>
+        <td>2013 MAR</td><td>2196.6</td><td>147.2</td><td>1004.9</td><td>65.9</td>
+      </tr>
+      <tr>
+        <td>2013 FEB</td><td>2189.4</td><td>148.7</td><td>984.2</td><td>65</td>
+      </tr>
+    </tbody> 
+  </table> 
+</div>
+
+
+<div class="item footnote">
+  <h5> Note: </h5>
+  <p>
+    This is a prototype page looking to provide a summary of current economic statistics. We will be working to extend and enhance this page based on user feedback. If you have any feedback, comments or things you would like to see, please let us know at <a href="mailto:web.comments@ons.gsi.gov.uk">web.comments@ons.gsi.gov.uk</a>
+  </p>
+</div>
+
+
+</div><!-- /page -->
+
+
+
+
+
+<!-- footer -->
+<!-- 
+<div data-role="footer" data-position="fixed" data-tap-toggle="false" class="">
+  <div class="item footnote">
+    <h5> Note: </h5>
+    <p>
+      This is a prototype page looking to provide a summary of current economic statistics. We will be working to extend and enhance this page based on user feedback. If you have any feedback, comments or things you would like to see, please let us know at <a href="mailto:web.comments@ons.gsi.gov.uk">web.comments@ons.gsi.gov.uk</a>
+    </p>
+  </div>
+</div>
+ -->
+<!-- /footer -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+<div data-role="popup" id="popupMenu" data-theme="a" class="popup">
+  <a href="#" data-rel="back" class="ui-btn ui-corner-all ui-shadow ui-btn-a ui-icon-delete ui-btn-icon-notext ui-btn-right">Close</a>
+  <div class="item">
+    <h4>Welcome!</h4>
+    <p>As these pages contain datasets for various economic measures, we respectfully suggest that you turn your screen to landscape mode&hellip;</p>
+
+  </div>
+</div>
+
+ -->
+
+
+
+
+
+<script>
+
+var charts = [];
+var  width = 500;
+var height = 340;
+
+
+
+$(document).ready( function() {
+  var wd =window.innerWidth;
+  var ht = window.innerHeight;
+
+  
+
+  // copy footer to all pages
+  jQuery.each($("div[data-role='page']"), function(index, element) {
+    footer = $("#hiddenFooter").html();
+    $(element).append(footer);
+  });
+
+  initCharts(wd-50);
+
+});
+
+
+
+
+$(window).resize(function() {
+  resizeChart();
+});
+
+
+
+$( document ).on( "pageshow", function ( event, ui ) {
+var wd =window.innerWidth;
+  var ht = window.innerHeight;
+  console.log("pageinit"  );
+console.log(wd, ht);
+  // check orientation
+  if(wd<ht && wd< 768){  //Portrait, so suggest...
+    console.log("we respectfully suggest that you turn your screen around...");
+  //$( "#popupMenu" ).popup();
+  //  $( "#popupMenu" ).popup('open');
+  }else{
+
+  }
+});
+
+
+$( document ).on( "pagecontainershow", function ( event, ui ) {
+  var activePage = $.mobile.pageContainer.pagecontainer( "getActivePage" );
+  console.log("got page "  );
+  console.log( activePage[0].id );
+});
+
+
+
+
+$( window ).on( "orientationchange", function( event ) {
+  resizeChart();
+
+  $( "#popupMenu" ).popup('close');
+
+});
+
+
+function resizeChart(){
+
+  var wd =window.innerWidth;
+  var ht = window.innerHeight;
+  //var str = "";
+  //var activePage = $.mobile.pageContainer.pagecontainer( "getActivePage" );
+  //var id = activePage[0].id;
+  //$("#"+id).append("change " + id + " to " + str + "<br/>");
+  width = wd-20;
+
+
+  //resize all charts
+  jQuery.each($('.chart'), function(index, element) {
+   //console.log('jq ' +  index + ": " + element.id );
+   chart = $('#'+element.id).highcharts();
+   chart.setSize(width, height, false);
+ });
+
+
+
+}
+
+
+
+function toggleCharts(event) {
+  console.log ( this.index );
+  switch( this.index){
+    case 0:
+      console.log ( "GDP " );
+      var chart = $("#chart_gdp").highcharts();
+      var series1 = chart.series[0];
+      var series2 = chart.series[1];
+      var series3 = chart.series[2];
+      var series4 = chart.series[3];
+
+      var title = "GDP (£ million)";
+
+      if(series1.visible){
+        series1.hide();
+        series2.hide();
+        series3.show();
+        series4.show();
+
+        title = "Percentage change (Qtr on Qtr)";
+      }else{
+        series1.show();
+        series2.show();
+        series3.hide();
+        series4.hide();
+      }
+
+      chart.yAxis[0].axisTitle.attr({
+          text: title
+      });      
+    break;
+    case 1:
+      console.log ( "BOP" );
+
+    break;
+    case 2:
+      console.log ( "Lab" );
+      var chart = $("#chart_labour").highcharts();
+      var series1 = chart.series[0];
+      var series2 = chart.series[1];
+      var series3 = chart.series[2];
+      var series4 = chart.series[3];
+      var series5 = chart.series[4];
+      var title = "Millions";
+
+      if(series1.visible){
+        series1.hide();
+        series2.hide();
+        series3.hide();
+        series4.show();
+        series5.show();
+        title = "Percentage";
+      }else{
+        series1.show();
+        series2.show();
+        series3.show();
+        series4.hide();
+        series5.hide();
+      }
+
+      chart.yAxis[0].axisTitle.attr({
+          text: title
+      });
+
+    break;
+    case 3:
+      console.log ( "CPI" );
+      var chart = $("#chart_prices").highcharts();
+      var series1 = chart.series[0];
+      var series2 = chart.series[1];
+      var series3 = chart.series[2];
+      var series4 = chart.series[3];
+      var series5 = chart.series[4];
+      var series6 = chart.series[5];
+      var series7 = chart.series[6];
+      var series8 = chart.series[7];
+      var title = "Index (Consumer, 1987; Retail 2005))";
+
+      if(series1.visible){
+        series1.hide();
+        series2.hide();
+        series3.hide();
+        series4.hide();
+        series5.show();
+        series6.show();
+        series7.show();
+        series8.show();
+        title = "Percentage change";
+      }else{
+        series1.show();
+        series2.show();
+        series3.show();
+        series4.show();
+        series5.hide();
+        series6.hide();
+        series7.hide();
+        series8.hide();
+      }
+
+      chart.yAxis[0].axisTitle.attr({
+          text: title
+      });
+    break;
+    case 4:
+      console.log ( "Sales" );
+      var chart = $("#chart_sales").highcharts();
+      var series1 = chart.series[0];
+      var series2 = chart.series[1];
+      var series3 = chart.series[2];
+      var title = "Index (2010)";
+
+      if(series1.visible){
+        series1.hide();
+        series2.hide();
+        series3.show();
+        title = "Consumer Spending (£ million)";
+      }else{
+        series1.show();
+        series2.show();
+        series3.hide();
+      }
+
+      chart.yAxis[0].axisTitle.attr({
+          text: title
+      });
+    break;
+    case 5:
+      console.log ( "Debt "   );
+
+      var chart = $("#chart_debt").highcharts();
+      var series1 = chart.series[0];
+      var series2 = chart.series[1];
+      var series3 = chart.series[2];
+      var series4 = chart.series[3];
+      var title = "Net Debt (£bn)";
+
+      if(series1.visible){
+        series1.hide();
+        series2.hide();
+        series3.show();
+        series4.show();
+        title = "Net Debt (% GDP)";
+      }else{
+        series1.show();
+        series2.show();
+        series3.hide();
+        series4.hide();
+      }
+
+      chart.yAxis[0].axisTitle.attr({
+          text: title
+      });
+
+
+
+
+
+
+
+    break;
+  }
+
+
+}
+
+
+
+function initCharts(wd){
+
+  Highcharts.setOptions({
+
+    colors: [
+            'rgb(0, 132, 209)',           // blue
+            'rgb(255, 149, 14)',          // orange
+            'rgb(255, 66, 14)',           // red
+            'rgb(168, 189, 58)',          // green
+            'rgb(144, 176, 201)',         // lt blue
+            'rgb(255, 211, 32)',          // yellow
+            //'rgb(65, 64, 66)',            // dk grey
+            //'rgb(0, 61, 89)',             // dk grey
+            // 'rgb(49, 64, 4)',            // dk grey
+            //'rgb(204, 204, 204)'          // lt grey
+            'rgb(128, 128 , 128)'           // mid grey
+            ],
+
+            chart: {
+              style: {
+                fontFamily: 'Open Sans',
+                color:'#000'
+              },
+              width:wd,
+              height:height,
+      //backgroundColor:'rgba(255, 255, 255, 0.1)'
+      //backgroundColor:'aliceblue'
+      backgroundColor:'#F9F9F9',
+
+      events: {
+                click: toggleCharts
+            } 
+    },
+    symbols: [
+    'circle'
+    ]
+    ,
+    plotOptions: {
+      series: {
+        animation: false
+    },
+      line: {
+        marker: {
+         radius: 4,
+         fillColor: '#fff',
+         lineColor: null,
+         lineWidth: 2
+       },
+       shadow:true
+       ,
+       dataLabels: {
+        enabled: false
+      },
+      enableMouseTracking: false
+    }
+  },
+  yAxis: {
+    title: {
+      style: {
+        color: '#000',
+        fontWeight:300
+      }
+    }
+
+  },
+  legend: {
+    borderColor:null,
+    borderRadius: 0,
+    borderWidth: 1
+  },
+  credits:{
+    enabled:false
+  }
+});
+
+charts["gdp"] = $('#chart_gdp').highcharts({
+  chart: {
+    type: 'line'
+  },
+  title: {
+    text: ''
+  },
+  subtitle: {
+    text: ''
+  },
+  xAxis: {
+    categories: ['2010', '', '', '', '2011', '', '', '', '2012', '', '', '', '2013']
+  },
+  yAxis: {
+    title: {
+      text: 'Gross Domestic Product (£m)',
+      style: {
+        color: '#000'
+      }
+    }
+
+  },
+
+
+  plotOptions: {
+    line: {
+      marker: {
+       radius: 4,
+       fillColor: '#fff',
+       lineColor: null,
+       lineWidth: 2
+     },
+     dataLabels: {
+      enabled: false
+    },
+    enableMouseTracking: false
+  }
+},
+series: [
+    {
+      name: 'CVM',
+      data: [368033,371779,373275,372529,374264,374628,376862,376462,376324,374754,377684,377231,379113,382090,384996]
+    }, 
+    {
+      name: 'CP',
+      data: [366807,369113,374379,375316,380237,381379,388054,387267,390007,387848,391981,397334,401596,404147,409813]
+    }
+    ,
+    {
+      name: 'GDP: Q on Q CVM',
+      data: [0.7,0.8,0.8,0.4,-0.2,0.8,-0.4,0,-0.1,0.6,0.1,0.5,-0.2],
+      visible:false
+    },
+    {
+      name: 'GDP Q on Q CP',
+      data: [1.6,1.5,0.1,0.8,1.8,0.8,-0.9,0.5,-0.2,1.8,0.3,1.3,0.3],
+      visible:false
+    }
+  ]
+  });
+
+
+charts["bop"] = $('#chart_bop').highcharts({
+  chart: {
+    type: 'line'
+  },
+  title: {
+    text: ''
+  },
+  subtitle: {
+    text: ''
+  },
+  xAxis: {
+    categories: ['2010', '', '', '', '2011', '', '', '', '2012', '', '', '', '2013']
+  },
+  yAxis: {
+    title: {
+      text: 'Balance of Payments (£m)'
+    }
+  },
+  plotOptions: {
+    line: {
+      dataLabels: {
+        enabled: false
+      },
+      enableMouseTracking: false
+    }
+  },
+  series: [{
+    name: 'Current Balance',
+    data: [-22360,-22830,-9418,-16470,-14136,-14081,-18641,-12799,-5514,-9392,-4333,-3236,-12300]
+  }]
+});
+
+
+charts["labour"] = $('#chart_labour').highcharts({
+  chart: {
+    type: 'line'
+  },
+  title: {
+    text: ''
+  },
+  subtitle: {
+    text: ''
+  },
+  xAxis: {
+    categories: ['2010', '', '', '', '2011', '', '', '', '2012', '', '', '', '2013']
+  },
+  yAxis: {
+    title: {
+      text: 'Millions'
+    },
+    min: 0
+  },
+  plotOptions: {
+    line: {
+      dataLabels: {
+        enabled: false
+      },
+      enableMouseTracking: false
+    }
+  },
+  series: [{
+    name: 'Employment',
+    data: [null,null,30.191,30.146,30.150,30.086,29.953,29.869,29.836,29.777,29.714,29.756,29.708]
+    }, {
+      name: 'Unemployment',
+      data: [null,null,2.326,2.342,2.320,2.388,2.466,2.487,2.487,2.514,2.505,2.511,2.518]
+   },{
+    name:'Claimants',
+    data:[1.1748,1.2094,1.2433,1.271,1.3053,1.3481,1.3928,1.4344,1.4707,1.5001,1.5163,1.5281,1.538]
+  }
+  ,{
+    name:'Employment Rate',
+    data:[72.1,71.8,71.5,71.4,71.6,71.2,71,70.6,70.4,70.2,70.6,70.7,70.5],
+      visible:false
+  }
+  ,{
+    name:'Unemployment Rate',
+    data:[null,null,7.2,7.2,7.1,7.4,7.6,7.7,7.7,7.8,7.8,7.8,7.8],
+      visible:false
+  }
+  ]
+});
+
+
+charts["prices"] =  $('#chart_prices').highcharts({
+  chart: {
+    type: 'line'
+  },
+  title: {
+    text: ''
+  },
+  subtitle: {
+    text: ''
+  },
+  xAxis: {
+    categories: ['Feb 2013', '', '', '', '', '', 'Aug 2013', '', '', '', '', '', 'Feb 2014']
+  },
+  yAxis: {
+    title: {
+      text: 'Index (2005)'
+    }
+  },
+  plotOptions: {
+    line: {
+      dataLabels: {
+        enabled: false
+      },
+      enableMouseTracking: false
+    }
+  },
+  series: [{
+      name: 'CPI % change',
+      data: [1.7,1.9,2,2.1,2.2,2.7,2.7,2.8,2.9,2.7,2.4,2.8,2.8]
+    }, {
+      name: ' CPIH % change',
+      data: [1.6,1.8,1.9,1.9,2,2.5,2.5,2.5,2.7,2.5,2.2,2.6,2.6]
+   },{
+      name:'RPIJ % change',
+      data:[2,2.1,2,2,1.9,2.5,2.6,2.6,2.7,2.5,2.3,2.7,2.6]
+    },{
+      name:'RPI % change',
+      data:[2.7,2.8,2.7,2.6,2.6,3.2,3.3,3.1,3.3,3.1,2.9,3.3,3.2]
+    }
+  ,
+    {
+      name: 'CPI',
+      data: [127.4,126.7,127.5,127,126.9,126.8,126.4,125.8,125.9,126.1,125.9,125.6,125.2],
+      visible:false
+    }
+      ,
+    {
+      name: 'CPIH',
+      data: [125.2,124.7,125.3,124.8,124.8,124.7,124.3,123.8,123.8,124,123.8,123.6,123.2],
+      visible:false
+    }
+      ,
+    {
+      name: 'RPIJ',
+      data: [236.3,235.4,236.2,235.1,234.9,235,234.2,233.2,233.2,233.5,233.2,232.6,231.7],
+      visible:false
+    }
+      ,
+    {
+      name: 'RPI',
+      data: [254.2,252.6,253.4,252.1,251.9,251.9,251,249.7,249.7,250,249.5,248.7,247.6],
+      visible:false
+    }
+
+
+    ]
+  });
+
+
+salesChart =  charts["sales"] = $('#chart_sales').highcharts({
+  chart: {
+    type: 'line'
+  },
+  title: {
+    text: ''
+  },
+  subtitle: {
+    text: ''
+  },
+  xAxis: {
+    categories: ['Feb 2013', '', '', '', '', '', 'Aug 2013', '', '', '', '', '', 'Feb 2014']
+  },
+  yAxis: {
+    title: {
+      text: 'Sales index (2010 = 100)'
+    }
+  },
+  plotOptions: {
+    line: {
+      dataLabels: {
+        enabled: false
+      },
+      enableMouseTracking: false
+    }
+  },
+  series: [{
+    name: 'Sales',
+    data: [112.8,111.3,113.9,110.9,110.7,111.8,110.8,111.8,110.3,109.9,107.7,108.8,108.9]
+  }, {
+    name: 'Sales exc fuel',
+    data: [113.1,111.4,113.9,110.8,110.6,111.1,110,111,109.7,109.3,106.9,107.9,108]
+  }
+  ,
+    {
+      name:'Consumer Spending',
+      data:[262369,259255,255589,254521,251186,246493,245250,243326,241914,238784,237118,236066,234722],
+      visible:false
+    }
+    ]
+  });
+
+charts["debt"] =  $('#chart_debt').highcharts({
+  chart: {
+    type: 'line'
+  },
+  title: {
+    text: ''
+  },
+  subtitle: {
+    text: ''
+  },
+  xAxis: {
+    categories: ['Feb 2013', '', '', '', '', '', 'Aug 2013', '', '', '', '', '', 'Feb 2014']
+  },
+  yAxis: {
+    title: {
+      text: 'Net debt (£bn)'
+    }
+  },
+  plotOptions: {
+    line: {
+      dataLabels: {
+        enabled: false
+      },
+      enableMouseTracking: false
+    }
+  },
+  series: [{
+    name: 'Net Debt',
+    data: [2198.1,2191.7,2204.1,2187.4,2177.2,2179.2,2168.3,2168,2172.9,2175,2179.3,2196.6,2189.4]
+  }, {
+    name: 'Net Debt exc FI',
+    data: [1254.7,1221.1,1207.3,1185.2,1182.4,1139.3,1118.5,1106.4,1093.6,1060.2,1040.4,1004.9,984.2]
+  },
+
+    {
+      name:'Net Debt (% GDP)',
+      data:[133,132.9,133.7,136.7,137.6,136.6,136.1,139.1,143.1,144.3,146.8,147.2,148.7],
+      visible:false
+    },{
+      name:' Net Debt (% GDP) exc FI',
+      data:[75.7,74.5,74.3,73.8,74.4,72.4,71.4,70.9,70.4,68.4,67.7,65.9,65],
+      visible:false
+    }
+    
+    ]
+  });
+
+
+}
+
+
+
+
+</script>
+
+
+
+<script type="text/javascript">
+/*
+$(function() {
+  $('#menu').mmenu({
+    onClick   : {
+      blockUI     : false,
+      preventDefault  : function() {
+        return this.rel != 'external';
+      }
+    }
+  }, {
+    pageSelector: 'div[data-role="page"]:first'
+  });
+
+  $('#menu a[rel!="external"]').on(
+    'click',
+    function()
+    {
+      var _t = this;
+      $('#menu').one(
+        'closed.mm',
+        function()
+        {
+          $.mobile.changePage( _t.href, {
+            transition: 'slide'
+          });
+        }
+        );
+    }
+    );
+});
+
+$(document).on(
+  'pageshow',
+  function( e, ui )
+  {
+    $('#menu').trigger( 'setPage', [ $(e.target) ] );
+    $('#menu a').each(
+      function()
+      {
+        if ( $.mobile.path.parseUrl( this.href ).href == window.location.href )
+        {
+          $(this).trigger( 'setSelected.mm' );
+        }
+      }
+      );
+  }
+  );
+*/
+
+</script>
+
+
+
+
+
+
+</body>
+</html>

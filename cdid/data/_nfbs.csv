@@ -1,0 +1,144 @@
+CGCZ,"Households & NPISHs: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,NFBS
+CGDB,"Financial Corporations: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,NFBS
+CGES,"Non-Financial Corporations: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,NFBS
+CGGN,"Public Non-Financial Corporations: Physical Balance Sheet: Total Non-fin Assets",NSA,0,CURR,0,NFBS
+CGIX,"General Government: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,NFBS
+CGIY,"Central Government: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,NFBS
+CGIZ,"Local Authorities: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,NFBS
+CGJA,"Public Sector: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,NFBS
+CGJB,"Total: All Sectors: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,NFBS
+CGRE,"All Sextors: Tangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGRF,"All Sectors: Intangible Assets: non-marketable tenancy rights £bn",NSA,0,CURR,0,NFBS
+CGRH,"All Sectors: Intangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGRP,"Households & NPISHs: Tangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGRQ,"Households & NPISHs: Intangible Assets: Non-marketable tenancy rights £bn",NSA,0,CURR,0,NFBS
+CGRT,"Households & NPISHs: Intangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGUP,"Financial Corps: Tangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGUQ,"Financial Corps: Intangible Assets: non-marketable tenancy rights £bn.Set at 0",NSA,0,CURR,0,NFBS
+CGUS,"Financial Corps: Intangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGVA,"NFCs: Tangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGVB,"NFCs: Intangible Assets: non-marketable tenancy rights £bn. Permanently set at 0",NSA,0,CURR,0,NFBS
+CGVE,"NFCs: Intangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGVM,"Public NFCs: Tangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGVN,"Public NFCs: Intang Assets: non-marketable tenancy rights £bn Permanent set at 0",NSA,0,CURR,0,NFBS
+CGVP,"Public NFCs: Intangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGVX,"General Government: Tangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGVY,"General Government: Intangible Assets: non-marketable tenancy rights £bn. (0)",NSA,0,CURR,0,NFBS
+CGWA,"General Government: Intangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGWI,"Central Government: Tangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGWJ,"Central Govt: Intangible Assets: non-market tenancy rights £bn. Set at 0",NSA,0,CURR,0,NFBS
+CGWL,"Central Government: Intangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGWM,"Local Government: Tangible Assets: residential building £m",NSA,0,CURR,0,NFBS
+CGWT,"Local Government: Tangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGWU,"Local Government: Intangible Assets: non-marketable tenancy rights £bn. Set at 0",NSA,0,CURR,0,NFBS
+CGWW,"Local Government: Intangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGXE,"Public Sector: Tangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+CGXF,"Public Sector: Intangible Assets: non-marketable tenancy rights £bn Set at 0",NSA,0,CURR,0,NFBS
+CGXH,"Public Sector: Intangible Assets: Total £bn",NSA,0,CURR,0,NFBS
+TMPH,"Private non-financial corporations: Tangible assets: Total",NSA,0,CURR,0,NFBS
+TMPI,"Private non-fin corps: Intangible non fin assets: Non marketable tenancy rights",NSA,0,CURR,0,NFBS
+TMPK,"Private non-fin corps: Intangible non fin assets: Total",NSA,0,CURR,0,NFBS
+TMPL,"Private non financial corporations: Total non financial assets",NSA,0,CURR,0,NFBS
+CGDA,"UK: B.90 Total net worth £m",NSA,0,CURR,0,NFBS
+CGLK,"UK: AN.1111 Dwellings £m",NSA,0,CURR,0,NFBS
+CGMP,"UK: AN.1114 Cultivated assets £m",NSA,0,CURR,0,NFBS
+CGMU,"UK: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,NFBS
+CGQZ,"UK: AN.11122 Other structures £m",NSA,0,CURR,0,NFBS
+CGRA,"UK: AN.11132 Plant and machinery £m",NSA,0,CURR,0,NFBS
+CGRB,"UK: AN.11131 Transport equipment £m",NSA,0,CURR,0,NFBS
+CGRC,"Household & NPISHs: B.90 Total net worth £m",NSA,0,CURR,0,NFBS
+CGRD,"UK: AN.12 Inventories £m",NSA,0,CURR,0,NFBS
+CGRG,"UK: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,NFBS
+CGRI,"Households & NPISHs: AN.1111 Dwellings £m",NSA,0,CURR,0,NFBS
+CGRJ,"Households & NPISHs: AN.1114 Cultivated assets £m",NSA,0,CURR,0,NFBS
+CGRK,"Households & NPISHs: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,NFBS
+CGRL,"Households & NPISHs: AN.11122 Other structures £m",NSA,0,CURR,0,NFBS
+CGRM,"Households & NPISHs: AN.11132 Plant and machinery £m",NSA,0,CURR,0,NFBS
+CGRN,"Households & NPISHs: AN.11131 Transport equipment £m",NSA,0,CURR,0,NFBS
+CGRO,"Households & NPISHs: AN.12 Inventories £m",NSA,0,CURR,0,NFBS
+CGRS,"Households & NPISHs: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,NFBS
+CGRU,"Financial corporations: B.90 Total net worth £m",NSA,0,CURR,0,NFBS
+CGRV,"Non-financial corporations: B.90 Total net worth £m",NSA,0,CURR,0,NFBS
+CGRW,"Public non-financial corporations: B.90 Total net worth £m",NSA,0,CURR,0,NFBS
+CGRX,"General Government: B.90 Total net worth £m",NSA,0,CURR,0,NFBS
+CGRY,"Central government: B.90 Total net worth £m",NSA,0,CURR,0,NFBS
+CGRZ,"Local Government: B.90 Total net worth £m",NSA,0,CURR,0,NFBS
+CGSA,"Public Sector: AF Total financial assets/liabilities £m",NSA,0,CURR,0,NFBS
+CGTY,"Public Sector: B.90 Total net worth £m",NSA,0,CURR,0,NFBS
+CGUD,"Financial corporations: AN.1111 Dwellings £m",NSA,0,CURR,0,NFBS
+CGUE,"Financial corporations: AN.1114 Cultivated assets £m",NSA,0,CURR,0,NFBS
+CGUF,"Financial corporations: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,NFBS
+CGUG,"Financial corporations: AN.11122 Other structures £m",NSA,0,CURR,0,NFBS
+CGUH,"Financial corporations: AN.11132 Plant and machinery £m",NSA,0,CURR,0,NFBS
+CGUI,"Financial corporations: AN.11131 Transport equipment £m",NSA,0,CURR,0,NFBS
+CGUO,"Financial corporations: AN.12 Inventories £m",NSA,0,CURR,0,NFBS
+CGUR,"Financial corporations: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,NFBS
+CGUT,"Non-financial corporations: AN.1111 Dwellings £m",NSA,0,CURR,0,NFBS
+CGUU,"Non-financial corporations: AN.1114 Cultivated assets £m",NSA,0,CURR,0,NFBS
+CGUV,"Non-financial corporations: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,NFBS
+CGUW,"Non-financial corporations: AN.11122 Other structures £m",NSA,0,CURR,0,NFBS
+CGUX,"Non-financial corporatons: AN.11132 Plant and machinery £m",NSA,0,CURR,0,NFBS
+CGUY,"Non-financial corporations: AN.11131 Transport equipment £m",NSA,0,CURR,0,NFBS
+CGUZ,"Non-financial corporations: AN.12 Inventories £m",NSA,0,CURR,0,NFBS
+CGVC,"Non-financial corporations: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,NFBS
+CGVF,"Public non-financial corporations: AN.1111 Dwellings £m",NSA,0,CURR,0,NFBS
+CGVG,"Public non-financial corporations: AN.1114 Cultivated assets £m",NSA,0,CURR,0,NFBS
+CGVH,"Public non-financial corporations: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,NFBS
+CGVI,"Public non-financial corporations: AN.11122 Other structures £m",NSA,0,CURR,0,NFBS
+CGVJ,"Public non-financial corporations: AN.11132 Plant and machinery £m",NSA,0,CURR,0,NFBS
+CGVK,"Public non-financial corporations: AN.11131 Transport equipment £m",NSA,0,CURR,0,NFBS
+CGVL,"Public non-financial corporations: AN.12 Inventories £m",NSA,0,CURR,0,NFBS
+CGVO,"Public non-financial corporations: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,NFBS
+CGVQ,"General Government: AN.1111 Dwellings £m",NSA,0,CURR,0,NFBS
+CGVR,"General Government: AN.1114 Cultivated assets £m",NSA,0,CURR,0,NFBS
+CGVS,"General Government: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,NFBS
+CGVT,"General Government: AN.11122 Other structures £m",NSA,0,CURR,0,NFBS
+CGVU,"General Government: AN.11132 Plant and machinery £m",NSA,0,CURR,0,NFBS
+CGVV,"General Government: AN.11131 Transport equipment £m",NSA,0,CURR,0,NFBS
+CGVW,"General Government: AN.12 Inventories £m",NSA,0,CURR,0,NFBS
+CGVZ,"General Government: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,NFBS
+CGWB,"Central Government: AN.1111 Dwellings £m",NSA,0,CURR,0,NFBS
+CGWC,"Central Government: AN.1114 Cultivated assets £m",NSA,0,CURR,0,NFBS
+CGWD,"Central Government: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,NFBS
+CGWE,"Central Government: AN.11122 Other structures £m",NSA,0,CURR,0,NFBS
+CGWF,"Central Government: AN.11132 Plant and machinery £m",NSA,0,CURR,0,NFBS
+CGWG,"Central Government: AN.11131 Transport equipment £m",NSA,0,CURR,0,NFBS
+CGWH,"Central Government: AN.12 Inventories £m",NSA,0,CURR,0,NFBS
+CGWK,"Central Government: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,NFBS
+CGWN,"Local Government: AN.1114 Cultivated assets £m",NSA,0,CURR,0,NFBS
+CGWO,"Local Government: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,NFBS
+CGWP,"Local Government: AN.11122 Other structures £m",NSA,0,CURR,0,NFBS
+CGWQ,"Local Government: AN.11132 Plant and machinery £m",NSA,0,CURR,0,NFBS
+CGWR,"Local Government: AN.11131 Transport equipment £m",NSA,0,CURR,0,NFBS
+CGWS,"Local Government: AN.12 Inventories £m",NSA,0,CURR,0,NFBS
+CGWV,"Local Government: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,NFBS
+CGWX,"Public Sector: AN.1111 Dwellings £m",NSA,0,CURR,0,NFBS
+CGWY,"Public Sector: AN.1114 Cultivated assets £m",NSA,0,CURR,0,NFBS
+CGWZ,"Public Sector: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,NFBS
+CGXA,"Public Sector: AN.11122 Other structures £m",NSA,0,CURR,0,NFBS
+CGXB,"Public Sector: AN.11132 Plant and machinery £m",NSA,0,CURR,0,NFBS
+CGXC,"Public Sector: AN.11131 Transport equipment £m",NSA,0,CURR,0,NFBS
+CGXD,"Public Sector: AN.12 Inventories £m",NSA,0,CURR,0,NFBS
+CGXG,"Public Sector: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,NFBS
+NQFT,"UK:NET FINANCIAL ASSETS/LIABILITIES:BF.90: CP NSA",NSA,0,CURR,0,NFBS
+NYOE,"ESA:Levels:FC:Assets:Net financial assets/liabilities",NSA,0,CURR,0,NFBS
+NYOG,"ESA:Levels:GG:Assets:Net Financial Assets/ Liabilities",NSA,0,CURR,0,NFBS
+NYOJ,"Levels:LA:Net Financial AssetsLiabilities: CP NSA",NSA,0,CURR,0,NFBS
+NYOM,"ESA:Levels:NF:Assets:Net Financial Assets/Liabilities",NSA,0,CURR,0,NFBS
+NYOP,"Levels:PC:Net Financial AssetsLiabilities:CP NSA:£m",NSA,0,CURR,0,NFBS
+NYOT,"Levels:PR:Net Financial AssetsLiabilities:CP NSA: £m",NSA,0,CURR,0,NFBS
+NZDZ,"Central Government: Levels:Net Financial AssetsLiabilities: CP NSA",NSA,0,CURR,0,NFBS
+NZEA,"Levels:HN:Net financial assets/liabilities: CP NSA",NSA,0,CURR,0,NFBS
+TMPB,"Private non-financial corporations: AN.1111 Dwellings £m",NSA,0,CURR,0,NFBS
+TMPC,"Private non-financial corporations: AN.1114 Cultivated assets £m",NSA,0,CURR,0,NFBS
+TMPD,"Private non-financial corporations: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,NFBS
+TMPE,"Private non-financial corporations: AN.11122 Other structures £m",NSA,0,CURR,0,NFBS
+TMPF,"Private non-financial corporations: AN.11132 Plant and machinery £m",NSA,0,CURR,0,NFBS
+TMPG,"Private non-financial corporations: AN.12 Inventories £m",NSA,0,CURR,0,NFBS
+TMPJ,"Private non-financial corporations: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,NFBS
+TMPN,"Private non-financial corporations: B.90 Total net worth £m",NSA,0,CURR,0,NFBS
+TMPO,"Private non-financial corporations: AN.11131 Transport equipment £m",NSA,0,CURR,0,NFBS
+ZLCS,"Local Government: AN.1111 Dwellings £m",NSA,0,CURR,0,NFBS
+ZLDA,"Central Government: AN.229 Other intangible non-produced assets £m",NSA,0,CURR,0,NFBS
+ZLDB,"General Government: AN.229 Other intangible non-produced assets £m",NSA,0,CURR,0,NFBS
+ZLDC,"Public Sector: AN.229 Other intangible non-produced assets £m",NSA,0,CURR,0,NFBS

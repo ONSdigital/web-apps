@@ -1,0 +1,483 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xmlns:fms="http://www.ons.gov.uk/xsd/sch-ons-meta-folder-system" xmlns:esi="http://www.edge-delivery.org/esi/1.0" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta name="Robots" content="" />
+	<meta name="DC.Coverage" content="" />
+	<meta name="DC.Creator" content="" />
+	<meta name="DC.Language" content="eng" scheme="ISO 639-2/T" />
+	<meta name="eGMS.Accessibility" content="" scheme="eGMS.WCAG10" />
+	<meta name="DC.Identifier" content="http://www.ons.gov.uk" scheme="DCTERMS.URI" />
+	<meta name="DCTERMS.Modified" content="" scheme="DCTERMS.W3CDTF" />
+	<meta name="DC.Title" content="Census map analysis - Method of Travel" />
+	<meta name="DCTERMS.alternative" content="" />
+	<meta name="DC.subject" content="" />
+	<meta name="DC.Description" content="" />
+	<meta name="DC.Subject" content="" scheme="eGMS.IPSVAbridged" />
+	<meta name="DC.subject" content="" scheme="NSCL2" />
+	<meta name="DC.Source" content="" />
+	<meta name="DC.Type" content="" scheme="eGMS.TES" />
+	<meta name="DC.type" content="" scheme="DCTERMS.DCMIType" />
+	<meta name="eGMS.disposalReview" content="Z" scheme="DCTERMS.W3CDTF" />
+	<meta name="eGMS.disposalReviewDetails" content="" />
+	<meta name="DCTERMS.Issued" content="2013-02-13T09:30:00Z" scheme="DCTERMS.W3CDTF" />
+	<meta name="DC.Identifier" content="" scheme="eGMS.ISBN" />
+	<meta name="DC.Identifier" content="" scheme="eGMS.ISSN" />
+	<meta name="eGMS.updatingFrequency" content="" />
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+
+	<title> T E M P L A T E </title>
+
+
+
+	<script type="text/javascript" src="ons/js/main.js">
+	/* Comment to prevent tag collapsing */
+	</script>
+	<script type="text/javascript" src="ons/js/jquery-1.5.2.min.js">
+	/* Comment to prevent tag collapsing */
+	</script>
+
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="ons/styles/normal-moz.css" title="ONS Normal Mozilla Stylesheet" />
+
+
+	<link type="text/css" href="ons/styles/jquery-ui-1-8-6.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+  <!-- Google fonts -->
+	<!-- <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'> -->
+
+	<!-- Bootstrap CSS -->
+	<!--<link href="assets/css/bootstrap.css" rel="stylesheet" media="screen">-->
+	
+	<!-- JQUERY -->
+	<script src="js/jquery.js"></script>	
+	<!-- HIGHCHARTS -->
+	<script src="js/highcharts.js"></script>
+	<script src="js/highchart.module.exporting.js"></script>
+	
+	<!-- Application code -->
+	<!--/*<script src="js/key.js"></script>*/-->
+
+	<!-- Application style -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="" >
+
+	<div id="pagecontainer">
+		<a id="skiptotop" class="skiptocontent" href="#skiptocontent" tabindex="1" accesskey="s">Skip to content</a>
+		<div id="banner" xmlns:fms="http://www.ons.gov.uk/xsd/sch-ons-meta-folder-system" xmlns:fm="http://www.statistics.gov.uk/cms/sch_gen_folder_metadata" xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+			<div id="banner-left">
+				<div id="logo">
+					<a href="/ons/index.html" accesskey="1">
+						<img src="ons/resources/onsbannerlogo_tcm77-15013.jpg" title="Office for National Statistics logo" alt="Office for National Statistics logo" width="235" height="56" class="bannerimage"/>
+					</a>
+				</div>
+				<div id="logoprint">
+					<a href="/ons/index.html" accesskey="1">
+						<img src="ons/resources/onsrgbenglish_tcm77-16218.gif" title="ONS logo" alt="ONS logo" width="239" height="47" class="bannerimage"/>
+					</a>
+				</div>
+			</div>
+			<div id="banner-right">
+				<div id="sitenavigation">
+					<ul>
+						<li/>
+						<li class="last">
+							<a href="/ons/jobs/index.html">
+								<span class="tab-text">Jobs</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div id="accessnavigation">
+					<ul>
+						<li class="first">
+							<a href="/ons/site-information/information/accessibility/index.html">
+								<span class="tab-text">Accessibility</span>
+							</a>
+						</li>
+						<li id="format_normal">
+							<a title="Default colour scheme" href="?translation-component=&amp;calling-id=77-41019-4&amp;currLang=English&amp;format=normal">
+								<img src="ons/resources/formatnormal_tcm77-30124.gif" alt="Default colour scheme"/>
+								<span class="textonly">Default colour scheme</span>
+							</a>
+						</li>
+						<li id="format_contrast">
+							<a title="Dyslexia scheme" href="?translation-component=&amp;calling-id=77-41019-4&amp;currLang=English&amp;format=contrast">
+								<img src="ons/resources/formatcontrast_tcm77-30123.gif" alt="Dyslexia scheme"/>
+								<span class="textonly">Dyslexia scheme</span>
+							</a>
+						</li>
+						<li id="format_hi-vis">
+							<a title="High visibility scheme" href="?translation-component=&amp;calling-id=77-41019-4&amp;currLang=English&amp;format=hi-vis">
+								<img src="ons/resources/formathivis_tcm77-30125.gif" alt="High visibility scheme"/>
+								<span class="textonly">High visibility scheme</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div id="search">
+					<form action="/ons/search/index.html">
+						<fieldset>
+							<label for="search_box">
+								<span class="noshow">Search</span>
+							</label>
+							<div>
+								<input name="newquery" id="search_box" type="text" value="" maxlength="2048"/>
+								<button type="submit">Search
+								</button>
+							</div>
+						</fieldset>
+					</form>
+				</div>
+			</div>
+			<div id="tab-bar-container">
+				<div id="tab-bar">
+
+					<ul>
+						<li class="first">
+							<a href="/ons/index.html">
+								<span class="tab-text">Home</span>
+							</a>
+						</li>
+						<li class="first">
+							<a href="/ons/browse-by-theme/index.html" title="Browse by theme">
+								<span class="tab-text">Browse by theme</span>
+							</a>
+						</li>
+						<li>
+							<a href="/ons/publications/index.html" title="Publications">
+								<span class="tab-text">Publications</span>
+							</a>
+						</li>
+						<li>
+							<a href="/ons/datasets-and-tables/index.html" title="Data search">
+								<span class="tab-text">Data</span>
+							</a>
+						</li>
+						<li>
+							<a href="/ons/release-calendar/index.html" title="Release calendar">
+								<span class="tab-text">Release calendar</span>
+							</a>
+						</li>
+						<li>
+							<a href="/ons/guide-method/index.html" title="Guidance and methodology">
+								<span class="tab-text">Guidance and methodology</span>
+							</a>
+						</li>
+						<li>
+							<a href="/ons/media-centre/index.html" title="Media centre">
+								<span class="tab-text">Media centre</span>
+							</a>
+						</li>
+						<li class="last">
+							<a href="/ons/about-ons/index.html" title="Information about Office for National Statistics">
+								<span class="tab-text">About ONS</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div class="wrapper1">
+			<div id="contentcontainer">
+				<div id="breadcrumb">
+					<div id="print-friendly">
+						<a title="Print friendly version of the page" href="?format=print">Print friendly</a>
+					</div>
+					<ul>
+						<li>You are here: </li>
+						<li>
+							<a href="/ons/index.html">Home</a> &gt; </li>
+							<li>
+								<a href="/ons/interactive/index.html">Interactive</a> &gt; </li>
+								<li>Inflation</li>
+							</ul>
+						</div>
+						<script type="text/javascript" src="ons/js/js_ons_popupbox.js" xmlns:date="http://exslt.org/dates-and-times" xmlns:esi="http://www.edge-delivery.org/esi/1.0">/* Comment to prevent tag collapsing */</script><div id="wrapper" xmlns:date="http://exslt.org/dates-and-times" xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+						<div id="outline-full">
+							<div id="bookmark-bar">
+								<div class="popup-box-link" id="social-bookmarks-link">
+									<!--called from ct GEN Common Transforms-->
+									<a href="/ons/site-information/using-the-website/social-bookmarks/social-bookmarks.html" id="social-bookmarks-link-anchor" onclick="return false;">
+										<img src="ons/resources/socialbookmark_tcm77-30129.gif" width="123" height="25" alt=""/>
+									</a>
+								</div>
+							</div>
+							<div id="lp-container">
+								<a name="skiptocontent">
+									<!--Content-->
+								</a>
+
+<!-- 
+
+<script type="text/javascript" src="ons/js/jquery-1.5.2.min.js">
+					/* Comment to prevent tag collapsing */
+				</script>
+<script type="text/javascript" src="ons/js/modernizer-2-5-3-compact.js">
+					/* Comment to prevent tag collapsing */
+				</script>
+<script type="text/javascript" src="ons/js/jquery-ui-1-8-6-min.js">
+					/* Comment to prevent tag collapsing */
+				</script>
+<script type="text/javascript" src="ons/js/jquery-url-shortener.js">
+					/* Comment to prevent tag collapsing */
+				</script> -->
+
+
+
+
+
+
+			<!-- --------------------------------------------------------------------------------------------------- -->
+
+
+
+
+			<div id="interactive">
+
+				<h1>Interactive Content</h1>
+				
+			</div>
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+			<!-- --------------------------------------------------------------------------------------------------- -->
+
+
+
+
+
+
+
+
+
+
+
+			<div style="clear:both;">
+
+
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+</div>
+</div>
+<div id="footer" xmlns:esi="http://www.edge-delivery.org/esi/1.0">
+	<div id="footernavigation">
+		<ul>
+			<li class="first">
+				<a href="/ons/cymraeg/canllawiau/index.html" title="Canllawiau">
+					<span class="tab-text">Canllawiau </span>
+				</a>
+			</li>
+			<li>
+				<a href="/ons/site-information/information/creative-commons-license/index.html" title="Copyright">
+					<span class="tab-text">Copyright</span>
+				</a>
+			</li>
+			<li>
+				<a href="/ons/site-information/using-the-website/faqs/contact-us-and-faq.html" title="FAQ and contact us">
+					<span class="tab-text">FAQ and contact us</span>
+				</a>
+			</li>
+			<li>
+				<a href="/ons/site-information/information/privacy-statement/index.html" title="Privacy">
+					<span class="tab-text">Privacy</span>
+				</a>
+			</li>
+			<li>
+				<a href="/ons/site-information/using-the-website/sitemap/index.html" title="Sitemap">
+					<span class="tab-text">Sitemap</span>
+				</a>
+			</li>
+			<li>
+				<a href="/ons/about-ons/what-we-do/social-media-policy/index.html" title="Social media policy">
+					<span class="tab-text">Social media policy</span>
+				</a>
+			</li>
+			<li class="last">
+				<a href="/ons/site-information/information/terms-and-conditions/index.html" title="Terms and Conditions">
+					<span class="tab-text">Terms and Conditions</span>
+				</a>
+			</li>
+		</ul>
+		<ul>
+			<li class="first">
+				<a href="https://www.facebook.com/statisticsONS" title="Facebook icon">Facebook<img src="ons/resources/facebookicon_tcm77-304779.jpg" title="Facebook" alt="Facebook" width="32" height="32"/>
+				</a>
+			</li>
+			<li>
+				<a href="https://plus.google.com/b/117840234823038160743/117840234823038160743/posts" title="Google plus">Google+<img src="ons/resources/gplus32_tcm77-313728.png" title="Google+" alt="Google+" width="32" height="32"/>
+				</a>
+			</li>
+			<li>
+				<a href="http://www.linkedin.com/company/office-for-national-statistics" title="LinkedIn Logo">LinkedIn<img src="ons/resources/linkedin32_tcm77-313729.png" title="LinkedIn" alt="LinkedIn" width="31" height="31"/>
+				</a>
+			</li>
+			<li>
+				<a href="https://twitter.com/statisticsons" title="Twitter icon">Twitter<img src="ons/resources/twittericon_tcm77-304780.jpg" title="Twitter" alt="Twitter" width="32" height="32"/>
+				</a>
+			</li>
+			<li>
+				<a href="http://www.youtube.com/onsstats" title="YouTube">YouTube<img src="ons/resources/youtubeicon_tcm77-304781.jpg" title="YouTube" alt="YouTube" width="32" height="32"/>
+				</a>
+			</li>
+			<li class="last">
+				<a href="http://ons.us5.list-manage2.com/subscribe?u=676e8f20a23228137fdc2bd41&amp;id=e2912f8092" title="Email Icon">Sign up for email alerts<img src="ons/resources/3denvelope32_tcm77-304782.png" title="Email" alt="Email" width="32" height="32"/>
+				</a>
+			</li>
+		</ul>
+	</div>
+</div><div xmlns:esi="http://www.edge-delivery.org/esi/1.0" id="crowncopyright">
+<div>
+
+	<div>Content from the Office for National Statistics.
+
+		<br/>
+
+		© Crown Copyright applies unless otherwise stated.</div>
+
+	</div>
+</div>
+
+<div>
+	<div class="popup-box">
+		<div class="popup-box-title">
+			<h3>Social Bookmarks</h3>
+			<a href="javascript: disablePopup();" class="popup-box-close" id="social-bookmarks-close">Close</a>
+		</div>
+		<ul id="social-bookmarks">
+			<li>
+				<img src="ons/resources/iconfacebook_tcm77-30058.gif" alt="Facebook" />
+				<a href="http://www.facebook.com/sharer.php?u=http://www.ons.gov.uk:80/ons/interactive/census-map-2-3---method-of-travel/index.html">Facebook</a>
+			</li>
+			<li>
+				<img src="ons/resources/icontwitter_tcm77-30067.gif" alt="Twitter" />
+				<a href="http://twitter.com/intent/tweet?text=%23ons%20http://www.ons.gov.uk:80/ons/interactive/census-map-2-3---method-of-travel/index.html">Twitter</a>
+			</li>
+			<li>
+				<img src="ons/resources/icondelicious_tcm77-30056.gif" alt="del.icio.us" />
+				<a href="http://del.icio.us/post?url=http://www.ons.gov.uk:80/ons/interactive/census-map-2-3---method-of-travel/index.html">del.icio.us</a>
+			</li>
+			<li>
+				<img src="ons/resources/icongoogle_tcm77-30060.gif" alt="Google Bookmarks" />
+				<a href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http://www.ons.gov.uk:80/ons/interactive/census-map-2-3---method-of-travel/index.html">Google Bookmarks</a>
+			</li>
+			<li>
+				<img src="ons/resources/iconmixx_tcm77-30054.gif" alt="Mixx it!" />
+				<a href="http://www.mixx.com/submit?page_url=http://www.ons.gov.uk:80/ons/interactive/census-map-2-3---method-of-travel/index.html">Mixx it!</a>
+			</li>
+			<li>
+				<img src="ons/resources/icondigg_tcm77-30057.gif" alt="Digg" />
+				<a href="http://digg.com/submit?phase=2&amp;url=http://www.ons.gov.uk:80/ons/interactive/census-map-2-3---method-of-travel/index.html">Digg</a>
+			</li>
+			<li>
+				<img src="ons/resources/iconstumbleupon_tcm77-30066.gif" alt="StumbleUpon" />
+				<a href="http://www.stumbleupon.com/submit?url=http://www.ons.gov.uk:80/ons/interactive/census-map-2-3---method-of-travel/index.html">StumbleUpon</a>
+			</li>
+			<li>
+				<img src="ons/resources/iconreddit_tcm77-30065.gif" alt="Reddit" />
+				<a href="http://www.reddit.com/submit?url=http://www.ons.gov.uk:80/ons/interactive/census-map-2-3---method-of-travel/index.html">Reddit</a>
+			</li>
+		</ul>
+	</div>
+	<div class="popup-box-background">
+		<!--Prevent Collapse-->
+	</div>
+</div>
+
+<!-- COMMENT OUT ANALYTICS
+
+	<script src="ons/js/webtrends.js" type="text/javascript">
+				/* Comment to prevent tag collapsing */
+			</script>
+
+	<script type="text/javascript">
+	//
+	var _tag=new WebTrends();
+	_tag.dcsGetId();
+	//</script>
+	<script type="text/javascript">
+	//
+	_tag.dcsCustom=function(){
+	// Add custom parameters here.
+	//_tag.DCSext.param_name=param_value;
+	}
+	_tag.dcsCollect();
+	//</script>
+
+
+	<noscript>
+	<div>
+	<img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//statse.webtrendslive.com/dcskkw6eouz5bdmf8j6doptpo_2l1i/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.ons.gov.uk" />
+	</div>
+	</noscript>
+
+-->
+
+</div>
+
+</body>
+
+
+
+<!-- --------------------------------------------------------------------------------------------------- -->
+<script>
+  /////////////////////////////////////////////////////////////////////////////////////////
+  //
+  //  javascript goes here...
+  //
+  //
+  //
+  /////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+</script>
+<!-- --------------------------------------------------------------------------------------------------- -->
+
+
+
+</html>

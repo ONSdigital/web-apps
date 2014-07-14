@@ -1,0 +1,1028 @@
+K222,"IOP: B-E: PRODUCTION: CVMSA",SA,2010,CONS,2010,DIOP
+K224,"IOP: B:MINING AND QUARRYING: CVMSA",SA,2010,CONS,2010,DIOP
+K225,"IOP: 05:Mining Of Coal And Lignite: CVMSA",SA,2010,CONS,2010,DIOP
+K226,"IOP: 06:Extraction Of Crude Petroleum And Natural Gas: CVMSA",SA,2010,CONS,2010,DIOP
+K22A,"IOP: C:MANUFACTURING: CVMSA",SA,2010,CONS,2010,DIOP
+K22B,"IOP: CA:Manufacture of Food products beverages and tobacco: CVMSA",SA,2010,CONS,2010,DIOP
+K22C,"IOP: 10:Manufacture Of Food Products: CVMSA",SA,2010,CONS,2010,DIOP
+K22D,"IOP: 10.1:Processing & preserving of meat & production of meat products: CVMSA",SA,2010,CONS,2010,DIOP
+K22E,"IOP: 10.2-3:Process & preserve of fish crustaceans molluscs fruit veg:CVMSA",SA,2010,CONS,2010,DIOP
+K22F,"IOP: 10.4:Manufacture of vegetable and animal oils and fats: CVMSA",SA,2010,CONS,2010,DIOP
+K22G,"IOP: 10.5:Manufacture of dairy products: CVMSA",SA,2010,CONS,2010,DIOP
+K22H,"IOP: 10.6:Manufacture of grain mill products starches & starch products: CVMSA",SA,2010,CONS,2010,DIOP
+K22I,"IOP: 10.7:Manufacture of bakery and farinaceous products: CVMSA",SA,2010,CONS,2010,DIOP
+K22J,"IOP: 10.8:Manufacture of other food products: CVMSA",SA,2010,CONS,2010,DIOP
+K22K,"IOP: 10.9:Manufacture of prepared animal feeds: CVMSA",SA,2010,CONS,2010,DIOP
+K22L,"IOP: 11:Manufacture Of Beverages: CVMSA",SA,2010,CONS,2010,DIOP
+K22M,"IOP: 11.01-6:Manufacture of alcoholic beverages: CVMSA",SA,2010,CONS,2010,DIOP
+K22N,"IOP: 11.07:Manuf of soft drinks; prod of mineral & other bottled waters: CVMSA",SA,2010,CONS,2010,DIOP
+K22O,"IOP: 12:Manufacture Of Tobacco Products: CVMSA",SA,2010,CONS,2010,DIOP
+K22P,"IOP: CB:Manufacture of textiles wearing apparel and leather products: CVMSA",SA,2010,CONS,2010,DIOP
+K22Q,"IOP: 13:Manufacture Of Textiles: CVMSA",SA,2010,CONS,2010,DIOP
+K22R,"IOP: 14:Manufacture Of Wearing Apparel: CVMSA",SA,2010,CONS,2010,DIOP
+K22S,"IOP: 15:Manufacture Of Leather And Related Products: CVMSA",SA,2010,CONS,2010,DIOP
+K22T,"IOP: CC:Manufacture of wood and paper products and printing: CVMSA",SA,2010,CONS,2010,DIOP
+K22U,"IOP: 16:Manuf Of WoodStraw ArticlesWood/Cork Products Except Furniture:CVMSA",SA,2010,CONS,2010,DIOP
+K22V,"IOP: 17:Manufacture Of Paper And Paper Products: CVMSA",SA,2010,CONS,2010,DIOP
+K22W,"IOP: 18:Printing And Reproduction Of Recorded Media: CVMSA",SA,2010,CONS,2010,DIOP
+K22X,"IOP: CD:Manufacture of coke and refined petroleum product: CVMSA",SA,2010,CONS,2010,DIOP
+K22Y,"IOP: 19:Manufacture Of Coke And Refined Petroleum Products: CVMSA",SA,2010,CONS,2010,DIOP
+K22Z,"IOP: CE:Manufacture of chemicals and chemical products: CVMSA",SA,2010,CONS,2010,DIOP
+K232,"IOP: 20:Manufacture Of Chemicals And Chemical Products: CVMSA",SA,2010,CONS,2010,DIOP
+K233,"IOP: 20A:Manuf of industrial gases inorganics & fertilisers-20.11/13/15: CVMSA",SA,2010,CONS,2010,DIOP
+K234,"IOP: 20B:Manufacture of petrochemicals - 20.14/16/17/60: CVMSA",SA,2010,CONS,2010,DIOP
+K235,"IOP: 20C:Manufacture of dyestuffs agro-chemicals - 20.12/20: CVMSA",SA,2010,CONS,2010,DIOP
+K236,"IOP: 20.3:Manuf of paintsvarnishessimilar coatingsprinting ink/mastics:CVMSA",SA,2010,CONS,2010,DIOP
+K237,"IOP: 20.4:Manuf of soapdetergentspolishingperfumestoilet preparations:CVMSA",SA,2010,CONS,2010,DIOP
+K238,"IOP: 20.5:Manufacture of other chemical products: CVMSA",SA,2010,CONS,2010,DIOP
+K239,"IOP: CF:Manuf Of Basic Pharmaceutical Prods & Pharmaceutical Preparations:CVMSA",SA,2010,CONS,2010,DIOP
+K23A,"IOP: 21:Manuf Of Basic Pharmaceutical Prods & Pharmaceutical Preparations:CVMSA",SA,2010,CONS,2010,DIOP
+K23B,"IOP: CG:Manuf of rubberplastics prods & other non-metallic mineral prods:CVMSA",SA,2010,CONS,2010,DIOP
+K23C,"IOP: 22:Manufacture Of Rubber And Plastic Products: CVMSA",SA,2010,CONS,2010,DIOP
+K23D,"IOP: 23:Manufacture Of Other Non-Metallic Mineral Products: CVMSA",SA,2010,CONS,2010,DIOP
+K23E,"IOP: 23OTH:Manuf of glassclayporcelainceramicstone prods-23.1-4/7-9:CVMSA",SA,2010,CONS,2010,DIOP
+K23F,"IOP: 23.5-6:Manuf of cementlimeplaster;concretecementplaster articles:CVMSA",SA,2010,CONS,2010,DIOP
+K23G,"IOP: CH:Manufacture of basic metals and metal products: CVMSA",SA,2010,CONS,2010,DIOP
+K23H,"IOP: 24:Manufacture Of Basic Metals: CVMSA",SA,2010,CONS,2010,DIOP
+K23I,"IOP: 24.1-3:Manufacture of basic iron and steel: CVMSA",SA,2010,CONS,2010,DIOP
+K23J,"IOP: 24.4-5:Manufacture of other basic metals and casting: CVMSA",SA,2010,CONS,2010,DIOP
+K23K,"IOP: 25:Manuf Of Fabricated Metal Products Except Machinery & Equipment: CVMSA",SA,2010,CONS,2010,DIOP
+K23L,"IOP: 25OTH:Manuf of fabricated metal excl. weapons/ammunition-25.1-3/5-9:CVMSA",SA,2010,CONS,2010,DIOP
+K23M,"IOP: 25.4:Manufacture of weapons and ammunition: CVMSA",SA,2010,CONS,2010,DIOP
+K23N,"IOP: CI:Manufacturing of computer electronic & optical products: CVMSA",SA,2010,CONS,2010,DIOP
+K23O,"IOP: 26:Manufacture Of Computer Electronic And Optical Products : CVMSA",SA,2010,CONS,2010,DIOP
+K23P,"IOP: CJ:Manufacture of electrical equipment: CVMSA",SA,2010,CONS,2010,DIOP
+K23Q,"IOP: 27:Manufacture Of Electrical Equipment: CVMSA",SA,2010,CONS,2010,DIOP
+K23R,"IOP: CK:Manufacture of machinery and equipment n.e.c.: CVMSA",SA,2010,CONS,2010,DIOP
+K23S,"IOP: 28:Manufacture Of Machinery And Equipment N.E.C.: CVMSA",SA,2010,CONS,2010,DIOP
+K23T,"IOP: CL:Manufacture of transport equipment: CVMSA",SA,2010,CONS,2010,DIOP
+K23U,"IOP: 29:Manufacture Of Motor Vehicles Trailers And Semi-Trailers: CVMSA",SA,2010,CONS,2010,DIOP
+K23V,"IOP: 30:Manufacture Of Other Transport Equipment: CVMSA",SA,2010,CONS,2010,DIOP
+K23W,"IOP: 30.1:Building of ships and boats: CVMSA",SA,2010,CONS,2010,DIOP
+K23X,"IOP: 30.3:Manufacture of air and spacecraft and related machinery: CVMSA",SA,2010,CONS,2010,DIOP
+K23Y,"IOP: 30OTH:Manufacture of other transport equipment - 30.2/4/9: CVMSA",SA,2010,CONS,2010,DIOP
+K23Z,"IOP: CM:Other manufacturing and repair: CVMSA",SA,2010,CONS,2010,DIOP
+K242,"IOP: 31:Manufacture Of Furniture: CVMSA",SA,2010,CONS,2010,DIOP
+K243,"IOP: 32:Other Manufacturing: CVMSA",SA,2010,CONS,2010,DIOP
+K244,"IOP: 33:Repair And Installation Of Machinery And Equipment: CVMSA",SA,2010,CONS,2010,DIOP
+K245,"IOP: 33.15:Repair and maintenance of ships and boats: CVMSA",SA,2010,CONS,2010,DIOP
+K246,"IOP: 33.16:Repair and maintenance of aircraft and spacecraft: CVMSA",SA,2010,CONS,2010,DIOP
+K247,"IOP: 33OTH:Rest of repair; Installation - 33.11-14/17/19/20: CVMSA",SA,2010,CONS,2010,DIOP
+K248,"IOP: D:ELECTRICITY GAS STEAM AND AIR CONDITIONING SUPPLY: CVMSA",SA,2010,CONS,2010,DIOP
+K249,"IOP: 35:Electricity Gas Steam And Air Conditioning Supply: CVMSA",SA,2010,CONS,2010,DIOP
+K24A,"IOP: 35.1:Electric power generation transmission and distribution: CVMSA",SA,2010,CONS,2010,DIOP
+K24B,"IOP: 35.2-3:Manuf of gas;dist'n of gas fuels via mains;steam & air supply:CVMSA",SA,2010,CONS,2010,DIOP
+K24C,"IOP: E:WATER SUPPLY;SEWERAGEWASTE MANAGEMENT & REMEDIATION ACTIVITIES: CVMSA",SA,2010,CONS,2010,DIOP
+K24D,"IOP: 36:Water Collection Treatment And Supply: CVMSA",SA,2010,CONS,2010,DIOP
+K24E,"IOP: 37:Sewerage: CVMSA",SA,2010,CONS,2010,DIOP
+K24F,"IOP: 38:Waste CollectionTreatment & Disposal Activity;Materials Recovery:CVMSA",SA,2010,CONS,2010,DIOP
+K24G,"IOP: 39:Remediation Activities And Other Waste Management Services: CVMSA",SA,2010,CONS,2010,DIOP
+K24J,"IOP: C-HINE:Other Manufacturing: CVMSA",SA,2010,CONS,2010,DIOP
+K24L,"IOP: EAI:Engineering and Allied Industries: CVMSA",SA,2010,CONS,2010,DIOP
+K24O,"IOP: MIG-IG:Main Industrial Groupings - Intermediate Goods: CVMSA",SA,2010,CONS,2010,DIOP
+K24Q,"IOP: MIG-CD:Main Industrial Groupings - Consumer Durables: CVMSA",SA,2010,CONS,2010,DIOP
+K24R,"IOP: MIG-CND:Main Industrial Groupings - Consumer Non-Durables: CVMSA",SA,2010,CONS,2010,DIOP
+K24S,"IOP: MIG-CAG:Main Industrial Groupings - Capital Goods: CVMSA",SA,2010,CONS,2010,DIOP
+K24T,"IOP: MIG-NRG:Main Industrial Groupings - Energy: CVMSA",SA,2010,CONS,2010,DIOP
+K24V,"IOP: B-E: PRODUCTION: CVMNSA",NSA,2010,CONS,2010,DIOP
+K24X,"IOP: B:MINING AND QUARRYING: CVMNSA",NSA,2010,CONS,2010,DIOP
+K24Y,"IOP: 05:Mining Of Coal And Lignite: CVMNSA",NSA,2010,CONS,2010,DIOP
+K24Z,"IOP: 06:Extraction Of Crude Petroleum And Natural Gas: CVMNSA",NSA,2010,CONS,2010,DIOP
+K255,"IOP: C:MANUFACTURING: CVMNSA",NSA,2010,CONS,2010,DIOP
+K256,"IOP: CA:Manufacture of Food products beverages and tobacco: CVMNSA",NSA,2010,CONS,2010,DIOP
+K257,"IOP: 10:Manufacture Of Food Products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K258,"IOP: 10.1:Processing & preserving of meat & production of meat products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K259,"IOP: 10.2-3:Process & preserve of fishcrustaceans molluscs fruit veg:CVMNSA",NSA,2010,CONS,2010,DIOP
+K25A,"IOP: 10.4:Manufacture of vegetable and animal oils and fats: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25B,"IOP: 10.5:Manufacture of dairy products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25C,"IOP: 10.6:Manufacture of grain mill products starches & starch products:CVMNSA",NSA,2010,CONS,2010,DIOP
+K25D,"IOP: 10.7:Manufacture of bakery and farinaceous products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25E,"IOP: 10.8:Manufacture of other food products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25F,"IOP: 10.9:Manufacture of prepared animal feeds: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25G,"IOP: 11:Manufacture Of Beverages: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25H,"IOP: 11.01-6:Manufacture of alcoholic beverages: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25I,"IOP: 11.07:Manuf of soft drinks; prod of mineral & other bottled waters: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25J,"IOP: 12:Manufacture Of Tobacco Products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25K,"IOP: CB:Manufacture of textiles wearing apparel and leather products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25L,"IOP: 13:Manufacture Of Textiles: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25M,"IOP: 14:Manufacture Of Wearing Apparel: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25N,"IOP: 15:Manufacture Of Leather And Related Products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25O,"IOP: CC:Manufacture of wood and paper products and printing: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25P,"IOP: 16:Manuf Of WoodStraw ArticlesWood/Cork ProductsExcept Furniture:CVMNSA",NSA,2010,CONS,2010,DIOP
+K25Q,"IOP: 17:Manufacture Of Paper And Paper Products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25R,"IOP: 18:Printing And Reproduction Of Recorded Media: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25S,"IOP: CD:Manufacture of coke and refined petroleum product: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25T,"IOP: 19:Manufacture Of Coke And Refined Petroleum Products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25U,"IOP: CE:Manufacture of chemicals and chemical products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25V,"IOP: 20:Manufacture Of Chemicals And Chemical Products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25W,"IOP: 20A:Manuf of industrial gasesinorganics & fertilisers-20.11/13/15: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25X,"IOP: 20B:Manufacture of petrochemicals - 20.14/16/17/60: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25Y,"IOP: 20C:Manufacture of dyestuffs agro-chemicals - 20.12/20: CVMNSA",NSA,2010,CONS,2010,DIOP
+K25Z,"IOP: 20.3:Manuf of paintvarnishessimilar coatingsprinting ink/mastics:CVMNSA",NSA,2010,CONS,2010,DIOP
+K262,"IOP: 20.4:Manuf of soapdetergentpolishingperfumestoilet preparations:CVMNSA",NSA,2010,CONS,2010,DIOP
+K263,"IOP: 20.5:Manufacture of other chemical products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K264,"IOP: CF:Manuf Of Basic Pharmaceutical Prods & Pharmaceutical Preparation:CVMNSA",NSA,2010,CONS,2010,DIOP
+K265,"IOP: 21:Manuf Of Basic Pharmaceutical Prods & Pharmaceutical Preparation:CVMNSA",NSA,2010,CONS,2010,DIOP
+K266,"IOP: CG:Manuf of rubberplastic prods & other non-metallic mineral prods:CVMNSA",NSA,2010,CONS,2010,DIOP
+K267,"IOP: 22:Manufacture Of Rubber And Plastic Products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K268,"IOP: 23:Manufacture Of Other Non-Metallic Mineral Products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K269,"IOP: 23OTH:Manuf of glassclayporcelainceramicstone prods-23.1-4/7-9:CVMNSA",NSA,2010,CONS,2010,DIOP
+K26A,"IOP: 23.5-6:Manuf of cementlimeplaster;concretecementplaster articles:CVMNSA",NSA,2010,CONS,2010,DIOP
+K26B,"IOP: CH:Manufacture of basic metals and metal products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26C,"IOP: 24:Manufacture Of Basic Metals: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26D,"IOP: 24.1-3:Manufacture of basic iron and steel: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26E,"IOP: 24.4-5:Manufacture of other basic metals and casting: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26F,"IOP: 25:Manuf Of Fabricated Metal Products Except Machinery & Equipment: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26G,"IOP: 25OTH:Manuf of fabricated metal excl. weapons/ammunition-25.1-3/5-9:CVMNSA",NSA,2010,CONS,2010,DIOP
+K26H,"IOP: 25.4:Manufacture of weapons and ammunition: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26I,"IOP: CI:Manufacturing of computer electronic & optical products: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26J,"IOP: 26:Manufacture Of Computer Electronic And Optical Products : CVMNSA",NSA,2010,CONS,2010,DIOP
+K26K,"IOP: CJ:Manufacture of electrical equipment: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26L,"IOP: 27:Manufacture Of Electrical Equipment: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26M,"IOP: CK:Manufacture of machinery and equipment n.e.c.: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26N,"IOP: 28:Manufacture Of Machinery And Equipment N.E.C.: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26O,"IOP: CL:Manufacture of transport equipment: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26P,"IOP: 29:Manufacture Of Motor Vehicles Trailers And Semi-Trailers: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26Q,"IOP: 30:Manufacture Of Other Transport Equipment: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26R,"IOP: 30.1:Building of ships and boats: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26S,"IOP: 30.3:Manufacture of air and spacecraft and related machinery: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26T,"IOP: 30OTHER:Manufacture of other transport equipment - 30.2/4/9: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26U,"IOP: CM:Other manufacturing and repair: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26V,"IOP: 31:Manufacture Of Furniture: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26W,"IOP: 32:Other Manufacturing: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26X,"IOP: 33:Repair And Installation Of Machinery And Equipment: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26Y,"IOP: 33.15:Repair and maintenance of ships and boats: CVMNSA",NSA,2010,CONS,2010,DIOP
+K26Z,"IOP: 33.16:Repair and maintenance of aircraft and spacecraft: CVMNSA",NSA,2010,CONS,2010,DIOP
+K272,"IOP: 33OTHER:Rest of repair; Installation - 33.11-14/17/19/20: CVMNSA",NSA,2010,CONS,2010,DIOP
+K273,"IOP: D:ELECTRICITY GAS STEAM AND AIR CONDITIONING SUPPLY: CVMNSA",NSA,2010,CONS,2010,DIOP
+K274,"IOP: 35:Electricity Gas Steam And Air Conditioning Supply: CVMNSA",NSA,2010,CONS,2010,DIOP
+K275,"IOP: 35.1:Electric power generation transmission and distribution: CVMNSA",NSA,2010,CONS,2010,DIOP
+K276,"IOP: 35.2-3:Manuf of gas;dist'n of gas fuels via mains;steam & air supply:CVMNSA",NSA,2010,CONS,2010,DIOP
+K277,"IOP: E:WATER SUPPLY;SEWERAGEWASTE MANAGEMENT & REMEDIATION ACTIVITIES: CVMNSA",NSA,2010,CONS,2010,DIOP
+K278,"IOP: 36:Water Collection Treatment And Supply: CVMNSA",NSA,2010,CONS,2010,DIOP
+K279,"IOP: 37:Sewerage: CVMNSA",NSA,2010,CONS,2010,DIOP
+K27A,"IOP: 38:Waste CollectionTreatment & Disposal Activity;Materials Recovery:CVMNSA",NSA,2010,CONS,2010,DIOP
+K27B,"IOP: 39:Remediation Activities And Other Waste Management Services: CVMNSA",NSA,2010,CONS,2010,DIOP
+K27E,"IOP: C-HINE:Other Manufacturing: CVMNSA",NSA,2010,CONS,2010,DIOP
+K27G,"IOP: EAI:Engineering and Allied Industries: CVMNSA",NSA,2010,CONS,2010,DIOP
+K27J,"IOP: MIG-IG:Main Industrial Groupings - Intermediate Goods: CVMNSA",NSA,2010,CONS,2010,DIOP
+K27L,"IOP: MIG-CD:Main Industrial Groupings - Consumer Durables: CVMNSA",NSA,2010,CONS,2010,DIOP
+K27M,"IOP: MIG-CND:Main Industrial Groupings - Consumer Non-Durables: CVMNSA",NSA,2010,CONS,2010,DIOP
+K27N,"IOP: MIG-CAG:Main Industrial Groupings - Capital Goods: CVMNSA",NSA,2010,CONS,2010,DIOP
+K27O,"IOP: MIG-NRG:Main Industrial Groupings - Energy: CVMNSA",NSA,2010,CONS,2010,DIOP
+K27Q,"IOP: B-E: PRODUCTION: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K27R,"IOP: B+C: Mining Quarrying and Manufacturing: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K27S,"IOP: B:MINING AND QUARRYING: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K27T,"IOP: 05:Mining Of Coal And Lignite: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K27U,"IOP: 06:Extraction Of Crude Petroleum And Natural Gas: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K27Y,"IOP: C:MANUFACTURING: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K27Z,"IOP: CA:Manufacture of Food products beverages and tobacco: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K282,"IOP: 10:Manufacture Of Food Products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K283,"IOP: 10.1:Processing & preserving of meat & prod of meat prod: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K284,"IOP:10.2-3:Process & preserve of fish crustaceans molluscs fruit veg:CVMSmonm gr",SA,2010,CONS,2010,DIOP
+K285,"IOP: 10.4:Manufacture of vegetable and animal oils and fats: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K286,"IOP: 10.5:Manufacture of dairy products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K287,"IOP: 10.6:Manufacture of grain mill prod starches & starch prod: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K288,"IOP: 10.7:Manufacture of bakery and farinaceous products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K289,"IOP: 10.8:Manufacture of other food products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28A,"IOP: 10.9:Manufacture of prepared animal feeds: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28B,"IOP: 11:Manufacture Of Beverages: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28C,"IOP: 11.01-6:Manufacture of alcoholic beverages: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28D,"IOP: 11.07:Manufacture of alcoholic beverages: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28E,"IOP: 12:Manufacture Of Tobacco Products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28F,"IOP: CB:Manufacture of textiles wearing apparel and leather prod: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28G,"IOP: 13:Manufacture Of Textiles: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28H,"IOP: 14:Manufacture Of Wearing Apparel: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28I,"IOP: 15:Manufacture Of Leather And Related Products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28J,"IOP: CC:Manufacture of wood and paper products and printing: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28K,"IOP:16:Man Of WoodStraw ArticlesWood/Cork Products Ex Furniture:CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28L,"IOP: 17:Manufacture Of Paper And Paper Products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28M,"IOP: 18:Printing And Reproduction Of Recorded Media: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28N,"IOP: CD:Manufacture of coke and refined petroleum product: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28O,"IOP: 19:Manufacture Of Coke And Refined Petroleum Products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28P,"IOP: CE:Manufacture of chemicals and chemical products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28Q,"IOP: 20:Manufacture Of Chemicals And Chemical Products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28R,"IOP: 20A:Manuf of ind gases inorganics & fertilisers-20.11/13/15: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28S,"IOP: 20B:Manufacture of petrochemicals - 20.14/16/17/60: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28T,"IOP: 20C:Manufacture of dyestuffs agro-chemicals - 20.12/20: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28U,"IOP: 20.3:Man of paints etc:CVMSA monm gr",SA,2010,CONS,2010,DIOP
+K28V,"IOP:20.4:Manuf of soap preparations etc:CVMSA monm gr",SA,2010,CONS,2010,DIOP
+K28W,"IOP: 20.5:Manufacture of other chemical products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28X,"IOP: CF:Manuf Of Basic Pharm Prods & Pharmaceutical Preparations:CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28Y,"IOP: 21:Manuf Of Basic Pharm Prods & Pharmaceutical Preparations:CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K28Z,"IOP:CG:Man of rubberplastics prods & other non-metallic min prod:CVMSA:monm gr",SA,2010,CONS,2010,DIOP
+K292,"IOP: 22:Manufacture Of Rubber And Plastic Products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K293,"IOP: 23:Manufacture Of Other Non-Metallic Mineral Products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K294,"IOP: 23OTH:Manuf of glassclayporcelainceramicstone prods:CVMSA:monm gr",SA,2010,CONS,2010,DIOP
+K295,"IOP: 23.5-6:Man of cementlimeplaster;concretecementplaster articlesCVMSA:monm gr",SA,2010,CONS,2010,DIOP
+K296,"IOP: CH:Manufacture of basic metals and metal products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K297,"IOP: 24:Manufacture Of Basic Metals: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K298,"IOP: 24.1-3:Manufacture of basic iron and steel: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K299,"IOP: 24.4-5:Manufacture of other basic metals and casting: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29A,"IOP: 25:Manuf Of Fabricated Metal Prod Ex Machinery & Equipment: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29B,"IOP: 25OTH:Manuf of fabricated metal ex. weapons/ammo-25.1-3/5-9:CVMSA:monm gr",SA,2010,CONS,2010,DIOP
+K29C,"IOP: 25.4:Manufacture of weapons and ammunition: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29D,"IOP: CI:Manufacturing of computer electronic & optical products: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29E,"IOP: 26:Manuf Of Computer Electronic & Optical Products 240: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29F,"IOP: CJ:Manufacture of electrical equipment: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29G,"IOP: 27:Manufacture Of Electrical Equipment: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29H,"IOP: CK:Manufacture of machinery and equipment n.e.c.: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29I,"IOP: 28:Manufacture Of Machinery And Equipment N.E.C.: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29J,"IOP: CL:Manufacture of transport equipment: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29K,"IOP: 29:Manufacture Of Motor Vehicles Trailers And Semi-Trailers: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29L,"IOP: 30:Manufacture Of Other Transport Equipment: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29M,"IOP: 30.1:Building of ships and boats: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29N,"IOP:30.3:Manufacture of air and spacecraft and related machinery: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29O,"IOP: 30OTH:Manufacture of other transport equipment - 30.2/4/9: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29P,"IOP: CM:Other manufacturing and repair: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29Q,"IOP: 31:Manufacture Of Furniture: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29R,"IOP: 32:Other Manufacturing: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29S,"IOP: 33:Repair And Installation Of Machinery And Equipment: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29T,"IOP: 33.15:Repair and maintenance of ships and boats: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29U,"IOP: 33.16:Repair and maintenance of aircraft and spacecraft: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29V,"IOP: 33OTH:Rest of repair; Installation - 33.11-14/17/19/20: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29W,"IOP: D:ELECTRICITY GAS STEAM AND AIR CONDITIONING SUPPLY: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29X,"IOP: 35:Electricity Gas Steam And Air Conditioning Supply: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29Y,"IOP:35.1:Electric power generation transmission and distribution: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K29Z,"IOP:35.2-3:Man of gas;dist of gas fuels via mains;steam & air supp:CVMSA:monm gr",SA,2010,CONS,2010,DIOP
+K2A2,"IOP: E:WATER SUPPLY;SEWERAGEWASTE MGMT & REMEDIATION ACTIVITIES: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2A3,"IOP: 36:Water Collection Treatment And Supply: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2A4,"IOP: 37:Sewerage: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2A5,"IOP:38:Waste CollectionTreatment & Disposal Activity;Mat Recovery:CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2A6,"IOP:39:Remediation Activities And Other Waste Management Services:CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2A7,"IOP: B+C-ENG:Mining Quarrying and Manufacturing minus Energy: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2A8,"IOP: C-HIN:Other Manufacturing Without Printing: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2A9,"IOP: C-HINE:Other Manufacturing: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2AA,"IOP: 10+12:Food Products and Tobacco: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2AB,"IOP: EAI:Engineering and Allied Industries: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2AC,"IOP: B+D+E:Mining Quarrying Energy and Water: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2AD,"IOP: C-DHN:NAW-1: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2AE,"IOP: MIG-IG:Main Industrial Groupings - Intermediate Goods: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2AF,"IOP: MIG-COG:Main Industrial Groupings - Consumer Goods: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2AG,"IOP: MIG-CD:Main Industrial Groupings - Consumer Durables: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2AH,"IOP: MIG-CND:Main Industrial Groupings - Consumer Non-Durables: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2AI,"IOP: MIG-CAG:Main Industrial Groupings - Capital Goods: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2AJ,"IOP: MIG-NRG:Main Industrial Groupings - Energy: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2AK,"IOP:MIG-NRG-XDE:Main Industrial Groupings - Energy minus D and E: CVMSA: monm gr",SA,2010,CONS,2010,DIOP
+K2AL,"IOP: B-E: PRODUCTION: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2AM,"IOP: B+C: Mining Quarrying and Manufacturing: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2AN,"IOP: B:MINING AND QUARRYING: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2AO,"IOP: 05:Mining Of Coal And Lignite: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2AP,"IOP: 06:Extraction Of Crude Petroleum And Natural Gas: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2AT,"IOP: C:MANUFACTURING: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2AU,"IOP: CA:Manufacture of Food products beverages and tobacco: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2AV,"IOP: 10:Manufacture Of Food Products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2AW,"IOP:10.1:Processing & preserving of meat & prod of meat products:CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2AX,"IOP:10.2-3:Process & preserve of fishcrustaceans molluscs fruitveg:CVMNSAmonm gr",NSA,2010,CONS,2010,DIOP
+K2AY,"IOP: 10.4:Manufacture of vegetable and animal oils and fats: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2AZ,"IOP: 10.5:Manufacture of dairy products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2B2,"IOP: 10.6:Man of grain mill prod starches & starch products:CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2B3,"IOP: 10.7:Manufacture of bakery and farinaceous products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2B4,"IOP: 10.8:Manufacture of other food products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2B5,"IOP: 10.9:Manufacture of prepared animal feeds: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2B6,"IOP: 11:Manufacture Of Beverages: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2B7,"IOP: 11.01-6:Manufacture of alcoholic beverages: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2B8,"IOP11.07:Manu of soft drinks;prod of mineral &other bottled waters:CVMNSAmonm gr",NSA,2010,CONS,2010,DIOP
+K2B9,"IOP: 12:Manufacture Of Tobacco Products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BA,"IOP:CB:Manufacture of textiles wearing apparel and leather prod: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BB,"IOP: 13:Manufacture Of Textiles: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BC,"IOP: 14:Manufacture Of Wearing Apparel: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BD,"IOP: 15:Manufacture Of Leather And Related Products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BE,"IOP: CC:Manufacture of wood and paper products and printing: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BF,"IOP: 16:Man Of WoodStraw ArticlesWood/Cork ProductsEx Furniture:CVMNSA:monm gr",NSA,2010,CONS,2010,DIOP
+K2BG,"IOP: 17:Manufacture Of Paper And Paper Products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BH,"IOP: 18:Printing And Reproduction Of Recorded Media: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BI,"IOP: CD:Manufacture of coke and refined petroleum product: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BJ,"IOP: 19:Manufacture Of Coke And Refined Petroleum Products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BK,"IOP: CE:Manufacture of chemicals and chemical products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BL,"IOP: 20:Manufacture Of Chemicals And Chemical Products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BM,"IOP: 20A:Man of ind gasesinorganics & fertilisers-20.11/13/15: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BN,"IOP: 20B:Manufacture of petrochemicals - 20.14/16/17/60: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BO,"IOP: 20C:Manufacture of dyestuffs agro-chemicals - 20.12/20: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BP,"IOP:20.3:Man of paintvarnishessimilar coatingsprinting ink/mastics:CVMNSAmonm gr",NSA,2010,CONS,2010,DIOP
+K2BQ,"IOP: 20.4:Man of soap preparations etc:CVMNSA:monm gr",NSA,2010,CONS,2010,DIOP
+K2BR,"IOP: 20.5:Manufacture of other chemical products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BS,"IOP: CF:Manuf Of Basic Pharm Prods & Pharm Preparation:CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BT,"IOP: 21:Manuf Of Basic Pharm Prods & Pharm Preparation:CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BU,"IOP:CG:Manuf of rubberplastic prods & other non-met mineral prods:CVMNSA:monm gr",NSA,2010,CONS,2010,DIOP
+K2BV,"IOP: 22:Manufacture Of Rubber And Plastic Products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BW,"IOP: 23:Manufacture Of Other Non-Metallic Mineral Products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2BX,"IOP:23OTH:Man of glassclayporcelainceramicstone prod-23.1-4/7-9:CVMNSA:monm gr",NSA,2010,CONS,2010,DIOP
+K2BY,"IOP:23.5-6:Man of cementlimeplaster;concretecementplaster articles:CVMNSAmonm gr",NSA,2010,CONS,2010,DIOP
+K2BZ,"IOP: CH:Manufacture of basic metals and metal products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2C2,"IOP: 24:Manufacture Of Basic Metals: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2C3,"IOP: 24.1-3:Manufacture of basic iron and steel: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2C4,"IOP: 24.4-5:Manufacture of other basic metals and casting: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2C5,"IOP: 25:Manuf Of Fabricated Metal Products Ex Machinery & Equip: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2C6,"IOP: 25OTH:Man of fabricated metal excl. weapons/ammo-25.1-3/5-9:CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2C7,"IOP: 25.4:Manufacture of weapons and ammunition: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2C8,"IOP: CI:Manufacturing of computer electronic & optical products: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2C9,"IOP: 26:Man Of Computer Electronic And Optical Products 240:CVMNSA:monm gr",NSA,2010,CONS,2010,DIOP
+K2CA,"IOP: CJ:Manufacture of electrical equipment: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CB,"IOP: 27:Manufacture Of Electrical Equipment: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CC,"IOP: CK:Manufacture of machinery and equipment n.e.c.: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CD,"IOP: 28:Manufacture Of Machinery And Equipment N.E.C.: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CE,"IOP: CL:Manufacture of transport equipment: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CF,"IOP:29:Manufacture Of Motor Vehicles Trailers And Semi-Trailers: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CG,"IOP: 30:Manufacture Of Other Transport Equipment: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CH,"IOP: 30.1:Building of ships and boats: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CI,"IOP:30.3:Manufacture of air and spacecraft and related machinery: CVMNSA:monm gr",NSA,2010,CONS,2010,DIOP
+K2CJ,"IOP:30OTHER:Manufacture of other transport equipment - 30.2/4/9: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CK,"IOP: CM:Other manufacturing and repair: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CL,"IOP: 31:Manufacture Of Furniture: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CM,"IOP: 32:Other Manufacturing: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CN,"IOP: 33:Repair And Installation Of Machinery And Equipment: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CO,"IOP: 33.15:Repair and maintenance of ships and boats: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CP,"IOP: 33.16:Repair and maintenance of aircraft and spacecraft: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CQ,"IOP: 33OTHER:Rest of repair; Installation - 33.11-14/17/19/20: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CR,"IOP: D:ELECTRICITY GAS STEAM AND AIR CONDITIONING SUPPLY: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CS,"IOP: 35:Electricity Gas Steam And Air Conditioning Supply: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CT,"IOP:35.1:Electric power generation transmission and distribution:CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CU,"IOP:35.2-3:Man of gas;dist of gas fuels via mains;steam & air supp:CVMNSAmonm gr",NSA,2010,CONS,2010,DIOP
+K2CV,"IOP: E:WATER SUPPLY;SEWERAGEWASTE MGMT & REMEDIATION ACT: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CW,"IOP: 36:Water Collection Treatment And Supply: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CX,"IOP: 37:Sewerage: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2CY,"IOP: 38:Waste CollectionTreatment & Disposal Act;Mat Recovery:CVMNSA:monm gr",NSA,2010,CONS,2010,DIOP
+K2CZ,"IOP:39:Remediation Activities And Other Waste Management Services:CVMNSA:monm gr",NSA,2010,CONS,2010,DIOP
+K2D2,"IOP: B+C-ENG:Mining Quarrying and Manufacturing minus Energy: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2D3,"IOP: C-HIN:Other Manufacturing Without Printing: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2D4,"IOP: C-HINE:Other Manufacturing: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2D5,"IOP: 10+12:Food Products and Tobacco: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2D6,"IOP: EAI:Engineering and Allied Industries: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2D7,"IOP: B+D+E:Mining Quarrying Energy and Water: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2D8,"IOP: C-DHN:NAW-1: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2D9,"IOP: MIG-IG:Main Industrial Groupings - Intermediate Goods: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2DA,"IOP: MIG-COG:Main Industrial Groupings - Consumer Goods: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2DB,"IOP: MIG-CD:Main Industrial Groupings - Consumer Durables: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2DC,"IOP: MIG-CND:Main Industrial Groupings - Consumer Non-Durables: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2DD,"IOP: MIG-CAG:Main Industrial Groupings - Capital Goods: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2DE,"IOP: MIG-NRG:Main Industrial Groupings - Energy: CVMNSA: monm gr",NSA,2010,CONS,2010,DIOP
+K2DF,"IOP:MIG-NRG-XDE:Main Industrial Groupings - Energy minus D and E: CVMNSA:monm gr",NSA,2010,CONS,2010,DIOP
+K2DG,"IOP: B-E: PRODUCTION: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DH,"IOP: B+C: Mining Quarrying and Manufacturing: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DI,"IOP: B:MINING AND QUARRYING: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DJ,"IOP: 05:Mining Of Coal And Lignite: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DK,"IOP: 06:Extraction Of Crude Petroleum And Natural Gas: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DO,"IOP: C:MANUFACTURING: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DP,"IOP: CA:Manufacture of Food products beverages and tobacco: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DQ,"IOP: 10:Manufacture Of Food Products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DR,"IOP: 10.1:Processing & preserving of meat & prod of meat prod: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DS,"IOP:10.2-3:Process & preserve of fish crustaceans molluscs fruit veg:CVMSAmomygr",SA,2010,CONS,2010,DIOP
+K2DT,"IOP: 10.4:Manufacture of vegetable and animal oils and fats: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DU,"IOP: 10.5:Manufacture of dairy products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DV,"IOP: 10.6:Manufacture of grain mill prod starches & starch prod: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DW,"IOP: 10.7:Manufacture of bakery and farinaceous products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DX,"IOP: 10.8:Manufacture of other food products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DY,"IOP: 10.9:Manufacture of prepared animal feeds: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2DZ,"IOP: 11:Manufacture Of Beverages: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2E2,"IOP: 11.01-6:Manufacture of alcoholic beverages: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2E3,"IOP: 11.01-6:Manufacture of alcoholic beverages: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2E4,"IOP: 12:Manufacture Of Tobacco Products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2E5,"IOP: CB:Manufacture of textiles wearing apparel and leather prod: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2E6,"IOP: 13:Manufacture Of Textiles: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2E7,"IOP: 14:Manufacture Of Wearing Apparel: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2E8,"IOP: 15:Manufacture Of Leather And Related Products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2E9,"IOP: CC:Manufacture of wood and paper products and printing: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EA,"IOP:16:Man Of WoodStraw ArticlesWood/Cork Products Ex Furniture:CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EB,"IOP: 17:Manufacture Of Paper And Paper Products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EC,"IOP: 18:Printing And Reproduction Of Recorded Media: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2ED,"IOP: CD:Manufacture of coke and refined petroleum product: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EE,"IOP: 19:Manufacture Of Coke And Refined Petroleum Products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EF,"IOP: CE:Manufacture of chemicals and chemical products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EG,"IOP: 20:Manufacture Of Chemicals And Chemical Products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EH,"IOP: 20A:Manuf of ind gases inorganics & fertilisers-20.11/13/15: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EI,"IOP: 20B:Manufacture of petrochemicals - 20.14/16/17/60: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EJ,"IOP: 20C:Manufacture of dyestuffs agro-chemicals - 20.12/20: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EK,"IOP: 20.3:Man of paints etc:CVMSA momy gr",SA,2010,CONS,2010,DIOP
+K2EL,"IOP:20.4:Manuf of soap preparations etc:CVMSA momy gr",SA,2010,CONS,2010,DIOP
+K2EM,"IOP: 20.5:Manufacture of other chemical products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EN,"IOP: CF:Manuf Of Basic Pharm Prods & Pharmaceutical Preparations:CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EO,"IOP: 21:Manuf Of Basic Pharm Prods & Pharmaceutical Preparations:CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EP,"IOP:CG:Man of rubberplastics prods & other non-metallic min prod:CVMSA:momy gr",SA,2010,CONS,2010,DIOP
+K2EQ,"IOP: 22:Manufacture Of Rubber And Plastic Products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2ER,"IOP: 23:Manufacture Of Other Non-Metallic Mineral Products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2ES,"IOP: 23OTH:Manuf of glassclayporcelainceramicstone prods:CVMSA:momy gr",SA,2010,CONS,2010,DIOP
+K2ET,"IOP: 23.5-6:Man of cementlimeplaster;concretecementplaster articlesCVMSA:momy gr",SA,2010,CONS,2010,DIOP
+K2EU,"IOP: CH:Manufacture of basic metals and metal products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EV,"IOP: 24:Manufacture Of Basic Metals: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EW,"IOP: 24.1-3:Manufacture of basic iron and steel: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EX,"IOP: 24.4-5:Manufacture of other basic metals and casting: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EY,"IOP: 25:Manuf Of Fabricated Metal Prod Ex Machinery & Equipment: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2EZ,"IOP: 25OTH:Manuf of fabricated metal ex. weapons/ammo-25.1-3/5-9:CVMSA:momy gr",SA,2010,CONS,2010,DIOP
+K2F2,"IOP: 25.4:Manufacture of weapons and ammunition: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2F3,"IOP: CI:Manufacturing of computer electronic & optical products: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2F4,"IOP: 26:Manuf Of Computer Electronic & Optical Products 240: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2F5,"IOP: CJ:Manufacture of electrical equipment: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2F6,"IOP: 27:Manufacture Of Electrical Equipment: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2F7,"IOP: CK:Manufacture of machinery and equipment n.e.c.: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2F8,"IOP: 28:Manufacture Of Machinery And Equipment N.E.C.: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2F9,"IOP: CL:Manufacture of transport equipment: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FA,"IOP: 29:Manufacture Of Motor Vehicles Trailers And Semi-Trailers: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FB,"IOP: 30:Manufacture Of Other Transport Equipment: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FC,"IOP: 30.1:Building of ships and boats: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FD,"IOP:30.3:Manufacture of air and spacecraft and related machinery: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FE,"IOP: 30OTH:Manufacture of other transport equipment - 30.2/4/9: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FF,"IOP: CM:Other manufacturing and repair: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FG,"IOP: 31:Manufacture Of Furniture: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FH,"IOP: 32:Other Manufacturing: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FI,"IOP: 33:Repair And Installation Of Machinery And Equipment: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FJ,"IOP: 33.15:Repair and maintenance of ships and boats: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FK,"IOP: 33.16:Repair and maintenance of aircraft and spacecraft: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FL,"IOP: 33OTH:Rest of repair; Installation - 33.11-14/17/19/20: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FM,"IOP: D:ELECTRICITY GAS STEAM AND AIR CONDITIONING SUPPLY: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FN,"IOP: 35:Electricity Gas Steam And Air Conditioning Supply: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FO,"IOP:35.1:Electric power generation transmission and distribution: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FP,"IOP:35.2-3:Man of gas;dist of gas fuels via mains;steam & air supp:CVMSA:momy gr",SA,2010,CONS,2010,DIOP
+K2FQ,"IOP: E:WATER SUPPLY;SEWERAGEWASTE MGMT & REMEDIATION ACTIVITIES: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FR,"IOP: 36:Water Collection Treatment And Supply: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FS,"IOP: 37:Sewerage: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FT,"IOP:38:Waste CollectionTreatment & Disposal Activity;Mat Recovery:CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FU,"IOP:39:Remediation Activities And Other Waste Management Services:CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FV,"IOP: B+C-ENG:Mining Quarrying and Manufacturing minus Energy: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FW,"IOP: C-HIN:Other Manufacturing Without Printing: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FX,"IOP: C-HINE:Other Manufacturing: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FY,"IOP: 10+12:Food Products and Tobacco: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2FZ,"IOP: EAI:Engineering and Allied Industries: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2G2,"IOP: B+D+E:Mining Quarrying Energy and Water: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2G3,"IOP: C-DHN:NAW-1: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2G4,"IOP: MIG-IG:Main Industrial Groupings - Intermediate Goods: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2G5,"IOP: MIG-COG:Main Industrial Groupings - Consumer Goods: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2G6,"IOP: MIG-CD:Main Industrial Groupings - Consumer Durables: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2G7,"IOP: MIG-CND:Main Industrial Groupings - Consumer Non-Durables: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2G8,"IOP: MIG-CAG:Main Industrial Groupings - Capital Goods: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2G9,"IOP: MIG-NRG:Main Industrial Groupings - Energy: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2GA,"IOP:MIG-NRG-XDE:Main Industrial Groupings - Energy minus D and E: CVMSA: momy gr",SA,2010,CONS,2010,DIOP
+K2GB,"IOP: B-E: PRODUCTION: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GC,"IOP: B+C: Mining Quarrying and Manufacturing: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GD,"IOP: B:MINING AND QUARRYING: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GE,"IOP: 05:Mining Of Coal And Lignite: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GF,"IOP: 06:Extraction Of Crude Petroleum And Natural Gas: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GJ,"IOP: C:MANUFACTURING: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GK,"IOP: CA:Manufacture of Food products beverages and tobacco: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GL,"IOP: 10:Manufacture Of Food Products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GM,"IOP:10.1:Processing & preserving of meat & prod of meat products:CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GN,"IOP:10.2-3:Process & preserve of fishcrustaceans molluscs fruitveg:CVMNSA:momygr",NSA,2010,CONS,2010,DIOP
+K2GO,"IOP: 10.4:Manufacture of vegetable and animal oils and fats: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GP,"IOP: 10.5:Manufacture of dairy products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GQ,"IOP: 10.6:Man of grain mill prod starches & starch products:CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GR,"IOP: 10.7:Manufacture of bakery and farinaceous products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GS,"IOP: 10.8:Manufacture of other food products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GT,"IOP: 10.9:Manufacture of prepared animal feeds: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GU,"IOP: 11:Manufacture Of Beverages: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GV,"IOP: 11.01-6:Manufacture of alcoholic beverages: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GW,"IOP11.07:Manu of soft drinks;prod of mineral &other bottled waters:CVMNSAmomy gr",NSA,2010,CONS,2010,DIOP
+K2GX,"IOP: 12:Manufacture Of Tobacco Products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GY,"IOP:CB:Manufacture of textiles wearing apparel and leather prod: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2GZ,"IOP: 13:Manufacture Of Textiles: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2H2,"IOP: 14:Manufacture Of Wearing Apparel: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2H3,"IOP: 15:Manufacture Of Leather And Related Products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2H4,"IOP: CC:Manufacture of wood and paper products and printing: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2H5,"IOP: 16:Man Of WoodStraw ArticlesWood/Cork ProductsEx Furniture:CVMNSA:momy gr",NSA,2010,CONS,2010,DIOP
+K2H6,"IOP: 17:Manufacture Of Paper And Paper Products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2H7,"IOP: 18:Printing And Reproduction Of Recorded Media: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2H8,"IOP: CD:Manufacture of coke and refined petroleum product: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2H9,"IOP: 19:Manufacture Of Coke And Refined Petroleum Products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HA,"IOP: CE:Manufacture of chemicals and chemical products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HB,"IOP: 20:Manufacture Of Chemicals And Chemical Products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HC,"IOP: 20A:Man of ind gasesinorganics & fertilisers-20.11/13/15: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HD,"IOP: 20B:Manufacture of petrochemicals - 20.14/16/17/60: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HE,"IOP: 20C:Manufacture of dyestuffs agro-chemicals - 20.12/20: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HF,"IOP:20.3:Man of paintvarnishessimilar coatingsprinting ink/mastics:CVMNSAmomy gr",NSA,2010,CONS,2010,DIOP
+K2HG,"IOP: 20.4:Man of soap preparations etc:CVMNSA:momy gr",NSA,2010,CONS,2010,DIOP
+K2HH,"IOP: 20.5:Manufacture of other chemical products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HI,"IOP: CF:Manuf Of Basic Pharm Prods & Pharm Preparation:CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HJ,"IOP: 21:Manuf Of Basic Pharm Prods & Pharm Preparation:CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HK,"IOP:CG:Manuf of rubberplastic prods & other non-met mineral prods:CVMNSA:momy gr",NSA,2010,CONS,2010,DIOP
+K2HL,"IOP: 22:Manufacture Of Rubber And Plastic Products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HM,"IOP: 23:Manufacture Of Other Non-Metallic Mineral Products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HN,"IOP:23OTH:Man of glassclayporcelainceramicstone prod-23.1-4/7-9:CVMNSA:momy gr",NSA,2010,CONS,2010,DIOP
+K2HO,"IOP:23.5-6:Man of cementlimeplaster;concretecementplaster articles:CVMNSA:momygr",NSA,2010,CONS,2010,DIOP
+K2HP,"IOP: CH:Manufacture of basic metals and metal products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HQ,"IOP: 24:Manufacture Of Basic Metals: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HR,"IOP: 24.1-3:Manufacture of basic iron and steel: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HS,"IOP: 24.4-5:Manufacture of other basic metals and casting: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HT,"IOP: 25:Manuf Of Fabricated Metal Products Ex Machinery & Equip: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HU,"IOP: 25OTH:Man of fabricated metal excl. weapons/ammo-25.1-3/5-9:CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HV,"IOP: 25.4:Manufacture of weapons and ammunition: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HW,"IOP: CI:Manufacturing of computer electronic & optical products: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HX,"IOP: 26:Man Of Computer Electronic And Optical Products 240:CVMNSA:momy gr",NSA,2010,CONS,2010,DIOP
+K2HY,"IOP: CJ:Manufacture of electrical equipment: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2HZ,"IOP: 27:Manufacture Of Electrical Equipment: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2I2,"IOP: CK:Manufacture of machinery and equipment n.e.c.: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2I3,"IOP: 28:Manufacture Of Machinery And Equipment N.E.C.: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2I4,"IOP: CL:Manufacture of transport equipment: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2I5,"IOP:29:Manufacture Of Motor Vehicles Trailers And Semi-Trailers: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2I6,"IOP: 30:Manufacture Of Other Transport Equipment: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2I7,"IOP: 30.1:Building of ships and boats: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2I8,"IOP:30.3:Manufacture of air and spacecraft and related machinery: CVMNSA:momy gr",NSA,2010,CONS,2010,DIOP
+K2I9,"IOP:30OTHER:Manufacture of other transport equipment - 30.2/4/9: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IA,"IOP: CM:Other manufacturing and repair: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IB,"IOP: 31:Manufacture Of Furniture: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IC,"IOP: 32:Other Manufacturing: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2ID,"IOP: 33:Repair And Installation Of Machinery And Equipment: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IE,"IOP: 33.15:Repair and maintenance of ships and boats: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IF,"IOP: 33.16:Repair and maintenance of aircraft and spacecraft: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IG,"IOP: 33OTHER:Rest of repair; Installation - 33.11-14/17/19/20: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IH,"IOP: D:ELECTRICITY GAS STEAM AND AIR CONDITIONING SUPPLY: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2II,"IOP: 35:Electricity Gas Steam And Air Conditioning Supply: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IJ,"IOP:35.1:Electric power generation transmission and distribution:CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IK,"IOP:35.2-3:Man of gas;dist of gas fuels via mains;steam & air supp:CVMNSA:momygr",NSA,2010,CONS,2010,DIOP
+K2IL,"IOP: E:WATER SUPPLY;SEWERAGEWASTE MGMT & REMEDIATION ACT: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IM,"IOP: 36:Water Collection Treatment And Supply: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IN,"IOP: 37:Sewerage: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IO,"IOP: 38:Waste CollectionTreatment & Disposal Act;Mat Recovery:CVMNSA:momy gr",NSA,2010,CONS,2010,DIOP
+K2IP,"IOP:39:Remediation Activities And Other Waste Management Services:CVMNSA:momy gr",NSA,2010,CONS,2010,DIOP
+K2IQ,"IOP: B+C-ENG:Mining Quarrying and Manufacturing minus Energy: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IR,"IOP: C-HIN:Other Manufacturing Without Printing: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IS,"IOP: C-HINE:Other Manufacturing: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IT,"IOP: 10+12:Food Products and Tobacco: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IU,"IOP: EAI:Engineering and Allied Industries: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IV,"IOP: B+D+E:Mining Quarrying Energy and Water: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IW,"IOP: C-DHN:NAW-1: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IX,"IOP: MIG-IG:Main Industrial Groupings - Intermediate Goods: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IY,"IOP: MIG-COG:Main Industrial Groupings - Consumer Goods: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2IZ,"IOP: MIG-CD:Main Industrial Groupings - Consumer Durables: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2J2,"IOP: MIG-CND:Main Industrial Groupings - Consumer Non-Durables: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2J3,"IOP: MIG-CAG:Main Industrial Groupings - Capital Goods: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2J4,"IOP: MIG-NRG:Main Industrial Groupings - Energy: CVMNSA: momy gr",NSA,2010,CONS,2010,DIOP
+K2J5,"IOP:MIG-NRG-XDE:Main Industrial Groupings - Energy minus D and E: CVMNSA:momy gr",NSA,2010,CONS,2010,DIOP
+K2J6,"IOP: B-E: PRODUCTION: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2J7,"IOP: B+C: Mining Quarrying and Manufacturing: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2J8,"IOP: B:MINING AND QUARRYING: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2J9,"IOP: 05:Mining Of Coal And Lignite: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JA,"IOP: 06:Extraction Of Crude Petroleum And Natural Gas: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JE,"IOP: C:MANUFACTURING: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JF,"IOP: CA:Manufacture of Food products beverages and tobacco: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JG,"IOP: 10:Manufacture Of Food Products: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JH,"IOP: 10.1:Processing & preserving of meat & prod of meat prod: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JI,"IOP:10.2-3:Process & preserve of fish crustaceans molluscs fruit veg:CVMSA:momgr",SA,2010,CONS,2010,DIOP
+K2JJ,"IOP: 10.4:Manufacture of vegetable and animal oils and fats: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JK,"IOP: 10.5:Manufacture of dairy products: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JL,"IOP: 10.6:Manufacture of grain mill prod starches & starch prod: CVMSA:3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JM,"IOP: 10.7:Manufacture of bakery and farinaceous products: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JN,"IOP: 10.8:Manufacture of other food products: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JO,"IOP: 10.9:Manufacture of prepared animal feeds: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JP,"IOP: 11:Manufacture Of Beverages: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JQ,"IOP: 11.01-6:Manufacture of alcoholic beverages: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JR,"IOP: 11.01-6:Manufacture of alcoholic beverages: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JS,"IOP: 12:Manufacture Of Tobacco Products: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JT,"IOP: CB:Manufacture of textiles wearing apparel and leather prod:CVMSA:3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JU,"IOP: 13:Manufacture Of Textiles: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JV,"IOP: 14:Manufacture Of Wearing Apparel: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JW,"IOP: 15:Manufacture Of Leather And Related Products: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JX,"IOP: CC:Manufacture of wood and paper products and printing: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JY,"IOP:16:Man Of WoodStraw ArticlesWood/Cork Products Ex Furniture:CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2JZ,"IOP: 17:Manufacture Of Paper And Paper Products: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2K2,"IOP: 18:Printing And Reproduction Of Recorded Media: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2K3,"IOP: CD:Manufacture of coke and refined petroleum product: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2K4,"IOP: 19:Manufacture Of Coke And Refined Petroleum Products: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2K5,"IOP: CE:Manufacture of chemicals and chemical products: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2K6,"IOP: 20:Manufacture Of Chemicals And Chemical Products: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2K7,"IOP: 20A:Manuf of ind gases inorganics & fertilisers-20.11/13/15:CVMSA:3mo3my gr",SA,2010,CONS,2010,DIOP
+K2K8,"IOP: 20B:Manufacture of petrochemicals - 20.14/16/17/60: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2K9,"IOP: 20C:Manufacture of dyestuffs agro-chemicals - 20.12/20: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KA,"IOP: 20.3:Man of paints etc:CVMSA: 3mo3mygr",SA,2010,CONS,2010,DIOP
+K2KB,"IOP:20.4:Manuf of soap preparations etc:CVMSA:3mo3mygr",SA,2010,CONS,2010,DIOP
+K2KC,"IOP: 20.5:Manufacture of other chemical products: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KD,"IOP: CF:Manuf Of Basic Pharm Prods & Pharmaceutical Preparations:CVMSA:3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KE,"IOP: 21:Manuf Of Basic Pharm Prods & Pharmaceutical Preparations:CVMSA:3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KF,"IOP:CG:Man of rubberplastics prods & other non-metallic min prod:CVMSA:3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KG,"IOP: 22:Manufacture Of Rubber And Plastic Products: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KH,"IOP: 23:Manufacture Of Other Non-Metallic Mineral Products: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KI,"IOP:23OTH:Man of glassclayporcelainceramicstone prods-23.1-4/7-9:CVMSA:3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KJ,"IOP:23.5-6:Man of cementlimeplaster;concretecementplaster art:CVMSA:3mo3mygr",SA,2010,CONS,2010,DIOP
+K2KK,"IOP: CH:Manufacture of basic metals and metal products: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KL,"IOP: 24:Manufacture Of Basic Metals: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KM,"IOP: 24.1-3:Manufacture of basic iron and steel: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KN,"IOP: 24.4-5:Manufacture of other basic metals and casting: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KO,"IOP: 25:Manuf Of Fabricated Metal Prod Ex Machinery & Equipment: CVMSA:3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KP,"IOP: 25OTH:Manuf of fabricated metal ex. weapons/ammo-25.1-3/5-9:CVMSA:3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KQ,"IOP: 25.4:Manufacture of weapons and ammunition: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KR,"IOP: CI:Manufacturing of computer electronic & optical products: CVMSA:3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KS,"IOP: 26:Manuf Of Computer Electronic & Optical Products 240: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KT,"IOP: CJ:Manufacture of electrical equipment: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KU,"IOP: 27:Manufacture Of Electrical Equipment: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KV,"IOP: CK:Manufacture of machinery and equipment n.e.c.: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KW,"IOP: 28:Manufacture Of Machinery And Equipment N.E.C.: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KX,"IOP: CL:Manufacture of transport equipment: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KY,"IOP: 29:Man Of Motor Vehicles Trailers And Semi-Trailers: CVMSA:3mo3my gr",SA,2010,CONS,2010,DIOP
+K2KZ,"IOP: 30:Manufacture Of Other Transport Equipment: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2L2,"IOP: 30.1:Building of ships and boats: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2L3,"IOP: 30.3:Manuf of air and spacecraft and related machinery: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2L4,"IOP: 30OTH:Manufacture of other transport equipment - 30.2/4/9: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2L5,"IOP: CM:Other manufacturing and repair: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2L6,"IOP: 31:Manufacture Of Furniture: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2L7,"IOP: 32:Other Manufacturing: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2L8,"IOP: 33:Repair And Installation Of Machinery And Equipment: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2L9,"IOP: 33.15:Repair and maintenance of ships and boats: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LA,"IOP: 33.16:Repair and maintenance of aircraft and spacecraft: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LB,"IOP: 33OTH:Rest of repair; Installation - 33.11-14/17/19/20: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LC,"IOP: D:ELECTRICITY GAS STEAM AND AIR CONDITIONING SUPPLY: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LD,"IOP: 35:Electricity Gas Steam And Air Conditioning Supply: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LE,"IOP: 35.1:Electric power generation transmission and distrib: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LF,"IOP:35.2-3:Man of gas;dist of gas fuel via mains;steam & air supp:CVMSA:3mo3mygr",SA,2010,CONS,2010,DIOP
+K2LG,"IOP: E:WATER SUPPLY;SEWERAGEWASTE MGMT & REMEDIATION ACT: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LH,"IOP: 36:Water Collection Treatment And Supply: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LI,"IOP: 37:Sewerage: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LJ,"IOP:38:Waste CollectionTreatment & Disp Activity;Mat Recovery:CVMSA:3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LK,"IOP: 39:Remediation Act And Other Waste Management Services:CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LL,"IOP: B+C-ENG:Mining Quarrying and Manufacturing minus Energy: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LM,"IOP: C-HIN:Other Manufacturing Without Printing: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LN,"IOP: C-HINE:Other Manufacturing: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LO,"IOP: 10+12:Food Products and Tobacco: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LP,"IOP: EAI:Engineering and Allied Industries: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LQ,"IOP: B+D+E:Mining Quarrying Energy and Water: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LR,"IOP: C-DHN:NAW-1: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LS,"IOP: MIG-IG:Main Industrial Groupings - Intermediate Goods: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LT,"IOP: MIG-COG:Main Industrial Groupings - Consumer Goods: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LU,"IOP: MIG-CD:Main Industrial Groupings - Consumer Durables: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LV,"IOP: MIG-CND:Main Industrial Groupings - Consumer Non-Durables: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LW,"IOP: MIG-CAG:Main Industrial Groupings - Capital Goods: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LX,"IOP: MIG-NRG:Main Industrial Groupings - Energy: CVMSA: 3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LY,"IOP: MIG-NRG-XDE:Main Industrial Groupings -Energy minus D and E:CVMSA:3mo3my gr",SA,2010,CONS,2010,DIOP
+K2LZ,"IOP: B-E: PRODUCTION: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2M2,"IOP: B+C: Mining Quarrying and Manufacturing: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2M3,"IOP: B:MINING AND QUARRYING: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2M4,"IOP: 05:Mining Of Coal And Lignite: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2M5,"IOP: 06:Extraction Of Crude Petroleum And Natural Gas: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2M9,"IOP: C:MANUFACTURING: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MA,"IOP: CA:Manufacture of Food products beverages and tobacco: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MB,"IOP: 10:Manufacture Of Food Products: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MC,"IOP: 10.1:Processing & preserving of meat & prod of meat prod:CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MD,"IOP:10.2-3:Process & pres of fishcrustaceans molluscs fruit veg:CVMNSA:3mo3mygr",NSA,2010,CONS,2010,DIOP
+K2ME,"IOP: 10.4:Manufacture of vegetable and animal oils and fats: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MF,"IOP: 10.5:Manufacture of dairy products: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MG,"IOP: 10.6:Man of grain mill prod starches & starch products:CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MH,"IOP: 10.7:Manufacture of bakery and farinaceous products: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MI,"IOP: 10.8:Manufacture of other food products: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MJ,"IOP: 10.9:Manufacture of prepared animal feeds: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MK,"IOP: 11:Manufacture Of Beverages: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2ML,"IOP: 11.01-6:Manufacture of alcoholic beverages: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MM,"IOP:11.07:Manu of soft drinks;prod of mineral &other bottled waters:CVMNSA:momgr",NSA,2010,CONS,2010,DIOP
+K2MN,"IOP: 12:Manufacture Of Tobacco Products: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MO,"IOP: CB:Man of textiles wearing apparel and leather prod: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MP,"IOP: 13:Manufacture Of Textiles: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MQ,"IOP: 14:Manufacture Of Wearing Apparel: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MR,"IOP: 15:Manufacture Of Leather And Related Products: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MS,"IOP: CC:Manufacture of wood and paper products and printing: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MT,"IOP: 16:Man Of WoodStraw ArticlesWood/Cork ProductsEx Furniture:CVMNSA:3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MU,"IOP: 17:Manufacture Of Paper And Paper Products: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MV,"IOP: 18:Printing And Reproduction Of Recorded Media: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MW,"IOP: CD:Manufacture of coke and refined petroleum product: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MX,"IOP: 19:Manufacture Of Coke And Refined Petroleum Products: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MY,"IOP: CE:Manufacture of chemicals and chemical products: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2MZ,"IOP: 20:Manufacture Of Chemicals And Chemical Products: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2N2,"IOP: 20A:Man of ind gasesinorganics & fertilisers-20.11/13/15: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2N3,"IOP: 20B:Manufacture of petrochemicals - 20.14/16/17/60: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2N4,"IOP: 20C:Manufacture of dyestuffs agro-chemicals - 20.12/20: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2N5,"IOP:20.3:Man of paints etc:CVMNSA: 3mo3mygr",NSA,2010,CONS,2010,DIOP
+K2N6,"IOP: 20.4:Man of soapdetergentpolishingperfumestoilet prep:CVMNSA:3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2N7,"IOP: 20.5:Manufacture of other chemical products: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2N8,"IOP: CF:Manuf Of Basic Pharm Prods & Pharm Preparation:CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2N9,"IOP: 21:Manuf Of Basic Pharm Prods & Pharm Preparation:CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NA,"IOP: CG:Man of rubberplastic prods & other non-met mineral prod:CVMNSA:3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NB,"IOP: 22:Manufacture Of Rubber And Plastic Products: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NC,"IOP: 23:Manufacture Of Other Non-Metallic Mineral Products: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2ND,"IOP:23OTH:Man of glassclayporcelainceramicstone prod-23.1-4/7-9:CVMNSA:3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NE,"IOP:23.5-6:Man of cementlimeplaster;concretecementplaster art:CVMNSA:3mo3mygr",NSA,2010,CONS,2010,DIOP
+K2NF,"IOP: CH:Manufacture of basic metals and metal products: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NG,"IOP: 24:Manufacture Of Basic Metals: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NH,"IOP: 24.1-3:Manufacture of basic iron and steel: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NI,"IOP: 24.4-5:Manufacture of other basic metals and casting: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NJ,"IOP: 25:Manuf Of Fabricated Metal Prod Ex Machinery & Equip: CVMNSA:3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NK,"IOP: 25OTH:Man of fabricated metal ex weapons/ammo-25.1-3/5-9:CVMNSA:3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NL,"IOP: 25.4:Manufacture of weapons and ammunition: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NM,"IOP: CI:Man of computer electronic & optical products:CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NN,"IOP: 26:Man Of Computer Electronic And Optical Products 240:CVMNSA:3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NO,"IOP: CJ:Manufacture of electrical equipment: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NP,"IOP: 27:Manufacture Of Electrical Equipment: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NQ,"IOP: CK:Manufacture of machinery and equipment n.e.c.: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NR,"IOP: 28:Manufacture Of Machinery And Equipment N.E.C.: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NS,"IOP: CL:Manufacture of transport equipment: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NT,"IOP: 29:Man Of Motor Vehicles Trailers And Semi-Trailers: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NU,"IOP: 30:Manufacture Of Other Transport Equipment: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NV,"IOP: 30.1:Building of ships and boats: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NW,"IOP: 30.3:Man of air and spacecraft and related machinery: CVMNSA:3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NX,"IOP: 30OTHER:Man of other transport equipment - 30.2/4/9: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NY,"IOP: CM:Other manufacturing and repair: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2NZ,"IOP: 31:Manufacture Of Furniture: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2O2,"IOP: 32:Other Manufacturing: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2O3,"IOP: 33:Repair And Installation Of Machinery And Equipment: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2O4,"IOP: 33.15:Repair and maintenance of ships and boats: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2O5,"IOP: 33.16:Repair and maintenance of aircraft and spacecraft: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2O6,"IOP: 33OTHER:Rest of repair; Installation - 33.11-14/17/19/20: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2O7,"IOP: D:ELECTRICITY GAS STEAM AND AIR CONDITIONING SUPPLY: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2O8,"IOP: 35:Electricity Gas Steam And Air Conditioning Supply: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2O9,"IOP: 35.1:Electric power generation transmission and distrib:CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OA,"IOP:35.2-3:Man of gas;dist of gas fuel via main;steam & air supp:CVMNSA:3mo3mygr",NSA,2010,CONS,2010,DIOP
+K2OB,"IOP: E:WATER SUPPLY;SEWERAGEWASTE MGMT & REMEDIATION ACT: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OC,"IOP: 36:Water Collection Treatment And Supply: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OD,"IOP: 37:Sewerage: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OE,"IOP: 38:Waste CollectionTreatment & Disposal Act;Mat Recovery:CVMNSA:3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OF,"IOP: 39:Remediation Act And Other Waste Management Services:CVMNSA:3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OG,"IOP: B+C-ENG:Mining Quarrying and Manufacturing minus Energy: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OH,"IOP: C-HIN:Other Manufacturing Without Printing: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OI,"IOP: C-HINE:Other Manufacturing: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OJ,"IOP: 10+12:Food Products and Tobacco: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OK,"IOP: EAI:Engineering and Allied Industries: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OL,"IOP: B+D+E:Mining Quarrying Energy and Water: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OM,"IOP: C-DHN:NAW-1: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2ON,"IOP: MIG-IG:Main Industrial Groupings - Intermediate Goods: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OO,"IOP: MIG-COG:Main Industrial Groupings - Consumer Goods: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OP,"IOP: MIG-CD:Main Industrial Groupings - Consumer Durables: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OQ,"IOP: MIG-CND:Main Ind Groupings - Consumer Non-Durables: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OR,"IOP: MIG-CAG:Main Industrial Groupings - Capital Goods: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OS,"IOP: MIG-NRG:Main Industrial Groupings - Energy: CVMNSA: 3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OT,"IOP: MIG-NRG-XDE:Main Ind Groupings - Energy minus D and E: CVMNSA:3mo3my gr",NSA,2010,CONS,2010,DIOP
+K2OU,"IOP: B-E: PRODUCTION: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2OV,"IOP: B+C: Mining Quarrying and Manufacturing: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2OW,"IOP: B:MINING AND QUARRYING: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2OX,"IOP: 05:Mining Of Coal And Lignite: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2OY,"IOP: 06:Extraction Of Crude Petroleum And Natural Gas: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2P4,"IOP: C:MANUFACTURING: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2P5,"IOP: CA:Manufacture of Food products beverages and tobacco: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2P6,"IOP: 10:Manufacture Of Food Products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2P7,"IOP: 10.1:Processing & preserving of meat & prod of meat prod: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2P8,"IOP:10.2-3:Process & preserve of fish crustaceans molluscs fruit veg:CVMSA:momgr",SA,2010,CONS,2010,DIOP
+K2P9,"IOP: 10.4:Manufacture of vegetable and animal oils and fats: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PA,"IOP: 10.5:Manufacture of dairy products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PB,"IOP: 10.6:Manufacture of grain mill prod starches & starch prod: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PC,"IOP: 10.7:Manufacture of bakery and farinaceous products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PD,"IOP: 10.8:Manufacture of other food products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PE,"IOP: 10.9:Manufacture of prepared animal feeds: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PF,"IOP: 11:Manufacture Of Beverages: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PG,"IOP: 11.01-6:Manufacture of alcoholic beverages: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PH,"IOP: 11.01-6:Manufacture of alcoholic beverages: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PI,"IOP: 12:Manufacture Of Tobacco Products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PJ,"IOP: CB:Manufacture of textiles wearing apparel and leather prod: CVMSA:3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PK,"IOP: 13:Manufacture Of Textiles: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PL,"IOP: 14:Manufacture Of Wearing Apparel: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PM,"IOP: 15:Manufacture Of Leather And Related Products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PN,"IOP: CC:Manufacture of wood and paper products and printing: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PO,"IOP:16:Man Of WoodStraw ArticlesWood/Cork Products Ex Furniture:CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PP,"IOP: 17:Manufacture Of Paper And Paper Products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PQ,"IOP: 18:Printing And Reproduction Of Recorded Media: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PR,"IOP: CD:Manufacture of coke and refined petroleum product: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PS,"IOP: 19:Manufacture Of Coke And Refined Petroleum Products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PT,"IOP: CE:Manufacture of chemicals and chemical products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PU,"IOP: 20:Manufacture Of Chemicals And Chemical Products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PV,"IOP: 20A:Manuf of ind gases inorganics & fertilisers-20.11/13/15: CVMSA:3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PW,"IOP: 20B:Manufacture of petrochemicals - 20.14/16/17/60: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PX,"IOP: 20C:Manufacture of dyestuffs agro-chemicals - 20.12/20: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2PY,"IOP: 20.3:Man of paintsvarnish coatingsprinting ink/mastics:CVMSA:3mo3mgr",SA,2010,CONS,2010,DIOP
+K2PZ,"IOP:20.4:Manuf of soap preparations etc:CVMSA:3mo3mgr",SA,2010,CONS,2010,DIOP
+K2Q2,"IOP: 20.5:Manufacture of other chemical products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2Q3,"IOP: CF:Manuf Of Basic Pharm Prods & Pharmaceutical Preparations:CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2Q4,"IOP: 21:Manuf Of Basic Pharm Prods & Pharmaceutical Preparations:CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2Q5,"IOP:CG:Man of rubberplastics prods & other non-metallic min prod:CVMSA:3mo3m gr",SA,2010,CONS,2010,DIOP
+K2Q6,"IOP: 22:Manufacture Of Rubber And Plastic Products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2Q7,"IOP: 23:Manufacture Of Other Non-Metallic Mineral Products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2Q8,"IOP: 23OTH:Man of glassclayporcelainceramicstone prods-23.1-4/7-9:CVMSA:3mo3m gr",SA,2010,CONS,2010,DIOP
+K2Q9,"IOP:23.5-6:Man of cementlimeplaster;concretecementplaster articles:CVMSA:3mo3mgr",SA,2010,CONS,2010,DIOP
+K2QA,"IOP: CH:Manufacture of basic metals and metal products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QB,"IOP: 24:Manufacture Of Basic Metals: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QC,"IOP: 24.1-3:Manufacture of basic iron and steel: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QD,"IOP: 24.4-5:Manufacture of other basic metals and casting: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QE,"IOP: 25:Manuf Of Fabricated Metal Prod Ex Machinery & Equipment: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QF,"IOP: 25OTH:Manuf of fabricated metal ex. weapons/ammo-25.1-3/5-9:CVMSA:3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QG,"IOP: 25.4:Manufacture of weapons and ammunition: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QH,"IOP: CI:Manufacturing of computer electronic & optical products: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QI,"IOP: 26:Manuf Of Computer Electronic & Optical Products 240: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QJ,"IOP: CJ:Manufacture of electrical equipment: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QK,"IOP: 27:Manufacture Of Electrical Equipment: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QL,"IOP: CK:Manufacture of machinery and equipment n.e.c.: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QM,"IOP: 28:Manufacture Of Machinery And Equipment N.E.C.: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QN,"IOP: CL:Manufacture of transport equipment: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QO,"IOP: 29:Manufacture Of Motor Vehicles Trailers And Semi-Trailers: CVMSA:3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QP,"IOP: 30:Manufacture Of Other Transport Equipment: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QQ,"IOP: 30.1:Building of ships and boats: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QR,"IOP: 30.3:Manuf of air and spacecraft and related machinery: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QS,"IOP: 30OTH:Manufacture of other transport equipment - 30.2/4/9: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QT,"IOP: CM:Other manufacturing and repair: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QU,"IOP: 31:Manufacture Of Furniture: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QV,"IOP: 32:Other Manufacturing: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QW,"IOP: 33:Repair And Installation Of Machinery And Equipment: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QX,"IOP: 33.15:Repair and maintenance of ships and boats: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QY,"IOP: 33.16:Repair and maintenance of aircraft and spacecraft: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2QZ,"IOP: 33OTH:Rest of repair; Installation - 33.11-14/17/19/20: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2R2,"IOP: D:ELECTRICITY GAS STEAM AND AIR CONDITIONING SUPPLY: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2R3,"IOP: 35:Electricity Gas Steam And Air Conditioning Supply: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2R4,"IOP: 35.1:Electric power generation transmission and distrib: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2R5,"IOP:35.2-3:Man of gas;dist of gas fuels via mains;steam & air supp:CVMSA:3mo3mgr",SA,2010,CONS,2010,DIOP
+K2R6,"IOP: E:WATER SUPPLY;SEWERAGEWASTE MGMT & REMEDIATION ACTIVITIES: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2R7,"IOP: 36:Water Collection Treatment And Supply: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2R8,"IOP: 37:Sewerage: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2R9,"IOP:38:Waste CollectionTreatment & Disposal Activity;Mat Recovery:CVMSA:3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RA,"IOP: 39:Remediation Act And Other Waste Management Services:CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RB,"IOP: B+C-ENG:Mining Quarrying and Manufacturing minus Energy: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RC,"IOP: C-HIN:Other Manufacturing Without Printing: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RD,"IOP: C-HINE:Other Manufacturing: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RE,"IOP: 10+12:Food Products and Tobacco: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RF,"IOP: EAI:Engineering and Allied Industries: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RG,"IOP: B+D+E:Mining Quarrying Energy and Water: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RH,"IOP: C-DHN:NAW-1: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RI,"IOP: MIG-IG:Main Industrial Groupings - Intermediate Goods: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RJ,"IOP: MIG-COG:Main Industrial Groupings - Consumer Goods: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RK,"IOP: MIG-CD:Main Industrial Groupings - Consumer Durables: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RL,"IOP: MIG-CND:Main Industrial Groupings - Consumer Non-Durables: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RM,"IOP: MIG-CAG:Main Industrial Groupings - Capital Goods: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RN,"IOP: MIG-NRG:Main Industrial Groupings - Energy: CVMSA: 3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RO,"IOP: MIG-NRG-XDE:Main Industrial Groupings -Energy minus D and E:CVMSA:3mo3m gr",SA,2010,CONS,2010,DIOP
+K2RP,"IOP: B-E: PRODUCTION: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2RQ,"IOP: B+C: Mining Quarrying and Manufacturing: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2RR,"IOP: B:MINING AND QUARRYING: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2RS,"IOP: 05:Mining Of Coal And Lignite: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2RT,"IOP: 06:Extraction Of Crude Petroleum And Natural Gas: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2RX,"IOP: C:MANUFACTURING: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2RY,"IOP: CA:Manufacture of Food products beverages and tobacco: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2RZ,"IOP: 10:Manufacture Of Food Products: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2S2,"IOP: 10.1:Processing & preserving of meat & prod of meat prod:CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2S3,"IOP:10.2-3:Process & pres of fishcrustaceans molluscs fruit veg:CVMNSA:3mo3mgr",NSA,2010,CONS,2010,DIOP
+K2S4,"IOP: 10.4:Manufacture of vegetable and animal oils and fats: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2S5,"IOP: 10.5:Manufacture of dairy products: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2S6,"IOP: 10.6:Man of grain mill prod starches & starch products:CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2S7,"IOP: 10.7:Manufacture of bakery and farinaceous products: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2S8,"IOP: 10.8:Manufacture of other food products: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2S9,"IOP: 10.9:Manufacture of prepared animal feeds: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SA,"IOP: 11:Manufacture Of Beverages: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SB,"IOP: 11.01-6:Manufacture of alcoholic beverages: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SC,"IOP:11.07:Manu of soft drinks;mineral &other bottled waters:CVMNSA:3mo3mgr",NSA,2010,CONS,2010,DIOP
+K2SD,"IOP: 12:Manufacture Of Tobacco Products: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SE,"IOP: CB:Man of textiles wearing apparel and leather prod: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SF,"IOP: 13:Manufacture Of Textiles: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SG,"IOP: 14:Manufacture Of Wearing Apparel: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SH,"IOP: 15:Manufacture Of Leather And Related Products: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SI,"IOP: CC:Manufacture of wood and paper products and printing: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SJ,"IOP: 16:Man Of WoodStraw ArticlesWood/Cork ProductsEx Furniture:CVMNSA:3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SK,"IOP: 17:Manufacture Of Paper And Paper Products: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SL,"IOP: 18:Printing And Reproduction Of Recorded Media: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SM,"IOP: CD:Manufacture of coke and refined petroleum product: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SN,"IOP: 19:Manufacture Of Coke And Refined Petroleum Products: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SO,"IOP: CE:Manufacture of chemicals and chemical products: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SP,"IOP: 20:Manufacture Of Chemicals And Chemical Products: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SQ,"IOP: 20A:Man of ind gasesinorganics & fertilisers-20.11/13/15: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SR,"IOP: 20B:Manufacture of petrochemicals - 20.14/16/17/60: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SS,"IOP: 20C:Manufacture of dyestuffs agro-chemicals - 20.12/20: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2ST,"IOP:20.3:Man of paintvarnishessimilar coatingsprinting ink/mastics:CVMNSA:momgr",NSA,2010,CONS,2010,DIOP
+K2SU,"IOP: 20.4:Man of soapdetergentpolishingperfumestoilet prep:CVMNSA:3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SV,"IOP: 20.5:Manufacture of other chemical products: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SW,"IOP: CF:Manuf Of Basic Pharm Prods & Pharm Preparation:CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SX,"IOP: 21:Manuf Of Basic Pharm Prods & Pharm Preparation:CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SY,"IOP: CG:Man of rubberplastic prods & other non-met mineral prod:CVMNSA:3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2SZ,"IOP: 22:Manufacture Of Rubber And Plastic Products: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2T2,"IOP: 23:Manufacture Of Other Non-Metallic Mineral Products: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2T3,"IOP:23OTH:Man of glassclayporcelainceramicstone prod-23.1-4/7-9:CVMNSA:3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2T4,"IOP:23.5-6:Man of cementlimeplaster;concretecementplaster art:CVMNSA:3mo3mgr",NSA,2010,CONS,2010,DIOP
+K2T5,"IOP: CH:Manufacture of basic metals and metal products: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2T6,"IOP: 24:Manufacture Of Basic Metals: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2T7,"IOP: 24.1-3:Manufacture of basic iron and steel: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2T8,"IOP: 24.4-5:Manufacture of other basic metals and casting: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2T9,"IOP: 25:Manuf Of Fabricated Metal Products Ex Machinery & Equip: CVMNSA:3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TA,"IOP: 25OTH:Man of fabricated metal excl. weapons/ammo-25.1-3/5-9:CVMNSA:3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TB,"IOP: 25.4:Manufacture of weapons and ammunition: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TC,"IOP: CI:Manufacturing of computer electronic & optical products:CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TD,"IOP: 26:Man Of Computer Electronic And Optical Products 240:CVMNSA:3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TE,"IOP: CJ:Manufacture of electrical equipment: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TF,"IOP: 27:Manufacture Of Electrical Equipment: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TG,"IOP: CK:Manufacture of machinery and equipment n.e.c.: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TH,"IOP: 28:Manufacture Of Machinery And Equipment N.E.C.: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TI,"IOP: CL:Manufacture of transport equipment: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TJ,"IOP: 29:Man Of Motor Vehicles Trailers And Semi-Trailers: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TK,"IOP: 30:Manufacture Of Other Transport Equipment: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TL,"IOP: 30.1:Building of ships and boats: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TM,"IOP: 30.3:Man of air and spacecraft and related machinery: CVMNSA:3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TN,"IOP: 30OTHER:Man of other transport equipment - 30.2/4/9: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TO,"IOP: CM:Other manufacturing and repair: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TP,"IOP: 31:Manufacture Of Furniture: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TQ,"IOP: 32:Other Manufacturing: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TR,"IOP: 33:Repair And Installation Of Machinery And Equipment: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TS,"IOP: 33.15:Repair and maintenance of ships and boats: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TT,"IOP: 33.16:Repair and maintenance of aircraft and spacecraft: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TU,"IOP: 33OTHER:Rest of repair; Installation - 33.11-14/17/19/20: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TV,"IOP: D:ELECTRICITY GAS STEAM AND AIR CONDITIONING SUPPLY: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TW,"IOP: 35:Electricity Gas Steam And Air Conditioning Supply: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TX,"IOP: 35.1:Electric power generation transmission and distrib:CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2TY,"IOP:35.2-3:Man of gas;dist of gas fuel via mains;steam & air supp:CVMNSA:3mo3mgr",NSA,2010,CONS,2010,DIOP
+K2TZ,"IOP: E:WATER SUPPLY;SEWERAGEWASTE MGMT & REMEDIATION ACT: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2U2,"IOP: 36:Water Collection Treatment And Supply: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2U3,"IOP: 37:Sewerage: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2U4,"IOP: 38:Waste CollectionTreatment & Disposal Act;Mat Recovery:CVMNSA:3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2U5,"IOP: 39:Remediation Act And Other Waste Management Services:CVMNSA:3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2U6,"IOP: B+C-ENG:Mining Quarrying and Manufacturing minus Energy: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2U7,"IOP: C-HIN:Other Manufacturing Without Printing: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2U8,"IOP: C-HINE:Other Manufacturing: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2U9,"IOP: 10+12:Food Products and Tobacco: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2UA,"IOP: EAI:Engineering and Allied Industries: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2UB,"IOP: B+D+E:Mining Quarrying Energy and Water: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2UC,"IOP: C-DHN:NAW-1: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2UD,"IOP: MIG-IG:Main Industrial Groupings - Intermediate Goods: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2UE,"IOP: MIG-COG:Main Industrial Groupings - Consumer Goods: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2UF,"IOP: MIG-CD:Main Industrial Groupings - Consumer Durables: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2UG,"IOP: MIG-CND:Main Industrial Groupings - Consumer Non-Durables: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2UH,"IOP: MIG-CAG:Main Industrial Groupings - Capital Goods: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2UI,"IOP: MIG-NRG:Main Industrial Groupings - Energy: CVMNSA: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+K2UJ,"IOP: MIG-NRG-XDE:Main Ind Groupings - Energy minus D and E: CVMNSA:3mo3m gr",NSA,2010,CONS,2010,DIOP
+KM22,"IOP: 5: Mining Of Coal And Lignite: Weight",NSA,2010,CONS,2010,DIOP
+KM23,"IOP: 6: Extraction Of Crude Petroleum And Natural Gas: Weight",NSA,2010,CONS,2010,DIOP
+KM27,"IOP: 10: Manufacture Of Food Products: Weight",NSA,2010,CONS,2010,DIOP
+KM29,"IOP:10.1:Processing and preserving of meat and prod of meat prod:Weight",NSA,2010,CONS,2010,DIOP
+KM2A,"IOP:10.2-3:Processing and pres of fish,crustaceans,molluscs,fruit & veg:Weight",NSA,2010,CONS,2010,DIOP
+KM2B,"IOP: 10.4: Manufacture of vegetable and animal oils and fats: Weight",NSA,2010,CONS,2010,DIOP
+KM2C,"IOP: 10.5: Manufacture of dairy products: Weight",NSA,2010,CONS,2010,DIOP
+KM2D,"IOP:10.6:Manufacture of grain mill products,starches and starch prod:Weight",NSA,2010,CONS,2010,DIOP
+KM2E,"IOP: 10.7: Manufacture of bakery and farinaceous products: Weight",NSA,2010,CONS,2010,DIOP
+KM2F,"IOP: 10.8: Manufacture of other food products: Weight",NSA,2010,CONS,2010,DIOP
+KM2G,"IOP: 10.9: Manufacture of prepared animal feeds: Weight",NSA,2010,CONS,2010,DIOP
+KM2H,"IOP: 11: Manufacture Of Beverages: Weight",NSA,2010,CONS,2010,DIOP
+KM2I,"IOP: 11.01-6: Manufacture of alcoholic beverages: Weight",NSA,2010,CONS,2010,DIOP
+KM2J,"IOP:11.07:Man of soft drinks;prod of min waters & other bottled waters:Weight",NSA,2010,CONS,2010,DIOP
+KM2K,"IOP: 12: Manufacture Of Tobacco Products: Weight",NSA,2010,CONS,2010,DIOP
+KM2L,"IOP: 13: Manufacture Of Textiles: Weight",NSA,2010,CONS,2010,DIOP
+KM2M,"IOP: 14: Manufacture Of Wearing Apparel: Weight",NSA,2010,CONS,2010,DIOP
+KM2N,"IOP: 15: Manufacture Of Leather And Related Products: Weight",NSA,2010,CONS,2010,DIOP
+KM2O,"IOP:16:Man Of Wood & Prod of Wood & Cork,Ex Furniture;Man Art Of Straw:Weight",NSA,2010,CONS,2010,DIOP
+KM2P,"IOP: 17: Manufacture Of Paper And Paper Products: Weight",NSA,2010,CONS,2010,DIOP
+KM2Q,"IOP: 18: Printing And Reproduction Of Recorded Media: Weight",NSA,2010,CONS,2010,DIOP
+KM2R,"IOP: 19: Manufacture Of Coke And Refined Petroleum Products: Weight",NSA,2010,CONS,2010,DIOP
+KM2S,"IOP: 20: Manufacture Of Chemicals And Chemical Products: Weight",NSA,2010,CONS,2010,DIOP
+KM2T,"IOP: 20.3: Man of paints, varnishes & similar coatings,ink & mastics:Weight",NSA,2010,CONS,2010,DIOP
+KM2U,"IOP:20.4:Man of soap & det, cleaning & polishing,perfumes & toilet prep:Weight",NSA,2010,CONS,2010,DIOP
+KM2V,"IOP: 20.5: Manufacture of other chemical products: Weight",NSA,2010,CONS,2010,DIOP
+KM2W,"IOP: 20A: Man of ind gases, inorganics & fertilisers (inorganic chem): Weight",NSA,2010,CONS,2010,DIOP
+KM2X,"IOP: 20B: Manufacture of petrochemicals - 20.14/16/17/60: Weight",NSA,2010,CONS,2010,DIOP
+KM2Y,"IOP: 20C: Manufacture of dyestuffs, agro-chemicals - 20.12/20: Weight",NSA,2010,CONS,2010,DIOP
+KM2Z,"IOP: 21: Man Of Basic Pharmaceutical Products And Pharmaceutical Prep: Weight",NSA,2010,CONS,2010,DIOP
+KM32,"IOP: 22: Manufacture Of Rubber And Plastic Products: Weight",NSA,2010,CONS,2010,DIOP
+KM33,"IOP: 23: Manufacture Of Other Non-Metallic Mineral Products: Weight",NSA,2010,CONS,2010,DIOP
+KM34,"IOP:23.5-6:Man of cement,lime,plaster & art of concrete,cement, plaster:Weight",NSA,2010,CONS,2010,DIOP
+KM36,"IOP: 24: Manufacture Of Basic Metals: Weight",NSA,2010,CONS,2010,DIOP
+KM37,"IOP: 24.1-3: Manufacture of basic iron and steel: Weight",NSA,2010,CONS,2010,DIOP
+KM38,"IOP: 24.4-5: Manufacture of other basic metals and casting: Weight",NSA,2010,CONS,2010,DIOP
+KM39,"IOP:25:Man Of Fabricated Metal Products, Except Machinery And Equipment:Weight",NSA,2010,CONS,2010,DIOP
+KM3A,"IOP: 25.4: Manufacture of weapons and ammunition: Weight",NSA,2010,CONS,2010,DIOP
+KM3B,"IOP:25OTHER: Man of fabricated metal products, exc weapons & ammunition:Weight",NSA,2010,CONS,2010,DIOP
+KM3C,"IOP: 26: Manufacture Of Computer, Electronic And Optical Products: Weight",NSA,2010,CONS,2010,DIOP
+KM3D,"IOP: 27: Manufacture Of Electrical Equipment: Weight",NSA,2010,CONS,2010,DIOP
+KM3E,"IOP: 28: Manufacture Of Machinery And Equipment N.E.C.: Weight",NSA,2010,CONS,2010,DIOP
+KM3F,"IOP: 29: Manufacture Of Motor Vehicles, Trailers And Semi-Trailers: Weight",NSA,2010,CONS,2010,DIOP
+KM3G,"IOP: 30: Manufacture Of Other Transport Equipment: Weight",NSA,2010,CONS,2010,DIOP
+KM3H,"IOP: 30.1: Building of ships and boats: Weight",NSA,2010,CONS,2010,DIOP
+KM3I,"IOP: 30.3: Manufacture of air and spacecraft and related machinery: Weight",NSA,2010,CONS,2010,DIOP
+KM3J,"IOP: 30OTHER: Manufacture of other transport equipment - 30.2/4/9: Weight",NSA,2010,CONS,2010,DIOP
+KM3K,"IOP: 31: Manufacture Of Furniture: Weight",NSA,2010,CONS,2010,DIOP
+KM3L,"IOP: 32: Other Manufacturing: Weight",NSA,2010,CONS,2010,DIOP
+KM3M,"IOP: 33: Repair And Installation Of Machinery And Equipment: Weight",NSA,2010,CONS,2010,DIOP
+KM3N,"IOP: 33.15: Repair and maintenance of ships and boats: Weight",NSA,2010,CONS,2010,DIOP
+KM3O,"IOP: 33.16: Repair and maintenance of aircraft and spacecraft: Weight",NSA,2010,CONS,2010,DIOP
+KM3P,"IOP: 33OTHER: Rest of repair; Installation - 33.11-14/17/19/20: Weight",NSA,2010,CONS,2010,DIOP
+KM3Q,"IOP: 35: Electricity, Gas, Steam And Air Conditioning Supply: Weight",NSA,2010,CONS,2010,DIOP
+KM3R,"IOP: 35.1: Electric power generation, transmission and distribution: Weight",NSA,2010,CONS,2010,DIOP
+KM3S,"IOP:35.2-3:Man of gas;dist of gas fuels through mains;steam/aircon supp:Weight",NSA,2010,CONS,2010,DIOP
+KM3T,"IOP: 36: Water Collection, Treatment And Supply: Weight",NSA,2010,CONS,2010,DIOP
+KM3U,"IOP: 37: Sewerage: Weight",NSA,2010,CONS,2010,DIOP
+KM3V,"IOP:38:Waste Collection, Treatment And Disposal Act; Materials Recovery:Weight",NSA,2010,CONS,2010,DIOP
+KM3W,"IOP: 39: Remediation Activities And Other Waste Management Services: Weight",NSA,2010,CONS,2010,DIOP
+KM3X,"IOP: 7+8+9: Other Mining and Quarrying plus Mining Support Service Act: Weight",NSA,2010,CONS,2010,DIOP
+KM3Y,"IOP: B: MINING AND QUARRYING: Weight",NSA,2010,CONS,2010,DIOP
+KM44,"IOP: C: MANUFACTURING: Weight",NSA,2010,CONS,2010,DIOP
+KM47,"IOP: CA: Manufacture of Food products, beverages and tobacco: Weight",NSA,2010,CONS,2010,DIOP
+KM48,"IOP: CB: Manufacture of textiles, wearing apparel and leather products: Weight",NSA,2010,CONS,2010,DIOP
+KM49,"IOP: CC: Manufacture of wood and paper products, and printing: Weight",NSA,2010,CONS,2010,DIOP
+KM4A,"IOP: CCFGM: Other Manufacturing and Repair: Weight",NSA,2010,CONS,2010,DIOP
+KM4B,"IOP: CD: Manufacture of coke, and refined petroleum products: Weight",NSA,2010,CONS,2010,DIOP
+KM4C,"IOP: CE: Manufacture of chemicals and chemical products: Weight",NSA,2010,CONS,2010,DIOP
+KM4D,"IOP: CF: Man Of Basic Pharmaceutical Products And Pharmaceutical Prep: Weight",NSA,2010,CONS,2010,DIOP
+KM4E,"IOP:CG:Man of rubber & plastics prod, & other non-metallic mineral prod:Weight",NSA,2010,CONS,2010,DIOP
+KM4F,"IOP: CH: Manufacture of basic metals and metal products: Weight",NSA,2010,CONS,2010,DIOP
+KM4G,"IOP: CI: Manufacturing of computer, electronic & optical products: Weight",NSA,2010,CONS,2010,DIOP
+KM4H,"IOP: CI-CL: Engineering and Vehicle Manufacturing: Weight",NSA,2010,CONS,2010,DIOP
+KM4I,"IOP: CJ: Manufacture of electrical equipment: Weight",NSA,2010,CONS,2010,DIOP
+KM4J,"IOP: CK: Manufacture of machinery and equipment n.e.c.: Weight",NSA,2010,CONS,2010,DIOP
+KM4K,"IOP: CL: Manufacture of transport equipment: Weight",NSA,2010,CONS,2010,DIOP
+KM4L,"IOP: CM: Other manufacturing and repair: Weight",NSA,2010,CONS,2010,DIOP
+KM4M,"IOP: D: ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY: Weight",NSA,2010,CONS,2010,DIOP
+KM4N,"IOP: E: WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACT: Weight",NSA,2010,CONS,2010,DIOP
+KM4O,"IOP: IoP: PRODUCTION: Weight",NSA,2010,CONS,2010,DIOP
+KM4P,"IOP: MIG-CD: Main Industrial Grouping: Consumer Durables: Weight",NSA,2010,CONS,2010,DIOP
+KM4Q,"IOP: MIG-CG: Main Industrial Grouping: Capital Goods: Weight",NSA,2010,CONS,2010,DIOP
+KM4R,"IOP: MIG-CND: Main Industrial Grouping: Consumer Non-Durables: Weight",NSA,2010,CONS,2010,DIOP
+KM4T,"IOP: MIG-IG: Main Industrial Grouping: Intermediate Goods: Weight",NSA,2010,CONS,2010,DIOP
+KM4U,"IOP: MIG-NRG: Main Industrial Grouping: Energy: Weight",NSA,2010,CONS,2010,DIOP
+KUL3,"IOP: B+CCDGHKM Mining & quarrying (plus sub sectors CC, CD, CH, CK,CM) CVMNSA",NSA,2010,CONS,2010,DIOP
+KUL6,"IOP: B+CCDGHKM Mining & Quarrying plus sus-sectors CC CD CG CH CK CM: weight",NSA,2010,CONS,2010,DIOP
+KUL7,"IOP: C-19 Manufacturing (excl Mfr of coke & refined petroleum products) CVMNSA",NSA,2010,CONS,2010,DIOP
+KUM2,"IOP: C-19 Manufacturing (excl Mfr of coke & refined petroleum products): Weight",NSA,2010,CONS,2010,DIOP
+KUM3,"IOP: CE-CF Mrf of chemical & chemical prods + mfr of basic pharm & preps CVMNSA",NSA,2010,CONS,2010,DIOP
+KUM6,"IOP: CE-CF Mfr of chemical & chem prods + mfr of basic pharm & preps: weight",NSA,2010,CONS,2010,DIOP
+KUM7,"IOP: B+CCDGHKM Mining & quarrying (plus sub sector CC, CD, CG, CH, CK, CM) CVMSA",SA,2010,CONS,2010,DIOP
+KUN2,"IOP: C-19 Manufacturing (excl Mfr of coke & refined petroleum products) CVMSA",SA,2010,CONS,2010,DIOP
+KUN5,"IOP: CE-CF Mfr of chemical & chemical prods + mrf of basic pharm & preps CVMSA",SA,2010,CONS,2010,DIOP
+L2EA,"IOP: 7+8+9: Other Mining and Quarrying plus Mining Support Service Act: monm gr",NSA,2010,CONS,2010,DIOP
+L2EB,"IOP: 7+8+9: Other Mining and Quarrying plus Mining Support Service Act: momy gr",NSA,2010,CONS,2010,DIOP
+L2EC,"IOP: 7+8+9: Other Mining and Quarrying plus Mining Support Service Act:3mo3my gr",NSA,2010,CONS,2010,DIOP
+L2ED,"IOP: 7+8+9: Other Mining and Quarrying plus Mining Support Service Act: 3mo3m gr",NSA,2010,CONS,2010,DIOP
+L2EM,"IOP: 7+8+9: Other Mining and Quarrying plus Mining Support Service Activities",NSA,2010,CONS,2010,DIOP
+L2EN,"IOP: 7+8+9: Other Mining and Quarrying plus Mining Support Service Act: monm gr",SA,2010,CONS,2010,DIOP
+L2EP,"IOP: 7+8+9: Other Mining and Quarrying plus Mining Support Service Act: momy gr",SA,2010,CONS,2010,DIOP
+L2EQ,"IOP: 7+8+9: Other Mining and Quarrying plus Mining Support Service Act:3mo3my gr",SA,2010,CONS,2010,DIOP
+L2ES,"IOP: 7+8+9: Other Mining and Quarrying plus Mining Support Service Act: 3mo3m gr",SA,2010,CONS,2010,DIOP

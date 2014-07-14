@@ -1,0 +1,8 @@
+CDID,"Description",SA,BasePeriod,Price,IndexPeriod,Dataset
+GMAA,"OS visits to UK:All visits Thousands-NSA",NSA,0,CURR,0,OTT
+GMAF,"UK visits abroad:All visits Thousands-NSA",NSA,0,CURR,0,OTT
+GMAK,"OS visits to UK:Earnings: £ Millions-NSA",NSA,0,CURR,0,OTT
+GMAM,"UK visits abroad:Expenditure: £ Millions-NSA",NSA,0,CURR,0,OTT
+GMAT,"OS visits to the UK: Thousands - SA",SA,0,CURR,0,OTT
+GMAX,"UK visits abroad: All visits Thousands - SA",SA,0,CURR,0,OTT
+GMAZ,"OS visits to UK :Earnings: £ Millions-(Cur.Price-SA)",SA,0,CURR,0,OTT

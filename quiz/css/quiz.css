@@ -1,0 +1,109 @@
+.imgHolder {float: left; margin: 0 10px 10px 0;}
+
+
+.clear {clear:both;}
+.clearRight {clear:right;}
+.clearLeft {clear:left;}
+
+.floatRight {float:right; }
+.floatLeft {float:left; }
+
+
+.panel{
+
+    width:100%;
+    height:250px;
+
+}
+
+#interactive li{
+    list-style: none;
+}
+
+#interactive ul li.quiz{
+   line-height: 28px;
+
+}
+
+#interactive .container {
+ height: auto;
+ overflow: hidden;
+}
+
+#interactive .right {
+    width: 217px;
+    float: right;
+
+}
+
+#interactive .left {
+    padding-right: 20px;
+    /* the next props are meant to keep this block independent from the other floated one */
+    width: auto;
+    overflow: hidden;
+}
+
+#interactive .blueBG {
+    background-color: #003D59;
+    color: #FFF;
+}
+#interactive .blockheading {
+    color: #FFF;
+    height: 32px;
+    padding-left: 20px;
+    font-weight: 600;
+    line-height:32px;
+}
+
+
+#interactive #arrow {
+    vertical-align:middle
+}
+#interactive #submitBtn,
+#interactive #nextBtn {
+    display:block;
+    width:100px;
+    height:30px;
+    margin-top:6px;
+    float:right;
+
+    background-color: #003D59;
+    color: #FFF;
+    cursor: pointer;
+    cursor: hand; 
+}
+
+#interactive #score {
+    height:30px;
+    line-height: 20px;
+}
+#interactive .alert {
+    color: #f00;
+}
+#interactive #sidePanel{
+    margin-top: 11px;
+}
+#interactive label{
+    font-size: 18px;
+    margin-top: 11px;
+}
+#interactive .labelText{
+   padding-left:8px;
+}
+
+
+/* align social button*/
+#interactive .social li{
+    display:inline;
+}  
+
+
+html .fb_share_link {
+    position:relative;
+    top:-7px;
+    padding: 0px 0 0 20px;
+    height:16px;
+    margin-top:0px;
+    background:url(http://static.ak.facebook.com/images/share/facebook_share_icon.gif?6:26981) no-repeat top left; 
+}
+

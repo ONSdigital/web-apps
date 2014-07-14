@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="Robots" content=""/>
+  <meta name="DC.Coverage" content=""/>
+  <meta name="DC.Creator" content=""/>
+  <meta name="DC.Language" content="eng" scheme="ISO 639-2/T"/>
+  <meta name="eGMS.Accessibility" content="" scheme="eGMS.WCAG10"/>
+  <meta name="DC.Identifier" content="http://www.ons.gov.uk" scheme="DCTERMS.URI"/>
+  <meta name="DCTERMS.Modified" content="" scheme="DCTERMS.W3CDTF"/>
+  <meta name="DC.Title" content="Key Economic Time Series Data"/>
+  <meta name="DCTERMS.alternative" content=""/>
+  <meta name="DC.subject" content="economic indicators, datasets, gdp, inflation, rpi"/>
+  <meta name="DC.Description" content="Quick access to the current and historical data for ONS key economic time series and economic indicators"/>
+  <meta name="DC.Subject" content="" scheme="eGMS.IPSVAbridged"/>
+  <meta name="DC.subject" content="" scheme="NSCL2"/>
+  <meta name="DC.Source" content=""/>
+  <meta name="DC.Type" content="" scheme="eGMS.TES"/>
+  <meta name="DC.type" content="" scheme="DCTERMS.DCMIType"/>
+  <meta name="eGMS.disposalReview" content="Z" scheme="DCTERMS.W3CDTF"/>
+  <meta name="eGMS.disposalReviewDetails" content=""/>
+  <meta name="DCTERMS.Issued" content="2013-10-17T10:00:00Z" scheme="DCTERMS.W3CDTF"/>
+  <meta name="DC.Identifier" content="" scheme="eGMS.ISBN"/>
+  <meta name="DC.Identifier" content="" scheme="eGMS.ISSN"/>
+  <meta name="eGMS.updatingFrequency" content=""/>
+
+  <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+  <title>Economic data search (Beta) </title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap theme -->
+  <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/dataTables.bootstrap.css" rel="stylesheet">
+
+  <link href="css/series.css" rel="stylesheet">
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+    </head>
+
+    <body role="document">
+      <noscript>
+        This page requies Javascript to be enabled
+      </noscript>
+
+      <div class="banner">
+        <div class="ribbon-banner-green"><div class="ribbon-green">B e t a</div></div>
+      </div>
+
+      <div class="container theme-showcase" role="main">
+
+
+        <div class="page-header">
+          <h1>Series ID search (beta)</h1>
+        </div>
+
+        <div class="">
+          <p>This prototype has been developed to help users explore ONS economic data and search and download by series ID. The vast majority of economic data produced by ONS are given unique, randomly generated, four digit identifiers and user research has shown that many of our users use, and are familiar with, these identifiers.</p>
+
+          <p>If you are not already familiar with our data, or are looking for top level economic series we would recommend visiting the <a href="http://www.ons.gov.uk/ons/site-information/using-the-website/time-series/index.html">Key Economic Time Series</a> page first. </p>
+
+          <div class="row">
+            <div class="col-sm-4">
+              <h3 class="heading">Step 1 - Select Topic</h3>
+
+              <ul class="striped" id="example_list">
+                <form id="topic">
+                  <li class="table-striped">
+                    <input id="Business" type="radio" name="topic" value="0"/>
+                    <label for="Business">Business and Trade</label>
+                  </li>
+
+                  <li class="table-striped">
+                    <input id="NatAccounts" type="radio" name="topic" value="1"/>
+                    <label for="NatAccounts">National Accounts</label>
+                  </li>
+
+                  <li class="table-striped">
+                    <input id="Labour" type="radio" name="topic" value="2"/>
+                    <label for="Labour">Labour Market</label>
+                  </li>
+
+                  <li class="table-striped">
+                    <input id="Prices" type="radio" name="topic" value="3"/>
+                    <label for="Prices">Price Indices</label>
+                  </li>
+
+                  <li class="table-striped">
+                    <input id="Travel" type="radio" name="topic" value="4"/>
+                    <label for="Travel">Travel and Tourism</label>
+                  </li>
+
+                </ul>
+              </form>
+            </div>
+
+            <div class="col-sm-8">
+              <h3 class="heading">Step 2 - Select Dataset</h3>
+              <p>Select the dataset that contains the series you require:<br/>
+                &nbsp;
+              </p>
+              <select name="topicMenu" class="topicMenu">
+                <option>Please select a topic...</option>
+              </select>
+
+              <div>
+                <p class="" id="dsalert">&nbsp;</p>
+              </div>
+
+              <div>
+
+
+              </div>
+
+            </div>
+          </div><!--  END OF ROW  -->
+          <hr />
+
+
+
+
+
+
+          <div class="row">
+
+            <div class="col-sm-12">
+              <h3 class="heading">Step 3 - Search and select data</h3>
+              <p>Use the 'Search series ID' or 'Search boxes' to filter the table and add items to your selection by clicking them</p>
+            </div>
+
+            <div class="col-sm-9">
+
+
+              <div id="cdid_filter" class="dataTables_filter pull-left">
+                <label class="">
+                  Search series ID: 
+                  <input type="text" aria-controls="cdidTable" id="seriesFilter"></input>
+                  <span class="help-block"><img src="css/images/infoicon.png" alt="infomation"/> Enter the 4 digit Series ID's separated by a comma. For example: XXXX,YYYY,ZZZZ</span>
+                </label>
+              </div>
+              
+
+              <div class="clearFix">
+                <table id="cdidTable" class="table-striped bordered-table table-condensed" cellpadding="0" cellspacing="0" border="0" >
+                  <thead>
+                    <tr>
+                      <th class="text-left">CDID</th>
+                      <th class="text-left" >Description</th>
+                      <th >SA/NSA</th>
+                      <th >Base</th>
+                      <th >Price</th>
+                      <th >Index</th>
+                      <th >Dataset</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+
+                  </tbody>
+                  <tfoot>
+                    <tr>
+                      <th class="text-left">CDID</th>
+                      <th class="text-left">Description</th>
+                      <th>SA/NSA</th>
+                      <th>Base</th>
+                      <th>Price</th>
+                      <th>Index</th>
+                      <th>Dataset</th>
+                    </tr>
+                  </tfoot>
+                </table>
+              </div>
+            </div>
+
+            <div class="col-sm-3 alert alert-success">
+              <h4 class="blockTitle">Your selection:</h4>
+              <p class="" id="dataTitle">Add items by selecting in the table</p>
+              <br/>
+              <table id="selection"></table>
+              
+              <div>
+                <br/>
+                <p class="blockBtn btn btn-success fullwidth" id="downloadCSVBtn">Download custom CSV</p>
+                <p ></p>
+
+                <p class="blockBtn btn btn-success fullwidth" id="downloadXLSBtn">Download custom XLS</p>
+                <p ><small>Note: Changing any details in step 1 or 2 will reset your session</small></p>
+              </div>
+            </div>
+            <hr class="clearLeft"/>
+          </div><!--  END OF ROW  -->
+
+
+
+          <div class="row">
+
+            <div class="col-sm-12 well">
+
+              <p>User feedback forms a large part of how we are looking to develop the ONS website. If you have any comments on this page or suggestions on how it could be approved please email: <a href="mailto:web.comments@ons.gsi.gov.uk">web.comments@ons.gsi.gov.uk</a> </p>
+
+           
+
+            </div>
+
+          </div><!--  END OF ROW  -->
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+      </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.dataTables.js"></script>
+    <script src="js/dataTables.bootstrap.js"></script>
+    <script src="js/dataTables.fnReloadAjax.js"></script>
+    <script src="js/lookup.js"></script>
+
+
+
+
+
+  </body>
+  </html>

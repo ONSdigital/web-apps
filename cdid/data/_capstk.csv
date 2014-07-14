@@ -1,0 +1,1980 @@
+AYYX,"Capital consumption: Insurance and Pension Funds: IP: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+CGCZ,"Households & NPISHs: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,CAPSTK
+KWOD,"Capex : Construction : Private Sector : Total : £M : CP : NSA",NSA,0,CURR,0,CAPSTK
+AYZC,"Capital consumption: Insurance and Pension Funds: IP: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGDB,"Financial Corporations: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,CAPSTK
+AYZL,"Capital consumption: Insurance and Pension Funds: IP: Plant and machinery: £m C",NSA,0,CURR,0,CAPSTK
+CGES,"Non-Financial Corporations: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,CAPSTK
+KWOC,"Capex : Construction : Private Sector : Total : £M : CVM : NSA",NSA,2006,CONS,0,CAPSTK
+CGGN,"Public Non-Financial Corporations: Physical Balance Sheet: Total Non-fin Assets",NSA,0,CURR,0,CAPSTK
+AYZM,"Capital consumption: Insurance and Pension Funds: IP: Plant and machinery: £m K",NSA,2006,CONS,0,CAPSTK
+CGIX,"General Government: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,CAPSTK
+AYZW,"Capital consumption: Insurance and Pension Funds: IP: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+CGIY,"Central Government: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,CAPSTK
+AYZX,"Capital consumption: Insurance and Pension Funds: IP: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGIZ,"Local Authorities: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,CAPSTK
+BGTW,"Con fixed cap: Intangible assets: Households CP £m",NSA,0,CURR,0,CAPSTK
+CGJA,"Public Sector: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,CAPSTK
+BGTX,"Con fixed cap: Intangible assets: PNFCs CP £m",NSA,0,CURR,0,CAPSTK
+CGJB,"Total: All Sectors: Physical Balance Sheet: Total Non-financial Assets",NSA,0,CURR,0,CAPSTK
+BGTY,"Con fixed cap: Intangible assets: Financial Corporations CP £m",NSA,0,CURR,0,CAPSTK
+BGTZ,"Con fixed cap: Intangible assets: Public Corporations CP £m",NSA,0,CURR,0,CAPSTK
+BGUA,"Con fixed cap: Intangible assets: Central Government CP £m",NSA,0,CURR,0,CAPSTK
+BGUB,"Con fixed cap: Intangible assets: Local Authorities CP £m",NSA,0,CURR,0,CAPSTK
+BGUC,"Con fixed cap: Intangible assets: Total CP £m",NSA,0,CURR,0,CAPSTK
+BGUK,"Net Stock: Intangible assets: Households CP £b",NSA,0,CURR,0,CAPSTK
+BGUL,"Net Stock: Intangible assets: PNFCs CP £m",NSA,0,CURR,0,CAPSTK
+BGUM,"Net Stock: Intangible assets: Financial Corporations CP £m",NSA,0,CURR,0,CAPSTK
+BGUN,"Net Stock: Intangible assets: Public Corporations CP £m",NSA,0,CURR,0,CAPSTK
+CGRE,"All Sextors: Tangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+BGUO,"Net Stock: Intangible assets: Central Government CP £m",NSA,0,CURR,0,CAPSTK
+CGRF,"All Sectors: Intangible Assets: non-marketable tenancy rights £bn",NSA,0,CURR,0,CAPSTK
+BGUP,"Net Stock: Intangible assets: Local Authorities CP £m",NSA,0,CURR,0,CAPSTK
+BGUQ,"Net Stock: Intangible assets: Total CP £m",NSA,0,CURR,0,CAPSTK
+CGRH,"All Sectors: Intangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+BGUR,"Gross Stock: Intangible assets: CVM £m",NSA,2006,CONS,0,CAPSTK
+BGUU,"Net stock: Vehicles, ships & aircraft: Households & NPISHs CP £b",NSA,0,CURR,0,CAPSTK
+BGUV,"Net capital stock: vehicles, ships & aircraft: whole economy (CP) £bn",NSA,0,CURR,0,CAPSTK
+INJT,"Capex : Manu : Food, Drink & Tobacco : Private Sector : Total : £M : CVM : NSA",NSA,2006,CONS,0,CAPSTK
+CGRP,"Households & NPISHs: Tangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+CGRQ,"Households & NPISHs: Intangible Assets: Non-marketable tenancy rights £bn",NSA,0,CURR,0,CAPSTK
+CGRT,"Households & NPISHs: Intangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+CGXI,"Consumption of Fixed Capital: Computer software: Agriculture: (CP) £m",NSA,0,CURR,0,CAPSTK
+CGXL,"Consumption of Fixed Capital: Comp software: Elec. Gas & Water: (CP) £m",NSA,0,CURR,0,CAPSTK
+CGXM,"Consumption of Fixed Capital: Computer software: Construction: (CP) £m",NSA,0,CURR,0,CAPSTK
+CHAB,"Consumption of Fixed Capital: Transport: Computer software: (CP) £m",NSA,0,CURR,0,CAPSTK
+CHBO,"Consumption of Fixed Capital: Computer software: Agriculture: CVM. £m",NSA,2006,CONS,0,CAPSTK
+CHMP,"Consumption of Fixed Capital: Computer software: Elec, Gas & Water: ( CVM) £m",NSA,2006,CONS,0,CAPSTK
+CHMR,"Consumption of Fixed Capital: Computer software: Construction: CVM £m",NSA,2006,CONS,0,CAPSTK
+CIBQ,"Consumption of Fixed Capital: Computer software: Transport: CVM £m",NSA,2006,CONS,0,CAPSTK
+CIGH,"Consumption of fixed capital: Mining & quarrying (CP) £m",NSA,0,CURR,0,CAPSTK
+CIGI,"Consumption of fixed capital: Manufacturing (CP) £m",NSA,0,CURR,0,CAPSTK
+CIGJ,"Consumption of fixed capital: Electricity, gas & water supply (CP) £m",NSA,0,CURR,0,CAPSTK
+INJU,"Capex : Manu : Textiles & Leather : Private Sector : Total : £M : CVM : NSA",NSA,2006,CONS,0,CAPSTK
+CIGK,"Consumption of fixed capital: Construction (CP) £m",NSA,0,CURR,0,CAPSTK
+CIGR,"Consumption of fixed capital: Mining & quarrying CVM £m",NSA,2006,CONS,0,CAPSTK
+CGUP,"Financial Corps: Tangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+CIGS,"Consumption of fixed capital: Manufacturing CVM £m",NSA,2006,CONS,0,CAPSTK
+CGUQ,"Financial Corps: Intangible Assets: non-marketable tenancy rights £bn.Set at 0",NSA,0,CURR,0,CAPSTK
+CIGT,"Consumption of fixed capital: Electric, gas & water CVM £m",NSA,2006,CONS,0,CAPSTK
+INJY,"Capex : Manufacturing : Chemicals : Private Sector : Total : £M : CVM : NSA",NSA,2006,CONS,0,CAPSTK
+CIGU,"Consumption of fixed capital: Construction CVM £m",NSA,2006,CONS,0,CAPSTK
+CGUS,"Financial Corps: Intangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+CIHB,"Consumption of fixed capital: Dwellings: Households (CP) £m",NSA,0,CURR,0,CAPSTK
+CIHC,"Consumption of fixed capital: Dwellings: PNFCs (CP) £m",NSA,0,CURR,0,CAPSTK
+INIS,"Capex : Manu : Textiles & Leather : Private Sector : Total : £M : CP : NSA",NSA,0,CURR,0,CAPSTK
+CIHD,"Consumption of fixed capital: Dwellings: Public corporations (CP) £m",NSA,0,CURR,0,CAPSTK
+INIR,"Capex : Manu : Food, Drink & Tobacco : Private Sector : Total : £M : CP : NSA",NSA,0,CURR,0,CAPSTK
+CIWK,"Net capital stock: Vehicles, ships & aircraft: PNFCs (CP) £b",NSA,0,CURR,0,CAPSTK
+CIWL,"Net capital stock: Vehicles, ships & aircraft: Fin corps (CP) £b",NSA,0,CURR,0,CAPSTK
+YGNX,"GFCF: BPVI: PT: financial intermediation: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+CIWM,"Net capital stock: Vehicles, ships & aircraft: Pub corps (CP) £b",NSA,0,CURR,0,CAPSTK
+CIWN,"Net capital stock: Vehicles, ships & aircraft: Central Gov (CP) £b",NSA,0,CURR,0,CAPSTK
+CIWO,"Net capital stock: Plant & machinery: Households (CP) £b",NSA,0,CURR,0,CAPSTK
+CGVA,"NFCs: Tangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+CIWP,"Net capital stock: Plant & machinery: PNFCs (CP) £b",NSA,0,CURR,0,CAPSTK
+CGVB,"NFCs: Intangible Assets: non-marketable tenancy rights £bn. Permanently set at 0",NSA,0,CURR,0,CAPSTK
+CIWQ,"Net capital stock: Plant & machinery: Financial Corporations (CP) £b",NSA,0,CURR,0,CAPSTK
+YGNG,"GFCF: BPVI: PT: financial intermediation: CP: NSA",NSA,0,CURR,0,CAPSTK
+CIWR,"Net capital stock: Plant & machinery: Public corporations (CP) £b",NSA,0,CURR,0,CAPSTK
+CGVE,"NFCs: Intangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+CIWS,"Net capital stock: Plant & machinery: Central Government (CP) £b",NSA,0,CURR,0,CAPSTK
+INIW,"Capex : Manufacturing : Chemicals : Private Sector : Total : £M : CP : NSA",NSA,0,CURR,0,CAPSTK
+CIWT,"Net capital stock: Plant & machinery: Local Authorities (CP) £b",NSA,0,CURR,0,CAPSTK
+CIWU,"Net capital stock: Plant & machinery: Total (CP) £b",NSA,0,CURR,0,CAPSTK
+CIWV,"Net capital stock: Dwellings: Households (CP) £b",NSA,0,CURR,0,CAPSTK
+CIWW,"Net capital stock: Dwellings: PNFCs (CP) £b",NSA,0,CURR,0,CAPSTK
+CIWY,"Net capital stock: Dwellings: Public corporations (CP) £b",NSA,0,CURR,0,CAPSTK
+CIWZ,"Net capital stock: Dwellings: Total (CP) £b",NSA,0,CURR,0,CAPSTK
+CIXA,"Net capital stock: Other buildings & works: Households (CP) £b",NSA,0,CURR,0,CAPSTK
+CGVM,"Public NFCs: Tangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+CIXB,"Net capital stock: Other buildings & works: PNFCs (CP) £b",NSA,0,CURR,0,CAPSTK
+CGVN,"Public NFCs: Intang Assets: non-marketable tenancy rights £bn Permanent set at 0",NSA,0,CURR,0,CAPSTK
+CIXC,"Net capital stock: Other buildings & works: Financial corps (CP) £b",NSA,0,CURR,0,CAPSTK
+CIXD,"Net capital stock: Other buildings & works: Public corporations (CP) £b",NSA,0,CURR,0,CAPSTK
+CGVP,"Public NFCs: Intangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+CIXE,"Net capital stock: Other buildings & works: Central government (CP) £b",NSA,0,CURR,0,CAPSTK
+CIXF,"Net capital stock: Other buildings & works: Total (CP) £b",NSA,0,CURR,0,CAPSTK
+CIXG,"Net capital stock: All fixed assets: Households (CP) £b",NSA,0,CURR,0,CAPSTK
+CIXH,"Net capital stock: All fixed assets: PNFCs (CP) £b",NSA,0,CURR,0,CAPSTK
+CIXI,"Net capital stock: All fixed assets: Financial corporations (CP) £b",NSA,0,CURR,0,CAPSTK
+CIXJ,"Net capital stock: All fixed assets: Public corporations (CP) £b",NSA,0,CURR,0,CAPSTK
+CIXK,"Net capital stock: All fixed assets: Central government (CP) £b",NSA,0,CURR,0,CAPSTK
+DBQS,"Gross fixed cap form, Restaurents & hotels - OECD GCF CVM",NSA,2006,CONS,0,CAPSTK
+CIXL,"Net capital stock: All fixed assets: Local authorities (CP) £b",NSA,0,CURR,0,CAPSTK
+CGVX,"General Government: Tangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+CIXM,"Net capital stock: All fixed assets: Total (CP) £b",NSA,0,CURR,0,CAPSTK
+CGVY,"General Government: Intangible Assets: non-marketable tenancy rights £bn. (0)",NSA,0,CURR,0,CAPSTK
+CIXO,"Gross capital stock: Mining & quarrying CVM £b",NSA,2006,CONS,0,CAPSTK
+CIXP,"Gross capital stock: Manufacturing CVM £b",NSA,2006,CONS,0,CAPSTK
+CGWA,"General Government: Intangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+CIXQ,"Gross capital stock: Electricity, gas & water supply CVM £b",NSA,2006,CONS,0,CAPSTK
+CIXR,"Gross capital stock: Construction CVM £b",NSA,2006,CONS,0,CAPSTK
+DFDV,"Gross Fixed Capital Formation:Total Economy:: Dwellings: D0-9:CVM NSA £m",NSA,2006,CONS,0,CAPSTK
+CIXX,"Gross capital stock: Total CVM £b",NSA,2006,CONS,0,CAPSTK
+CIXZ,"Gross capital stock: Plant & machinery CVM £b",NSA,2006,CONS,0,CAPSTK
+CIYA,"Gross capital stock: Other buildings & works CVM £b",NSA,2006,CONS,0,CAPSTK
+DBQZ,"Gross fixed cap form, Educational services - OECD GCF CVM",NSA,2006,CONS,0,CAPSTK
+DBRA,"Gross fixed cap form, Medical, dental, other health & vets - OECD GCF CVM",NSA,2006,CONS,0,CAPSTK
+DBSQ,"Stocks of fixed assets, Resid bulidings - Public enterp - OECD Gross CP",NSA,0,CURR,0,CAPSTK
+CGWI,"Central Government: Tangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+DBSR,"Stocks of fixed assets, Non-resid build - Public enterp - OECD Gross CP",NSA,0,CURR,0,CAPSTK
+CGWJ,"Central Govt: Intangible Assets: non-market tenancy rights £bn. Set at 0",NSA,0,CURR,0,CAPSTK
+DBUD,"Stocks of fixed assets, Resid bulidings - Public enterp - OECD CVM",NSA,2006,CONS,0,CAPSTK
+DFPP,"Total Economy: GDFCF: CP NSA: BPV: C66",NSA,0,CURR,0,CAPSTK
+DBUE,"Stocks of fixed assets, Non-resid build - Public enterp - OECD CVM",NSA,2006,CONS,0,CAPSTK
+CGWL,"Central Government: Intangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+DBUJ,"Stocks of fixed assets, Resid bulidings - Public enterp - OECD CVM",NSA,2006,CONS,0,CAPSTK
+CGWM,"Local Government: Tangible Assets: residential building £m",NSA,0,CURR,0,CAPSTK
+DBUK,"Stocks of fixed assets, Non-resid build - Public enterp - OECD CVM",NSA,2006,CONS,0,CAPSTK
+DCFL,"Total Economy: GDFCF: CP NSA: Buildings: Div 0",NSA,0,CURR,0,CAPSTK
+DCFR,"Total Economy: GDFCF: CP NSA: Buildings: Div 7",NSA,0,CURR,0,CAPSTK
+DCFU,"Total Economy: GDFCF: CP NSA: P&M: Div 0",NSA,0,CURR,0,CAPSTK
+DCGA,"Total Economy: GDFCF: CP NSA: P&M: Div 7",NSA,0,CURR,0,CAPSTK
+DLWJ,"Gross Fixed Capital Formation: Vehicles, Ships & Aircraft: CVM NSA: £m",NSA,2006,CONS,0,CAPSTK
+DCGD,"Total Economy: GDFCF: CP NSA: VSA: Div 0",NSA,0,CURR,0,CAPSTK
+DCGJ,"Total Economy: GDFCF: CP NSA: VSA: Div 7",NSA,0,CURR,0,CAPSTK
+CGWT,"Local Government: Tangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+DFDD,"Total Economy: GDFCF: CP NSA: BPV: Manufacturing (Revised def.)",NSA,0,CURR,0,CAPSTK
+DLWM,"Gross Fixed Capital Formation: Plant & Machinery: CVM NSA: £m",NSA,2006,CONS,0,CAPSTK
+CGWU,"Local Government: Intangible Assets: non-marketable tenancy rights £bn. Set at 0",NSA,0,CURR,0,CAPSTK
+DFDI,"Total Economy: GDFCF: CP NSA: BPV: Div 7",NSA,0,CURR,0,CAPSTK
+DFDN,"Total Economy: GDFCF: CVM NSA: BPV: Manufacturing (Revised Def.)",NSA,2006,CONS,0,CAPSTK
+CGWW,"Local Government: Intangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+DFDT,"Total Economy: GDFCF: CVM NSA: BPV: Div 7",NSA,2006,CONS,0,CAPSTK
+DFGB,"Total Economy: GDFCF: CP NSA: Buildings: C85",NSA,0,CURR,0,CAPSTK
+DFGC,"Total Economy: GDFCF: CP NSA: P&M: C85",NSA,0,CURR,0,CAPSTK
+DFGD,"Total Economy: GDFCF: CP NSA: VSA: C95",NSA,0,CURR,0,CAPSTK
+DFGE,"Total Economy: GDFCF: CVMNSA: Buildings: C95",NSA,2006,CONS,0,CAPSTK
+DFGF,"Total Economy: GDFCF: CVMNSA: P&M: C95",NSA,2006,CONS,0,CAPSTK
+NSRN,"Public sector finances: Central Government: Depreciation: £m: CPNSA",NSA,0,CURR,0,CAPSTK
+DFGG,"Total Economy: GDFCF: CVMNSA: VSA: C95",NSA,2006,CONS,0,CAPSTK
+DFKI,"Total Economy: GDFCF: CP NSA: BPV: D0",NSA,0,CURR,0,CAPSTK
+CGXE,"Public Sector: Tangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+DFKR,"Total Economy: GDFCF: CVMNSA: BPVI: D0",NSA,2006,CONS,0,CAPSTK
+CGXF,"Public Sector: Intangible Assets: non-marketable tenancy rights £bn Set at 0",NSA,0,CURR,0,CAPSTK
+DFMO,"Total Economy: GDFCF: CP NSA: VSA: C93",NSA,0,CURR,0,CAPSTK
+DFMQ,"Total Economy: GDFCF: CP NSA: VSA: C92",NSA,0,CURR,0,CAPSTK
+CGXH,"Public Sector: Intangible Assets: Total £bn",NSA,0,CURR,0,CAPSTK
+DFNY,"Total Economy: GDFCF: CP NSA: P&M: C93",NSA,0,CURR,0,CAPSTK
+DFNZ,"Total Economy: GDFCF: CP NSA: P&M: C92",NSA,0,CURR,0,CAPSTK
+DFOZ,"Total Economy: GDFCF: CP NSA: Buildings: C93",NSA,0,CURR,0,CAPSTK
+DFPA,"Total Economy: GDFCF: CP NSA: Buildings: C92",NSA,0,CURR,0,CAPSTK
+DFQA,"Total Economy: GDFCF: CP NSA: BPV: C93",NSA,0,CURR,0,CAPSTK
+DFQB,"Total Economy: GDFCF: CP NSA: BPV: C85",NSA,0,CURR,0,CAPSTK
+DFQN,"Total Economy: GDFCF: CVMNSA: P&M: D2-4",NSA,2006,CONS,0,CAPSTK
+DFQO,"Total Economy: GDFCF: CVMNSA: Buildings: D2-4",NSA,2006,CONS,0,CAPSTK
+DFTM,"Total Economy: GDFCF: Mining & Quarrying including Oil extraction:CVMNSA BPVI",NSA,2006,CONS,0,CAPSTK
+DFTN,"Total Economy :GDFCF: Electricity, Gas and Water:CVMNSA BPVI",NSA,2006,CONS,0,CAPSTK
+DFTO,"Total Economy: GDFCF: BPV: Mining and quarrying including oil extraction",NSA,0,CURR,0,CAPSTK
+DFTP,"Total Economy: GDFCF: BPV: Electricity, Gas and Water supply",NSA,0,CURR,0,CAPSTK
+DFTS,"Total Economy:GDFCF:CPNSA:Vehicles:Mining & Quarrying incl. Oil extraction",NSA,0,CURR,0,CAPSTK
+DFTT,"Total Economy: GDFCF: Vehicles: Electricity Gas and Water",NSA,0,CURR,0,CAPSTK
+DFTU,"Total Economy: GDFCF: P & M: Mining and quarrying including oil extraction",NSA,0,CURR,0,CAPSTK
+NSRO,"ESA:LA:K.1:Consumption of fixed capital.",NSA,0,CURR,0,CAPSTK
+DFTV,"Total Economy: GDFCF: P&M: Electricity, gas and water",NSA,0,CURR,0,CAPSTK
+DFTY,"Total Economy: GDFCF: Buildings: Mining and quarrying including oil extraction",NSA,0,CURR,0,CAPSTK
+TMPH,"Private non-financial corporations: Tangible assets: Total",NSA,0,CURR,0,CAPSTK
+DFTZ,"Total Economy: GDFCF: Buildings: Electricity, gas and water",NSA,0,CURR,0,CAPSTK
+TMPI,"Private non-fin corps: Intangible non fin assets: Non marketable tenancy rights",NSA,0,CURR,0,CAPSTK
+TMPK,"Private non-fin corps: Intangible non fin assets: Total",NSA,0,CURR,0,CAPSTK
+TMPL,"Private non financial corporations: Total non financial assets",NSA,0,CURR,0,CAPSTK
+EQEE,"ESA:GFCF:Manufacturing:Intangible Fixed Assets:Private sector: CP NSA",NSA,0,CURR,0,CAPSTK
+EQEW,"ESA:GFCF:Manufacturing:Intangible Fixed Assets:Private sector: CVM NSA",NSA,2006,CONS,0,CAPSTK
+EXCT,"Consumption of Fixed Capital: Dwellings: Whole Economy; (CP) £m",NSA,0,CURR,0,CAPSTK
+EXCU,"Capital consumption : transfer costs of land & buildings £m",NSA,0,CURR,0,CAPSTK
+EXDG,"Capital consumption : dwellings £m",NSA,2006,CONS,0,CAPSTK
+EXDH,"Capital consumption : transfer costs of land & buildings £m",NSA,2006,CONS,0,CAPSTK
+EXEO,"Gross capital stock: dwellings £bn",NSA,1995,CONS,0,CAPSTK
+EXFB,"Central govt: capital consumption CRC: dwellings £m",NSA,0,CURR,0,CAPSTK
+EXGM,"Net Capital Stock: Vehicles, ships & aircraft: Local Government: (CP) £bn",NSA,0,CURR,0,CAPSTK
+EQDT,"Gross Fixed Capital Formation:Total Economy:All Intangible Fixed Assets CVM NSA",NSA,2006,CONS,0,CAPSTK
+EXGZ,"Net Capital Stock: dwellings: Central Government: (CP) £bn",NSA,0,CURR,0,CAPSTK
+EXHH,"Net Capital Stock: Other buildings & works: Local Government: (CP) £bn",NSA,0,CURR,0,CAPSTK
+EXHU,"Local Authority non trading transfer costs CS13 (Cap. Cons)CP",NSA,0,CURR,0,CAPSTK
+EXHW,"Gross Capital Stock: Dwellings CP £b",NSA,0,CURR,0,CAPSTK
+EXIW,"Gross Capital Stock: Vehicles: Whole Economy: (CP) £b",NSA,0,CURR,0,CAPSTK
+EXIX,"Gross Capital Stock: Plant & Machinery: Public Corporations: (CP) £b",NSA,0,CURR,0,CAPSTK
+EXIY,"Gross Capital Stock: Vehicles: Public Corporations: (CP) £b",NSA,0,CURR,0,CAPSTK
+CGDA,"UK: B.90 Total net worth £m",NSA,0,CURR,0,CAPSTK
+CGLK,"UK: AN.1111 Dwellings £m",NSA,0,CURR,0,CAPSTK
+EXJF,"Net Capital Stock: Dwellings: Whole economy: CVM £b",NSA,2006,CONS,0,CAPSTK
+CGMP,"UK: AN.1114 Cultivated assets £m",NSA,0,CURR,0,CAPSTK
+CGMU,"UK: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,CAPSTK
+EXLC,"Gross Capital Stock: Vehicles: Whole Economy: CVM £b",NSA,2006,CONS,0,CAPSTK
+CGQZ,"UK: AN.11122 Other structures £m",NSA,0,CURR,0,CAPSTK
+CGRA,"UK: AN.11132 Plant and machinery £m",NSA,0,CURR,0,CAPSTK
+EXLD,"Net Capital Stock: Plant & Machinery: Whole Economy: CVM £b",NSA,2006,CONS,0,CAPSTK
+CGRB,"UK: AN.11131 Transport equipment £m",NSA,0,CURR,0,CAPSTK
+CGRC,"Household & NPISHs: B.90 Total net worth £m",NSA,0,CURR,0,CAPSTK
+EXLE,"Net Capital Stock: Vehicles: Whole Economy: CVM £b",NSA,2006,CONS,0,CAPSTK
+CGRD,"UK: AN.12 Inventories £m",NSA,0,CURR,0,CAPSTK
+CGRG,"UK: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,CAPSTK
+EXLF,"Gross Capital Stock: Plant & Machinery: Public Corporations: CVM £b",NSA,2006,CONS,0,CAPSTK
+CGRI,"Households & NPISHs: AN.1111 Dwellings £m",NSA,0,CURR,0,CAPSTK
+CGRJ,"Households & NPISHs: AN.1114 Cultivated assets £m",NSA,0,CURR,0,CAPSTK
+EXLG,"Gross Capital Stock: Vehicles: Public Corporations: CVM £b",NSA,2006,CONS,0,CAPSTK
+CGRK,"Households & NPISHs: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,CAPSTK
+CGRL,"Households & NPISHs: AN.11122 Other structures £m",NSA,0,CURR,0,CAPSTK
+EXLH,"all_ind P pc ns-CVM",NSA,2006,CONS,0,CAPSTK
+CGRM,"Households & NPISHs: AN.11132 Plant and machinery £m",NSA,0,CURR,0,CAPSTK
+CGRN,"Households & NPISHs: AN.11131 Transport equipment £m",NSA,0,CURR,0,CAPSTK
+EXLI,"Net Capital Stock: Vehicles: Public Corporations: CVM £b",NSA,2006,CONS,0,CAPSTK
+CGRO,"Households & NPISHs: AN.12 Inventories £m",NSA,0,CURR,0,CAPSTK
+CGRS,"Households & NPISHs: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,CAPSTK
+EXOZ,"Net Capital Stock: Other Buildings & Works: Whole Economy: CVM £b",NSA,2006,CONS,0,CAPSTK
+CGRU,"Financial corporations: B.90 Total net worth £m",NSA,0,CURR,0,CAPSTK
+CGRV,"Non-financial corporations: B.90 Total net worth £m",NSA,0,CURR,0,CAPSTK
+GABR,"Capital consumption: New dwellings: CG: Dwellings: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGRW,"Public non-financial corporations: B.90 Total net worth £m",NSA,0,CURR,0,CAPSTK
+CGRX,"General Government: B.90 Total net worth £m",NSA,0,CURR,0,CAPSTK
+GBEO,"Capital consumption: Property: HH: Dwellings: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGRY,"Central government: B.90 Total net worth £m",NSA,0,CURR,0,CAPSTK
+CGRZ,"Local Government: B.90 Total net worth £m",NSA,0,CURR,0,CAPSTK
+GBJC,"Capital consumption: Property: PR: Dwellings: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGSA,"Public Sector: AF Total financial assets/liabilities £m",NSA,0,CURR,0,CAPSTK
+CGTY,"Public Sector: B.90 Total net worth £m",NSA,0,CURR,0,CAPSTK
+GBJJ,"Capital consumption: Property: PC: Dwellings: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGUD,"Financial corporations: AN.1111 Dwellings £m",NSA,0,CURR,0,CAPSTK
+CGUE,"Financial corporations: AN.1114 Cultivated assets £m",NSA,0,CURR,0,CAPSTK
+GGBW,"Total Economy: GDFCF: CP NSA: VSA: D2-4",NSA,0,CURR,0,CAPSTK
+CGUF,"Financial corporations: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,CAPSTK
+CGUG,"Financial corporations: AN.11122 Other structures £m",NSA,0,CURR,0,CAPSTK
+GGBX,"Total Economy: GDFCF: CP NSA: P&M: D2-4",NSA,0,CURR,0,CAPSTK
+CGUH,"Financial corporations: AN.11132 Plant and machinery £m",NSA,0,CURR,0,CAPSTK
+CGUI,"Financial corporations: AN.11131 Transport equipment £m",NSA,0,CURR,0,CAPSTK
+GGBY,"Total Economy: GDFCF: CP NSA: Buildings: D2-4",NSA,0,CURR,0,CAPSTK
+CGUO,"Financial corporations: AN.12 Inventories £m",NSA,0,CURR,0,CAPSTK
+CGUR,"Financial corporations: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,CAPSTK
+GPIS,"Capital consumption: Total: CG: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+CGUT,"Non-financial corporations: AN.1111 Dwellings £m",NSA,0,CURR,0,CAPSTK
+CGUU,"Non-financial corporations: AN.1114 Cultivated assets £m",NSA,0,CURR,0,CAPSTK
+GPIT,"Capital consumption: Total: CG: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGUV,"Non-financial corporations: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,CAPSTK
+CGUW,"Non-financial corporations: AN.11122 Other structures £m",NSA,0,CURR,0,CAPSTK
+GPIY,"Capital consumption: Total: CG: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+CGUX,"Non-financial corporatons: AN.11132 Plant and machinery £m",NSA,0,CURR,0,CAPSTK
+CGUY,"Non-financial corporations: AN.11131 Transport equipment £m",NSA,0,CURR,0,CAPSTK
+GPIZ,"Capital consumption: Total: CG: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGUZ,"Non-financial corporations: AN.12 Inventories £m",NSA,0,CURR,0,CAPSTK
+CGVC,"Non-financial corporations: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,CAPSTK
+GPJE,"Capital consumption: Total: CG: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+CGVF,"Public non-financial corporations: AN.1111 Dwellings £m",NSA,0,CURR,0,CAPSTK
+CGVG,"Public non-financial corporations: AN.1114 Cultivated assets £m",NSA,0,CURR,0,CAPSTK
+GPJF,"Capital consumption: Total: CG: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGVH,"Public non-financial corporations: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,CAPSTK
+CGVI,"Public non-financial corporations: AN.11122 Other structures £m",NSA,0,CURR,0,CAPSTK
+GPLW,"Capital consumption: Total: LA: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+CGVJ,"Public non-financial corporations: AN.11132 Plant and machinery £m",NSA,0,CURR,0,CAPSTK
+CGVK,"Public non-financial corporations: AN.11131 Transport equipment £m",NSA,0,CURR,0,CAPSTK
+GPLX,"Capital consumption: Total: LA: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGVL,"Public non-financial corporations: AN.12 Inventories £m",NSA,0,CURR,0,CAPSTK
+CGVO,"Public non-financial corporations: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,CAPSTK
+GPMC,"Capital consumption: Total: LA: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+CGVQ,"General Government: AN.1111 Dwellings £m",NSA,0,CURR,0,CAPSTK
+CGVR,"General Government: AN.1114 Cultivated assets £m",NSA,0,CURR,0,CAPSTK
+GPMD,"Capital consumption: Total: LA: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGVS,"General Government: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,CAPSTK
+CGVT,"General Government: AN.11122 Other structures £m",NSA,0,CURR,0,CAPSTK
+GPMI,"Capital consumption: Total: LA: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+CGVU,"General Government: AN.11132 Plant and machinery £m",NSA,0,CURR,0,CAPSTK
+CGVV,"General Government: AN.11131 Transport equipment £m",NSA,0,CURR,0,CAPSTK
+GPMJ,"Capital consumption: Total: LA: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGVW,"General Government: AN.12 Inventories £m",NSA,0,CURR,0,CAPSTK
+CGVZ,"General Government: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,CAPSTK
+CGWB,"Central Government: AN.1111 Dwellings £m",NSA,0,CURR,0,CAPSTK
+GPMO,"Capital consumption: Total: PC: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+CGWC,"Central Government: AN.1114 Cultivated assets £m",NSA,0,CURR,0,CAPSTK
+CGWD,"Central Government: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,CAPSTK
+GPMP,"Capital consumption: Total: PC: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGWE,"Central Government: AN.11122 Other structures £m",NSA,0,CURR,0,CAPSTK
+CGWF,"Central Government: AN.11132 Plant and machinery £m",NSA,0,CURR,0,CAPSTK
+CGWG,"Central Government: AN.11131 Transport equipment £m",NSA,0,CURR,0,CAPSTK
+GPMU,"Capital consumption: Total: PC: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+CGWH,"Central Government: AN.12 Inventories £m",NSA,0,CURR,0,CAPSTK
+CGWK,"Central Government: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,CAPSTK
+GPMV,"Capital consumption: Total: PC: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGWN,"Local Government: AN.1114 Cultivated assets £m",NSA,0,CURR,0,CAPSTK
+CGWO,"Local Government: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,CAPSTK
+GPNA,"Capital consumption: Total: PC: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+CGWP,"Local Government: AN.11122 Other structures £m",NSA,0,CURR,0,CAPSTK
+CGWQ,"Local Government: AN.11132 Plant and machinery £m",NSA,0,CURR,0,CAPSTK
+GPNB,"Capital consumption: Total: PC: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGWR,"Local Government: AN.11131 Transport equipment £m",NSA,0,CURR,0,CAPSTK
+CGWS,"Local Government: AN.12 Inventories £m",NSA,0,CURR,0,CAPSTK
+GPOW,"Capital consumption: Total: NP: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+CGWV,"Local Government: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,CAPSTK
+CGWX,"Public Sector: AN.1111 Dwellings £m",NSA,0,CURR,0,CAPSTK
+GPOX,"Capital consumption: Total: NP: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGWY,"Public Sector: AN.1114 Cultivated assets £m",NSA,0,CURR,0,CAPSTK
+CGWZ,"Public Sector: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,CAPSTK
+GPPC,"Capital consumption: Total: NP: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+CGXA,"Public Sector: AN.11122 Other structures £m",NSA,0,CURR,0,CAPSTK
+CGXB,"Public Sector: AN.11132 Plant and machinery £m",NSA,0,CURR,0,CAPSTK
+GPPD,"Capital consumption: Total: NP: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+CGXC,"Public Sector: AN.11131 Transport equipment £m",NSA,0,CURR,0,CAPSTK
+CGXD,"Public Sector: AN.12 Inventories £m",NSA,0,CURR,0,CAPSTK
+GPPI,"Capital consumption: Total: NP: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+CGXG,"Public Sector: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,CAPSTK
+CIHA,"Consumption of fixed capital: Total CVM",NSA,2006,CONS,0,CAPSTK
+GPPJ,"Capital consumption: Total: NP: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+GPPO,"Capital consumption: Total: PR: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+GPPP,"Capital consumption: Total: PR: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+GPPU,"Capital consumption: Total: PR: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+GPPV,"Capital consumption: Total: PR: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+GPQA,"Capital consumption: Total: PR: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+GPQB,"Capital consumption: Total: PR: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+GPQG,"Capital consumption: Total: HH: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+GPQH,"Capital consumption: Total: HH: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+GPQM,"Capital consumption: Total: HH: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+GPQN,"Capital consumption: Total: HH: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+GPQS,"Capital consumption: Total: HH: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+GPQT,"Capital consumption: Total: HH: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+GPRP,"Capital consumption: Other manufacturing: WE: Intangible: computer software: £m",NSA,0,CURR,0,CAPSTK
+GPRQ,"Capital consumption: Other manufacturing: WE: Intangible: computer software: £m",NSA,2006,CONS,0,CAPSTK
+GPRV,"Capital consumption: Distribution: WE: Intangible: computer software: £m CP",NSA,0,CURR,0,CAPSTK
+GPRW,"Capital consumption: Distribution: WE: Intangible: computer software: £m CVM",NSA,2006,CONS,0,CAPSTK
+GPSB,"Capital consumption: Hotels and restaurants: WE: Intangible: computer software:",NSA,0,CURR,0,CAPSTK
+GPSC,"Capital consumption: Hotels and restaurants: WE: Intangible: computer software:",NSA,2006,CONS,0,CAPSTK
+GPSH,"Capital consumption: Real estate, renting & business: WE: Intangible: computer",NSA,0,CURR,0,CAPSTK
+GPSI,"Capital consumption: Real estate, renting & business: WE: Intangible: computer",NSA,2006,CONS,0,CAPSTK
+DFBH,"Total Economy: GFCF CP NSA:Transfer Costs of Non-Produced Assets",NSA,0,CURR,0,CAPSTK
+GPSN,"Capital consumption: Public administration: WE: Intangible: computer software:",NSA,0,CURR,0,CAPSTK
+GPSO,"Capital consumption: Public administration: WE: Intangible: computer software:",NSA,2006,CONS,0,CAPSTK
+DFDW,"Total Economy: GFCF: CVMNSA:Transfer costs of Non-Produced assets",NSA,2006,CONS,0,CAPSTK
+GPST,"Capital consumption: Health & social work, welfare: WE: Intangible: computer so",NSA,0,CURR,0,CAPSTK
+GPSU,"Capital consumption: Health & social work, welfare: WE: Intangible: computer so",NSA,2006,CONS,0,CAPSTK
+GPUM,"Capital consumption: Total: LA: Land: £m CVM",NSA,2006,CONS,0,CAPSTK
+GPUN,"Capital consumption: Total: HH: Land: £m CP",NSA,0,CURR,0,CAPSTK
+DLWS,"ESA:GFCF:Total Economy:Total of Other Buildings & Structures",NSA,0,CURR,0,CAPSTK
+GPUO,"Capital consumption: Total: HH: Land: £m CVM",NSA,2006,CONS,0,CAPSTK
+GPUP,"Capital consumption: Total: PR: Land: £m CP",NSA,0,CURR,0,CAPSTK
+GPUQ,"Capital consumption: Total: PR: Land: £m CVM",NSA,2006,CONS,0,CAPSTK
+GQMF,"Capital consumption: Food, drink & tobacco: WE: Intangible: computer software:",NSA,0,CURR,0,CAPSTK
+DFDK,"Gross Fixed Capital Formation:Total Economy:Total New Dwellings,excluding land",NSA,0,CURR,0,CAPSTK
+GQMG,"Capital consumption: Food, drink & tobacco: WE: Intangible: computer software:",NSA,2006,CONS,0,CAPSTK
+GQML,"Capital consumption: Textiles & clothes: WE: Intangible: computer software: £m",NSA,0,CURR,0,CAPSTK
+GQMM,"Capital consumption: Textiles & clothes: WE: Intangible: computer software: £m",NSA,2006,CONS,0,CAPSTK
+GQMX,"Capital consumption: Fuels: WE: Intangible: computer software: £m CP",NSA,0,CURR,0,CAPSTK
+GQMY,"Capital consumption: Fuels: WE: Intangible: computer software: £m CVM",NSA,2006,CONS,0,CAPSTK
+GQND,"Capital consumption: Chemicals & man-made fibres: WE: Intangible: computer softw",NSA,0,CURR,0,CAPSTK
+GQNE,"Capital consumption: Chemicals & man-made fibres: WE: Intangible: computer softw",NSA,2006,CONS,0,CAPSTK
+GQNJ,"Capital consumption: Other mineral products: WE: Intangible: computer software:",NSA,0,CURR,0,CAPSTK
+GQNK,"Capital consumption: Other mineral products: WE: Intangible: computer software:",NSA,2006,CONS,0,CAPSTK
+GQNP,"Capital consumption: Metals & metal products: WE: Intangible: computer software:",NSA,0,CURR,0,CAPSTK
+DLWZ,"Gross Fixed Capital Formation :Total Economy:Total Transport Equipment: CP NSA",NSA,0,CURR,0,CAPSTK
+DLXI,"GFCF:Total Economy:Total Other Machinery & Equipment & Cultivated Assets",NSA,0,CURR,0,CAPSTK
+GQNQ,"Capital consumption: Metals & metal products: WE: Intangible: computer software:",NSA,2006,CONS,0,CAPSTK
+DLXP,"Gross Fixed Capital Formation:Total Economy:Total Intangible Fixed Assets",NSA,0,CURR,0,CAPSTK
+GQNV,"Capital consumption: Machinery & equipment: WE: Intangible: computer software:",NSA,0,CURR,0,CAPSTK
+GQNW,"Capital consumption: Machinery & equipment: WE: Intangible: computer software:",NSA,2006,CONS,0,CAPSTK
+GQOB,"Capital consumption: Electrical and Optical equipment: WE: Intangible: computer",NSA,0,CURR,0,CAPSTK
+GQOC,"Capital consumption: Electrical and Optical equipment: WE: Intangible: computer",NSA,2006,CONS,0,CAPSTK
+GQOH,"Capital consumption: Transport equipment: WE: Intangible: computer software: £m",NSA,0,CURR,0,CAPSTK
+GQOI,"Capital consumption: Transport equipment: WE: Intangible: computer software: £m",NSA,2006,CONS,0,CAPSTK
+GQON,"Capital consumption: Education: WE: Intangible: computer software: £m CP",NSA,0,CURR,0,CAPSTK
+GQOO,"Capital consumption: Education: WE: Intangible: computer software: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRMR,"Capital consumption: Food, drink & tobacco: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRMS,"Capital consumption: Food, drink & tobacco: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRNJ,"Capital consumption: Wood: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRNK,"Capital consumption: Wood: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRNP,"Capital consumption: Paper, publishing & printing: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRNQ,"Capital consumption: Paper, publishing & printing: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRNV,"Capital consumption: Fuels: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRNW,"Capital consumption: Fuels: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+EQDP,"ESA:GFCF:Total Economy:Tangible Fixed Assets:Other Buildings and Structures",NSA,2006,CONS,0,CAPSTK
+GROB,"Capital consumption: Chemicals & man-made fibres: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GROC,"Capital consumption: Chemicals & man-made fibres: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GROH,"Capital consumption: Rubber & plastic: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GROI,"Capital consumption: Rubber & plastic: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRON,"Capital consumption: Other mineral products: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GROO,"Capital consumption: Other mineral products: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GROT,"Capital consumption: Metals & metal products: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GROU,"Capital consumption: Metals & metal products: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GROZ,"Capital consumption: Machinery & equipment: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRPA,"Capital consumption: Machinery & equipment: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRPF,"Capital consumption: Electrical and Optical equipment: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRPG,"Capital consumption: Electrical and Optical equipment: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRPL,"Capital consumption: Transport equipment: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRPM,"Capital consumption: Transport equipment: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRPR,"Capital consumption: Other manufacturing: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRPS,"Capital consumption: Other manufacturing: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRQF,"Capital consumption: Distribution: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRQG,"Capital consumption: Distribution: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRQL,"Capital consumption: Hotels and restaurants: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRQM,"Capital consumption: Hotels and restaurants: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRQR,"Capital consumption: Transport and communications: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRQS,"Capital consumption: Transport and communications: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRQX,"Capital consumption: Financial intermediation: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRQY,"Capital consumption: Financial intermediation: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRRD,"Capital consumption: Real estate, renting & business: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRRE,"Capital consumption: Real estate, renting & business: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRRJ,"Capital consumption: Public administration: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRRK,"Capital consumption: Public administration: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRRP,"Capital consumption: Education: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRRQ,"Capital consumption: Education: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRRV,"Capital consumption: Health & social work, welfare: WE: asset=bpvi: £m CP",NSA,0,CURR,0,CAPSTK
+GRRW,"Capital consumption: Health & social work, welfare: WE: asset=bpvi: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRSB,"Capital consumption: Other community, social & personal service: WE: asset=bpvi",NSA,0,CURR,0,CAPSTK
+GRSC,"Capital consumption: Other community, social & personal service: WE: asset=bpvi",NSA,2006,CONS,0,CAPSTK
+GRSH,"Capital consumption: Total: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+GRSI,"Capital consumption: Total: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRSN,"Capital consumption: Total: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+GRSO,"Capital consumption: Total: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRST,"Capital consumption: Total: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+GRSU,"Capital consumption: Total: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRUE,"Capital consumption: Total: HN: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+GRUF,"Capital consumption: Total: HN: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRVC,"Capital consumption: Total: HN: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+GRVD,"Capital consumption: Total: HN: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRVI,"Capital consumption: Total: HN: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+GRVJ,"Capital consumption: Total: HN: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRVO,"Capital consumption: Total: FC: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+GRVP,"Capital consumption: Total: FC: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRWA,"Capital consumption: Total: FC: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+GRWB,"Capital consumption: Total: FC: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRWG,"Capital consumption: Total: FC: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+GRWH,"Capital consumption: Total: FC: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRYD,"Capital consumption: Total: PC: Intangible fixed assets: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRYJ,"Capital consumption: Total: PR: Intangible fixed assets: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRYP,"Capital consumption: Total: WE: Intangible fixed assets: £m CVM",NSA,2006,CONS,0,CAPSTK
+GRYV,"Capital consumption: Total: CG: All assets : £m CVM",NSA,2006,CONS,0,CAPSTK
+GRZB,"Capital consumption: Total: FC: All assets : £m CVM",NSA,2006,CONS,0,CAPSTK
+GRZN,"Capital consumption: Total: HH: All assets : £m CVM",NSA,2006,CONS,0,CAPSTK
+GRZT,"Capital consumption: Total: HN: All assets : £m CVM",NSA,2006,CONS,0,CAPSTK
+GSLE,"Capital consumption: Total: LA: All assets : £m CVM",NSA,2006,CONS,0,CAPSTK
+GSLQ,"Capital consumption: Total: NP: All assets : £m CVM",NSA,2006,CONS,0,CAPSTK
+GSLW,"Capital consumption: Total: PC: All assets : £m CVM",NSA,2006,CONS,0,CAPSTK
+GSMC,"Capital consumption: Total: PR: All assets : £m CVM",NSA,2006,CONS,0,CAPSTK
+GSMV,"Gross capital stock: Mining & quarrying: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSMW,"Net capital stock: Mining & quarrying: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSQV,"Net capital stock: Mining & quarrying: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSRF,"Net capital stock: Manufacturing: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSRG,"Net capital stock: Manufacturing: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSRH,"Gross capital stock: Food, drink & tobacco: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSRI,"Gross capital stock: Food, drink & tobacco: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSRJ,"Net capital stock: Food, drink & tobacco: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSRK,"Net capital stock: Food, drink & tobacco: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSRT,"Gross capital stock: Wood: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSRU,"Gross capital stock: Wood: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSRV,"Net capital stock: Wood: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSRW,"Net capital stock: Wood: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSRX,"Gross capital stock: Paper, publishing & printing: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSRY,"Gross capital stock: Paper, publishing & printing: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSRZ,"Net capital stock: Paper, publishing & printing: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSSA,"Net capital stock: Paper, publishing & printing: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSSB,"Gross capital stock: Fuels: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSSC,"Gross capital stock: Fuels: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSSD,"Net capital stock: Fuels: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSSE,"Net capital stock: Fuels: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSSF,"Gross capital stock: Chemicals & man-made fibres: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSSG,"Gross capital stock: Chemicals & man-made fibres: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSSH,"Net capital stock: Chemicals & man-made fibres: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSSI,"Net capital stock: Chemicals & man-made fibres: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSSJ,"Gross capital stock: Rubber & plastic: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSSK,"Gross capital stock: Rubber & plastic: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSSL,"Net capital stock: Rubber & plastic: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSSM,"Net capital stock: Rubber & plastic: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSSN,"Gross capital stock: Other mineral products: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSSO,"Gross capital stock: Other mineral products: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSSP,"Net capital stock: Other mineral products: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSSQ,"Net capital stock: Other mineral products: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSSR,"Gross capital stock: Metals & metal products: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSSS,"Gross capital stock: Metals & metal products: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSST,"Net capital stock: Metals & metal products: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSSU,"Net capital stock: Metals & metal products: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSSV,"Gross capital stock: Machinery & equipment: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSSW,"Gross capital stock: Machinery & equipment: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSSX,"Net capital stock: Machinery & equipment: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSSY,"Net capital stock: Machinery & equipment: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSSZ,"Gross capital stock: Electrical and Optical equipment: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSTA,"Gross capital stock: Electrical and Optical equipment: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSTB,"Net capital stock: Electrical and Optical equipment: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSTC,"Net capital stock: Electrical and Optical equipment: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSTD,"Gross capital stock: Transport equipment: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSTE,"Gross capital stock: Transport equipment: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSTF,"Net capital stock: Transport equipment: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSTG,"Net capital stock: Transport equipment: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSTH,"Gross capital stock: Other manufacturing: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSTI,"Gross capital stock: Other manufacturing: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSTJ,"Net capital stock: Other manufacturing: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSTK,"Net capital stock: Other manufacturing: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSTL,"Gross capital stock: Electricity, gas & water: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSTM,"Net capital stock: Electricity, gas & water: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSTN,"Net capital stock: Electricity, gas & water: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSTP,"Net capital stock: Construction: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSTQ,"Net capital stock: Construction: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSTR,"Gross capital stock: Distribution: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSTS,"Gross capital stock: Distribution: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSTT,"Net capital stock: Distribution: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSTU,"Net capital stock: Distribution: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSTV,"Gross capital stock: Hotels and restaurants: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSTW,"Gross capital stock: Hotels and restaurants: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSTX,"Net capital stock: Hotels and restaurants: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSTY,"Net capital stock: Hotels and restaurants: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSTZ,"Gross capital stock: Transport and communications: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSUA,"Gross capital stock: Transport and communications: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSUB,"Net capital stock: Transport and communications: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSUC,"Net capital stock: Transport and communications: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSUD,"Gross capital stock: Financial intermediation: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSUE,"Gross capital stock: Financial intermediation: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSUF,"Net capital stock: Financial intermediation: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSUG,"Net capital stock: Financial intermediation: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSUH,"Gross capital stock: Real estate, renting & business: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSUI,"Gross capital stock: Real estate, renting & business: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSUJ,"Net capital stock: Real estate, renting & business: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSUK,"Net capital stock: Real estate, renting & business: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSUL,"Gross capital stock: Public administration: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSUM,"Gross capital stock: Public administration: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSUN,"Net capital stock: Public administration: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSUO,"Net capital stock: Public administration: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSUP,"Gross capital stock: Education: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSUQ,"Gross capital stock: Education: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSUR,"Net capital stock: Education: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSUS,"Net capital stock: Education: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSUT,"Gross capital stock: Health & social work, welfare: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSUU,"Gross capital stock: Health & social work, welfare: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSUV,"Net capital stock: Health & social work, welfare: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSUW,"Net capital stock: Health & social work, welfare: WE: BPVI: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSUX,"Gross capital stock: Other community, social & personal service: WE: BPVI: £b",NSA,0,CURR,0,CAPSTK
+GSUY,"Gross capital stock: Other community, social & personal service: WE: BPVI: £b",NSA,1995,CONS,0,CAPSTK
+GSUZ,"Net capital stock: Other community, social & personal service: WE: BPVI: £b CP",NSA,0,CURR,0,CAPSTK
+GSVA,"Net capital stock: Other community, social & personal service: WE: BPVI: £b CV",NSA,1995,CONS,0,CAPSTK
+GSVB,"Gross capital stock: Total: CG: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+GSVC,"Gross capital stock: Total: CG: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVD,"Net capital stock: Total: CG: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVE,"Gross capital stock: Total: CG: Dwellings: £b CP",NSA,0,CURR,0,CAPSTK
+GSVF,"Gross capital stock: Total: CG: Dwellings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVG,"Net capital stock: Total: CG: Dwellings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVH,"Gross capital stock: Total: CG: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+GSVI,"Gross capital stock: Total: CG: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVJ,"Net capital stock: Total: CG: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVK,"Gross capital stock: Total: CG: All assets : £b CP",NSA,0,CURR,0,CAPSTK
+GSVL,"Gross capital stock: Total: CG: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVM,"Net capital stock: Total: CG: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVN,"Gross capital stock: Total: CG: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+GSVO,"Gross capital stock: Total: CG: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVP,"Net capital stock: Total: CG: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVQ,"Gross capital stock: Total: FC: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+GSVR,"Gross capital stock: Total: FC: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVS,"Net capital stock: Total: FC: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVT,"Gross capital stock: Total: FC: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+GSVU,"Gross capital stock: Total: FC: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVV,"Net capital stock: Total: FC: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVW,"Gross capital stock: Total: FC: All assets : £b CP",NSA,0,CURR,0,CAPSTK
+GSVX,"Gross capital stock: Total: FC: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVY,"Net capital stock: Total: FC: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GSVZ,"Gross capital stock: Total: FC: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+GSWA,"Gross capital stock: Total: FC: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSWB,"Net capital stock: Total: FC: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSWS,"Gross capital stock: Total: HH: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+GSWT,"Gross capital stock: Total: HH: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSWU,"Net capital stock: Total: HH: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+GSWV,"Net capital stock: Total: HH: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSWW,"Gross capital stock: Total: HH: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+GSWX,"Gross capital stock: Total: HH: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSWY,"Net capital stock: Total: HH: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+GSWZ,"Net capital stock: Total: HH: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSXA,"Gross capital stock: Total: HH: All assets : £b CP",NSA,0,CURR,0,CAPSTK
+GSXB,"Gross capital stock: Total: HH: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GSXC,"Net capital stock: Total: HH: All assets : £b CP",NSA,0,CURR,0,CAPSTK
+GSXD,"Net capital stock: Total: HH: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GSXE,"Gross capital stock: Total: HH: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+GSXF,"Gross capital stock: Total: HH: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSXG,"Net capital stock: Total: HH: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+GSXH,"Net capital stock: Total: HH: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSXI,"Gross capital stock: Total: HN: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+GSXJ,"Gross capital stock: Total: HN: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSXK,"Net capital stock: Total: HN: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSXL,"Gross capital stock: Total: HN: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+GSXM,"Gross capital stock: Total: HN: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSXN,"Net capital stock: Total: HN: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSXO,"Gross capital stock: Total: HN: All assets : £b CP",NSA,0,CURR,0,CAPSTK
+GSXP,"Gross capital stock: Total: HN: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GSXQ,"Net capital stock: Total: HN: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GSXR,"Gross capital stock: Total: HN: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+GSXS,"Gross capital stock: Total: HN: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSXT,"Net capital stock: Total: HN: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSYK,"Gross capital stock: Total: LA: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+GSYL,"Gross capital stock: Total: LA: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSYM,"Net capital stock: Total: LA: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSYN,"Gross capital stock: Total: LA: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+GSYO,"Gross capital stock: Total: LA: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSYP,"Net capital stock: Total: LA: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSYQ,"Gross capital stock: Total: LA: All assets : £b CP",NSA,0,CURR,0,CAPSTK
+GSYR,"Gross capital stock: Total: LA: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GSYS,"Net capital stock: Total: LA: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GSYT,"Gross capital stock: Total: LA: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+GSYU,"Gross capital stock: Total: LA: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSYV,"Net capital stock: Total: LA: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSZM,"Gross capital stock: Total: NP: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+GSZN,"Gross capital stock: Total: NP: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSZO,"Net capital stock: Total: NP: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+GSZP,"Net capital stock: Total: NP: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSZQ,"Gross capital stock: Total: NP: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+GSZR,"Gross capital stock: Total: NP: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSZS,"Net capital stock: Total: NP: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+GSZT,"Net capital stock: Total: NP: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+GSZU,"Gross capital stock: Total: NP: All assets : £b CP",NSA,0,CURR,0,CAPSTK
+GSZV,"Gross capital stock: Total: NP: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GSZW,"Net capital stock: Total: NP: All assets : £b CP",NSA,0,CURR,0,CAPSTK
+GSZX,"Net capital stock: Total: NP: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GSZY,"Gross capital stock: Total: NP: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+NPQR,"Total Gross Fixed Capital Formation CVM NSA £m",NSA,2006,CONS,0,CAPSTK
+GSZZ,"Gross capital stock: Total: NP: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+GTKX,"Net capital stock: Total: NP: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+GTVF,"Net capital stock: Total: NP: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+NPQX,"Total Gross Fixed Capital Formation CP NSA £m",NSA,0,CURR,0,CAPSTK
+GTVG,"Gross capital stock: Total: PC: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+GTXA,"Gross capital stock: Total: PC: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUAA,"Net capital stock: Total: PC: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUAN,"Gross capital stock: Total: PC: All assets : £b CP",NSA,0,CURR,0,CAPSTK
+GUAO,"Gross capital stock: Total: PC: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GUAP,"Net capital stock: Total: PC: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GUAQ,"Gross capital stock: Total: PR: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+GUAR,"Gross capital stock: Total: PR: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUAS,"Net capital stock: Total: PR: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUAT,"Gross capital stock: Total: PR: Dwellings: £b CP",NSA,0,CURR,0,CAPSTK
+GUAU,"Gross capital stock: Total: PR: Dwellings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUAV,"Net capital stock: Total: PR: Dwellings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUAW,"Gross capital stock: Total: PR: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+GUAX,"Gross capital stock: Total: PR: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUAY,"Net capital stock: Total: PR: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUBL,"Gross capital stock: Total: PR: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+GUBM,"Gross capital stock: Total: PR: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUBN,"Net capital stock: Total: PR: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUBO,"Gross capital stock: Total: PR: All assets : £b CP",NSA,0,CURR,0,CAPSTK
+GUBP,"Gross capital stock: Total: PR: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GUBQ,"Net capital stock: Total: PR: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GUBR,"Gross capital stock: Total: PR: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+GUBS,"Gross capital stock: Total: PR: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUBT,"Net capital stock: Total: PR: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUBV,"Net capital stock: Total: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUCJ,"Net capital stock: Total: WE: All assets : £b CVM",NSA,2006,CONS,0,CAPSTK
+GUCM,"Gross capital stock: Total: CG: Intangible: computer software: £b CP",NSA,0,CURR,0,CAPSTK
+GUCN,"Gross capital stock: Total: CG: Intangible: computer software: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUCO,"Gross capital stock: Total: LA: Intangible: computer software: £b CP",NSA,0,CURR,0,CAPSTK
+GUCP,"Gross capital stock: Total: LA: Intangible: computer software: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUCQ,"Gross capital stock: Total: HH: Intangible: computer software: £b CP",NSA,0,CURR,0,CAPSTK
+GUCR,"Gross capital stock: Total: HH: Intangible: computer software: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUCS,"Gross capital stock: Total: NP: Intangible: computer software: £b CP",NSA,0,CURR,0,CAPSTK
+GUCT,"Gross capital stock: Total: NP: Intangible: computer software: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUCU,"Gross Capital Stock: Dwellings: Households& NPISH: (CP) £b",NSA,0,CURR,0,CAPSTK
+GUCW,"Gross capital stock: Total: HH: Dwellings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUCX,"Net capital stock: Total: HH: Dwellings: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUDC,"Gross capital stock: Total: HN: Intangible: computer software: £b CP",NSA,0,CURR,0,CAPSTK
+GUDD,"Gross capital stock: Total: HN: Intangible: computer software: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUDE,"Net capital stock: Total: HN: Intangible: computer software: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUDF,"Net capital stock: Total: CG: Intangible: computer software: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUDG,"Gross capital stock: Total: FC: Intangible: computer software: £b CP",NSA,0,CURR,0,CAPSTK
+GUDH,"Gross capital stock: Total: FC: Intangible: computer software: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUDI,"Net capital stock: Total: FC: Intangible: computer software: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUDJ,"Net capital stock: Total: LA: Intangible: computer software: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUDK,"Net capital stock: Total: HH: Intangible: computer software: £b CP",NSA,0,CURR,0,CAPSTK
+GUDL,"Net capital stock: Total: HH: Intangible: computer software: £b CVM",NSA,2006,CONS,0,CAPSTK
+GUDM,"Net capital stock: Total: NP: Intangible: computer software: £b CP",NSA,0,CURR,0,CAPSTK
+GUDN,"Net capital stock: Total: NP: Intangible: computer software: £b CVM",NSA,2006,CONS,0,CAPSTK
+HACB,"AS:NP:K.1:less Consumption of Fixed Capital",NSA,0,CURR,0,CAPSTK
+HAZH,"AS:HH:K.1:Consumption of fixed capital",NSA,0,CURR,0,CAPSTK
+HJOG,"GFCF: WE Intangible Asset: Mining & Quarrying, CP NSA",NSA,0,CURR,0,CAPSTK
+HJOI,"GFCF: Intangible assets: publishing & printing: DE. CP NSA £m",NSA,0,CURR,0,CAPSTK
+HJOZ,"GFCF: Intangible Asset: Industry O, CP, £m",NSA,0,CURR,0,CAPSTK
+IMAM,"Capex : Hotels & catering : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+IMAQ,"Capex : Hiring : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+IMAT,"Capex : Food, beverages & tobacco : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+IMAU,"Capex : Textiles & leather : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+IMBD,"Capex : Electrical & optical equipment : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+IMBK,"Capex : Construction : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+IMCE,"Capex : Wood & wood products : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+IMCJ,"Capex : Chemicals : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+IMCK,"Capex : Rubber & plastics : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+IMCL,"Capex : Non-metallic mineral products : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+IMCO,"Capex : Machinery & equipment nes : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+IMCP,"Capex : Office machinery & computers : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+IMCR,"Capex : Medical equipment : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+IMCS,"Capex : Motor vehicles : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+IMEH,"Capex:Hotels & catering:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+IMEL,"Capex:Hiring:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+IMEO,"Capex:Food, beverages & tobacco:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+IMEP,"Capex:Textiles & leather:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+IMEY,"Capex:Electrical & optical equipment:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+IMFF,"Capex:Construction:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+IMFZ,"Capex:Wood & wood products:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+IMGE,"Capex:Chemicals:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+IMGF,"Capex:Rubber & plastics:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+IMGG,"Capex:Non-metallic mineral products:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+IMGJ,"Capex:Machinery & equipment nes:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+IMGK,"Capex:Office machinery & computers:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+IMGM,"Capex:Medical equipment:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+IMGN,"Capex:Motor vehicles:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+IMLU,"Capex : Construction : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+IMLX,"Capex : Hotels & catering : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+IMME,"Capex : Food, beverages & tobacco : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+IMMF,"Capex : Textiles & leather : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+IMMO,"Capex : Electrical & optical equipment : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+IMNP,"Capex : Wood & wood products : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+IMNU,"Capex : Chemicals : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+IMNV,"Capex : Rubber & plastics : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+IMNW,"Capex : Non-metallic mineral products : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+IMNZ,"Capex : Machinery & equipment nes : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+IMOA,"Capex : Office machinery & computers : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+IMOC,"Capex : Medical equipment : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+IMOD,"Capex : Motor vehicles : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+IMPP,"Capex:Construction:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+IMPS,"Capex:Hotels & catering:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+IMPZ,"Capex:Food, beverages & tobacco:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+IMQA,"Capex:Textiles & leather:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+IMQJ,"Capex:Electrical & optical equipment:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+IMRK,"Capex:Wood & wood products:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+IMRP,"Capex:Chemicals:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+IMRQ,"Capex:Rubber & plastics:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+IMRR,"Capex:Non-metallic mineral products:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+IMRU,"Capex:Machinery & equipment nes:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+IMRV,"Capex:Office machinery & computers:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+IMRX,"Capex:Medical equipment:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+IMRY,"Capex:Motor vehicles:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+IMXF,"Capex : Construction : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+IMXI,"Capex : Hotels & catering : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+IMXK,"Capex : Other finance : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+IMXM,"Capex : Hiring : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+IMXP,"Capex : Food, beverages & tobacco : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+IMXQ,"Capex : Textiles & leather : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+IMXZ,"Capex : Electrical & optical equipment : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+IMZA,"Capex : Wood & wood products : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+IMZF,"Capex : Chemicals : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+IMZG,"Capex : Rubber & plastics : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+IMZH,"Capex : Non-metallic mineral products : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+IMZK,"Capex : Machinery & equipment nes : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+IMZL,"Capex : Office machinery & computers : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+IMZN,"Capex : Medical equipment : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+IMZO,"Capex : Motor vehicles : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+INBA,"Capex:Construction:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INBD,"Capex:Hotels & catering:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INBF,"Capex:Other finance:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INBH,"Capex:Hiring:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INBK,"Capex:Food, beverages & tobacco:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INBL,"Capex:Textiles & leather:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INBU,"Capex:Electrical & optical equipment:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INCV,"Capex:Wood & wood products:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INDA,"Capex:Chemicals:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INDB,"Capex:Rubber & plastics:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INDC,"Capex:Non-metallic mineral products:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INDF,"Capex:Machinery & equipment nes:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INDG,"Capex:Office machinery & computers:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INDI,"Capex:Medical equipment:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INDJ,"Capex:Motor vehicles:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+INIX,"Capex : Non-metallic mineral products : Total : CP",NSA,0,CURR,0,CAPSTK
+INIZ,"Capex : Machinery & eqpt : Total : CP",NSA,0,CURR,0,CAPSTK
+INJA,"Capex : Electrical & optical equipment : Total : CP",NSA,0,CURR,0,CAPSTK
+INJZ,"Capex:Non-metallic mineral products:Total:CVM",NSA,2006,CONS,0,CAPSTK
+INKB,"Capex:Machinery & eqpt:Total:CVM",NSA,2006,CONS,0,CAPSTK
+INKC,"Capex:Electrical & optical equipment:Total:CVM",NSA,2006,CONS,0,CAPSTK
+ISTI,"GFCF:Mining & Quarrying: WE Intangible Asset : CVM, NSA",NSA,2006,CONS,0,CAPSTK
+ISTJ,"GFCF:Manufacture of Publishing & Printing: WE Intangible Asset : CVM, NSA",NSA,2006,CONS,0,CAPSTK
+IZQR,"Capital consumption: Agriculture, forestry & fishing: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+IZQS,"Capital consumption: Agriculture, forestry & fishing: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+IZRA,"Capital consumption: Agriculture, forestry & fishing: WE: Plant and mach £m CP",NSA,0,CURR,0,CAPSTK
+IZRB,"Capital consumption: Agriculture, forestry & fishing: WE: Plant and mach £m CVM",NSA,2006,CONS,0,CAPSTK
+IZRJ,"Capital consumption: Agriculture, forestry & fishing: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+IZRK,"Capital consumption: Agriculture, forestry & fishing: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+IZSC,"Gross capital stock: Agriculture, forestry & fishing: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+IZSD,"Gross capital stock: Agriculture, forestry & fishing: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+IZSE,"Net capital stock: Agriculture, forestry & fishing: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+IZSF,"Net capital stock: Agriculture, forestry & fishing: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+IZSG,"Gross capital stock: Agriculture, forestry & fishing: WE: Intangible fix £b CP",NSA,0,CURR,0,CAPSTK
+IZSH,"Gross capital stock: Agriculture, forestry & fishing: WE: Intangible fix £b CVM",NSA,2006,CONS,0,CAPSTK
+IZSI,"Net capital stock: Agriculture, forestry & fishing: WE: Intangible fixed £b CP",NSA,0,CURR,0,CAPSTK
+IZSJ,"Net capital stock: Agriculture, forestry & fishing: WE: Intangible fixed £b CVM",NSA,2006,CONS,0,CAPSTK
+IZSK,"Gross capital stock: Agriculture, forestry & fishing: WE: Plant and mach £b CP",NSA,0,CURR,0,CAPSTK
+IZSL,"Gross capital stock: Agriculture, forestry & fishing: WE: Plant and mach £b CVM",NSA,2006,CONS,0,CAPSTK
+IZSM,"Net capital stock: Agriculture, forestry & fishing: WE: Plant and machin £b CP",NSA,0,CURR,0,CAPSTK
+IZSN,"Net capital stock: Agriculture, forestry & fishing: WE: Plant and machin £b CVM",NSA,2006,CONS,0,CAPSTK
+IZSO,"Gross capital stock: Agriculture, forestry & fishing: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JABB,"Gross capital stock: Agriculture, forestry & fishing: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JABC,"Net capital stock: Agriculture, forestry & fishing: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JABD,"Net capital stock: Agriculture, forestry & fishing: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JABG,"Capital consumption: Mining & quarrying: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JABH,"Capital consumption: Mining & quarrying: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JABJ,"Gross capital stock: Mining & quarrying: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JABL,"Gross capital stock: Mining & quarrying: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JABO,"Net capital stock: Mining & quarrying: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JABQ,"Net capital stock: Mining & quarrying: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JABT,"Capital consumption: Mining & quarrying: WE: Intangible fixed assets: £m CP",NSA,0,CURR,0,CAPSTK
+JABU,"Capital consumption: Mining & quarrying: WE: Intangible fixed assets: £m CVM",NSA,2006,CONS,0,CAPSTK
+JABW,"Gross capital stock: Mining & quarrying: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JABY,"Gross capital stock: Mining & quarrying: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JADU,"Net capital stock: Mining & quarrying: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JADW,"Net capital stock: Mining & quarrying: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JAMW,"Capital consumption: Mining & quarrying: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JAMX,"Capital consumption: Mining & quarrying: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JAMZ,"Gross capital stock: Mining & quarrying: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JAZW,"Gross capital stock: Mining & quarrying: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JAZZ,"Net capital stock: Mining & quarrying: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCGG,"Net capital stock: Mining & quarrying: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCGJ,"Capital consumption: Mining & quarrying: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JCGK,"Capital consumption: Mining & quarrying: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JCGM,"Gross capital stock: Mining & quarrying: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCGO,"Gross capital stock: Mining & quarrying: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCGR,"Net capital stock: Mining & quarrying: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCGT,"Net capital stock: Mining & quarrying: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCIB,"Gross Capital Stock: Buildings: Manufacture of Food etc.: Whole Economy: (CP) £b",NSA,0,CURR,0,CAPSTK
+JCIC,"Gross Capital Stock: Intangible Asset: Manufacture of Food etc. : WE : (CP) £b",NSA,0,CURR,0,CAPSTK
+JCID,"Gross Capital Stock : Plant& Machinery: Manufacture of Food etc.: WE : (CP) :£b",NSA,0,CURR,0,CAPSTK
+JCIE,"Gross Capital Stock:Vehicles: Manufacture of Food etc. WE: (CP )£b",NSA,0,CURR,0,CAPSTK
+JCIF,"Gross Capital Stock: Buildings: Manufacture of Food etc. Whole Economy: CVM £b",NSA,2006,CONS,0,CAPSTK
+JCIG,"Gross Capital Stock: Intangible Assets: Manufacture of Food etc. : WE :CVM £b",NSA,2006,CONS,0,CAPSTK
+JCIH,"Gross Capital Stock: Plant & Machinery: Manufacture of Food etc. : WE : CVM £b",NSA,2006,CONS,0,CAPSTK
+JCII,"Gross Capital Stock: Vehicles: Manufacture of Food etc. : WE : CVM £b",NSA,2006,CONS,0,CAPSTK
+JCIJ,"Net capital stock: DA : WE : B :£b CP",NSA,0,CURR,0,CAPSTK
+JCIK,"Net capital stock: DA : WE : I :£b CP",NSA,0,CURR,0,CAPSTK
+JCIL,"Net capital stock: DA : WE : P :£b CP",NSA,0,CURR,0,CAPSTK
+JCIM,"Net capital stock: DA : WE : V :£b CP",NSA,0,CURR,0,CAPSTK
+JCIN,"Net capital stock: DA : WE : B :£b CVM",NSA,2006,CONS,0,CAPSTK
+JCIO,"Net capital stock: DA : WE : I :£b CVM",NSA,2006,CONS,0,CAPSTK
+JCIP,"Net capital stock: DA : WE : P :£b CVM",NSA,2006,CONS,0,CAPSTK
+JCIQ,"Net capital stock: DA : WE : V :£b CVM",NSA,2006,CONS,0,CAPSTK
+JCIT,"Capital consumption: Textiles, clothes & footwear: PT: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JCIU,"Capital consumption: Textiles, clothes & footwear: PT: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JCJC,"Capital consumption: Textiles, clothes & footwear: PT: Plant and machine £m CP",NSA,0,CURR,0,CAPSTK
+JCJD,"Capital consumption: Textiles, clothes & footwear: PT: Plant and machine £m CVM",NSA,2006,CONS,0,CAPSTK
+JCJL,"Capital consumption: Textiles, clothes & footwear: PT: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JCJM,"Capital consumption: Textiles, clothes & footwear: PT: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JCJU,"Gross capital stock: Textiles, clothes & footwear: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCJV,"Gross capital stock: Textiles, clothes & footwear: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCJW,"Net capital stock: Textiles, clothes & footwear: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCJX,"Net capital stock: Textiles, clothes & footwear: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCJY,"Gross capital stock: Textiles, clothes & footwear: WE: Intangible fixed £b CP",NSA,0,CURR,0,CAPSTK
+JCJZ,"Gross capital stock: Textiles, clothes & footwear: WE: Intangible fixed £b CVM",NSA,2006,CONS,0,CAPSTK
+JCKA,"Net capital stock: Textiles, clothes & footwear: WE: Intangible fixed as £b CP",NSA,0,CURR,0,CAPSTK
+JCKB,"Net capital stock: Textiles, clothes & footwear: WE: Intangible fixed as £b CVM",NSA,2006,CONS,0,CAPSTK
+JCKC,"Gross capital stock: Textiles, clothes & footwear: WE: Plant and machine £b CP",NSA,0,CURR,0,CAPSTK
+JCKD,"Gross capital stock: Textiles, clothes & footwear: WE: Plant and machine £b CVM",NSA,2006,CONS,0,CAPSTK
+JCKE,"Net capital stock: Textiles, clothes & footwear: WE: Plant and machinery £b CP",NSA,0,CURR,0,CAPSTK
+JCKF,"Net capital stock: Textiles, clothes & footwear: WE: Plant and machinery £b CVM",NSA,2006,CONS,0,CAPSTK
+JCKG,"Gross capital stock: Textiles, clothes & footwear: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCKH,"Gross capital stock: Textiles, clothes & footwear: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCKI,"Net capital stock: Textiles, clothes & footwear: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCKJ,"Net capital stock: Textiles, clothes & footwear: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCLB,"Net capital stock: DD : WE : B :£b CVM",NSA,2006,CONS,0,CAPSTK
+JCLC,"Net capital stock: DD : WE : P :£b CVM",NSA,2006,CONS,0,CAPSTK
+JCLD,"Net capital stock: DD : WE : V :£b CVM",NSA,2006,CONS,0,CAPSTK
+JCLE,"Net capital stock: DD : WE : B :£b CP",NSA,0,CURR,0,CAPSTK
+JCLF,"Net capital stock: DD : WE : P :£b CP",NSA,0,CURR,0,CAPSTK
+JCLG,"Net capital stock: DD : WE : V :£b CP",NSA,0,CURR,0,CAPSTK
+JCLL,"Gross Capital Stock: Buildings: Manufacture of Wood Products: WE: (CP) £b",NSA,0,CURR,0,CAPSTK
+JCLM,"Gross Capital Stock: Plant & Machinery: Manufacture of Wood prod. : WE: (CP) £b",NSA,0,CURR,0,CAPSTK
+JCLN,"Gross Capital Stock: Vehicles: Manufacture of Wood Products: WE : (CP) £b",NSA,0,CURR,0,CAPSTK
+JCLO,"Gross Capital Stock: Buildings: Manufacture of Wood etc.: WE : CVM £b",NSA,2006,CONS,0,CAPSTK
+JCLP,"Gross Capital Stock: Plant & Machinery: Manufacture of Wood etc. :WE : CVM £b",NSA,2006,CONS,0,CAPSTK
+JCLQ,"Gross Capital Stock: Vehicles: Manufacture of Wood etc. : WE: CVM £b",NSA,2006,CONS,0,CAPSTK
+JCMI,"Capital consumption: Paper, publishing & printing: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JCMJ,"Capital consumption: Paper, publishing & printing: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JCML,"Gross capital stock: Paper, publishing & printing: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCMN,"Gross capital stock: Paper, publishing & printing: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCMQ,"Net capital stock: Paper, publishing & printing: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCMS,"Net capital stock: Paper, publishing & printing: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCMV,"Capital consumption: Paper, publishing & printing: WE: Intangible fixed £m CP",NSA,0,CURR,0,CAPSTK
+JCMW,"Capital consumption: Paper, publishing & printing: WE: Intangible fixed £m CVM",NSA,2006,CONS,0,CAPSTK
+JCMY,"Gross capital stock: Paper, publishing & printing: WE: Intangible fixed £b CP",NSA,0,CURR,0,CAPSTK
+JCNA,"Gross capital stock: Paper, publishing & printing: WE: Intangible fixed £b CVM",NSA,2006,CONS,0,CAPSTK
+JCND,"Net capital stock: Paper, publishing & printing: WE: Intangible fixed as £b CP",NSA,0,CURR,0,CAPSTK
+JCNF,"Net capital stock: Paper, publishing & printing: WE: Intangible fixed as £b CVM",NSA,2006,CONS,0,CAPSTK
+JCNI,"Capital consumption: Paper, publishing & printing: WE: Plant and machine £m CP",NSA,0,CURR,0,CAPSTK
+JCNJ,"Capital consumption: Paper, publishing & printing: WE: Plant and machine £m CVM",NSA,2006,CONS,0,CAPSTK
+JCNL,"Gross capital stock: Paper, publishing & printing: WE: Plant and machine £b CP",NSA,0,CURR,0,CAPSTK
+JCNN,"Gross capital stock: Paper, publishing & printing: WE: Plant and machine £b CVM",NSA,2006,CONS,0,CAPSTK
+JCNQ,"Net capital stock: Paper, publishing & printing: WE: Plant and machinery £b CP",NSA,0,CURR,0,CAPSTK
+JCNS,"Net capital stock: Paper, publishing & printing: WE: Plant and machinery £b CVM",NSA,2006,CONS,0,CAPSTK
+JCNV,"Capital consumption: Paper, publishing & printing: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JCNW,"Capital consumption: Paper, publishing & printing: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JCNY,"Gross capital stock: Paper, publishing & printing: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCOA,"Gross capital stock: Paper, publishing & printing: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCOD,"Net capital stock: Paper, publishing & printing: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCOF,"Net capital stock: Paper, publishing & printing: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCPH,"Capital consumption: Fuels: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JCPI,"Capital consumption: Fuels: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JCPK,"Gross capital stock: Fuels: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCPM,"Gross capital stock: Fuels: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCPP,"Net capital stock: Fuels: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCPR,"Net capital stock: Fuels: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCPU,"Gross capital stock: Fuels: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JCPV,"Gross capital stock: Fuels: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCPW,"Net capital stock: Fuels: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JCPX,"Net capital stock: Fuels: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCPY,"Capital consumption: Fuels: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JCPZ,"Capital consumption: Fuels: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JCQB,"Gross capital stock: Fuels: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCQD,"Gross capital stock: Fuels: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCQG,"Net capital stock: Fuels: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCQI,"Net capital stock: Fuels: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCQL,"Capital consumption: Fuels: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JCQM,"Capital consumption: Fuels: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JCQO,"Gross capital stock: Fuels: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCQQ,"Gross capital stock: Fuels: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCQT,"Net capital stock: Fuels: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCQV,"Net capital stock: Fuels: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCQY,"Gross capital stock: Chemicals & man-made fibres: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCQZ,"Gross capital stock: Chemicals & man-made fibres: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCRA,"Net capital stock: Chemicals & man-made fibres: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCRB,"Net capital stock: Chemicals & man-made fibres: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCRC,"Gross capital stock: Chemicals & man-made fibres: WE: Intangible fixed a £b CP",NSA,0,CURR,0,CAPSTK
+JCRD,"Gross capital stock: Chemicals & man-made fibres: WE: Intangible fixed a £b CVM",NSA,2006,CONS,0,CAPSTK
+JCRE,"Net capital stock: Chemicals & man-made fibres: WE: Intangible fixed ass £b CP",NSA,0,CURR,0,CAPSTK
+JCRF,"Net capital stock: Chemicals & man-made fibres: WE: Intangible fixed ass £b CVM",NSA,2006,CONS,0,CAPSTK
+JCRG,"Gross capital stock: Chemicals & man-made fibres: WE: Plant and machiner £b CP",NSA,0,CURR,0,CAPSTK
+JCRH,"Gross capital stock: Chemicals & man-made fibres: WE: Plant and machiner £b CVM",NSA,2006,CONS,0,CAPSTK
+JCRI,"Net capital stock: Chemicals & man-made fibres: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCRJ,"Net capital stock: Chemicals & man-made fibres: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCRK,"Gross capital stock: Chemicals & man-made fibres: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCRL,"Gross capital stock: Chemicals & man-made fibres: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCRM,"Net capital stock: Chemicals & man-made fibres: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCRN,"Net capital stock: Chemicals & man-made fibres: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCRO,"Gross capital stock: Rubber & plastic: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCRP,"Gross capital stock: Rubber & plastic: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCRQ,"Net capital stock: Rubber & plastic: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCRR,"Net capital stock: Rubber & plastic: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCRW,"Gross capital stock: Rubber & plastic: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCRX,"Gross capital stock: Rubber & plastic: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCRY,"Net capital stock: Rubber & plastic: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCRZ,"Net capital stock: Rubber & plastic: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCSA,"Gross capital stock: Rubber & plastic: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCSB,"Gross capital stock: Rubber & plastic: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCSC,"Net capital stock: Rubber & plastic: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCSD,"Net capital stock: Rubber & plastic: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCSE,"Gross capital stock: Other mineral products: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCSF,"Gross capital stock: Other mineral products: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCSG,"Net capital stock: Other mineral products: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCSH,"Net capital stock: Other mineral products: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCSI,"Gross capital stock: Other mineral products: WE: Intangible fixed assets £b CP",NSA,0,CURR,0,CAPSTK
+JCSJ,"Gross capital stock: Other mineral products: WE: Intangible fixed assets £b CVM",NSA,2006,CONS,0,CAPSTK
+JCSK,"Net capital stock: Other mineral products: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JCSL,"Net capital stock: Other mineral products: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCSM,"Gross capital stock: Other mineral products: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCSN,"Gross capital stock: Other mineral products: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCSO,"Net capital stock: Other mineral products: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCSP,"Net capital stock: Other mineral products: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCSQ,"Gross capital stock: Other mineral products: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCSR,"Gross capital stock: Other mineral products: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCSS,"Net capital stock: Other mineral products: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCST,"Net capital stock: Other mineral products: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCSU,"Capital consumption: Metals & metal products: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JCSV,"Capital consumption: Metals & metal products: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JCSX,"Gross capital stock: Metals & metal products: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCSZ,"Gross capital stock: Metals & metal products: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCTC,"Net capital stock: Metals & metal products: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCTE,"Net capital stock: Metals & metal products: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCTH,"Gross capital stock: Metals & metal products: WE: Intangible fixed asset £b CP",NSA,0,CURR,0,CAPSTK
+JCTI,"Gross capital stock: Metals & metal products: WE: Intangible fixed asset £b CVM",NSA,2006,CONS,0,CAPSTK
+JCTJ,"Net capital stock: Metals & metal products: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JCTK,"Net capital stock: Metals & metal products: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCTL,"Capital consumption: Metals & metal products: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JCTM,"Capital consumption: Metals & metal products: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JCTO,"Gross capital stock: Metals & metal products: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCTQ,"Gross capital stock: Metals & metal products: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCTT,"Net capital stock: Metals & metal products: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCTV,"Net capital stock: Metals & metal products: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCTY,"Capital consumption: Metals & metal products: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JCTZ,"Capital consumption: Metals & metal products: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JCUB,"Gross capital stock: Metals & metal products: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCUD,"Gross capital stock: Metals & metal products: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCUG,"Net capital stock: Metals & metal products: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCUI,"Net capital stock: Metals & metal products: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCUL,"Gross capital stock: Machinery & equipment: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCUM,"Gross capital stock: Machinery & equipment: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCUN,"Net capital stock: Machinery & equipment: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCUO,"Net capital stock: Machinery & equipment: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCUP,"Gross capital stock: Machinery & equipment: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JCUQ,"Gross capital stock: Machinery & equipment: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCUR,"Net capital stock: Machinery & equipment: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JCUS,"Net capital stock: Machinery & equipment: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCUT,"Gross capital stock: Machinery & equipment: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCUU,"Gross capital stock: Machinery & equipment: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCUV,"Net capital stock: Machinery & equipment: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCUW,"Net capital stock: Machinery & equipment: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCUX,"Gross capital stock: Machinery & equipment: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCUY,"Gross capital stock: Machinery & equipment: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCUZ,"Net capital stock: Machinery & equipment: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCVA,"Net capital stock: Machinery & equipment: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCVB,"Gross capital stock: Office machinery & computers: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCVC,"Gross capital stock: Office machinery & computers: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCVD,"Net capital stock: Office machinery & computers: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCVE,"Net capital stock: Office machinery & computers: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCVF,"Gross capital stock: Office machinery & computers: WE: Plant and machine £b CP",NSA,0,CURR,0,CAPSTK
+JCVG,"Gross capital stock: Office machinery & computers: WE: Plant and machine £b CVM",NSA,2006,CONS,0,CAPSTK
+JCVH,"Net capital stock: Office machinery & computers: WE: Plant and machinery £b CP",NSA,0,CURR,0,CAPSTK
+JCVI,"Net capital stock: Office machinery & computers: WE: Plant and machinery £b CVM",NSA,2006,CONS,0,CAPSTK
+JCVJ,"Gross capital stock: Office machinery & computers: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCVK,"Gross capital stock: Office machinery & computers: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCVL,"Net capital stock: Office machinery & computers: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCVM,"Net capital stock: Office machinery & computers: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCVN,"Gross capital stock: Electrical machinery: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCVO,"Gross capital stock: Electrical machinery: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCVP,"Net capital stock: Electrical machinery: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCVQ,"Net capital stock: Electrical machinery: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCVR,"Gross capital stock: Electrical machinery: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCVS,"Gross capital stock: Electrical machinery: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCVT,"Net capital stock: Electrical machinery: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCVU,"Net capital stock: Electrical machinery: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCVV,"Gross capital stock: Electrical machinery: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCVW,"Gross capital stock: Electrical machinery: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCVX,"Net capital stock: Electrical machinery: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCVY,"Net capital stock: Electrical machinery: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCVZ,"Gross capital stock: Radio & TV: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCWA,"Gross capital stock: Radio & TV: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCWB,"Net capital stock: Radio & TV: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCWC,"Net capital stock: Radio & TV: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCWD,"Gross capital stock: Radio & TV: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCWE,"Gross capital stock: Radio & TV: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCWF,"Net capital stock: Radio & TV: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCWG,"Net capital stock: Radio & TV: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCWH,"Gross capital stock: Radio & TV: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCWI,"Gross capital stock: Radio & TV: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCWJ,"Net capital stock: Radio & TV: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCWK,"Net capital stock: Radio & TV: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCWL,"Gross capital stock: Medical & precision instruments: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCYP,"Gross capital stock: Medical & precision instruments: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCYQ,"Net capital stock: Medical & precision instruments: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCYR,"Net capital stock: Medical & precision instruments: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCYS,"Gross capital stock: Medical & precision instruments: WE: Plant and mach £b CP",NSA,0,CURR,0,CAPSTK
+JCYT,"Gross capital stock: Medical & precision instruments: WE: Plant and mach £b CVM",NSA,2006,CONS,0,CAPSTK
+JCYU,"Net capital stock: Medical & precision instruments: WE: Plant and machin £b CP",NSA,0,CURR,0,CAPSTK
+JCYV,"Net capital stock: Medical & precision instruments: WE: Plant and machin £b CVM",NSA,2006,CONS,0,CAPSTK
+JCYW,"Gross capital stock: Medical & precision instruments: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCYX,"Gross capital stock: Medical & precision instruments: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCYY,"Net capital stock: Medical & precision instruments: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCYZ,"Net capital stock: Medical & precision instruments: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCZA,"Gross capital stock: Electrical and Optical equipment: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCZB,"Gross capital stock: Electrical and Optical equipment: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCZC,"Net capital stock: Electrical and Optical equipment: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCZD,"Net capital stock: Electrical and Optical equipment: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCZE,"Gross capital stock: Electrical and Optical equipment: WE: Intangible fi £b CP",NSA,0,CURR,0,CAPSTK
+JCZF,"Gross capital stock: Electrical and Optical equipment: WE: Intangible fi £b CVM",NSA,2006,CONS,0,CAPSTK
+JCZG,"Net capital stock: Electrical and Optical equipment: WE: Intangible fixe £b CP",NSA,0,CURR,0,CAPSTK
+JCZH,"Net capital stock: Electrical and Optical equipment: WE: Intangible fixe £b CVM",NSA,2006,CONS,0,CAPSTK
+JCZI,"Gross capital stock: Electrical and Optical equipment: WE: Plant and mac £b CP",NSA,0,CURR,0,CAPSTK
+JCZJ,"Gross capital stock: Electrical and Optical equipment: WE: Plant and mac £b CVM",NSA,2006,CONS,0,CAPSTK
+JCZK,"Net capital stock: Electrical and Optical equipment: WE: Plant and machi £b CP",NSA,0,CURR,0,CAPSTK
+JCZL,"Net capital stock: Electrical and Optical equipment: WE: Plant and machi £b CVM",NSA,2006,CONS,0,CAPSTK
+JCZM,"Gross capital stock: Electrical and Optical equipment: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCZN,"Gross capital stock: Electrical and Optical equipment: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCZO,"Net capital stock: Electrical and Optical equipment: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JCZP,"Net capital stock: Electrical and Optical equipment: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCZR,"Gross capital stock: Motor vehicles: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCZS,"Gross capital stock: Motor vehicles: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCZT,"Net capital stock: Motor vehicles: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JCZU,"Net capital stock: Motor vehicles: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCZV,"Gross capital stock: Motor vehicles: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCZW,"Gross capital stock: Motor vehicles: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCZX,"Net capital stock: Motor vehicles: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JCZY,"Net capital stock: Motor vehicles: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JCZZ,"Gross capital stock: Motor vehicles: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDCG,"Gross capital stock: Motor vehicles: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDCH,"Net capital stock: Motor vehicles: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDCI,"Net capital stock: Motor vehicles: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDCJ,"Capital consumption: Other transport equipment: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JDCK,"Capital consumption: Other transport equipment: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDCM,"Gross capital stock: Other transport equipment: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDCO,"Gross capital stock: Other transport equipment: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDCR,"Net capital stock: Other transport equipment: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDCT,"Net capital stock: Other transport equipment: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDCW,"Capital consumption: Other transport equipment: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JDCX,"Capital consumption: Other transport equipment: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDCZ,"Gross capital stock: Other transport equipment: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDDB,"Gross capital stock: Other transport equipment: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDDE,"Net capital stock: Other transport equipment: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDDG,"Net capital stock: Other transport equipment: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDDJ,"Capital consumption: Other transport equipment: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JDDK,"Capital consumption: Other transport equipment: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDDM,"Gross capital stock: Other transport equipment: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDDO,"Gross capital stock: Other transport equipment: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDDR,"Net capital stock: Other transport equipment: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDDT,"Net capital stock: Other transport equipment: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDDW,"Capital consumption: Transport equipment: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JDDX,"Capital consumption: Transport equipment: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDDZ,"Gross capital stock: Transport equipment: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDEB,"Gross capital stock: Transport equipment: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDEE,"Net capital stock: Transport equipment: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDEG,"Net capital stock: Transport equipment: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDEJ,"Gross capital stock: Transport equipment: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JDEK,"Gross capital stock: Transport equipment: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDEL,"Net capital stock: Transport equipment: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JDEM,"Net capital stock: Transport equipment: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDEN,"Capital consumption: Transport equipment: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JDEO,"Capital consumption: Transport equipment: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDEQ,"Gross capital stock: Transport equipment: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDES,"Gross capital stock: Transport equipment: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDEV,"Net capital stock: Transport equipment: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDEX,"Net capital stock: Transport equipment: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDFA,"Capital consumption: Transport equipment: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JDFB,"Capital consumption: Transport equipment: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDFD,"Gross capital stock: Transport equipment: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDFF,"Gross capital stock: Transport equipment: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDFI,"Net capital stock: Transport equipment: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDFK,"Net capital stock: Transport equipment: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDFN,"Capital consumption: Other manufacturing: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JDFO,"Capital consumption: Other manufacturing: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDFQ,"Gross capital stock: Other manufacturing: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDFS,"Gross capital stock: Other manufacturing: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDFV,"Net capital stock: Other manufacturing: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDFX,"Net capital stock: Other manufacturing: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDGA,"Gross capital stock: Other manufacturing: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JDGB,"Gross capital stock: Other manufacturing: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDGC,"Net capital stock: Other manufacturing: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JDGD,"Net capital stock: Other manufacturing: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDGE,"Capital consumption: Other manufacturing: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JDGF,"Capital consumption: Other manufacturing: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDGH,"Gross capital stock: Other manufacturing: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDGJ,"Gross capital stock: Other manufacturing: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDGM,"Net capital stock: Other manufacturing: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDGO,"Net capital stock: Other manufacturing: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDGR,"Capital consumption: Other manufacturing: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JDGS,"Capital consumption: Other manufacturing: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDGU,"Gross capital stock: Other manufacturing: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDGW,"Gross capital stock: Other manufacturing: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDGZ,"Net capital stock: Other manufacturing: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDHB,"Net capital stock: Other manufacturing: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDHE,"Capital consumption: Electricity, gas & water: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JDHF,"Capital consumption: Electricity, gas & water: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDHH,"Gross capital stock: Electricity, gas & water: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDHJ,"Gross capital stock: Electricity, gas & water: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDHM,"Net capital stock: Electricity, gas & water: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDHO,"Net capital stock: Electricity, gas & water: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDHR,"Gross capital stock: Electricity, gas & water: WE: Intangible fixed asse £b CP",NSA,0,CURR,0,CAPSTK
+JDHS,"Gross capital stock: Electricity, gas & water: WE: Intangible fixed asse £b CVM",NSA,2006,CONS,0,CAPSTK
+JDHT,"Net capital stock: Electricity, gas & water: WE: Intangible fixed assets £b CP",NSA,0,CURR,0,CAPSTK
+JDHU,"Net capital stock: Electricity, gas & water: WE: Intangible fixed assets £b CVM",NSA,2006,CONS,0,CAPSTK
+JDHV,"Capital consumption: Electricity, gas & water: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JDHW,"Capital consumption: Electricity, gas & water: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDHY,"Gross capital stock: Electricity, gas & water: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDIA,"Gross capital stock: Electricity, gas & water: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDID,"Net capital stock: Electricity, gas & water: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDIF,"Net capital stock: Electricity, gas & water: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDII,"Capital consumption: Electricity, gas & water: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JDIJ,"Capital consumption: Electricity, gas & water: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDIL,"Gross capital stock: Electricity, gas & water: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDIN,"Gross capital stock: Electricity, gas & water: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDIQ,"Net capital stock: Electricity, gas & water: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDIS,"Net capital stock: Electricity, gas & water: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDIV,"Capital consumption: Construction: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JDIW,"Capital consumption: Construction: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDIY,"Gross capital stock: Construction: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDJA,"Gross capital stock: Construction: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDJD,"Net capital stock: Construction: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDJF,"Net capital stock: Construction: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDJI,"Gross capital stock: Construction: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JDJJ,"Gross capital stock: Construction: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDJK,"Net capital stock: Construction: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JDJL,"Net capital stock: Construction: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDJM,"Capital consumption: Construction: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JDJN,"Capital consumption: Construction: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDJP,"Gross capital stock: Construction: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDJR,"Gross capital stock: Construction: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDJU,"Net capital stock: Construction: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDJW,"Net capital stock: Construction: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDJZ,"Capital consumption: Construction: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JDKA,"Capital consumption: Construction: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDKC,"Gross capital stock: Construction: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDKE,"Gross capital stock: Construction: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDKH,"Net capital stock: Construction: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDKJ,"Net capital stock: Construction: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDKM,"Capital consumption: Distribution: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JDKN,"Capital consumption: Distribution: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDKP,"Gross capital stock: Distribution: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDKR,"Gross capital stock: Distribution: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDKU,"Net capital stock: Distribution: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDKW,"Net capital stock: Distribution: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDKZ,"Gross capital stock: Distribution: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JDLA,"Gross capital stock: Distribution: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDLB,"Net capital stock: Distribution: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JDLC,"Net capital stock: Distribution: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDLD,"Capital consumption: Distribution: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JDLE,"Capital consumption: Distribution: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDLG,"Gross capital stock: Distribution: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDLI,"Gross capital stock: Distribution: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDLL,"Net capital stock: Distribution: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDLN,"Net capital stock: Distribution: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDLQ,"Capital consumption: Distribution: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JDLR,"Capital consumption: Distribution: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDLT,"Gross capital stock: Distribution: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDLV,"Gross capital stock: Distribution: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDLY,"Net capital stock: Distribution: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDMA,"Net capital stock: Distribution: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDMD,"Capital consumption: Hotels and restaurants: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JDME,"Capital consumption: Hotels and restaurants: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDMG,"Gross capital stock: Hotels and restaurants: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDMI,"Gross capital stock: Hotels and restaurants: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDML,"Net capital stock: Hotels and restaurants: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDMN,"Net capital stock: Hotels and restaurants: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDMQ,"Gross capital stock: Hotels and restaurants: WE: Intangible fixed assets £b CP",NSA,0,CURR,0,CAPSTK
+JDMR,"Gross capital stock: Hotels and restaurants: WE: Intangible fixed assets £b CVM",NSA,2006,CONS,0,CAPSTK
+JDMS,"Net capital stock: Hotels and restaurants: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JDMT,"Net capital stock: Hotels and restaurants: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDMU,"Capital consumption: Hotels and restaurants: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JDMV,"Capital consumption: Hotels and restaurants: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDMX,"Gross capital stock: Hotels and restaurants: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDMZ,"Gross capital stock: Hotels and restaurants: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDNC,"Net capital stock: Hotels and restaurants: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDNE,"Net capital stock: Hotels and restaurants: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDNH,"Capital consumption: Hotels and restaurants: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JDNI,"Capital consumption: Hotels and restaurants: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDNK,"Gross capital stock: Hotels and restaurants: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDNM,"Gross capital stock: Hotels and restaurants: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDNP,"Net capital stock: Hotels and restaurants: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDNR,"Net capital stock: Hotels and restaurants: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDNU,"Capital consumption: Public administration: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JDNV,"Capital consumption: Public administration: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDNX,"Gross capital stock: Public administration: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDNZ,"Gross capital stock: Public administration: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDOC,"Net capital stock: Public administration: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDOE,"Net capital stock: Public administration: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDOH,"Gross capital stock: Public administration: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JDOI,"Gross capital stock: Public administration: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDOJ,"Net capital stock: Public administration: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JDOK,"Net capital stock: Public administration: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDOL,"Capital consumption: Public administration: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JDOM,"Capital consumption: Public administration: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDOO,"Gross capital stock: Public administration: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDOQ,"Gross capital stock: Public administration: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDOT,"Net capital stock: Public administration: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JDOV,"Net capital stock: Public administration: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDOY,"Capital consumption: Public administration: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JDOZ,"Capital consumption: Public administration: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDPB,"Gross capital stock: Public administration: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDPD,"Gross capital stock: Public administration: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDPG,"Net capital stock: Public administration: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDPI,"Net capital stock: Public administration: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDPL,"Capital consumption: Health & social work, welfare: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JDPM,"Capital consumption: Health & social work, welfare: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDPO,"Gross capital stock: Health & social work, welfare: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDPQ,"Gross capital stock: Health & social work, welfare: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDPT,"Net capital stock: Health & social work, welfare: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JDPV,"Net capital stock: Health & social work, welfare: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDPY,"Gross capital stock: Health & social work, welfare: WE: Intangible fixed £b CP",NSA,0,CURR,0,CAPSTK
+JDPZ,"Gross capital stock: Health & social work, welfare: WE: Intangible fixed £b CVM",NSA,2006,CONS,0,CAPSTK
+JDQA,"Net capital stock: Health & social work, welfare: WE: Intangible fixed a £b CP",NSA,0,CURR,0,CAPSTK
+JDQB,"Net capital stock: Health & social work, welfare: WE: Intangible fixed a £b CVM",NSA,2006,CONS,0,CAPSTK
+JDQC,"Capital consumption: Health & social work, welfare: WE: Plant and machin £m CP",NSA,0,CURR,0,CAPSTK
+JDQD,"Capital consumption: Health & social work, welfare: WE: Plant and machin £m CVM",NSA,2006,CONS,0,CAPSTK
+JDQF,"Gross capital stock: Health & social work, welfare: WE: Plant and machin £b CP",NSA,0,CURR,0,CAPSTK
+JDQH,"Gross capital stock: Health & social work, welfare: WE: Plant and machin £b CVM",NSA,2006,CONS,0,CAPSTK
+JDQK,"Net capital stock: Health & social work, welfare: WE: Plant and machiner £b CP",NSA,0,CURR,0,CAPSTK
+JDQM,"Net capital stock: Health & social work, welfare: WE: Plant and machiner £b CVM",NSA,2006,CONS,0,CAPSTK
+JDQP,"Capital consumption: Health & social work, welfare: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JDQQ,"Capital consumption: Health & social work, welfare: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JDQS,"Gross capital stock: Health & social work, welfare: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDQU,"Gross capital stock: Health & social work, welfare: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JDQX,"Net capital stock: Health & social work, welfare: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JDQZ,"Net capital stock: Health & social work, welfare: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEHX,"Capital consumption: Transport and supporting services: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JEHY,"Capital consumption: Transport and supporting services: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JEIA,"Gross capital stock: Transport and supporting services: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JEIC,"Gross capital stock: Transport and supporting services: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEIF,"Net capital stock: Transport and supporting services: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JEIH,"Net capital stock: Transport and supporting services: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEIK,"Capital consumption: Transport and supporting services: WE: Plant and ma £m CP",NSA,0,CURR,0,CAPSTK
+JEIL,"Capital consumption: Transport and supporting services: WE: Plant and ma £m CVM",NSA,2006,CONS,0,CAPSTK
+JEIN,"Gross capital stock: Transport and supporting services: WE: Plant and ma £b CP",NSA,0,CURR,0,CAPSTK
+JEIP,"Gross capital stock: Transport and supporting services: WE: Plant and ma £b CVM",NSA,2006,CONS,0,CAPSTK
+JEIS,"Net capital stock: Transport and supporting services: WE: Plant and mach £b CP",NSA,0,CURR,0,CAPSTK
+JEIU,"Net capital stock: Transport and supporting services: WE: Plant and mach £b CVM",NSA,2006,CONS,0,CAPSTK
+JEIX,"Capital consumption: Transport and supporting services: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JEIY,"Capital consumption: Transport and supporting services: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JEJA,"Gross capital stock: Transport and supporting services: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JEJC,"Gross capital stock: Transport and supporting services: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEJF,"Net capital stock: Transport and supporting services: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JEJH,"Net capital stock: Transport and supporting services: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEPQ,"Capital consumption: Transport and communications: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JEPR,"Capital consumption: Transport and communications: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JEPT,"Gross capital stock: Transport and communications: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JEPV,"Gross capital stock: Transport and communications: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEPY,"Net capital stock: Transport and communications: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JEQA,"Net capital stock: Transport and communications: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEQD,"Capital consumption: Transport and communications: WE: Plant and machine £m CP",NSA,0,CURR,0,CAPSTK
+JEQE,"Capital consumption: Transport and communications: WE: Plant and machine £m CVM",NSA,2006,CONS,0,CAPSTK
+JEQG,"Gross capital stock: Transport and communications: WE: Plant and machine £b CP",NSA,0,CURR,0,CAPSTK
+JEQI,"Gross capital stock: Transport and communications: WE: Plant and machine £b CVM",NSA,2006,CONS,0,CAPSTK
+JEQL,"Net capital stock: Transport and communications: WE: Plant and machinery £b CP",NSA,0,CURR,0,CAPSTK
+JEQN,"Net capital stock: Transport and communications: WE: Plant and machinery £b CVM",NSA,2006,CONS,0,CAPSTK
+JEQQ,"Capital consumption: Transport and communications: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JEQR,"Capital consumption: Transport and communications: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JEQT,"Gross capital stock: Transport and communications: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JEQV,"Gross capital stock: Transport and communications: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEQY,"Net capital stock: Transport and communications: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JERA,"Net capital stock: Transport and communications: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JESN,"Capital consumption: Post & telecommunications: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JESO,"Capital consumption: Post & telecommunications: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JESQ,"Gross capital stock: Post & telecommunications: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JESS,"Gross capital stock: Post & telecommunications: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JESW,"Net capital stock: Post & telecommunications: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JESY,"Net capital stock: Post & telecommunications: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JETB,"Capital consumption: Post & telecommunications: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JETC,"Capital consumption: Post & telecommunications: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JETE,"Gross capital stock: Post & telecommunications: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JETG,"Gross capital stock: Post & telecommunications: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JETJ,"Net capital stock: Post & telecommunications: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JETL,"Net capital stock: Post & telecommunications: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JETO,"Capital consumption: Post & telecommunications: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JETP,"Capital consumption: Post & telecommunications: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JETR,"Gross capital stock: Post & telecommunications: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JETT,"Gross capital stock: Post & telecommunications: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JETW,"Net capital stock: Post & telecommunications: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JETY,"Net capital stock: Post & telecommunications: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEUK,"Capital consumption: Financial intermediation: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JEUL,"Capital consumption: Financial intermediation: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JEUN,"Gross capital stock: Financial intermediation: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JEUP,"Gross capital stock: Financial intermediation: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEUS,"Net capital stock: Financial intermediation: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JEUU,"Net capital stock: Financial intermediation: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEUX,"Gross capital stock: Financial intermediation: WE: Intangible fixed asse £b CP",NSA,0,CURR,0,CAPSTK
+JEUY,"Gross capital stock: Financial intermediation: WE: Intangible fixed asse £b CVM",NSA,2006,CONS,0,CAPSTK
+JEUZ,"Net capital stock: Financial intermediation: WE: Intangible fixed assets £b CP",NSA,0,CURR,0,CAPSTK
+JEVA,"Net capital stock: Financial intermediation: WE: Intangible fixed assets £b CVM",NSA,2006,CONS,0,CAPSTK
+JEVB,"Capital consumption: Financial intermediation: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JEVC,"Capital consumption: Financial intermediation: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JEVE,"Gross capital stock: Financial intermediation: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JEVG,"Gross capital stock: Financial intermediation: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEVJ,"Net capital stock: Financial intermediation: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JEVL,"Net capital stock: Financial intermediation: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEVO,"Capital consumption: Financial intermediation: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JEVP,"Capital consumption: Financial intermediation: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JEVR,"Gross capital stock: Financial intermediation: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JEVT,"Gross capital stock: Financial intermediation: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEVW,"Net capital stock: Financial intermediation: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JEVY,"Net capital stock: Financial intermediation: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEWT,"Capital consumption: Financial intermediation.: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JEWU,"Capital consumption: Financial intermediation.: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JEWW,"Gross capital stock: Financial intermediation.: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JEWY,"Gross capital stock: Financial intermediation.: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEXB,"Net capital stock: Financial intermediation.: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JEXD,"Net capital stock: Financial intermediation.: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEXG,"Capital consumption: Financial intermediation.: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JEXH,"Capital consumption: Financial intermediation.: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JEXJ,"Gross capital stock: Financial intermediation.: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JEXL,"Gross capital stock: Financial intermediation.: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEXO,"Net capital stock: Financial intermediation.: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JEXQ,"Net capital stock: Financial intermediation.: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEXT,"Capital consumption: Financial intermediation.: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JEXU,"Capital consumption: Financial intermediation.: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JEXW,"Gross capital stock: Financial intermediation.: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JEXY,"Gross capital stock: Financial intermediation.: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JEYK,"GFCF: Other Industries: WE Intangible Asset: CVM, NSA",NSA,2006,CONS,0,CAPSTK
+JFAF,"Net capital stock: Financial intermediation.: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JFAH,"Net capital stock: Financial intermediation.: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFEV,"Capital consumption: Property: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JFEW,"Capital consumption: Property: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JFEY,"Gross capital stock: Property: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JFFA,"Gross capital stock: Property: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFFD,"Net capital stock: Property: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JFFF,"Net capital stock: Property: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFFV,"Capital consumption: Property: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JFFW,"Capital consumption: Property: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JFFY,"Gross capital stock: Property: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JFGA,"Gross capital stock: Property: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFGD,"Net capital stock: Property: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JFGF,"Net capital stock: Property: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFGI,"Capital consumption: Property: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JFGJ,"Capital consumption: Property: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JFGL,"Gross capital stock: Property: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JFGN,"Gross capital stock: Property: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFGQ,"Net capital stock: Property: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JFGS,"Net capital stock: Property: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFGV,"Capital consumption: Renting: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JFGW,"Capital consumption: Renting: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JFGY,"Gross capital stock: Renting: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JFHA,"Gross capital stock: Renting: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFHD,"Net capital stock: Renting: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JFHF,"Net capital stock: Renting: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFHI,"Capital consumption: Renting: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JFHJ,"Capital consumption: Renting: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JFHL,"Gross capital stock: Renting: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JFHN,"Gross capital stock: Renting: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFHQ,"Net capital stock: Renting: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JFHS,"Net capital stock: Renting: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFHV,"Capital consumption: Renting: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JFHW,"Capital consumption: Renting: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JFHY,"Gross capital stock: Renting: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JFIA,"Gross capital stock: Renting: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFID,"Net capital stock: Renting: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JFIF,"Net capital stock: Renting: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFII,"Capital consumption: Real estate, renting & business: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JFIJ,"Capital consumption: Real estate, renting & business: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JFIL,"Gross capital stock: Real estate, renting & business: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JFIN,"Gross capital stock: Real estate, renting & business: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFIQ,"Net capital stock: Real estate, renting & business: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JFIS,"Net capital stock: Real estate, renting & business: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFJI,"Gross capital stock: Real estate, renting & business: WE: Intangible fix £b CP",NSA,0,CURR,0,CAPSTK
+JFJJ,"Gross capital stock: Real estate, renting & business: WE: Intangible fix £b CVM",NSA,2006,CONS,0,CAPSTK
+JFJK,"Net capital stock: Real estate, renting & business: WE: Intangible fixed £b CP",NSA,0,CURR,0,CAPSTK
+JFJL,"Net capital stock: Real estate, renting & business: WE: Intangible fixed £b CVM",NSA,2006,CONS,0,CAPSTK
+JFJM,"Capital consumption: Real estate, renting & business: WE: Plant and mach £m CP",NSA,0,CURR,0,CAPSTK
+JFJN,"Capital consumption: Real estate, renting & business: WE: Plant and mach £m CVM",NSA,2006,CONS,0,CAPSTK
+JFJP,"Gross capital stock: Real estate, renting & business: WE: Plant and mach £b CP",NSA,0,CURR,0,CAPSTK
+JFJR,"Gross capital stock: Real estate, renting & business: WE: Plant and mach £b CVM",NSA,2006,CONS,0,CAPSTK
+JFJU,"Net capital stock: Real estate, renting & business: WE: Plant and machin £b CP",NSA,0,CURR,0,CAPSTK
+JFJW,"Net capital stock: Real estate, renting & business: WE: Plant and machin £b CVM",NSA,2006,CONS,0,CAPSTK
+JFJZ,"Capital consumption: Real estate, renting & business: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JFKA,"Capital consumption: Real estate, renting & business: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JFKC,"Gross capital stock: Real estate, renting & business: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JFKE,"Gross capital stock: Real estate, renting & business: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFKH,"Net capital stock: Real estate, renting & business: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JFKJ,"Net capital stock: Real estate, renting & business: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFKM,"Capital consumption: Computer activities,research and business services: £m CP",NSA,0,CURR,0,CAPSTK
+JFKN,"Capital consumption: Computer activities,research and business services: £m CVM",NSA,2006,CONS,0,CAPSTK
+JFKP,"Gross capital stock: Computer activities,research and business services: £b CP",NSA,0,CURR,0,CAPSTK
+JFKR,"Gross capital stock: Computer activities,research and business services: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFKU,"Net capital stock: Computer activities,research and business services: W £b CP",NSA,0,CURR,0,CAPSTK
+JFKW,"Net capital stock: Computer activities,research and business services: W £b CVM",NSA,2006,CONS,0,CAPSTK
+JFKZ,"Capital consumption: Computer activities,research and business services: £m CP",NSA,0,CURR,0,CAPSTK
+JFLA,"Capital consumption: Computer activities,research and business services: £m CVM",NSA,2006,CONS,0,CAPSTK
+JFLC,"Gross capital stock: Computer activities,research and business services: £b CP",NSA,0,CURR,0,CAPSTK
+JFLE,"Gross capital stock: Computer activities,research and business services: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFLH,"Net capital stock: Computer activities,research and business services: W £b CP",NSA,0,CURR,0,CAPSTK
+JFLJ,"Net capital stock: Computer activities,research and business services: W £b CVM",NSA,2006,CONS,0,CAPSTK
+JFLM,"Capital consumption: Computer activities,research and business services: £m CP",NSA,0,CURR,0,CAPSTK
+JFLN,"Capital consumption: Computer activities,research and business services: £m CVM",NSA,2006,CONS,0,CAPSTK
+JFLP,"Gross capital stock: Computer activities,research and business services: £b CP",NSA,0,CURR,0,CAPSTK
+JFLR,"Gross capital stock: Computer activities,research and business services: £b CVM",NSA,2006,CONS,0,CAPSTK
+JFLU,"Net capital stock: Computer activities,research and business services: W £b CP",NSA,0,CURR,0,CAPSTK
+JFLW,"Net capital stock: Computer activities,research and business services: W £b CVM",NSA,2006,CONS,0,CAPSTK
+JGQN,"GFCF:Transport & Storage:P&M: CVM, NSA",NSA,2006,CONS,0,CAPSTK
+JGQO,"GFCF: Transport & Storage : Vehicles :CVM NSA",NSA,2006,CONS,0,CAPSTK
+JGQP,"GFCF: Transport & Storage: Buildings",NSA,1995,CONS,0,CAPSTK
+JGQR,"GFCF:Post & Telecom :P&M, CVM NSA",NSA,2006,CONS,0,CAPSTK
+JGQS,"GFCF: Post & Telecom : Vehicles, CVM NSA",NSA,2006,CONS,0,CAPSTK
+JGQT,"GFCF: Post & Telecom : Buildings , CVM NSA",NSA,2006,CONS,0,CAPSTK
+JGQV,"GFCF: Financial Intermediation: P&M, CVM, NSA",NSA,2006,CONS,0,CAPSTK
+JGQW,"GFCF: Financial Intermediation : Vehicles",NSA,1995,CONS,0,CAPSTK
+JGQX,"GFCF:Financial Intermediation: Buildings, CVM NSA",NSA,2006,CONS,0,CAPSTK
+JGQZ,"GFCF: Other Business Activities: P&M, CVM NSA",NSA,2006,CONS,0,CAPSTK
+JGRA,"GFCF: Other Business Activities: Vehicles, CVM NSA",NSA,2006,CONS,0,CAPSTK
+JGRB,"GFCF: Other Business Activities: Buildings, CVM NSA",NSA,2006,CONS,0,CAPSTK
+JGRD,"GFCF: Membership,recreational, cultural and sporting: P&M, CVM nsa",NSA,2006,CONS,0,CAPSTK
+JGRE,"GFCF: Membership, recreational, cultural and sporting : Vehicles, CVM NSA",NSA,2006,CONS,0,CAPSTK
+JGRF,"GFCF: Membership, recreational, cultural and sporting : Buildings, CVM NSA",NSA,2006,CONS,0,CAPSTK
+JGRH,"GFCF: Transport & Storage: P&M CP NSA, £m",NSA,0,CURR,0,CAPSTK
+JGRI,"GFCF: Transport & Storage: Buildings CP NSA, £m",NSA,0,CURR,0,CAPSTK
+JGRJ,"GFCF: Transport & Storage: Vehicles CP NSA, £m",NSA,0,CURR,0,CAPSTK
+JGRK,"GFCF: Post and Telecom: P&M CP NSA, £m",NSA,0,CURR,0,CAPSTK
+JGRL,"GFCF: Post and Telecom: Buildings: CP NSA, £m",NSA,0,CURR,0,CAPSTK
+JGRM,"GFCF: Post and Telecom: Vehicles: CP NSA, £m",NSA,0,CURR,0,CAPSTK
+JGRN,"GFCF: Financial intermediation and auxiliary activities: P&M:CP NSA, £m",NSA,0,CURR,0,CAPSTK
+JGRO,"GFCF: Financial intermediation and auxiliary activities: Buildings: CP NSA, £m",NSA,0,CURR,0,CAPSTK
+JGRP,"GFCF: Financial intermediation and auxiliary activities: Vehicles: CP NSA, £m",NSA,0,CURR,0,CAPSTK
+JGRQ,"GFCF: Other business activities: P&M, CP NSA, £m",NSA,0,CURR,0,CAPSTK
+JGRR,"GFCF:Other business activities: Buildings: CP NSA, £m",NSA,0,CURR,0,CAPSTK
+JGRS,"GFCF: Other business activities: Vehicles: CP NSA, £m",NSA,0,CURR,0,CAPSTK
+JGRT,"GFCF: Membership organisations, recreational cultural and sporting: P&M CP NSA,",NSA,0,CURR,0,CAPSTK
+JGRU,"GFCF: Membership organisations, recreational, cultural and sporting: Buildings:",NSA,0,CURR,0,CAPSTK
+JGRV,"GFCF: Membership organisations, recreational, cultural and sporting: Vehicles",NSA,0,CURR,0,CAPSTK
+JHBP,"Capital consumption: Sanitary services: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JHBQ,"Capital consumption: Sanitary services: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JHBS,"Gross capital stock: Sanitary services: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JHBU,"Gross capital stock: Sanitary services: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JHBX,"Net capital stock: Sanitary services: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JHBZ,"Net capital stock: Sanitary services: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JHCC,"Capital consumption: Sanitary services: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JHCD,"Capital consumption: Sanitary services: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JHCF,"Gross capital stock: Sanitary services: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JHCH,"Gross capital stock: Sanitary services: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JHCK,"Net capital stock: Sanitary services: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JHCM,"Net capital stock: Sanitary services: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JHCP,"Capital consumption: Sanitary services: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JHCQ,"Capital consumption: Sanitary services: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JHCS,"Gross capital stock: Sanitary services: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JHCU,"Gross capital stock: Sanitary services: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JHCX,"Net capital stock: Sanitary services: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JHCZ,"Net capital stock: Sanitary services: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JHDC,"Capital consumption: Education: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JHDD,"Capital consumption: Education: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JHDF,"Gross capital stock: Education: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JHDH,"Gross capital stock: Education: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JHDK,"Net capital stock: Education: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JHDM,"Net capital stock: Education: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JHDP,"Gross capital stock: Education: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JHDQ,"Gross capital stock: Education: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JHDR,"Net capital stock: Education: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JHDS,"Net capital stock: Education: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JHDT,"Capital consumption: Education: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JHDU,"Capital consumption: Education: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JHDW,"Gross capital stock: Education: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JHDY,"Gross capital stock: Education: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JHEB,"Net capital stock: Education: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JHED,"Net capital stock: Education: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JHEG,"Capital consumption: Education: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JHEH,"Capital consumption: Education: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JHEJ,"Gross capital stock: Education: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JHEL,"Gross capital stock: Education: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JHEO,"Net capital stock: Education: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JHEQ,"Net capital stock: Education: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JHET,"Capital consumption: Other community, social & personal service: WE: Bui £m CP",NSA,0,CURR,0,CAPSTK
+JHEU,"Capital consumption: Other community, social & personal service: WE: Bui £m CVM",NSA,2006,CONS,0,CAPSTK
+JHEW,"Gross capital stock: Other community, social & personal service: WE: Bui £b CP",NSA,0,CURR,0,CAPSTK
+JHEY,"Gross capital stock: Other community, social & personal service: WE: Bui £b CVM",NSA,2006,CONS,0,CAPSTK
+JHFB,"Net capital stock: Other community, social & personal service: WE: Build £b CP",NSA,0,CURR,0,CAPSTK
+JHFD,"Net capital stock: Other community, social & personal service: WE: Build £b CVM",NSA,2006,CONS,0,CAPSTK
+JHFG,"Capital consumption: Other community, social & personal service: WE: Pla £m CP",NSA,0,CURR,0,CAPSTK
+JHFH,"Capital consumption: Other community, social & personal service: WE: Pla £m CVM",NSA,2006,CONS,0,CAPSTK
+JHFJ,"Gross capital stock: Other community, social & personal service: WE: Pla £b CP",NSA,0,CURR,0,CAPSTK
+JHFL,"Gross capital stock: Other community, social & personal service: WE: Pla £b CVM",NSA,2006,CONS,0,CAPSTK
+JHFO,"Net capital stock: Other community, social & personal service: WE: Plant £b CP",NSA,0,CURR,0,CAPSTK
+JHFQ,"Net capital stock: Other community, social & personal service: WE: Plant £b CVM",NSA,2006,CONS,0,CAPSTK
+JHFT,"Capital consumption: Other community, social & personal service: WE: Veh £m CP",NSA,0,CURR,0,CAPSTK
+JHFU,"Capital consumption: Other community, social & personal service: WE: Veh £m CVM",NSA,2006,CONS,0,CAPSTK
+JHFW,"Gross capital stock: Other community, social & personal service: WE: Veh £b CP",NSA,0,CURR,0,CAPSTK
+JHFY,"Gross capital stock: Other community, social & personal service: WE: Veh £b CVM",NSA,2006,CONS,0,CAPSTK
+JHGB,"Net capital stock: Other community, social & personal service: WE: Vehic £b CP",NSA,0,CURR,0,CAPSTK
+JHGD,"Net capital stock: Other community, social & personal service: WE: Vehic £b CVM",NSA,2006,CONS,0,CAPSTK
+JHHQ,"Capital consumption: Membership organisations and other service activiti £m CP",NSA,0,CURR,0,CAPSTK
+JHHR,"Capital consumption: Membership organisations and other service activiti £m CVM",NSA,2006,CONS,0,CAPSTK
+JHHT,"Gross capital stock: Membership organisations and other service activiti £b CP",NSA,0,CURR,0,CAPSTK
+JHHV,"Gross capital stock: Membership organisations and other service activiti £b CVM",NSA,2006,CONS,0,CAPSTK
+JHHY,"Net capital stock: Membership organisations and other service activities £b CP",NSA,0,CURR,0,CAPSTK
+JHIA,"Net capital stock: Membership organisations and other service activities £b CVM",NSA,2006,CONS,0,CAPSTK
+JHIQ,"Capital consumption: Membership organisations and other service activiti £m CP",NSA,0,CURR,0,CAPSTK
+JHIR,"Capital consumption: Membership organisations and other service activiti £m CVM",NSA,2006,CONS,0,CAPSTK
+JHIT,"Gross capital stock: Membership organisations and other service activiti £b CP",NSA,0,CURR,0,CAPSTK
+JHIV,"Gross capital stock: Membership organisations and other service activiti £b CVM",NSA,2006,CONS,0,CAPSTK
+JHIY,"Net capital stock: Membership organisations and other service activities £b CP",NSA,0,CURR,0,CAPSTK
+JHJA,"Net capital stock: Membership organisations and other service activities £b CVM",NSA,2006,CONS,0,CAPSTK
+JHJD,"Capital consumption: Membership organisations and other service activiti £m CP",NSA,0,CURR,0,CAPSTK
+JHJE,"Capital consumption: Membership organisations and other service activiti £m CVM",NSA,2006,CONS,0,CAPSTK
+JHJG,"Gross capital stock: Membership organisations and other service activiti £b CP",NSA,0,CURR,0,CAPSTK
+JHJI,"Gross capital stock: Membership organisations and other service activiti £b CVM",NSA,2006,CONS,0,CAPSTK
+JHJL,"Net capital stock: Membership organisations and other service activities £b CP",NSA,0,CURR,0,CAPSTK
+JHJN,"Net capital stock: Membership organisations and other service activities £b CVM",NSA,2006,CONS,0,CAPSTK
+JHKH,"Capital consumption: Other community, social & personal service: WE: Int £m CP",NSA,0,CURR,0,CAPSTK
+JHKI,"Capital consumption: Other community, social & personal service: WE: Int £m CVM",NSA,2006,CONS,0,CAPSTK
+JIFK,"Capital consumption: Manufacturing: WE: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+JIFL,"Capital consumption: Manufacturing: WE: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+JIFN,"Gross capital stock: Manufacturing: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JIFP,"Gross capital stock: Manufacturing: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JIFS,"Net capital stock: Manufacturing: WE: Buildings: £b CP",NSA,0,CURR,0,CAPSTK
+JIFU,"Net capital stock: Manufacturing: WE: Buildings: £b CVM",NSA,2006,CONS,0,CAPSTK
+JIFX,"Capital consumption: Manufacturing: WE: Intangible fixed assets: £m CP",NSA,0,CURR,0,CAPSTK
+JIFY,"Capital consumption: Manufacturing: WE: Intangible fixed assets: £m CVM",NSA,2006,CONS,0,CAPSTK
+JIGA,"Gross capital stock: Manufacturing: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JIGC,"Gross capital stock: Manufacturing: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JIGF,"Net capital stock: Manufacturing: WE: Intangible fixed assets: £b CP",NSA,0,CURR,0,CAPSTK
+JIGH,"Net capital stock: Manufacturing: WE: Intangible fixed assets: £b CVM",NSA,2006,CONS,0,CAPSTK
+JIGK,"Capital consumption: Manufacturing: WE: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+JIGL,"Capital consumption: Manufacturing: WE: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+JIGN,"Gross capital stock: Manufacturing: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JIGP,"Gross capital stock: Manufacturing: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JIGS,"Net capital stock: Manufacturing: WE: Plant and machinery: £b CP",NSA,0,CURR,0,CAPSTK
+JIGU,"Net capital stock: Manufacturing: WE: Plant and machinery: £b CVM",NSA,2006,CONS,0,CAPSTK
+JIGX,"Capital consumption: Manufacturing: WE: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+JIGY,"Capital consumption: Manufacturing: WE: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+JIHA,"Gross capital stock: Manufacturing: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JIHC,"Gross capital stock: Manufacturing: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JIHF,"Net capital stock: Manufacturing: WE: Vehicles: £b CP",NSA,0,CURR,0,CAPSTK
+JIHH,"Net capital stock: Manufacturing: WE: Vehicles: £b CVM",NSA,2006,CONS,0,CAPSTK
+JJAA,"Gross capital stock:: Insurance and Pension Funds : WE : B :£b CP",NSA,0,CURR,0,CAPSTK
+JJAB,"Net capital stock: Insurance and Pension Funds : WE : B :£b CP",NSA,0,CURR,0,CAPSTK
+JJAC,"Gross capital stock:: Insurance and Pension Funds : WE : P :£b CP",NSA,0,CURR,0,CAPSTK
+JJAD,"Net capital stock: Insurance and Pension Funds : WE : P :£b CP",NSA,0,CURR,0,CAPSTK
+JJAE,"Gross capital stock:: Insurance and Pension Funds : WE : V :£b CP",NSA,0,CURR,0,CAPSTK
+JJAF,"Net capital stock: Insurance and Pension Funds : WE : V :£b CP",NSA,0,CURR,0,CAPSTK
+JJAG,"Gross capital stock: Insurance and Pension Funds : WE : B :£b CVM",NSA,2006,CONS,0,CAPSTK
+JJAH,"Net capital stock: Insurance and Pension Funds : WE : B :£b CVM",NSA,2006,CONS,0,CAPSTK
+JJAJ,"Gross capital stock: Insurance and Pension Funds : WE : P :£b CVM",NSA,2006,CONS,0,CAPSTK
+JJAK,"Net capital stock: Insurance and Pension Funds : WE : P :£b CVM",NSA,2006,CONS,0,CAPSTK
+JJAL,"Gross capital stock: Insurance and Pension Funds : WE : V :£b CVM",NSA,2006,CONS,0,CAPSTK
+JJAM,"Net capital stock: Insurance and Pension Funds : WE : V :£b CVM",NSA,2006,CONS,0,CAPSTK
+JJAS,"Capital consumption: Office machinery & computers: WE: Buildings, plant £m CP",NSA,0,CURR,0,CAPSTK
+JJAT,"Capital consumption: Office machinery & computers: WE: Buildings, plant £m CVM",NSA,2006,CONS,0,CAPSTK
+JJAV,"Gross capital stock: Office machinery & computers: WE: Buildings, plant £b CP",NSA,0,CURR,0,CAPSTK
+JJAX,"Gross capital stock: Office machinery & computers: WE: Buildings, plant £b CVM",NSA,2006,CONS,0,CAPSTK
+JJBA,"Net capital stock: Office machinery & computers: WE: Buildings, plant & £b CP",NSA,0,CURR,0,CAPSTK
+JJBC,"Net capital stock: Office machinery & computers: WE: Buildings, plant & £b CVM",NSA,2006,CONS,0,CAPSTK
+JJBF,"Capital consumption: Electrical machinery: WE: Buildings, plant & machin £m CP",NSA,0,CURR,0,CAPSTK
+JJBG,"Capital consumption: Electrical machinery: WE: Buildings, plant & machin £m CVM",NSA,2006,CONS,0,CAPSTK
+JJBI,"Gross capital stock: Electrical machinery: WE: Buildings, plant & machin £b CP",NSA,0,CURR,0,CAPSTK
+JJBK,"Gross capital stock: Electrical machinery: WE: Buildings, plant & machin £b CVM",NSA,2006,CONS,0,CAPSTK
+JJBN,"Net capital stock: Electrical machinery: WE: Buildings, plant & machiner £b CP",NSA,0,CURR,0,CAPSTK
+JJBP,"Net capital stock: Electrical machinery: WE: Buildings, plant & machiner £b CVM",NSA,2006,CONS,0,CAPSTK
+JJBS,"Capital consumption: Radio & TV: WE: Buildings, plant & machinery, vehic £m CP",NSA,0,CURR,0,CAPSTK
+JJBT,"Capital consumption: Radio & TV: WE: Buildings, plant & machinery, vehic £m CVM",NSA,2006,CONS,0,CAPSTK
+JJBV,"Gross capital stock: Radio & TV: WE: Buildings, plant & machinery, vehic £b CP",NSA,0,CURR,0,CAPSTK
+JJBX,"Gross capital stock: Radio & TV: WE: Buildings, plant & machinery, vehic £b CVM",NSA,2006,CONS,0,CAPSTK
+JJED,"Net capital stock: Radio & TV: WE: Buildings, plant & machinery, vehicle £b CP",NSA,0,CURR,0,CAPSTK
+JJEF,"Net capital stock: Radio & TV: WE: Buildings, plant & machinery, vehicle £b CVM",NSA,2006,CONS,0,CAPSTK
+JJEI,"Capital consumption: Medical & precision instruments: WE: Buildings, pla £m CP",NSA,0,CURR,0,CAPSTK
+JJEJ,"Capital consumption: Medical & precision instruments: WE: Buildings, pla £m CVM",NSA,2006,CONS,0,CAPSTK
+JJEL,"Gross capital stock: Medical & precision instruments: WE: Buildings, pla £b CP",NSA,0,CURR,0,CAPSTK
+JJEN,"Gross capital stock: Medical & precision instruments: WE: Buildings, pla £b CVM",NSA,2006,CONS,0,CAPSTK
+JJEQ,"Net capital stock: Medical & precision instruments: WE: Buildings, plant £b CP",NSA,0,CURR,0,CAPSTK
+JJES,"Net capital stock: Medical & precision instruments: WE: Buildings, plant £b CVM",NSA,2006,CONS,0,CAPSTK
+JJEV,"Capital consumption: Motor vehicles: WE: Buildings, plant & machinery, v £m CP",NSA,0,CURR,0,CAPSTK
+JJEW,"Capital consumption: Motor vehicles: WE: Buildings, plant & machinery, v £m CVM",NSA,2006,CONS,0,CAPSTK
+JJEY,"Gross capital stock: Motor vehicles: WE: Buildings, plant & machinery, v £b CP",NSA,0,CURR,0,CAPSTK
+JJFA,"Gross capital stock: Motor vehicles: WE: Buildings, plant & machinery, v £b CVM",NSA,2006,CONS,0,CAPSTK
+JJFD,"Net capital stock: Motor vehicles: WE: Buildings, plant & machinery, veh £b CP",NSA,0,CURR,0,CAPSTK
+JJFF,"Net capital stock: Motor vehicles: WE: Buildings, plant & machinery, veh £b CVM",NSA,2006,CONS,0,CAPSTK
+JJFI,"Capital consumption: Other transport equipment: WE: Buildings, plant & m £m CP",NSA,0,CURR,0,CAPSTK
+JJFJ,"Capital consumption: Other transport equipment: WE: Buildings, plant & m £m CVM",NSA,2006,CONS,0,CAPSTK
+JJFL,"Gross capital stock: Other transport equipment: WE: Buildings, plant & m £b CP",NSA,0,CURR,0,CAPSTK
+JJFN,"Gross capital stock: Other transport equipment: WE: Buildings, plant & m £b CVM",NSA,2006,CONS,0,CAPSTK
+JJFQ,"Net capital stock: Other transport equipment: WE: Buildings, plant & mac £b CP",NSA,0,CURR,0,CAPSTK
+JJFS,"Net capital stock: Other transport equipment: WE: Buildings, plant & mac £b CVM",NSA,2006,CONS,0,CAPSTK
+JJFV,"Capital consumption: Insurance and Pension Funds: WE: Buildings, plant & £m CP",NSA,0,CURR,0,CAPSTK
+JJFW,"Capital consumption: Insurance and Pension Funds: WE: Buildings, plant & £m CVM",NSA,2006,CONS,0,CAPSTK
+JJFY,"Gross capital stock: Insurance and Pension Funds: WE: Buildings, plant & £b CP",NSA,0,CURR,0,CAPSTK
+JJGA,"Gross capital stock: Insurance and Pension Funds: WE: Buildings, plant & £b CVM",NSA,2006,CONS,0,CAPSTK
+JJGD,"Net capital stock: Insurance and Pension Funds: WE: Buildings, plant & m £b CP",NSA,0,CURR,0,CAPSTK
+JJII,"Net capital stock: Insurance and Pension Funds: WE: Buildings, plant & m £b CVM",NSA,2006,CONS,0,CAPSTK
+JJIL,"Capital consumption: Property: WE: Buildings, plant & machinery, vehicle £m CP",NSA,0,CURR,0,CAPSTK
+JJIM,"Capital consumption: Property: WE: Buildings, plant & machinery, vehicle £m CVM",NSA,2006,CONS,0,CAPSTK
+JJIO,"Gross capital stock: Property: WE: Buildings, plant & machinery, vehicle £b CP",NSA,0,CURR,0,CAPSTK
+JJIQ,"Gross capital stock: Property: WE: Buildings, plant & machinery, vehicle £b CVM",NSA,2006,CONS,0,CAPSTK
+JJIT,"Net capital stock: Property: WE: Buildings, plant & machinery, vehicles £b CP",NSA,0,CURR,0,CAPSTK
+JJIV,"Net capital stock: Property: WE: Buildings, plant & machinery, vehicles £b CVM",NSA,2006,CONS,0,CAPSTK
+JJIY,"Capital consumption: Renting: WE: Buildings, plant & machinery, vehicles £m CP",NSA,0,CURR,0,CAPSTK
+JJIZ,"Capital consumption: Renting: WE: Buildings, plant & machinery, vehicles £m CVM",NSA,2006,CONS,0,CAPSTK
+JJJB,"Gross capital stock: Renting: WE: Buildings, plant & machinery, vehicles £b CP",NSA,0,CURR,0,CAPSTK
+JJJD,"Gross capital stock: Renting: WE: Buildings, plant & machinery, vehicles £b CVM",NSA,2006,CONS,0,CAPSTK
+JJJG,"Net capital stock: Renting: WE: Buildings, plant & machinery, vehicles a £b CP",NSA,0,CURR,0,CAPSTK
+JJJI,"Net capital stock: Renting: WE: Buildings, plant & machinery, vehicles a £b CVM",NSA,2006,CONS,0,CAPSTK
+JJJL,"Capital consumption: Sanitary services: WE: Buildings, plant & machinery £m CP",NSA,0,CURR,0,CAPSTK
+JJJM,"Capital consumption: Sanitary services: WE: Buildings, plant & machinery £m CVM",NSA,2006,CONS,0,CAPSTK
+JJJO,"Gross capital stock: Sanitary services: WE: Buildings, plant & machinery £b CP",NSA,0,CURR,0,CAPSTK
+JJJQ,"Gross capital stock: Sanitary services: WE: Buildings, plant & machinery £b CVM",NSA,2006,CONS,0,CAPSTK
+JJJT,"Net capital stock: Sanitary services: WE: Buildings, plant & machinery, £b CP",NSA,0,CURR,0,CAPSTK
+JJJV,"Net capital stock: Sanitary services: WE: Buildings, plant & machinery, £b CVM",NSA,2006,CONS,0,CAPSTK
+JJJY,"Capital consumption: Agriculture, forestry & fishing: WE: Buildings, pla £m CP",NSA,0,CURR,0,CAPSTK
+JJJZ,"Capital consumption: Agriculture, forestry & fishing: WE: Buildings, pla £m CVM",NSA,2006,CONS,0,CAPSTK
+JJKB,"Gross capital stock: Agriculture, forestry & fishing: WE: Buildings, pla £b CP",NSA,0,CURR,0,CAPSTK
+JJKD,"Gross capital stock: Agriculture, forestry & fishing: WE: Buildings, pla £b CVM",NSA,2006,CONS,0,CAPSTK
+JJKG,"Net capital stock: Agriculture, forestry & fishing: WE: Buildings, plant £b CP",NSA,0,CURR,0,CAPSTK
+JJKI,"Net capital stock: Agriculture, forestry & fishing: WE: Buildings, plant £b CVM",NSA,2006,CONS,0,CAPSTK
+JJMO,"Capital consumption: Textiles, clothes & footwear: WE: Buildings, plant £m CP",NSA,0,CURR,0,CAPSTK
+JJMP,"Capital consumption: Textiles, clothes & footwear: WE: Buildings, plant £m CVM",NSA,2006,CONS,0,CAPSTK
+JJMR,"Gross capital stock: Textiles, clothes & footwear: WE: Buildings, plant £b CP",NSA,0,CURR,0,CAPSTK
+JJMT,"Gross capital stock: Textiles, clothes & footwear: WE: Buildings, plant £b CVM",NSA,2006,CONS,0,CAPSTK
+JJMW,"Net capital stock: Textiles, clothes & footwear: WE: Buildings, plant & £b CP",NSA,0,CURR,0,CAPSTK
+JJMY,"Net capital stock: Textiles, clothes & footwear: WE: Buildings, plant & £b CVM",NSA,2006,CONS,0,CAPSTK
+JJOB,"Capital consumption: Transport and supporting services: WE: Buildings, p £m CP",NSA,0,CURR,0,CAPSTK
+JJOC,"Capital consumption: Transport and supporting services: WE: Buildings, p £m CVM",NSA,2006,CONS,0,CAPSTK
+JJOE,"Gross capital stock: Transport and supporting services: WE: Buildings, p £b CP",NSA,0,CURR,0,CAPSTK
+JJOG,"Gross capital stock: Transport and supporting services: WE: Buildings, p £b CVM",NSA,2006,CONS,0,CAPSTK
+JJOJ,"Net capital stock: Transport and supporting services: WE: Buildings, pla £b CP",NSA,0,CURR,0,CAPSTK
+JJOL,"Net capital stock: Transport and supporting services: WE: Buildings, pla £b CVM",NSA,2006,CONS,0,CAPSTK
+JJOO,"Capital consumption: Post & telecommunications: WE: Buildings, plant & m £m CP",NSA,0,CURR,0,CAPSTK
+JJOP,"Capital consumption: Post & telecommunications: WE: Buildings, plant & m £m CVM",NSA,2006,CONS,0,CAPSTK
+JJOR,"Gross capital stock: Post & telecommunications: WE: Buildings, plant & m £b CP",NSA,0,CURR,0,CAPSTK
+JJOT,"Gross capital stock: Post & telecommunications: WE: Buildings, plant & m £b CVM",NSA,2006,CONS,0,CAPSTK
+JJOW,"Net capital stock: Post & telecommunications: WE: Buildings, plant & mac £b CP",NSA,0,CURR,0,CAPSTK
+JJOY,"Net capital stock: Post & telecommunications: WE: Buildings, plant & mac £b CVM",NSA,2006,CONS,0,CAPSTK
+JJPB,"Capital consumption: Financial intermediation.: WE: Buildings, plant & m £m CP",NSA,0,CURR,0,CAPSTK
+JJPC,"Capital consumption: Financial intermediation.: WE: Buildings, plant & m £m CVM",NSA,2006,CONS,0,CAPSTK
+JJPE,"Gross capital stock: Financial intermediation.: WE: Buildings, plant & m £b CP",NSA,0,CURR,0,CAPSTK
+JJPG,"Gross capital stock: Financial intermediation.: WE: Buildings, plant & m £b CVM",NSA,2006,CONS,0,CAPSTK
+JJPJ,"Net capital stock: Financial intermediation.: WE: Buildings, plant & mac £b CP",NSA,0,CURR,0,CAPSTK
+JJPL,"Net capital stock: Financial intermediation.: WE: Buildings, plant & mac £b CVM",NSA,2006,CONS,0,CAPSTK
+JJPO,"Capital consumption: Computer activities,research and business services: £m CP",NSA,0,CURR,0,CAPSTK
+JJPP,"Capital consumption: Computer activities,research and business services: £m CVM",NSA,2006,CONS,0,CAPSTK
+JJPR,"Gross capital stock: Computer activities,research and business services: £b CP",NSA,0,CURR,0,CAPSTK
+JJPT,"Gross capital stock: Computer activities,research and business services: £b CVM",NSA,2006,CONS,0,CAPSTK
+JJPW,"Net capital stock: Computer activities,research and business services: W £b CP",NSA,0,CURR,0,CAPSTK
+JJPY,"Net capital stock: Computer activities,research and business services: W £b CVM",NSA,2006,CONS,0,CAPSTK
+JKNC,"Capital consumption : Membership Orgs & other: WE : BPV :£m CP",NSA,0,CURR,0,CAPSTK
+JKND,"Capital consumption : Membership Orgs & other: WE : BPV :£m CVM",NSA,2006,CONS,0,CAPSTK
+JKNF,"Gross capital stock : Other community, social: WE : I :£b CVM",NSA,2006,CONS,0,CAPSTK
+JKNG,"Net capital stock : Other community, social: WE : I :£b CVM",NSA,2006,CONS,0,CAPSTK
+JKNH,"Gross capital stock : Other community, social: WE : I :£b CP",NSA,0,CURR,0,CAPSTK
+JKNI,"Net capital stock : Other community, social: WE : I :£b CP",NSA,0,CURR,0,CAPSTK
+JKNJ,"Gross capital stock : Membership Orgs & other: WE : BPV :£b CP",NSA,0,CURR,0,CAPSTK
+JKNK,"Gross capital stock : Membership Orgs & other: WE : BPV :£b CVM",NSA,2006,CONS,0,CAPSTK
+JKNL,"Net capital stock : Membership orgs & oth: WE : BPV :£b CP",NSA,0,CURR,0,CAPSTK
+JKNM,"Net capital stock : Membership orgs & oth: WE : BPV :£b CVM",NSA,2006,CONS,0,CAPSTK
+JKNT,"Gross capital stock :Transport & communi : WE : I :£b CP",NSA,0,CURR,0,CAPSTK
+JKNU,"Net capital stock :Transport & communi : WE : I :£b CP",NSA,0,CURR,0,CAPSTK
+JKNV,"Gross capital stock :Transport & communi : WE : I :£b CVM",NSA,2006,CONS,0,CAPSTK
+JKNW,"Net capital stock :Transport & communi : WE : I :£b CVM",NSA,2006,CONS,0,CAPSTK
+KWPS,"Capex:Electrical machinery:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+KWPT,"Capex : Electrical machinery : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+KWPV,"Capex:Electrical machinery:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+KWPW,"Capex : Electrical machinery : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+KWPY,"Capex:Electrical machinery:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+KWPZ,"Capex : Electrical machinery : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+KWQB,"Capex:Radio & TV Equipment:New Building Work:CVM",NSA,2006,CONS,0,CAPSTK
+KWQC,"Capex : Radio & TV Equipment : New Building Work : CP",NSA,0,CURR,0,CAPSTK
+KWQE,"Capex:Radio & TV Equipment:Vehicles:CVM",NSA,2006,CONS,0,CAPSTK
+KWQF,"Capex : Radio & TV Equipment : Vehicles : CP",NSA,0,CURR,0,CAPSTK
+KWQH,"Capex:Radio & TV Equipment:Plant & Machinery:CVM",NSA,2006,CONS,0,CAPSTK
+KWQI,"Capex : Radio & TV Equipment : Plant & Machinery : CP",NSA,0,CURR,0,CAPSTK
+LLFX,"Capital consumption: Total: CG: Intangible fixed assets: £m CVM",NSA,2006,CONS,0,CAPSTK
+LLFY,"Capital consumption: Total: LA: Intangible fixed assets: £m CVM",NSA,2006,CONS,0,CAPSTK
+LLFZ,"Capital consumption: Total: HN: Intangible fixed assets: £m CVM",NSA,2006,CONS,0,CAPSTK
+LLGA,"Capital consumption: Total: FC: Intangible fixed assets: £m CVM",NSA,2006,CONS,0,CAPSTK
+NPNX,"ESA:GFCF - computer software. Financial corporations. CP NSA, £m",NSA,0,CURR,0,CAPSTK
+NPNY,"ESA:GFCF - computer software. Financial corporations. CVM NSA, £m",NSA,2006,CONS,0,CAPSTK
+NTES,"Consumption of Fixed Capital: Computer Software: Financial Corporations: (CP )#m",NSA,0,CURR,0,CAPSTK
+NTET,"Consumption of Fixed Capital: Computer software: Financial corporations: (KP) #m",NSA,2006,CONS,0,CAPSTK
+NTFM,"ESA: ConsFixedCap. Computer software. Households. CP NSA. £m",NSA,0,CURR,0,CAPSTK
+NTFN,"ESA: ConsFixedCap. Computer software. Households. KP NSA. £m",NSA,2006,CONS,0,CAPSTK
+NTFQ,"ESA: ConsFixedCap. Computer software. NPISHs. CP NSA. £m",NSA,0,CURR,0,CAPSTK
+NTFR,"ESA: ConsFixedCap. Computer software. NPISHs. KP NSA. £m",NSA,2006,CONS,0,CAPSTK
+RABC,"GFCF: Buildings: WE: Other transport equipment: CP: NSA",NSA,0,CURR,0,CAPSTK
+RNEM,"GFCF: Buildings: WE: Other transport equipment: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+RNFA,"GFCF: Plant: WE: Other transport equipment: CP: NSA",NSA,0,CURR,0,CAPSTK
+RNFG,"GFCF: Plant: WE: Other transport equipment: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+RNFK,"GFCF: Vehicles: WE: Other transport equipment: CP: NSA",NSA,0,CURR,0,CAPSTK
+RNGG,"GFCF: Vehicles: WE: Other transport equipment: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+RXVX,"GFCF: Computer Software: Agriculture & forestry: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXVY,"GFCF: Computer Software: Agriculture & forestry: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXWB,"GFCF: Computer Software: Food, drink & tobacco: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXWC,"GFCF: Computer Software: Food, drink & tobacco: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXWD,"GFCF: Computer Software: Textiles: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXWE,"GFCF: Computer Software: Textiles: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXWH,"GFCF: Computer Software: Fuels: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXWI,"GFCF: Computer Software: Fuels: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXWJ,"GFCF: Computer Software: Chemicals: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXWK,"GFCF: Computer Software: Chemicals: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXWL,"GFCF: Computer Software: Other mineral products: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXWM,"GFCF: Computer Software: Other mineral products: CVM: NSA:Value",NSA,2006,CONS,0,CAPSTK
+RXWN,"GFCF: Computer Software: Metal and metal products: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXWO,"GFCF: Computer Software: Other mineral products: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXWP,"GFCF: Computer Software :Machinery and equipment: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXWQ,"GFCF: Computer Software: Machinery & equipment: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXWR,"GFCF: Computer Software: Electrical & optical equipment: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXWS,"GFCF: Computer Software: Electrical & optical equipment:CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXWT,"GFCF: Computer Software: Transport equipment: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXWU,"GFCF: Computer Software: Transport equipment: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXWV,"GFCF: Computer Software: Other Manufacturing: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXWW,"GFCF: Computer Software: Other Manufacturing: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXWX,"GFCF: Computer Software: Electricity, gas & water: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXWY,"GFCF: Computer Software: Electricity, gas & water: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXWZ,"GFCF: Computer Software: Construction: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXXA,"GFCF: Computer Software: Construction: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXXB,"GFCF: Computer Software: Distribution: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXXC,"GFCF: Computer Software: Distribution: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXXD,"GFCF: Computer Software: Hotels & restaurants: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXXE,"GFCF: Computer Software: Hotels & restaurants: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXXF,"GFCF: Computer Software: Transport & communication: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXXG,"GFCF: Computer Software: Transport & communication: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXXH,"GFCF: Computer Software: Real estate, renting & business: CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXXI,"GFCF: Computer Software: Real estate, renting & business: CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXXJ,"GFCF: Computer Software: Public Administration : CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXXK,"GFCF: Computer Software: Public Administration:CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXXL,"GFCF: Computer Software: Health & social work : CP: NSA: Value",NSA,0,CURR,0,CAPSTK
+RXXM,"GFCF: Computer Software: Health & social work:CVM: NSA: Value",NSA,2006,CONS,0,CAPSTK
+RXXP,"GFCF: Computer Software: Education: CP: NSA",NSA,0,CURR,0,CAPSTK
+RXXQ,"GFCF: Computer Software: Education: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+RXZM,"GFCF: PT: BPVI: Wood: A31 Totals: CP: NSA",NSA,0,CURR,0,CAPSTK
+RXZV,"GFCF: Buildings: WE: Public administration: CP: NSA",NSA,0,CURR,0,CAPSTK
+RXZW,"GFCF: Buildings: WE: Public administration: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+RXZX,"GFCF: Plant: WE: Public administration: CP: NSA",NSA,0,CURR,0,CAPSTK
+RXZY,"GFCF: Plant: WE: Public administration: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+RXZZ,"GFCF: Vehicles: WE: Public administration: CP: NSA",NSA,0,CURR,0,CAPSTK
+RYFV,"GFCF: Vehicles: WE: Public administration: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+RZGA,"GFCF: PT: BPVI: Rubber & plastic: A31 Totals: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+TJUX,"GFCF: Whole economy: Buildings: Agriculture, forestry & fishing: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TJVA,"GFCF:Whole economy:Plant & machinery:Agriculture, forestry & fishing:CVM NSA",NSA,2006,CONS,0,CAPSTK
+TJVD,"GFCF: Whole economy: Vehicles: Agriculture, forestry & fishing: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TJYR,"GFCF: Whole economy: Buildings: Mining & quarrying: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TJYU,"GFCF: Whole economy: Plant & machinery: Mining & quarrying: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TJYW,"GFCF: Whole economy: Vehicles: Mining & quarrying: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TKCF,"GFCF: Whole economy: Buildings: Electricity, gas & water: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TKCI,"GFCF: Whole economy: Plant & machinery: Electricity, gas & water: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TKCL,"GFCF: Whole economy: Vehicles: Electricity, gas & water: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TKFD,"GFCF: Whole economy: Vehicles: Manufacturing: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TKHX,"GFCF: Whole economy: Buildings: Transport & communications: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TKIA,"GFCF: Whole economy: Plant & machinery: Transport & communications: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TKID,"GFCF: Whole economy: Vehicles: Transport & communications: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TKTX,"GFCF: Private sector: Vehicles: Hiring: CP NSA",NSA,0,CURR,0,CAPSTK
+TKTZ,"GFCF: Private sector: Vehicles: Hiring: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TKVH,"GFCF: Whole economy: Buildings: Property: CP NSA",NSA,0,CURR,0,CAPSTK
+TKVJ,"GFCF: Whole economy: Buildings: Property: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TKVL,"GFCF: Whole economy: Plant and machinery: Property: CP NSA",NSA,0,CURR,0,CAPSTK
+TKVN,"GFCF: Whole economy: Plant & machinery: Property: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TKVP,"GFCF: Whole economy: Vehicles: Property: CP NSA",NSA,0,CURR,0,CAPSTK
+TKVR,"GFCF: Whole economy: Vehicles: Property: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TLBJ,"GFCF: Whole economy: Buildings: Education: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TLBM,"GFCF: Whole economy: Plant & machinery: Education: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TLBP,"GFCF: Whole economy: Vehicles: Education: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TLDE,"GFCF: Whole economy: Buildings: Sewage: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TLDH,"GFCF: Whole economy: Plant & machinery: Sewage: CVM NSA",NSA,2006,CONS,0,CAPSTK
+TLDK,"GFCF: Whole economy: Vehicles: Sewage: CVM NSA",NSA,2006,CONS,0,CAPSTK
+XXUG,"GFCF: Private sector: Vehicles: Financial intermediation: Total: CP NSA",NSA,0,CURR,0,CAPSTK
+XXUO,"GFCF: Private sector: Vehicles: Financial intermediation: Total: CVM NSA",NSA,2006,CONS,0,CAPSTK
+XXVF,"GFCF: Private sector: Vehicles: Insurance & pension funds: Total: CP NSA",NSA,0,CURR,0,CAPSTK
+XXVG,"GFCF: Private sector: Vehicles: Insurance & pension funds: Total: CVM NSA",NSA,2006,CONS,0,CAPSTK
+XXVH,"GFCF: PT: Buildings: Insurance and pension funds: A60 Totals: CP: NSA",NSA,0,CURR,0,CAPSTK
+XXVI,"GFCF: PT: Buildings: Insurance & pension funds: A60 Totals: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+XXWE,"GFCF: PT: Buildings: Financial intermediation: A31 Totals: CP: NSA",NSA,0,CURR,0,CAPSTK
+XXWK,"GFCF: PT: Buildings: Financial intermediation: A31 Totals: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+XXYA,"GFCF: PT: Plant: Insurance & Pension funds: A60 Totals: CP: NSA",NSA,0,CURR,0,CAPSTK
+XXYB,"GFCF: PT: Plant: Insurance & Pension funds: A60 Totals: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+XYOU,"GFCF Plant: WE: Other manufacturing: CP: NSA",NSA,0,CURR,0,CAPSTK
+XYOV,"GFCF: Plant: WE: Other manufacturing: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGIN,"GFCF: Buildings: WE: Paper, publishing & printing : CP: NSA",NSA,0,CURR,0,CAPSTK
+YGIO,"GFCF: Buildings: WE: Paper, publishing & printing:CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGIP,"GFCF: Buildings: WE: Fuels : CP: NSA",NSA,0,CURR,0,CAPSTK
+YGIQ,"GFCF: Buildings: WE: Fuels:CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGIR,"GFCF: Buildings: WE: Metals & metal products : CP: NSA",NSA,0,CURR,0,CAPSTK
+YGIS,"GFCF: Buildings: WE: Metals & metal products:CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGIT,"GFCF: Buildings: WE: TRansport equipment : CP: NSA",NSA,0,CURR,0,CAPSTK
+YGIU,"GFCF: Buildings: WE: TRansport equipment:CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGIV,"GFCF: Buildings: WE: Other manufacturing: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGIW,"GFCF: Buildings: WE: Other manufacturing: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGIX,"GFCF: Buildings: WE: Distribution: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGIY,"GFCF: Buildings: WE: Distribution: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGIZ,"GFCF: Buildings: WE: Real estate, renting & business: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGJA,"GFCF: Buildings: WE: Real estate, renting & business: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGJD,"GFCF: Buildings: WE: Other community, social & personal services: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGJE,"GFCF: Buildings: WE: Other community, social & personal services: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGJX,"GFCF: Plant: WE: Paper, publishing & printing : CP: NSA",NSA,0,CURR,0,CAPSTK
+YGJY,"GFCF: Plant: WE: Paper, publishing & printing:CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGKB,"GFCF: Plant: WE: Metals & metal products: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGKC,"GFCF: Plant: WE: Metals & metal products: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGKD,"GFCF: Plant: WE: Transport equipment: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGKE,"GFCF: Plant: WE: Transport equipment: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGKH,"GFCF: Plant: WE: Distribution: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGKI,"GFCF: Plant: WE: Distribution: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGKJ,"GFCF: Plant: WE: Real estate, renting & business: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGKK,"GFCF: Plant: WE: Real estate, renting & business: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGKN,"GFCF: Plant: WE: Other community, social & personal service: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGKO,"GFCF: Plant: WE: Other community, social & personal service: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGLN,"GFCF: Vehicles: WE: Transport equipment: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGLO,"GFCF: Vehicles: WE: Transport equipment: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGLP,"GFCF: Vehicles: WE:Other manufacturing: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGLQ,"GFCF: Vehicles: WE:Other manufacturing: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGLR,"GFCF: Vehicles: WE:Distribution: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGLS,"GFCF: Vehicles:WE: Distribution: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGLT,"GFCF: Vehicles: WE: Real estate, renting & business: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGLU,"GFCF: Vehicles:WE: Real estate, renting & business: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGLX,"GFCF: Vehicles: WE: Other community, social & personal services: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGLY,"GFCF: Vehicles: WE: Other community, social & personal services: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGNC,"GFCF: BPVI: WE: Paper, publishing & printing: A31 Totals: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGND,"GFCF: BPVI: WE: Fuels: A31 Totals: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGNF,"GFCF BPVI: WE: Other manufacturing: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGNH,"GFCF: BPVI: WE: Public administration: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGNI,"GFCF: BPVI: WE: Other community, social & personal service: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGNT,"GFCF: BPVI: WE: Paper, publishing & printing: A31 Totals: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGNV,"GFCF BPVI: WE: Other manufacturing: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGNY,"GFCF: BPVI: WE: Public administration: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGOB,"GFCF: BPVI: WE: Other community, social & personal service: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGOQ,"GFCF: BPVI:WE: Metals & metal products: A31 Totals: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGOT,"GFCF: BPVI: WE: Transport equipment: A31 Totals: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGPV,"GFCF: Total BPVI: WE: Fuels: CVM NSA",NSA,2006,CONS,0,CAPSTK
+YGPX,"GFCF: BPVI: WE: Metals & metal products: A31 Totals: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGQA,"GFCF: BPVI: WE: Transport equipment: A31 Totals: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGQV,"GFCF: Vehicles: WE: Paper, publishing & printing: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGQW,"GFCF: Vehicles: WE: Paper, publishing & printing: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGSE,"GFCF:PT: BPVI: Rubber & plastic: A31 Totals: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGSN,"GFCF: Plant: WE: Fuels: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGSO,"GFCF: Plant: WE: Fuels: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGSV,"GFCF: Vehicles: WE: Fuels: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGSW,"GFCF: Plant: WE: Fuels: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGTD,"GFCF:PT: BPVI: Wood: A31 Totals: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YGTN,"GFCF: Plant: WE: Metals & metal products: CP: NSA",NSA,0,CURR,0,CAPSTK
+YGTO,"GFCF: Plant: WE: Metal & metal products: CVM: NSA",NSA,2006,CONS,0,CAPSTK
+YHFA,"GFCF: BPVI: WE: Distribution CP NSA",NSA,0,CURR,0,CAPSTK
+YHFD,"GFCF: BPVI: WE: Real estate, renting & business:CP: NSA",NSA,0,CURR,0,CAPSTK
+YHFE,"GFCF: BPVI: WE: Distribution CVM NSA",NSA,2006,CONS,0,CAPSTK
+YHFF,"GFCF: BPVI: WE: Real estate, renting & business:CVM: NSA",NSA,2006,CONS,0,CAPSTK
+ZANE,"Capital consumption: Wood: Buildings £m CP",NSA,0,CURR,0,CAPSTK
+ZANF,"Capital consumption: Wood: Buildings £m CVM",NSA,2006,CONS,0,CAPSTK
+ZANP,"Capital consumption: Wood: Plant & machinery £m CP",NSA,0,CURR,0,CAPSTK
+ZANQ,"Capital consumption: Wood: Plant & machinery £m CVM",NSA,2006,CONS,0,CAPSTK
+ZAOI,"Capital consumption: Wood: Vehicles £m CP",NSA,0,CURR,0,CAPSTK
+ZAOJ,"Capital consumption: Wood: Vehicles £m CVM",NSA,2006,CONS,0,CAPSTK
+ZLDE,"Gross Capital Stock:Manufacturing (CP) £b",NSA,0,CURR,0,CAPSTK
+ZLDF,"Gross Capital Stock: Construction Cp £b",NSA,0,CURR,0,CAPSTK
+ZLDO,"Gross Capital Stock: Total CP £b",NSA,0,CURR,0,CAPSTK
+ZLDQ,"Gross Capital Stock: Plant & Machinery CP £b",NSA,0,CURR,0,CAPSTK
+ZLDR,"Gross Capital Stock : Other buildings & works CP £b",NSA,0,CURR,0,CAPSTK
+ZLDS,"Gross Stock: Intangible Assets: CP £m",NSA,0,CURR,0,CAPSTK
+ZNNP,"Capital consumption: Machinery and equipment: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+ZNNQ,"Capital consumption: Machinery and equipment: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNNV,"Capital consumption: Machinery and equipment: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+ZNNW,"Capital consumption: Machinery and equipment: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNOB,"Capital consumption: Machinery and equipment: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+ZNOC,"Capital consumption: Machinery and equipment: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNOQ,"Capital consumption: Office machinery & computers: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+ZNOR,"Capital consumption: Office machinery & computers: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNOW,"Capital consumption: Office machinery & computers: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+ZNOX,"Capital consumption: Office machinery & computers: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNPC,"Capital consumption: Office machinery & computers: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+ZNPD,"Capital consumption: Office machinery & computers: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNPR,"Capital consumption: Electrical machinery: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+ZNPS,"Capital consumption: Electrical machinery: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNPX,"Capital consumption: Electrical machinery: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+ZNPY,"Capital consumption: Electrical machinery: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNQD,"Capital consumption: Electrical machinery: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+ZNQE,"Capital consumption: Electrical machinery: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNQS,"Capital consumption: Medical & precision instruments: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+ZNQT,"Capital consumption: Medical & precision instruments: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNQY,"Capital consumption: Medical & precision instruments: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+ZNQZ,"Capital consumption: Medical & precision instruments: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNRE,"Capital consumption: Medical & precision instruments: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+ZNRF,"Capital consumption: Medical & precision instruments: Plant and machinery: £m CV",NSA,2006,CONS,0,CAPSTK
+ZNSU,"Capital consumption: Rubber & plastic: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+ZNSV,"Capital consumption: Rubber & plastic: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNTA,"Capital consumption: Rubber & plastic: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+ZNTB,"Capital consumption: Rubber & plastic: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNTG,"Capital consumption: Rubber & plastic: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+ZNTH,"Capital consumption: Rubber & plastic: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNTV,"Capital consumption: Motor vehicles: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+ZNTW,"Capital consumption: Motor vehicles: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNUB,"Capital consumption: Motor vehicles: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+ZNUC,"Capital consumption: Motor vehicles: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNUH,"Capital consumption: Motor vehicles: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+ZNUI,"Capital consumption: Motor vehicles: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNWY,"Capital consumption: Radio & TV: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+ZNWZ,"Capital consumption: Radio & TV: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNXE,"Capital consumption: Radio & TV: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+ZNXF,"Capital consumption: Radio & TV: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZNXK,"Capital consumption: Radio & TV: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+ZNXL,"Capital consumption: Radio & TV: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZOBC,"Capital consumption: Chemicals & man-made fibres: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+ZOBD,"Capital consumption: Chemicals & man-made fibres: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZOBI,"Capital consumption: Chemicals & man-made fibres: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+ZOBJ,"Capital consumption: Chemicals & man-made fibres: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZOBO,"Capital consumption: Chemicals & man-made fibres: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+ZOBP,"Capital consumption: Chemicals & man-made fibres: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZOCD,"Capital consumption: Other mineral products: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+ZOCE,"Capital consumption: Other mineral products: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZOCJ,"Capital consumption: Other mineral products: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+ZOCK,"Capital consumption: Other mineral products: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZOCP,"Capital consumption: Other mineral products: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+ZOCQ,"Capital consumption: Other mineral products: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZTBD,"Capital consumption: Food, drink & tobacco: PT: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+ZTBE,"Capital consumption: Food, drink & tobacco: PT: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZTBJ,"Capital consumption: Food, drink & tobacco: PT: Plant and machinery: £m CP",NSA,0,CURR,0,CAPSTK
+ZTBK,"Capital consumption: Food, drink & tobacco: PT: Plant and machinery: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZTBP,"Capital consumption: Food, drink & tobacco: PT: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+ZTBQ,"Capital consumption: Food, drink & tobacco: PT: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZTJL,"Capital consumption: Electrical and Optical equipment: PT: Buildings: £m CP",NSA,0,CURR,0,CAPSTK
+ZTJM,"Capital consumption: Electrical and Optical equipment: PT: Buildings: £m CVM",NSA,2006,CONS,0,CAPSTK
+ZTJR,"Capital consumption: Electrical and Optical equipment: PT: Plant and machinery:",NSA,0,CURR,0,CAPSTK
+ZTJS,"Capital consumption: Electrical and Optical equipment: PT: Plant and machinery:",NSA,2006,CONS,0,CAPSTK
+ZTJX,"Capital consumption: Electrical and Optical equipment: PT: Vehicles: £m CP",NSA,0,CURR,0,CAPSTK
+ZTJY,"Capital consumption: Electrical and Optical equipment: PT: Vehicles: £m CVM",NSA,2006,CONS,0,CAPSTK
+NHCE,"FC: FC: Prod acc: Uses: K.1: Consumption of fixed capital",NSA,0,CURR,0,CAPSTK
+NQAE,"Consumption of Fixed Capital: All Fixed Assets: Whole Economy: (CP) £m",NSA,0,CURR,0,CAPSTK
+NSRK,"AS:PR:K.1:Consumption of fixed capital",NSA,0,CURR,0,CAPSTK
+NSRM,"Consumption of fixed capital for public corporations",NSA,0,CURR,0,CAPSTK
+NQFT,"UK:NET FINANCIAL ASSETS/LIABILITIES:BF.90: CP NSA",NSA,0,CURR,0,CAPSTK
+NYOE,"ESA:Levels:FC:Assets:Net financial assets/liabilities",NSA,0,CURR,0,CAPSTK
+NYOG,"ESA:Levels:GG:Assets:Net Financial Assets/ Liabilities",NSA,0,CURR,0,CAPSTK
+NYOJ,"Levels:LA:Net Financial AssetsLiabilities: CP NSA",NSA,0,CURR,0,CAPSTK
+NYOM,"ESA:Levels:NF:Assets:Net Financial Assets/Liabilities",NSA,0,CURR,0,CAPSTK
+NYOP,"Levels:PC:Net Financial AssetsLiabilities:CP NSA:£m",NSA,0,CURR,0,CAPSTK
+NYOT,"Levels:PR:Net Financial AssetsLiabilities:CP NSA: £m",NSA,0,CURR,0,CAPSTK
+NZDZ,"Central Government: Levels:Net Financial AssetsLiabilities: CP NSA",NSA,0,CURR,0,CAPSTK
+NZEA,"Levels:HN:Net financial assets/liabilities: CP NSA",NSA,0,CURR,0,CAPSTK
+TMPB,"Private non-financial corporations: AN.1111 Dwellings £m",NSA,0,CURR,0,CAPSTK
+TMPC,"Private non-financial corporations: AN.1114 Cultivated assets £m",NSA,0,CURR,0,CAPSTK
+TMPD,"Private non-financial corporations: AN.11121 Non-residential buildings £m",NSA,0,CURR,0,CAPSTK
+TMPE,"Private non-financial corporations: AN.11122 Other structures £m",NSA,0,CURR,0,CAPSTK
+TMPF,"Private non-financial corporations: AN.11132 Plant and machinery £m",NSA,0,CURR,0,CAPSTK
+TMPG,"Private non-financial corporations: AN.12 Inventories £m",NSA,0,CURR,0,CAPSTK
+TMPJ,"Private non-financial corporations: AN.1129 Other intangible fixed assets £m",NSA,0,CURR,0,CAPSTK
+TMPN,"Private non-financial corporations: B.90 Total net worth £m",NSA,0,CURR,0,CAPSTK
+TMPO,"Private non-financial corporations: AN.11131 Transport equipment £m",NSA,0,CURR,0,CAPSTK
+QWLL,"ESA:HN:K.1;CONSUMPTION OF FIXED CAPITAL",NSA,0,CURR,0,CAPSTK
+ZLCS,"Local Government: AN.1111 Dwellings £m",NSA,0,CURR,0,CAPSTK
+ZLDA,"Central Government: AN.229 Other intangible non-produced assets £m",NSA,0,CURR,0,CAPSTK
+ZLDB,"General Government: AN.229 Other intangible non-produced assets £m",NSA,0,CURR,0,CAPSTK
+ZLDC,"Public Sector: AN.229 Other intangible non-produced assets £m",NSA,0,CURR,0,CAPSTK

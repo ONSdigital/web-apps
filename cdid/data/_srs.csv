@@ -1,0 +1,215 @@
+DEYF,"SRS: Percent of total equity:Rest of the World",NSA,0,CURR,0,SRS
+DEYG,"SRS: Percent of total equity:Insurance Companies",NSA,0,CURR,0,SRS
+DEYH,"SRS: Percent of total equity:Pension Funds",NSA,0,CURR,0,SRS
+DEYI,"SRS: Percent of total equity:Individuals",NSA,0,CURR,0,SRS
+DEYJ,"SRS: Percent of total equity:Unit Trusts",NSA,0,CURR,0,SRS
+DEYK,"SRS: Percent of total equity:Investment Trusts",NSA,0,CURR,0,SRS
+DEYL,"SRS: Percent of total equity:Other Financial Institutions",NSA,0,CURR,0,SRS
+DEYM,"SRS: Percent of total equity:Charities etc.",NSA,0,CURR,0,SRS
+DEYN,"SRS: Percent of total equity:Private Non-Financial Institutions",NSA,0,CURR,0,SRS
+DEYO,"SRS: Percent of total equity:Public Sector",NSA,0,CURR,0,SRS
+DEYP,"SRS: Percent of total equity:Banks",NSA,0,CURR,0,SRS
+DEYQ,"SRS: Ungrossed: Total Market Value:Individuals",NSA,0,CURR,0,SRS
+DEYR,"SRS: Ungrossed: Total Market Value:Charities, Churches, etc",NSA,0,CURR,0,SRS
+DEYS,"SRS: Ungrossed: Total Market Value:Insurance Companies",NSA,0,CURR,0,SRS
+DEYT,"SRS: Ungrossed: Total Market Value:Pension Funds",NSA,0,CURR,0,SRS
+DEYU,"SRS: Ungrossed: Total Market Value:Investment Trusts",NSA,0,CURR,0,SRS
+DEYV,"SRS: Ungrossed: Total Market Value:Unit Trusts",NSA,0,CURR,0,SRS
+DEYW,"SRS: Ungrossed: Total Market Value:Banks",NSA,0,CURR,0,SRS
+DEYY,"SRS: Ungrossed: Total Market Value:Other Financial Institutions",NSA,0,CURR,0,SRS
+DEYZ,"SRS: Ungrossed: Total Market Value:Private Non-Financial Insitutions",NSA,0,CURR,0,SRS
+DEZD,"SRS: Ungrossed: Total Market Value:Public Sector",NSA,0,CURR,0,SRS
+DEZE,"SRS: Ungrossed: Total Market Value:Rest of the World",NSA,0,CURR,0,SRS
+DEZF,"SRS: Ungrossed: Total Market Value:Mutiple Ownership",NSA,0,CURR,0,SRS
+DEZG,"SRS: Ungrossed: Total Market Value:Not on Crest",NSA,0,CURR,0,SRS
+DEZH,"SRS: Grossed: Total Market Value:Individuals",NSA,0,CURR,0,SRS
+DEZI,"SRS: Grossed: Total Market Value:Charities, Churches, etc",NSA,0,CURR,0,SRS
+DEZJ,"SRS: Grossed: Total Market Value:Insurance Companies",NSA,0,CURR,0,SRS
+DEZK,"SRS: Grossed: Total Market Value:Pension Funds",NSA,0,CURR,0,SRS
+DEZL,"SRS: Grossed: Total Market Value:Investment Trusts",NSA,0,CURR,0,SRS
+DEZM,"SRS: Grossed: Total Market Value:Unit Trusts",NSA,0,CURR,0,SRS
+DEZN,"SRS: Grossed: Total Market Value:Banks",NSA,0,CURR,0,SRS
+DEZP,"SRS: Grossed: Total Market Value:Other Financial Institutions",NSA,0,CURR,0,SRS
+DEZQ,"SRS: Grossed: Total Market Value:Private Non-Financial Institutions",NSA,0,CURR,0,SRS
+DEZR,"SRS: Grossed: Total Market Value:Central Government",NSA,0,CURR,0,SRS
+DEZU,"SRS: Grossed: Total Market Value:Public Sector",NSA,0,CURR,0,SRS
+DEZV,"SRS: Grossed: Total Market Value:Rest of the World",NSA,0,CURR,0,SRS
+DEZW,"SRS: Ungrossed: Finco shares owned by:Individuals",NSA,0,CURR,0,SRS
+DEZX,"SRS: Ungrossed: Finco shares owned by:Charities, Churches, etc",NSA,0,CURR,0,SRS
+DEZY,"SRS: Ungrossed: Finco shares owned by:Insurance Companies",NSA,0,CURR,0,SRS
+DEZZ,"SRS: Ungrossed: Finco shares owned by:Pension Funds",NSA,0,CURR,0,SRS
+DFDY,"SRS: Ungrossed: Finco shares owned by:Investment Trusts",NSA,0,CURR,0,SRS
+DFEI,"SRS: Ungrossed: Finco shares owned by:Unit Trusts",NSA,0,CURR,0,SRS
+DFEW,"SRS: Ungrossed: Finco shares owned by:Banks",NSA,0,CURR,0,SRS
+DFFA,"SRS: Ungrossed: Finco shares owned by:Other Financial Institutions",NSA,0,CURR,0,SRS
+DFFP,"SRS: Ungrossed: Finco shares owned by:Private Non-Financial Institutions",NSA,0,CURR,0,SRS
+DFGH,"SRS: Ungrossed: Finco shares owned by:Public Sector",NSA,0,CURR,0,SRS
+DFGI,"SRS: Ungrossed: Finco shares owned by:Rest of the World",NSA,0,CURR,0,SRS
+DFGJ,"SRS: Ungrossed: Finco shares owned by:Mutiple Ownership",NSA,0,CURR,0,SRS
+DFGK,"SRS: Ungrossed: Finco shares owned by:Not on Crest",NSA,0,CURR,0,SRS
+DFGL,"SRS: Ungrossed: Manufacturing shares owned by:Individuals",NSA,0,CURR,0,SRS
+DFGM,"SRS: Ungrossed: Manufacturing shares owned by:Charities, Churches, etc",NSA,0,CURR,0,SRS
+DFGN,"SRS: Ungrossed: Manufacturing shares owned by:Insurance Companies",NSA,0,CURR,0,SRS
+DFGO,"SRS: Ungrossed: Manufacturing shares owned by:Pension Funds",NSA,0,CURR,0,SRS
+DFGP,"SRS: Ungrossed: Manufacturing shares owned by:Investment Trusts",NSA,0,CURR,0,SRS
+DFGQ,"SRS: Ungrossed: Manufacturing shares owned by:Unit Trusts",NSA,0,CURR,0,SRS
+DFGR,"SRS: Ungrossed: Manufacturing shares owned by:Banks",NSA,0,CURR,0,SRS
+DFGT,"SRS: Ungrossed: Manufacturing shares owned by:Other Financial Institutions",NSA,0,CURR,0,SRS
+DFGU,"SRS: Ungrossed: Manufacturing shares owned by:Private Non-Financial Institutions",NSA,0,CURR,0,SRS
+DFGY,"SRS: Ungrossed: Manufacturing shares owned by:Public Sector",NSA,0,CURR,0,SRS
+DFGZ,"SRS: Ungrossed: Manufacturing shares owned by:Rest of the World",NSA,0,CURR,0,SRS
+DFHA,"SRS: Ungrossed: Manufacturing shares owned by:Mutiple Ownership",NSA,0,CURR,0,SRS
+DFHB,"SRS: Ungrossed: Manufacturing shares owned by:Not on Crest",NSA,0,CURR,0,SRS
+DFHC,"SRS: Ungrossed: Non-Manufacturing shares owned by:Individuals",NSA,0,CURR,0,SRS
+DFHD,"SRS: Ungrossed: Non-Manufacturing shares owned by:Charities, Churches, etc",NSA,0,CURR,0,SRS
+DFHE,"SRS: Ungrossed: Non-Manufacturing shares owned by:Insurance Companies",NSA,0,CURR,0,SRS
+DFHF,"SRS: Ungrossed: Non-Manufacturing shares owned by:Pension Funds",NSA,0,CURR,0,SRS
+DFHG,"SRS: Ungrossed: Non-Manufacturing shares owned by:Investment Trusts",NSA,0,CURR,0,SRS
+DFHH,"SRS: Ungrossed: Non-Manufacturing shares owned by:Unit Trusts",NSA,0,CURR,0,SRS
+DFHI,"SRS: Ungrossed: Non-Manufacturing shares owned by:Banks",NSA,0,CURR,0,SRS
+DFHK,"SRS: Ungrossed: Non-Manufacturing shares owned by:Other Financial Institutions",NSA,0,CURR,0,SRS
+DFHL,"SRS: Ungrossed: Non-Manufacturing shares owned by:Private Non-Financial Institut",NSA,0,CURR,0,SRS
+DFHP,"SRS: Ungrossed: Non-Manufacturing shares owned by:Public Sector",NSA,0,CURR,0,SRS
+DFHQ,"SRS: Ungrossed: Non-Manufacturing shares owned by:Rest of the World",NSA,0,CURR,0,SRS
+DFHR,"SRS: Ungrossed: Non-Manufacturing shares owned by:Mutiple Ownership",NSA,0,CURR,0,SRS
+DFIA,"SRS: Ungrossed: Non-Manufacturing shares owned by:Not on Crest",NSA,0,CURR,0,SRS
+DFIP,"SRS: Grossed: Finco shares owned by:Individuals",NSA,0,CURR,0,SRS
+DFIU,"SRS: Grossed: Finco shares owned by:Charities, Churches, etc",NSA,0,CURR,0,SRS
+DFIW,"SRS: Grossed: Finco shares owned by:Insurance Companies",NSA,0,CURR,0,SRS
+DFIY,"SRS: Grossed: Finco shares owned by:Pension Funds",NSA,0,CURR,0,SRS
+DFJE,"SRS: Grossed: Finco shares owned by:Investment Trusts",NSA,0,CURR,0,SRS
+DFJF,"SRS: Grossed: Finco shares owned by:Unit Trusts",NSA,0,CURR,0,SRS
+DFJQ,"SRS: Grossed: Finco shares owned by:Banks",NSA,0,CURR,0,SRS
+DFKJ,"SRS: Grossed: Finco shares owned by:Other Financial Institutions",NSA,0,CURR,0,SRS
+DFKQ,"SRS: Grossed: Finco shares owned by:Private Non-Financial Institutions",NSA,0,CURR,0,SRS
+DFMS,"SRS: Grossed: Finco shares owned by:Public Sector",NSA,0,CURR,0,SRS
+DFNG,"SRS: Grossed: Finco shares owned by:Rest of the World",NSA,0,CURR,0,SRS
+DFNH,"SRS: Grossed: Manufacturing shares owned by:Individuals",NSA,0,CURR,0,SRS
+DFPC,"SRS: Grossed: Manufacturing shares owned by:Charities, Churches, etc",NSA,0,CURR,0,SRS
+DFPI,"SRS: Grossed: Manufacturing shares owned by:Insurance Companies",NSA,0,CURR,0,SRS
+DFPV,"SRS: Grossed: Manufacturing shares owned by:Pension Funds",NSA,0,CURR,0,SRS
+DFQH,"SRS: Grossed: Manufacturing shares owned by:Investment Trusts",NSA,0,CURR,0,SRS
+DFQJ,"SRS: Grossed: Manufacturing shares owned by:Unit Trusts",NSA,0,CURR,0,SRS
+DFQR,"SRS: Grossed: Manufacturing shares owned by:Banks",NSA,0,CURR,0,SRS
+DFUK,"SRS: Grossed: Manufacturing shares owned by:Other Financial Institutions",NSA,0,CURR,0,SRS
+DFUL,"SRS: Grossed: Manufacturing shares owned by:Private Non-Financial Institutions",NSA,0,CURR,0,SRS
+DFUP,"SRS: Grossed: Manufacturing shares owned by:Public Sector",NSA,0,CURR,0,SRS
+DFUQ,"SRS: Grossed: Manufacturing shares owned by:Rest of the World",NSA,0,CURR,0,SRS
+DFUR,"SRS: Grossed: Non-Manufacturing shares owned by:Individuals",NSA,0,CURR,0,SRS
+DFUS,"SRS: Grossed: Non-Manufacturing shares owned by:Charities, Churches, etc",NSA,0,CURR,0,SRS
+DFUT,"SRS: Grossed: Non-Manufacturing shares owned by:Insurance Companies",NSA,0,CURR,0,SRS
+DFUU,"SRS: Grossed: Non-Manufacturing shares owned by:Pension Funds",NSA,0,CURR,0,SRS
+DFUV,"SRS: Grossed: Non-Manufacturing shares owned by:Investment Trusts",NSA,0,CURR,0,SRS
+DFUW,"SRS: Grossed: Non-Manufacturing shares owned by:Unit Trusts",NSA,0,CURR,0,SRS
+DFUX,"SRS: Grossed: Non-Manufacturing shares owned by:Banks",NSA,0,CURR,0,SRS
+DFUZ,"SRS: Grossed: Non-Manufacturing shares owned by:Other Financial Institutions",NSA,0,CURR,0,SRS
+DFWJ,"SRS: Grossed: Non-Manufacturing shares owned by:Private Non-Financial Institutio",NSA,0,CURR,0,SRS
+DFWN,"SRS: Grossed: Non-Manufacturing shares owned by:Public Sector",NSA,0,CURR,0,SRS
+DFWO,"SRS: Grossed: Non-Manufacturing shares owned by:Rest of the World",NSA,0,CURR,0,SRS
+DFWP,"SRS: Ungrossed: FTSE 100 :Individuals",NSA,0,CURR,0,SRS
+DFWQ,"SRS: Ungrossed: FTSE 100 :Charities, Churches, etc",NSA,0,CURR,0,SRS
+DFWR,"SRS: Ungrossed: FTSE 100 :Insurance Companies",NSA,0,CURR,0,SRS
+DFWS,"SRS: Ungrossed: FTSE 100 :Pension Funds",NSA,0,CURR,0,SRS
+DFWT,"SRS: Ungrossed: FTSE 100 :Investment Trusts",NSA,0,CURR,0,SRS
+DFWU,"SRS: Ungrossed: FTSE 100 :Unit Trusts",NSA,0,CURR,0,SRS
+DFWV,"SRS: Ungrossed: FTSE 100 :Banks",NSA,0,CURR,0,SRS
+DFWX,"SRS: Ungrossed: FTSE 100 :Other Financial Institutions",NSA,0,CURR,0,SRS
+DFWY,"SRS: Ungrossed: FTSE 100 :Private Non-Financial Institutions",NSA,0,CURR,0,SRS
+DGKH,"SRS: Ungrossed: FTSE 100 :Public Sector",NSA,0,CURR,0,SRS
+DGKI,"SRS: Ungrossed: FTSE 100 :Rest of the World",NSA,0,CURR,0,SRS
+DGPE,"SRS: Ungrossed: FTSE 100 :Mutiple Ownership",NSA,0,CURR,0,SRS
+DGPF,"SRS: Ungrossed: FTSE 100 :Not on Crest",NSA,0,CURR,0,SRS
+DGPG,"SRS: Ungrossed: Non FTSE 100 :Individuals",NSA,0,CURR,0,SRS
+DGPK,"SRS: Ungrossed: Non FTSE 100 :Charities, Churches, etc",NSA,0,CURR,0,SRS
+DGPR,"SRS: Ungrossed: Non FTSE 100 :Insurance Companies",NSA,0,CURR,0,SRS
+DGPS,"SRS: Ungrossed: Non FTSE 100 :Pension Funds",NSA,0,CURR,0,SRS
+DHUS,"SRS: Ungrossed: Non FTSE 100 :Investment Trusts",NSA,0,CURR,0,SRS
+DHUW,"SRS: Ungrossed: Non FTSE 100 :Unit Trusts",NSA,0,CURR,0,SRS
+DHUX,"SRS: Ungrossed: Non FTSE 100 :Banks",NSA,0,CURR,0,SRS
+DHUZ,"SRS: Ungrossed: Non FTSE 100 :Other Financial Institutions",NSA,0,CURR,0,SRS
+DICZ,"SRS: Ungrossed: Non FTSE 100 :Private Non-Financial Institutions",NSA,0,CURR,0,SRS
+DIPI,"SRS: Ungrossed: Non FTSE 100 :Public Sector",NSA,0,CURR,0,SRS
+DISW,"SRS: Ungrossed: Non FTSE 100 :Rest of the World",NSA,0,CURR,0,SRS
+DISZ,"SRS: Ungrossed: Non FTSE 100 :Mutiple Ownership",NSA,0,CURR,0,SRS
+DITC,"SRS: Ungrossed: Non FTSE 100 :Not on Crest",NSA,0,CURR,0,SRS
+DITD,"SRS: Grossed: FTSE 100 :Individuals",NSA,0,CURR,0,SRS
+DITE,"SRS: Grossed: FTSE 100 :Charities, Churches, etc",NSA,0,CURR,0,SRS
+DITF,"SRS: Grossed: FTSE 100 :Insurance Companies",NSA,0,CURR,0,SRS
+DITG,"SRS: Grossed: FTSE 100 :Pension Funds",NSA,0,CURR,0,SRS
+DITH,"SRS: Grossed: FTSE 100 :Investment Trusts",NSA,0,CURR,0,SRS
+DITI,"SRS: Grossed: FTSE 100 :Unit Trusts",NSA,0,CURR,0,SRS
+DITJ,"SRS: Grossed: FTSE 100 :Banks",NSA,0,CURR,0,SRS
+DITK,"SRS: Grossed: FTSE 100 :Building Societies",NSA,0,CURR,0,SRS
+DITL,"SRS: Grossed: FTSE 100 :Other Financial Institutions",NSA,0,CURR,0,SRS
+DITN,"SRS: Grossed: FTSE 100 :Central Government",NSA,0,CURR,0,SRS
+DITQ,"SRS: Grossed: FTSE 100 :Public Sector",NSA,0,CURR,0,SRS
+DITR,"SRS: Grossed: FTSE 100 :Rest of the World",NSA,0,CURR,0,SRS
+DITU,"SRS: Grossed: Non FTSE 100 :Individuals",NSA,0,CURR,0,SRS
+DITV,"SRS: Grossed: Non FTSE 100 :Charities, Churches, etc",NSA,0,CURR,0,SRS
+DITW,"SRS: Grossed: Non FTSE 100 :Insurance Companies",NSA,0,CURR,0,SRS
+DITX,"SRS: Grossed: Non FTSE 100 :Pension Funds",NSA,0,CURR,0,SRS
+DITY,"SRS: Grossed: Non FTSE 100 :Investment Trusts",NSA,0,CURR,0,SRS
+DITZ,"SRS: Grossed: Non FTSE 100 :Unit Trusts",NSA,0,CURR,0,SRS
+DIUA,"SRS: Grossed: Non FTSE 100 :Banks",NSA,0,CURR,0,SRS
+DIUB,"SRS: Grossed: Non FTSE 100 :Building Societies",NSA,0,CURR,0,SRS
+DIUC,"SRS: Grossed: Non FTSE 100 :Other Financial Institutions",NSA,0,CURR,0,SRS
+DIUD,"SRS: Grossed: Non FTSE 100 :Private Non-Financial Institutions",NSA,0,CURR,0,SRS
+DIUH,"SRS: Grossed: Non FTSE 100 :Public Sector",NSA,0,CURR,0,SRS
+DIUI,"SRS: Grossed: Non FTSE 100 :Rest of the World",NSA,0,CURR,0,SRS
+DIUL,"SRS: Ungrossed: Investment Trusts owned by :Individuals",NSA,0,CURR,0,SRS
+DIUM,"SRS: Ungrossed: Investment Trusts owned by :Charities, Churches, etc",NSA,0,CURR,0,SRS
+DIUN,"SRS: Ungrossed: Investment Trusts owned by :Insurance Companies",NSA,0,CURR,0,SRS
+DIUO,"SRS: Ungrossed: Investment Trusts owned by :Pension Funds",NSA,0,CURR,0,SRS
+DIUP,"SRS: Ungrossed: Investment Trusts owned by :Investment Trusts",NSA,0,CURR,0,SRS
+DIUQ,"SRS: Ungrossed: Investment Trusts owned by :Unit Trusts",NSA,0,CURR,0,SRS
+DIUR,"SRS: Ungrossed: Investment Trusts owned by :Banks",NSA,0,CURR,0,SRS
+DIUT,"SRS: Ungrossed: Investment Trusts owned by :Other Financial Institutions",NSA,0,CURR,0,SRS
+DIUU,"SRS: Ungrossed: Investment Trusts owned by :Private Non-Financial Institutions",NSA,0,CURR,0,SRS
+DIUY,"SRS: Ungrossed: Investment Trusts owned by :Public Sector",NSA,0,CURR,0,SRS
+DIUZ,"SRS: Ungrossed: Investment Trusts owned by :Rest of the World",NSA,0,CURR,0,SRS
+DIVA,"SRS: Ungrossed: Investment Trusts owned by :Mutiple Ownership",NSA,0,CURR,0,SRS
+DIVB,"SRS: Ungrossed: Investment Trusts owned by :Not on Crest",NSA,0,CURR,0,SRS
+DIVC,"SRS: Ungrossed: Non-Investment Trusts owned by :Individuals",NSA,0,CURR,0,SRS
+DIVD,"SRS: Ungrossed: Non-Investment Trusts owned by :Charities, Churches, etc",NSA,0,CURR,0,SRS
+DIVE,"SRS: Ungrossed: Non-Investment Trusts owned by :Insurance Companies",NSA,0,CURR,0,SRS
+DIVF,"SRS: Ungrossed: Non-Investment Trusts owned by :Pension Funds",NSA,0,CURR,0,SRS
+DIVG,"SRS: Ungrossed: Non-Investment Trusts owned by :Investment Trusts",NSA,0,CURR,0,SRS
+DIVH,"SRS: Ungrossed: Non-Investment Trusts owned by :Unit Trusts",NSA,0,CURR,0,SRS
+DIVI,"SRS: Ungrossed: Non-Investment Trusts owned by :Banks",NSA,0,CURR,0,SRS
+DIVK,"SRS: Ungrossed: Non-Investment Trusts owned by :Other Financial Institutions",NSA,0,CURR,0,SRS
+DIVL,"SRS: Ungrossed: Non-Investment Trusts owned by :Private Non-Financial Institutio",NSA,0,CURR,0,SRS
+DIVP,"SRS: Ungrossed: Non-Investment Trusts owned by :Public Sector",NSA,0,CURR,0,SRS
+DIVQ,"SRS: Ungrossed: Non-Investment Trusts owned by :Rest of the World",NSA,0,CURR,0,SRS
+DIVR,"SRS: Ungrossed: Non-Investment Trusts owned by :Mutiple Ownership",NSA,0,CURR,0,SRS
+DIVS,"SRS: Ungrossed: Non-Investment Trusts owned by :Not on Crest",NSA,0,CURR,0,SRS
+DIVT,"SRS: Grossed: Investment Trusts owned by :Individuals",NSA,0,CURR,0,SRS
+DIVU,"SRS: Grossed: Investment Trusts owned by :Charities, Churches, etc",NSA,0,CURR,0,SRS
+DIVV,"SRS: Grossed: Investment Trusts owned by :Insurance Companies",NSA,0,CURR,0,SRS
+DIVW,"SRS: Grossed: Investment Trusts owned by :Pension Funds",NSA,0,CURR,0,SRS
+DIVX,"SRS: Grossed: Investment Trusts owned by :Investment Trusts",NSA,0,CURR,0,SRS
+DIVZ,"SRS: Grossed: Investment Trusts owned by :Banks",NSA,0,CURR,0,SRS
+DIWB,"SRS: Grossed: Investment Trusts owned by :Other Financial Institutions",NSA,0,CURR,0,SRS
+DIWC,"SRS: Grossed: Investment Trusts owned by :Private Non-Financial Institutions",NSA,0,CURR,0,SRS
+DIWG,"SRS: Grossed: Investment Trusts owned by :Public Sector",NSA,0,CURR,0,SRS
+DIWH,"SRS: Grossed: Investment Trusts owned by :Rest of the World",NSA,0,CURR,0,SRS
+DIWK,"SRS: Grossed: Non-Investment Trusts owned by :Individuals",NSA,0,CURR,0,SRS
+DIWL,"SRS: Grossed: Non-Investment Trusts owned by :Charities, Churches, etc",NSA,0,CURR,0,SRS
+DIWM,"SRS: Grossed: Non-Investment Trusts owned by :Insurance Companies",NSA,0,CURR,0,SRS
+DIWN,"SRS: Grossed: Non-Investment Trusts owned by :Pension Funds",NSA,0,CURR,0,SRS
+DIWO,"SRS: Grossed: Non-Investment Trusts owned by :Investment Trusts",NSA,0,CURR,0,SRS
+DIWP,"SRS: Grossed: Non-Investment Trusts owned by :Unit Trusts",NSA,0,CURR,0,SRS
+DIWQ,"SRS: Grossed: Non-Investment Trusts owned by :Banks",NSA,0,CURR,0,SRS
+DIWS,"SRS: Grossed: Non-Investment Trusts owned by :Other Financial Institutions",NSA,0,CURR,0,SRS
+DIWT,"SRS: Grossed: Non-Investment Trusts owned by :Private Non-Financial Institutions",NSA,0,CURR,0,SRS
+DIWX,"SRS: Grossed: Non-Investment Trusts owned by :Public Sector",NSA,0,CURR,0,SRS
+DIWY,"SRS: Grossed: Non-Investment Trusts owned by :Rest of the World",NSA,0,CURR,0,SRS
+IAAA,"SRS: Industry :Manufacturing :Total",NSA,0,CURR,0,SRS
+IAAE,"SRS: FTSE:FTSE100:Total",NSA,0,CURR,0,SRS
+IAAF,"SRS: FTSE:Non-FTSE100:Total",NSA,0,CURR,0,SRS
+IAAI,"Total: Shareholdings in Investment- non In trust (grossed) Table 9 Invest. Trust",NSA,0,CURR,0,SRS
+IAAJ,"Total: Shareholdings in Investment- non In trust (grossed) Table 9 Non Iv. Trust",NSA,0,CURR,0,SRS
+IAAK,"Total: Shareholdings in Investment- non In trust (grossed) Table 10 Inv Trust",NSA,0,CURR,0,SRS
+IAAL,"Shareholdings in Investment Trusts Table 10 (grossed) Non Inv Trusts",NSA,0,CURR,0,SRS
+JCHH,"SRS: Grossed: Investment Trusts owned by :Unit Trusts",NSA,0,CURR,0,SRS
+UJBJ,"SRS: Industry:Total Market Value",NSA,0,CURR,0,SRS
+UJBN,"SRS: Industry:Finco Shares:Total",NSA,0,CURR,0,SRS

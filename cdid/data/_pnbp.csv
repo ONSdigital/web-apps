@@ -1,0 +1,271 @@
+AA6H,"BoP: current account balance as per cent of GDP",SA,0,CURR,0,PNBP
+BOKG,"BOP:EX:SA:Total Trade in Goods £M £m",SA,0,CURR,0,PNBP
+BOKH,"BOP:IM:SA:Total Trade in Goods £M £m",SA,0,CURR,0,PNBP
+BOKI,"BOP:Balance:SA:Total Trade in Goods £M £m",SA,0,CURR,0,PNBP
+HBON,"BoP Current Account Credits SA £m",SA,0,CURR,0,PNBP
+HBOO,"BoP Current Account Debits SA £m",SA,0,CURR,0,PNBP
+BOPL,"BOP:EX:SA:Food, beverages and tobacco: SITC 0+1 £M",SA,0,CURR,0,PNBP
+BOPM,"BOP:EX:SA:Basic materials: SITC 2+4 £M",SA,0,CURR,0,PNBP
+BOPO,"BOP:EX:SA:Semi-manufactures: SITC 5+6 £M",SA,0,CURR,0,PNBP
+BOPP,"BOP:EX:SA:Finished manufactures: SITC 7+8 £M",SA,0,CURR,0,PNBP
+BOQI,"BOP:EX:SA:Fuels other than oil: SITC 32+34+35 £M",SA,0,CURR,0,PNBP
+BOQL,"BOP:EX:SA:Unspecified goods: SITC 9 £M",SA,0,CURR,0,PNBP
+BPBI,"BOP:IM:SA:Fuels other than oil: SITC 32+34+35 £M",SA,0,CURR,0,PNBP
+BQAR,"BOP:IM:SA:Food, beverages and tobacco: SITC 0+1 £M",SA,0,CURR,0,PNBP
+BQAS,"BOP:IM:SA:Basic materials: SITC 2+4 £M",SA,0,CURR,0,PNBP
+AIOP,"BoP Inc OI Total Credits NSA £m",NSA,0,CURR,0,PNBP
+BQAU,"BOP:IM:SA:Semi-manufactures: SITC 5+6 £M",SA,0,CURR,0,PNBP
+BQAV,"BOP:IM:SA:Finished manufactures: SITC 7+8 £M",SA,0,CURR,0,PNBP
+BQAW,"BOP:IM:SA:Unspecified goods: SITC 9 £M",SA,0,CURR,0,PNBP
+APQL,"BoP: TiS: Imports: Travel: Total inc. personal imports of cars: CP SA",SA,0,CURR,0,PNBP
+IKBB,"Balance of Payments: Trade in Services: Total exports: CP SA £m",SA,0,CURR,0,PNBP
+IKBC,"Balance of Payments: Trade in Services: Total Imports: CP SA £m",SA,0,CURR,0,PNBP
+IKBD,"Balance of Payments: Trade in Services: Total balance: CP SA £m",SA,0,CURR,0,PNBP
+IKBH,"Balance of Payments: Trade in Goods & Services: Total exports: CP SA £m",SA,0,CURR,0,PNBP
+IKBI,"Balance of Payments: Trade in Goods & Services: Total imports: CP SA £m",SA,0,CURR,0,PNBP
+IKBJ,"Balance of Payments: Trade in Goods & Services: Total balance: CP SA £m",SA,0,CURR,0,PNBP
+BQKX,"BOP:Balance:SA:Unspecified goods: SITC 9 £M",SA,0,CURR,0,PNBP
+CGDN,"Current Transfers Credits: Central Govt Other receipts: CP SA £m",SA,0,CURR,0,PNBP
+CGDO,"Current Transfers Credits: Other sectors, other receipts: CP SA: £m",SA,0,CURR,0,PNBP
+CGDP,"Current transfers debits; Central Government Other Payments: CP SA: £m",SA,0,CURR,0,PNBP
+CGDR,"Current Transfers Debits; Other sectors payments to EU: CP SA: £m",SA,0,CURR,0,PNBP
+CGDS,"Current Transfers debits: Other sectors, other payments: CP SA: £m",SA,0,CURR,0,PNBP
+CGDT,"BoP Inc PI Credits total equity securities SA £m",SA,0,CURR,0,PNBP
+CGDU,"BoP Inc PI Credits total debt securities SA £m",SA,0,CURR,0,PNBP
+CGDV,"BoP Inc PI Credits SA £m",SA,0,CURR,0,PNBP
+CGDW,"BoP Inc OI Credits SA £m",SA,0,CURR,0,PNBP
+CGDX,"BoP Inc OI Debits Debt securities SA £m",SA,0,CURR,0,PNBP
+CGDZ,"BoP Inc PI Debits SA £m",SA,0,CURR,0,PNBP
+CGEB,"BoP Inc OI Debits SA £m",SA,0,CURR,0,PNBP
+CGEC,"BoP Inc PI Balance total equity securities SA £m",SA,0,CURR,0,PNBP
+CGED,"BoP Inc PI Balance total debt securities SA £m",SA,0,CURR,0,PNBP
+CGEE,"BoP Inc PI Balance SA £m",SA,0,CURR,0,PNBP
+CGFF,"BoP Inc OI Balance SA £m",SA,0,CURR,0,PNBP
+CGKF,"FDI : Balance : Total FDI : Level of Net Other Capital Balance : nsa : £m",NSA,0,CURR,0,PNBP
+CGMO,"FDI : Outward : Total FDI : Level of Equity Capital & Reinvested Earnings : £m",NSA,0,CURR,0,PNBP
+CGNA,"BoP Inc OI Net NSA £m",NSA,0,CURR,0,PNBP
+CGNE,"BoP IIP PI Net level equity securities NSA £m",NSA,0,CURR,0,PNBP
+CGNF,"BoP IIP PI Net level debt securities NSA £m",NSA,0,CURR,0,PNBP
+CGNG,"BoP IIP OI Net NSA £m",NSA,0,CURR,0,PNBP
+CGNH,"BoP IIP PI Net NSA £m",NSA,0,CURR,0,PNBP
+CNZQ,"FDI : Outward : Total FDI : Total Gross Earnings : sa : £m",SA,0,CURR,0,PNBP
+CNZR,"FDI : Inward : Total FDI : Total Gross Earnings : sa : £m",SA,0,CURR,0,PNBP
+CVWX,"FDI : Balance : Total FDI : Net Gross Earnings : sa : £m",SA,0,CURR,0,PNBP
+CYFV,"FDI : Inward : Total NFC & FCs : Re-invested Earnings : nsa : £m",NSA,0,CURR,0,PNBP
+D28J,"BoP: trade in goods balance as per cent of GDP",SA,0,CURR,0,PNBP
+D28K,"BoP: trade in services balance as per cent of GDP",SA,0,CURR,0,PNBP
+D28L,"BoP: trade in goods and services balance as per cent of GDP",SA,0,CURR,0,PNBP
+D28M,"BoP: total income balance as per cent of GDP",SA,0,CURR,0,PNBP
+D28N,"BoP: total current transfers balance as per cent of GDP",SA,0,CURR,0,PNBP
+EBGO,"RW: U: D.99: Capital transfers: Foot & Mouth/BSE, nsa",NSA,0,CURR,0,PNBP
+ELBE,"BOP:Balance:SA:Food, beverages and tobacco: SITC 0+1 £M",SA,0,CURR,0,PNBP
+ELBF,"BOP:Balance:SA:Basic materials: SITC 2+4 £M",SA,0,CURR,0,PNBP
+ELBH,"BOP:Balance:SA:Semi-manufactures: SITC 5+6 £M",SA,0,CURR,0,PNBP
+ELBI,"BOP:Balance:SA:Finished manufactures: SITC 7+8 £M",SA,0,CURR,0,PNBP
+ELBL,"BOP:EX:SA:Oil: SITC 33 £M",SA,0,CURR,0,PNBP
+ENIW,"BOP:Balance:SA:Fuels other than oil: SITC 32+34+35 £M",SA,0,CURR,0,PNBP
+FAPO,"Travel (Exports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+ENXO,"BOP:IM:SA:Oil: SITC 33 £M",SA,0,CURR,0,PNBP
+ENXQ,"BOP:Balance:SA:Oil: SITC 33 £M",SA,0,CURR,0,PNBP
+FDQP,"Communications Services (Exports) Total CP SA",SA,0,CURR,0,PNBP
+FDSG,"Construction Services (Exports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FDTF,"Insurance Services (Exports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FDYI,"Financial Services (Exports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FDYQ,"Computer & Information Services (Exports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FEBA,"Royalties & License Fees (Exports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FEHH,"Other Business Services (Exports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FGXJ,"Personal, Cultural & Recreational Services (Exports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FGZA,"Government Services, n.i.e (Exports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FHDM,"Current Transfers: General Government: Exports: £M: CP: SA",SA,0,CURR,0,PNBP
+FHHS,"Government Other Transfers (Credits) ECSC Grant [Treasury] (HDIP): CP SA",SA,0,CURR,0,PNBP
+FHIB,"Current Transfers: Other Sectors: Exports: £M: CP: SA",SA,0,CURR,0,PNBP
+FHIT,"Capital Transfers (Credits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FHIU,"General Government Transfers (Credits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FHIV,"Government Debt Forgiveness (Credits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FHJA,"Government Other Transfers (Credits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FHJB,"Other Sectors Transfers (Credits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FHJC,"Migrants' Transfers (Credits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FHJD,"Other Sectors Debt Forgiveness (Credits) Total: CP SA",SA,0,CURR,0,PNBP
+FHJF,"Other Sectors: Other Transfers: (Credits) Some of Agri Guidance Fund [Treas]",SA,0,CURR,0,PNBP
+FHJL,"Acquisitions/Disposals of NPNF Assets (Credits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FHLD,"Capital Account (Credits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FHME,"Transportation (Imports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FIND,"Communications Services (Imports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FIOU,"Construction Services (Imports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FIPT,"Insurance Services (Imports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FITY,"Financial Services (Imports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FIUG,"Computer & Information Services (Imports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FIVX,"Royalties & License Fees (Imports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FIWF,"Other Business Services (Imports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+L87K,"non-EU(2013):BOP:Balance:SA:Total Trade in Goods £M",SA,0,CURR,0,PNBP
+L87M,"non-EU(2013):BOP:EX:SA:Total Trade in Goods £M",SA,0,CURR,0,PNBP
+L87O,"non-EU(2013):BOP:IM:SA:Total Trade in Goods £M",SA,0,CURR,0,PNBP
+L87Q,"EU (inc. Croatia):BOP:Balance:SA:Total Trade in Goods £M",SA,0,CURR,0,PNBP
+L87S,"EU(inc. Croatia):BOP:EX:SA:Total Trade in Goods £M",SA,0,CURR,0,PNBP
+L87U,"EU(inc. Croatia):BOP:IM:SA:Total Trade in Goods £M",SA,0,CURR,0,PNBP
+FJUQ,"Current Transfers: General Government: Balance: £M: CP: NSA",NSA,0,CURR,0,PNBP
+FJUR,"Current Transfers: Other Sectors: Balance: £M: CP: NSA",NSA,0,CURR,0,PNBP
+FKKM,"Current Transfers (Credits) Govt Other Transfers [Abatement]: CP SA",SA,0,CURR,0,PNBP
+FKMJ,"Capital Account: Balance: CP NSA",NSA,0,CURR,0,PNBP
+FKOA,"Transportation (Exports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FLMT,"Current transfers debits government other payments to EU Institutions: CP SA",SA,0,CURR,0,PNBP
+FLQJ,"Personal, Cultural & Recreational Services (Imports): Total: CP SA: £m",SA,0,CURR,0,PNBP
+FLSA,"Government Services, n.i.e (Imports) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FLUD,"Current Transfers: General Government: Imports: £M: CP: SA",SA,0,CURR,0,PNBP
+FLUZ,"Current Transfers: Other Sectors: Imports: £M: CP: SA",SA,0,CURR,0,PNBP
+FLWA,"Capital Transfers (Debits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FLWB,"General Government Transfers (Debits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FLWD,"Government Debt Forgiveness (Debits) Total:CP SA: £m",SA,0,CURR,0,PNBP
+FLWH,"Government Other Transfers (Debits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FLWI,"Other Sectors Transfers (Debits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FLWJ,"Migrants' Transfers (Debits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FLWL,"Other Sectors Debt Forgiveness (Debits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FLWQ,"Other Sectors Other Transfers (Debits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FLWT,"Acquisitions/Disposals of NPNF Assets (Debits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FLYL,"Capital Account (Debits) Total: CP SA: £m",SA,0,CURR,0,PNBP
+FLYS,"Transportation Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNGY,"Travel Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNIT,"Communications Services Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNJM,"Construction Services Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNKF,"Insurance Services Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNLQ,"Financial Services Balance:CP SA: £m",SA,0,CURR,0,PNBP
+FNLY,"Computer & Information Services Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNMR,"Royalties & License Fees Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNMZ,"Other Business Services Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNRB,"Personal, Cultural & Recreational Services Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNRU,"Government Services, n.i.e Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNSV,"BOP: General Government Transfers Balance CP SA: £m",SA,0,CURR,0,PNBP
+FNTC,"BOP: Other Sectors Balance CP SA: £m",SA,0,CURR,0,PNBP
+FNTK,"Capital Transfers Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNTL,"General Government Transfers Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNTM,"Government Debt Forgiveness Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNTN,"Government Other Transfers Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNTO,"Other Sectors Transfers Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNTP,"Migrants' Transfers Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNTQ,"Oth Sectors Debt Forgiveness Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNTR,"Other Sectors Other Transfers Balance: CP SA: £m",SA,0,CURR,0,PNBP
+FNTS,"Acquisitions/Disposals of NPNF Assets Balance CP SA",SA,0,CURR,0,PNBP
+FNVQ,"BOP: Capital Account Balance CP SA: £m",SA,0,CURR,0,PNBP
+GTTA,"Pink Book - Table 6.1 Current Transfers (Credits) Other EU Receipts: CPSA",SA,0,CURR,0,PNBP
+GTTB,"Current Transfers (Balance) Total of which EU Institutions:CP SA",SA,0,CURR,0,PNBP
+GTTX,"Pink Book - Table 8.1 Capital Account (Credits) Regional Development Fund",SA,0,CURR,0,PNBP
+GTTY,"Capital Account (Credits)Total of which EU Institutions: CP SA",SA,0,CURR,0,PNBP
+H5U3,"Transfers credits: Other Sectors EC budget: social fund (D75): CP SA",SA,0,CURR,0,PNBP
+HBNR,"BoP FA total Asset flows NSA £m",NSA,0,CURR,0,PNBP
+HBNS,"BoP FA total Liability flows NSA £m",NSA,0,CURR,0,PNBP
+HBNT,"BoP FA total Net flows NSA £m",NSA,0,CURR,0,PNBP
+HBOG,"BoP Current Account Balance NSA £m",NSA,0,CURR,0,PNBP
+HBOH,"BoP Income Credits SA £m",SA,0,CURR,0,PNBP
+HBOI,"BoP Income Debits SA £m",SA,0,CURR,0,PNBP
+HBOJ,"BoP Income Balance SA £m",SA,0,CURR,0,PNBP
+HBOK,"BoP Investment Income Credits SA £m",SA,0,CURR,0,PNBP
+HBOL,"BoP Investment Income Debits SA £m",SA,0,CURR,0,PNBP
+HBOM,"BoP Investment Income Balance SA £m",SA,0,CURR,0,PNBP
+HBOP,"BoP Current Account Balance SA £m",SA,0,CURR,0,PNBP
+HBQA,"BoP IIP Asset level NSA £m",NSA,0,CURR,0,PNBP
+HBQB,"BoP IIP Liability level NSA £m",NSA,0,CURR,0,PNBP
+HBQC,"BoP IIP Net NSA £m",NSA,0,CURR,0,PNBP
+HBSH,"FDI : Balance : Total FDI : Level of Equity Capital & Reinvested Earnings : £m",NSA,0,CURR,0,PNBP
+HBUW,"FDI : Outward : Total NFC & FCs : Level of net other capital balance : nsa : £m",NSA,0,CURR,0,PNBP
+HBUY,"FDI : Inward : Total FDI : Equity Capital & Reinvested Earnings : nsa : £m",NSA,0,CURR,0,PNBP
+HBVC,"FDI : Inward : Total NFC & FCs : Level of net Other Capital Balance : nsa : £m",NSA,0,CURR,0,PNBP
+HBVI,"BoP FA PI Asset flows total equity securities transactions NSA £m",NSA,0,CURR,0,PNBP
+HBWD,"FDI : Outward : Total FDI : International Investment Position : nsa : £m",NSA,0,CURR,0,PNBP
+HBWI,"FDI : Inward : Total FDI : International Investment Position : nsa : £m",NSA,0,CURR,0,PNBP
+HBWN,"FDI : Balance : Total FDI : Net Transactions in Equity Capital : nsa : £m",NSA,0,CURR,0,PNBP
+HBWQ,"FDI : Balance : Total FDI : International Investment Position : nsa : £m",NSA,0,CURR,0,PNBP
+HBWT,"FDI : Balance : Total FDI : Net Reinvested Earnings : nsa : £m",NSA,0,CURR,0,PNBP
+HBWU,"FDI : Balance : Total FDI : Net Transactions in Other Capital : nsa : £m",NSA,0,CURR,0,PNBP
+HBWV,"BoP FA PI net flows in equity securities NSA £m",NSA,0,CURR,0,PNBP
+HBWX,"BoP FA PI net flows in debt securities NSA £m",NSA,0,CURR,0,PNBP
+HCSN,"Transfers debits:GG EC Budget: GNI Adjustment CPSA",SA,0,CURR,0,PNBP
+HCSP,"Transfers debits: general government EC Budget: own resource based on GNI:CP SA",SA,0,CURR,0,PNBP
+HDNY,"FDI : Outward : Total NFC & FCs : Re-invested Earnings : nsa : £m",NSA,0,CURR,0,PNBP
+HEPX,"BoP IIP PI Asset level total equity NSA £m",NSA,0,CURR,0,PNBP
+HGOT,"BoP Inc PI debits total equity securities SA £m",SA,0,CURR,0,PNBP
+HHCB,"BoP Inc credits earnings on reserve assets NSA £m",NSA,0,CURR,0,PNBP
+HHCC,"BoP Inc credits earnings on reserve assets SA £m",SA,0,CURR,0,PNBP
+HHDH,"BoP net errors and omissions NSA £m",NSA,0,CURR,0,PNBP
+HHYR,"BoP FA OI Net investment NSA £m",NSA,0,CURR,0,PNBP
+HHZC,"BoP FA total PI Asset flows NSA £m",NSA,0,CURR,0,PNBP
+HHZD,"BoP FA PI Net investment NSA £m",NSA,0,CURR,0,PNBP
+HHZF,"BoP FA total PI Liability flows NSA £m",NSA,0,CURR,0,PNBP
+HHZX,"BoP FA PI Asset flows total debt securities NSA £m",NSA,0,CURR,0,PNBP
+HHZZ,"BoP IIP total PI Asset level NSA £m",NSA,0,CURR,0,PNBP
+HJYE,"FDI : Balance : Total FDI :Total Gross Earnings : nsa : £m",NSA,0,CURR,0,PNBP
+HJYM,"FDI : Outward : Total FDI : Net Transactions in Equity Capital : nsa : £m",NSA,0,CURR,0,PNBP
+HJYP,"FDI : Outward : Total FDI : Total Net Investment : nsa : £m [505]",NSA,0,CURR,0,PNBP
+HJYR,"FDI : Inward : Total FDI : Net Transactions in Equity Capital : nsa : £m",NSA,0,CURR,0,PNBP
+HJYU,"FDI : inward : Total FDI : Total Net Investment : nsa : £m [555]",NSA,0,CURR,0,PNBP
+HJYV,"FDI : Balance : Total FDI : Total Net Investment : nsa : £m",NSA,0,CURR,0,PNBP
+HJYW,"FDI : Outward : Total FDI : Total Gross Earnings : nsa : £m",NSA,0,CURR,0,PNBP
+HJYX,"FDI : Inward : Total FDI : Total Gross Earnings : nsa : £m",NSA,0,CURR,0,PNBP
+HLXV,"BoP IIP total OI Asset level NSA £m",NSA,0,CURR,0,PNBP
+HLXW,"BoP IIP total PI liability level NSA £m",NSA,0,CURR,0,PNBP
+HLXX,"BoP IIP PI liability level total equity securities NSA £m",NSA,0,CURR,0,PNBP
+HLXY,"BoP IIP PI liability level total debt securities NSA £m",NSA,0,CURR,0,PNBP
+HLYD,"BoP IIP total OI liability level NSA £m",NSA,0,CURR,0,PNBP
+HLYX,"BoP Inc total PI credits NSA £m",NSA,0,CURR,0,PNBP
+HLZC,"BoP Inc total PI debits NSA £m",NSA,0,CURR,0,PNBP
+HLZN,"BoP Inc total OI debits NSA £m",NSA,0,CURR,0,PNBP
+HLZX,"BoP Inc total PI balance NSA £m",NSA,0,CURR,0,PNBP
+HMAB,"FDI : Outward : Total NFC & FCs : Net Transactions in Other Capital : nsa : £m",NSA,0,CURR,0,PNBP
+HMAD,"FDI : Inward : Total NFC & FCs : Net Transactions in Other Capital : nsa : £m",NSA,0,CURR,0,PNBP
+HMBM,"BoP Investment Income Balance NSA £m",NSA,0,CURR,0,PNBP
+HMBN,"BoP Investment Income credits NSA £m",NSA,0,CURR,0,PNBP
+HMBO,"BoP Investment Income debits NSA £m",NSA,0,CURR,0,PNBP
+HMBP,"BoP Income Balance NSA £m",NSA,0,CURR,0,PNBP
+HMLY,"CG: RW debt forgiveness: D.99 £m nsa",NSA,0,CURR,0,PNBP
+IJAH,"Income: Compensation of employees: Exports: £M: CP: SA",SA,0,CURR,0,PNBP
+IJAI,"Income: Compensation of employees: Imports: £M: CP: SA",SA,0,CURR,0,PNBP
+IJAJ,"BOP: Income (BPM5) Compensation of employees balance CP SA: £m",SA,0,CURR,0,PNBP
+IKBN,"Current Transfers: Total exports: £M: CP: SA",SA,0,CURR,0,PNBP
+IKBO,"Current Transfers: Total imports: £M: CP: SA",SA,0,CURR,0,PNBP
+IKBP,"Current Transfers (BPM5) total bal. CP SA: £m",SA,0,CURR,0,PNBP
+JCWM,"Capital transfers (Debits): Total other sectors debt forgiveness: CPSA: £m",SA,0,CURR,0,PNBP
+JX96,"BoP IIP Derivatives Asset level NSA £m",NSA,0,CURR,0,PNBP
+JX97,"BoP IIP Derivatives Liability level NSA £m",NSA,0,CURR,0,PNBP
+JX98,"BoP IIP Derivatives Net NSA £m",NSA,0,CURR,0,PNBP
+KTMP,"Income: Compensation of Employees: Balance: £M: CP: NSA",NSA,0,CURR,0,PNBP
+KTMS,"Balance of Payments: Total Trade in Services: Balance: £M: CP: NSA",NSA,0,CURR,0,PNBP
+KTMY,"Balance of Payments: Total Trade in Goods & Services: Balance: £M: CP: NSA",NSA,0,CURR,0,PNBP
+KTNF,"Current Transfers: Total: Balance: £M: CP: NSA",NSA,0,CURR,0,PNBP
+L84S,"Credits Current Transfers EU28 SA",SA,0,CURR,0,PNBP
+L84T,"Credits Current Transfers Non. EU28 SA",SA,0,CURR,0,PNBP
+L84Y,"Exports trade goods & services EU28 SA",SA,0,CURR,0,PNBP
+L84Z,"Exports trade goods & services Non. EU 28 SA",SA,0,CURR,0,PNBP
+L854,"Exports trade in services EU28 SA",SA,0,CURR,0,PNBP
+L855,"Exports trade in services Non. EU28 SA",SA,0,CURR,0,PNBP
+L85W,"Debits Current transfers EU28 SA",SA,0,CURR,0,PNBP
+L85X,"Debits Current Transfers Non. EU28 SA",SA,0,CURR,0,PNBP
+L864,"Imports trade goods & services EU28 SA",SA,0,CURR,0,PNBP
+L865,"Imports trade goods & services Non. EU28 SA",SA,0,CURR,0,PNBP
+L868,"Imports trade in services EU28 SA",SA,0,CURR,0,PNBP
+L869,"Imports trade in services Non. EU28 SA",SA,0,CURR,0,PNBP
+L86E,"Net Current Transfers EU28 SA",SA,0,CURR,0,PNBP
+L86F,"Net Current Transfers Non. Eu28 SA",SA,0,CURR,0,PNBP
+L86I,"Balance trade goods & services EU28 SA",SA,0,CURR,0,PNBP
+L86J,"Balance trade goods & services Non..EU28 SA",SA,0,CURR,0,PNBP
+L86M,"Balance trade in services EU28 SA",SA,0,CURR,0,PNBP
+L86N,"Balance trade in services Non. EU28 SA",SA,0,CURR,0,PNBP
+L872,"Bop:Total Income Credits EU28 sa £m",SA,0,CURR,0,PNBP
+L873,"Bop:Total Current Account Credits EU28 sa £m",SA,0,CURR,0,PNBP
+L874,"Bop:Total Income Debits EU28 sa £m",SA,0,CURR,0,PNBP
+L875,"Bop:Total Current Account Debits EU28 sa £m",SA,0,CURR,0,PNBP
+L876,"Bop:Total Income Bal EU28 sa £m",SA,0,CURR,0,PNBP
+L877,"Bop:Total Current Account Bal EU28 sa £m",SA,0,CURR,0,PNBP
+L87D,"Bop:Total Income: Credits Extra EU28 sa £m",SA,0,CURR,0,PNBP
+L87E,"Bop: Total Current Account Credits Extra EU28 sa £m",SA,0,CURR,0,PNBP
+L87F,"Bop: Total Income Debits Extra EU28 sa £m",SA,0,CURR,0,PNBP
+L87G,"Bop:Current Account Debits Extra EU28 sa £m",SA,0,CURR,0,PNBP
+L87H,"Bop:Total Income: Bal Extra EU28 sa £m",SA,0,CURR,0,PNBP
+L87I,"Bop: Total Current Account :Bal Extra EU28 sa £m",SA,0,CURR,0,PNBP
+LQCT,"BOP:Balance:NSA:Total Trade in Goods £M",NSA,0,CURR,0,PNBP
+LTCV,"BoP: FA: Assets: Reserves: Total official reserves (ONS) £m",NSA,0,CURR,0,PNBP
+LTEB,"BoP IIP reserve assets NSA £m",NSA,0,CURR,0,PNBP
+XBLW,"IMF BoP FA PI liability flow equity securities 4660 NSA £m",NSA,0,CURR,0,PNBP
+XBLX,"IMF BoP FA PI liability flow debt securities 4669 NSA £m",NSA,0,CURR,0,PNBP
+XBMM,"BoP FA OI total assets NSA £m",NSA,0,CURR,0,PNBP
+XBMN,"BoP FA OI total liabilities NSA £m",NSA,0,CURR,0,PNBP
+XBMW,"IMF BoP FA PI asset flow debt securities NSA £m",NSA,0,CURR,0,PNBP
+ZPNN,"BoP FA Assets total financial derivatives NSA £m",NSA,0,CURR,0,PNBP

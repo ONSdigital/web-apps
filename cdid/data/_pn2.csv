@@ -1,0 +1,524 @@
+ABJQ,"Household final consumption expenditure: National concept CP SA £m",SA,0,CURR,0,PN2
+ABJR,"Household final consumption expenditure :National concept CVM SA - £m",SA,2010,CONS,0,PN2
+ABMF,"Total gross final expenditure (aligned) - P.3+P.5+P.6 : CP SA £m",SA,0,CURR,0,PN2
+ABMG,"Total gross final expenditure (aligned) - P.3+P.5+P.6 : CVM SA £m",SA,2010,CONS,0,PN2
+ABMI,"Gross Domestic Product: chained volume measures: Seasonally adjusted £m",SA,2010,CONS,0,PN2
+ABML,"Gross Value Added (Average) at basic prices: CP SA £m",SA,0,CURR,0,PN2
+ABMM,"Gross Value Added at basic prices:chained volume measures:Seasonally adjusted £m",SA,2010,CONS,0,PN2
+ABTF,"Household final consumption expenditure: Net tourist expenditure CP SA £m",SA,0,CURR,0,PN2
+ABTH,"Household final consumption expenditure :Net tourist expenditure CVM NAYear SA £",SA,2010,CONS,0,PN2
+BOKG,"BOP:EX:SA:Total Trade in Goods £M £m",SA,0,CURR,0,PN2
+BOKH,"BOP:IM:SA:Total Trade in Goods £M £m",SA,0,CURR,0,PN2
+BOKI,"BOP:Balance:SA:Total Trade in Goods £M £m",SA,0,CURR,0,PN2
+BQKO,"BOP:IM:CVM:SA:Total Trade in Goods £m",SA,2010,CONS,0,PN2
+BQKQ,"BOP:EX:CVM:SA:Total Trade in Goods £m",SA,2010,CONS,0,PN2
+CAEQ,"Gross Operating Surplus: NFCos: Public: Current price: SA £m",SA,0,CURR,0,PN2
+CAER,"Gross Operating Surplus: NFCos: Private: Current price: SA £m",SA,0,CURR,0,PN2
+CAEX,"Changes in inventories (CP SA) including alignment adjustment £m",SA,0,CURR,0,PN2
+CAFU,"Changes in inventories including alignment adjustment - CVM NAYear SA £m",SA,2010,CONS,0,PN2
+CAGQ,"Gross Domestic Product (Expenditure) current basic prices: aligned:SA £m",SA,0,CURR,0,PN2
+CAGR,"Gross Domestic Product (Expenditure) chained volume measure SA £m",SA,2010,CONS,0,PN2
+CAGS,"Gross Domestic Product (Income) current basic prices: aligned: SA £m",SA,0,CURR,0,PN2
+CGBV,"Gross Value Added at basic prices: Implied deflator £m",SA,2010,DEFL,2010,PN2
+CGBX,"Income based: Other income: CP SA £m",SA,0,CURR,0,PN2
+CGBZ,"Income based: Gross operating surplus of corporations : Total: CP SA £m",SA,0,CURR,0,PN2
+CGCB,"Income based: Gross value added at factor cost: CP SA £m",SA,0,CURR,0,PN2
+CGCE,"Gross value added at basic prices: CVM: Seasonally adjusted £m",SA,2010,CONS,2010,PN2
+CMVL,"whole economy: D2 less D3: pre-ESA95 factor cost adjustment: SA CP £m",SA,0,CURR,0,PN2
+DFDV,"Gross Fixed Capital Formation:Total Economy:: Dwellings: D0-9:CVM NSA £m",NSA,2010,CONS,0,PN2
+DFEG,"Gross Fixed Capital Formation:Total Economy: Dwellings: D0-9:CVM SA £m",SA,2010,CONS,0,PN2
+DHBM,"CII: VPI:Manufacturing Total: CVM SA £m",SA,2010,CONS,0,PN2
+DJDS,"National accounts residual error: CP: SA: £m",SA,0,CURR,0,PN2
+DLWF,"Gross Fixed Capital Formation:Total General Government P51:CVM SA: £m",SA,2010,CONS,0,PN2
+DLWJ,"Gross Fixed Capital Formation: Vehicles, Ships & Aircraft: CVM NSA: £m",NSA,2010,CONS,0,PN2
+DLWL,"Gross Fixed Capital Formation: Vehicles, Ships & Aircraft: CVM SA: £m",SA,2010,CONS,0,PN2
+DLWM,"Gross Fixed Capital Formation: Plant & Machinery: CVM NSA: £m",NSA,2010,CONS,0,PN2
+DLWO,"Gross Fixed Capital Formation: Plant & Machinery: CVM SA: £m",SA,2010,CONS,0,PN2
+DLWQ,"Gross Fixed Capital Formation: Other New Buildings & Works:CVM NSA: £m",NSA,2010,CONS,0,PN2
+DLWT,"Gross Fixed Capital Formation: Other New Buildings & Works:CVM SA: £m",SA,2010,CONS,0,PN2
+DLWX,"Change in inventories: Other Industries: CVM SA £m",SA,2010,CONS,0,PN2
+DMUM,"CVM SA changes in inventories timing adjustment £m",SA,2010,CONS,0,PN2
+DMUN,"CP SA changes in inventories timing adjustment £m",SA,0,CURR,0,PN2
+DMUQ,"Gross Operating Surplus: NFCos: Private: Alignment adjustments: CP SA £m",SA,0,CURR,0,PN2
+DTWM,"UK: Total compensation of employees (Uses): D.1: CP SA £m",SA,0,CURR,0,PN2
+EQDN,"Gross Fixed Capital Formation:Total General Government P51:CVM NSA: £m",NSA,2010,CONS,0,PN2
+EQDO,"Gross Fixed Capital Formation: Total Economy:All Intangible Fixed Assets CVM SA",SA,2010,CONS,0,PN2
+EQDT,"Gross Fixed Capital Formation:Total Economy:All Intangible Fixed Assets CVM NSA",NSA,2010,CONS,0,PN2
+FAEA,"Change in Inventories: Mining & Quarrying: £M: CVM NAYear: SA £m",SA,2010,CONS,0,PN2
+FAEB,"Change in Inventories: Electricity, Gas & Water: £M: CVM NAYear: SA £m",SA,2010,CONS,0,PN2
+FAJX,"Change in Inventories: Wholesale: £M: CVM NAYear: SA £m",SA,2010,CONS,0,PN2
+FBNF,"Change in Inventories: Manufacturing: Materials, Stores & Fuel: £M: CVM: SA £m",SA,2010,CONS,0,PN2
+FBNG,"Change in Inventories: Manufacturing: Work in Progress: £M: CVM: SA £m",SA,2010,CONS,0,PN2
+FBNH,"Change in Inventories: Manufacturing: Finished Goods: £M: CVM: SA £m",SA,2010,CONS,0,PN2
+FBYN,"Change in Inventories: Retail: £M: CVM NAYear: SA £m",SA,2010,CONS,0,PN2
+GDPQ,"ESA95 % change on previous quarter: Gross value added at basic prices",SA,2006,CONS,2006,PN2
+GDPR,"ESA95 % change on same quarter previous year: Gross value added at basic prices",SA,2006,CONS,2006,PN2
+GIXM,"Difference between GDP(E) and GDP(A) MP (SA CP) £m",SA,0,CURR,0,PN2
+GIXQ,"Statistical discrepancy (income) £m",SA,0,CURR,0,PN2
+GIXS,"Difference between GDP(Expenditure) and GDP(Average) MP(CVM SA) £m",SA,2010,CONS,0,PN2
+HAYE,"Final Consumption Expenditure of NPISHs CP SA £m",SA,0,CURR,0,PN2
+HAYO,"Final Consumption Expenditure of NPISHs CVM SA £m",SA,2010,CONS,0,PN2
+IHYA,"Gross Domestic Product (Expenditure) at current basic prices index no",SA,0,CURR,2010,PN2
+IHYB,"Gross Domestic Product (Income) current basic prices index no: SA",SA,0,CURR,2010,PN2
+IHYC,"Gross Domestic Product (Expenditure) chained volume index: SA",SA,2010,CONS,2010,PN2
+IHYD,"Gross Domestic Product (Income) chained volume index: SA",SA,2010,CONS,2010,PN2
+IHYM,"Gross domestic product at market prices annual growth rate CP SA %",SA,0,CURR,0,PN2
+IHYN,"Gross domestic product at market prices one quarter growth rate CP SA %",SA,0,CURR,0,PN2
+IHYO,"Gross domestic product at market prices four quarter growth rate CP SA %",SA,0,CURR,0,PN2
+IHYP,"Gross Domestic Product: Year on Year growth: CVM SA %",SA,2010,CONS,0,PN2
+IHYQ,"Gross Domestic Product: Quarter on Quarter growth: CVM SA %",SA,2010,CONS,0,PN2
+IHYR,"Gross Domestic Product: Quarter on quarter previous year: CVM SA £m",SA,2010,CONS,0,PN2
+IHYS,"GDP Deflator: Year on Year growth: SA %",SA,2010,DEFL,0,PN2
+IHYT,"GDP Deflator: Quarter on quarter growth: SA %",SA,2010,DEFL,0,PN2
+IHYU,"GDP Deflator: Quarter on quarter previous year growth: SA %",SA,2010,DEFL,0,PN2
+IKBB,"Balance of Payments: Trade in Services: Total exports: CP SA £m",SA,0,CURR,0,PN2
+IKBC,"Balance of Payments: Trade in Services: Total Imports: CP SA £m",SA,0,CURR,0,PN2
+IKBD,"Balance of Payments: Trade in Services: Total balance: CP SA £m",SA,0,CURR,0,PN2
+IKBE,"Balance of Payments: Trade in Services: Total exports: CVM SA £m",SA,2010,CONS,0,PN2
+IKBF,"Balance of Payments: Trade in Services: Total Imports: CVM SA £m",SA,2010,CONS,0,PN2
+IKBH,"Balance of Payments: Trade in Goods & Services: Total exports: CP SA £m",SA,0,CURR,0,PN2
+IKBI,"Balance of Payments: Trade in Goods & Services: Total imports: CP SA £m",SA,0,CURR,0,PN2
+IKBJ,"Balance of Payments: Trade in Goods & Services: Total balance: CP SA £m",SA,0,CURR,0,PN2
+IKBK,"Balance of Payments: Trade in Goods & Services: Total exports: CVM SA £m",SA,2010,CONS,0,PN2
+IKBL,"Balance of Payments: Imports: Total Trade in Goods & Services: CVM SA £m",SA,2010,CONS,0,PN2
+IKBM,"Balance of Payments: Trade in Goods & Services: Total Balance: CVM SA £m",SA,2010,CONS,0,PN2
+KB7D,"Revision to GDP at market prices £m",NSA,0,CURR,0,PN2
+KB7E,"Revision to basic price adjustment (bpa) £m",NSA,0,CURR,0,PN2
+KB7F,"Revision to GVA at bp £m",NSA,0,CURR,0,PN2
+KB7K,"Revision to HH - component of GDP(E) £m",NSA,0,CURR,0,PN2
+KB7L,"Revision to NPISH - component of GDP(E) £m",NSA,0,CURR,0,PN2
+KB7M,"Revision to CG - component of GDP(E) £m",NSA,0,CURR,0,PN2
+KB7N,"Revision to GFCF - component of GDP(E) £m",NSA,0,CURR,0,PN2
+KB7O,"Revision to changes in inventories - component of GDP(E) £m",NSA,0,CURR,0,PN2
+KB7P,"Revision to Acquistions less disposals of valuables - component of GDP(E) £m",NSA,0,CURR,0,PN2
+KB7Q,"Revisions to domestic expenditure on goods and services at market prices. £m",NSA,0,CURR,0,PN2
+KB7R,"Revision to total exports - component of GDP(E) £m",NSA,0,CURR,0,PN2
+KB7S,"Revision to total imports - component of GDP(E) £m",NSA,0,CURR,0,PN2
+KB7T,"Revisions to statistical discrepancy (E) £m",NSA,0,CURR,0,PN2
+KB7U,"Revisions to CoE £m",NSA,0,CURR,0,PN2
+KB7V,"Revisions to GoS of corporations £m",NSA,0,CURR,0,PN2
+KB7W,"Revisions to other income £m",NSA,0,CURR,0,PN2
+KB7X,"Revisions to GVA at fc £m",NSA,0,CURR,0,PN2
+KB7Y,"Revisions to taxes on products & production less subsidies £m",NSA,0,CURR,0,PN2
+KB7Z,"Revisions to statistical discrepancy (I) £m",NSA,0,CURR,0,PN2
+KB82,"Revisions to GDP CVM growth %",NSA,0,CURR,0,PN2
+KB83,"Revision to Agriculture CVM growth %",NSA,0,CURR,0,PN2
+KB84,"Revision to Extraction CVM growth %",NSA,0,CURR,0,PN2
+KB85,"Revision to Manufacturing CVM growth %",NSA,0,CURR,0,PN2
+KB86,"Revisions to Utilities CVM growth %",NSA,0,CURR,0,PN2
+KB87,"Revisions to Total production CVM growth %",NSA,0,CURR,0,PN2
+KB88,"Revisions to Construction CVM growth %",NSA,0,CURR,0,PN2
+KB89,"Revisions to Distribution, hotels & catering CVM growth %",NSA,0,CURR,0,PN2
+KB8A,"Revisions to Transport, storage & comms CVM growth %",NSA,0,CURR,0,PN2
+KB8B,"Revisions to Business services & finance CVM growth %",NSA,0,CURR,0,PN2
+KB8C,"Revisions to Goverment & other CVM growth %",NSA,0,CURR,0,PN2
+KB8D,"Revisions to Total services CVM growth %",NSA,0,CURR,0,PN2
+KB8E,"Revisions to Total GVA CVM growth %",NSA,0,CURR,0,PN2
+KB8F,"Revisions to Total GVA exc oil CVM growth %",NSA,0,CURR,0,PN2
+KB8G,"Revisions to Households CVM growth %",NSA,0,CURR,0,PN2
+KB8H,"Revisions to NPISH CVM growth table %",NSA,0,CURR,0,PN2
+KB8I,"Revisions to General government CVM growth %",NSA,0,CURR,0,PN2
+KB8J,"Revisions to Gross fixed capital formation CVM growth %",NSA,0,CURR,0,PN2
+KB8K,"Revisions to total (domestic expenditure) CVM growth %",NSA,0,CURR,0,PN2
+KB8L,"Revisions to Total export CVM growth %",NSA,0,CURR,0,PN2
+KB8M,"Revisions to Total imports CVM growth %",NSA,0,CURR,0,PN2
+KB94,"Revisions to GDP CVM quarter on same quarter a year earlier. £m",NSA,0,CURR,0,PN2
+KG6I,"Gross fixed capital formation annual growth rate CP SA %",NSA,0,CURR,0,PN2
+KG6U,"Total domestic household final consumption annual growth rate %",SA,0,CURR,0,PN2
+KG6W,"Gross fixed capital formation one quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KG74,"Total domestic household final consumption one quarter growth rate %",SA,0,CURR,0,PN2
+KG76,"Gross fixed capital formation four quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KG7C,"Total domestic household final consumption four quarter growth rate %",SA,0,CURR,0,PN2
+KG7F,"Gross fixed capital formation annual growth rate CVM SA %",NSA,0,CURR,0,PN2
+KG7M,"Business investment - Annual growth rate %",SA,2010,CONS,0,PN2
+KG7N,"Total fixed capital formation - annual growth rate %",SA,2010,CONS,0,PN2
+KG7O,"Total domestic household final consumption annual growth rate %",SA,0,CURR,0,PN2
+KG7P,"Business investment - q-on-q1 growth rate %",SA,2010,CONS,0,PN2
+KG7Q,"Gross fixed capital formation - q-on-q1 growth rate CVM SA %",SA,2010,CONS,0,PN2
+KG7R,"Total domestic household final consumption one quarter growth rate %",SA,0,CURR,0,PN2
+KG7S,"Business investment - q-on-q4 growth rate %",SA,2010,CONS,0,PN2
+KG7T,"Gross fixed capital formation - q-on-q4 growth rate CVM SA %",SA,2010,CONS,0,PN2
+KG7U,"Total domestic household final consumption four quarter growth rate %",SA,0,CURR,0,PN2
+KG9K,"Exports goods annual growth rate CP SA %",NSA,0,CURR,0,PN2
+KG9L,"Imports goods annual growth rate CP SA %",NSA,0,CURR,0,PN2
+KG9N,"Food & drink annual growth rate %",SA,0,CURR,0,PN2
+KG9O,"Exports goods one quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KG9P,"Imports goods one quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KG9R,"Food & drink one quarter growth rate %",SA,0,CURR,0,PN2
+KG9S,"Exports goods four quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KG9T,"Imports goods four quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KG9V,"Food & drink four quarter growth rate %",SA,0,CURR,0,PN2
+KG9W,"Imports goods annual growth rate CVM SA %",NSA,0,CURR,0,PN2
+KG9X,"Exports goods annual growth rate CVM SA %",NSA,0,CURR,0,PN2
+KG9Y,"Food & drink annual growth rate %",SA,0,CURR,0,PN2
+KG9Z,"Imports goods one quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KGA2,"Exports goods one quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KGA3,"Food & drink one quarter growth rate %",SA,0,CURR,0,PN2
+KGA4,"Imports goods four quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KGA5,"Exports goods four quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KGA6,"Food & drink four quarter growth rate %",SA,0,CURR,0,PN2
+KGB2,"Education annual growth rate %",SA,0,CURR,0,PN2
+KGB3,"Education one quarter growth rate %",SA,0,CURR,0,PN2
+KGB4,"Education four quarter growth rate %",SA,0,CURR,0,PN2
+KGB8,"Education annual growth rate %",SA,0,CURR,0,PN2
+KGB9,"Education one quarter growth rate %",SA,0,CURR,0,PN2
+KGC2,"Education four quarter growth rate %",SA,0,CURR,0,PN2
+KGC6,"Restaurants & hotels annual growth rate %",SA,0,CURR,0,PN2
+KGC7,"Restaurants & hotels one quarter growth rate %",SA,0,CURR,0,PN2
+KGC8,"Restaurants & hotels four quarter growth rate %",SA,0,CURR,0,PN2
+KGD4,"Restaurants & hotels annual growth rate %",SA,0,CURR,0,PN2
+KGD5,"Restaurants & hotels one quarter growth rate %",SA,0,CURR,0,PN2
+KGD6,"Restaurants & hotels four quarter growth rate %",SA,0,CURR,0,PN2
+KGE2,"Miscellaneous annual growth rate %",SA,0,CURR,0,PN2
+KGE3,"Miscellaneous one quarter growth rate %",SA,0,CURR,0,PN2
+KGE4,"Miscellaneous four quarter growth rate %",SA,0,CURR,0,PN2
+KGE8,"COICOP 12 Misc CVM annual growth rate %",SA,0,CURR,0,PN2
+KGE9,"COICOP 12 Misc CVM quarter on quarter growth rate %",SA,0,CURR,0,PN2
+KGF2,"COICOP 12 Misc CVM Q on same Q 4 periods earlier growth rate %",SA,0,CURR,0,PN2
+KGF3,"Alcohool & tobacco annual growth rate %",SA,0,CURR,0,PN2
+KGF4,"Alcohool & tobacco one quarter growth rate %",SA,0,CURR,0,PN2
+KGF5,"Alcohool & tobacco four quarter growth rate %",SA,0,CURR,0,PN2
+KGF6,"Alcohool & tobacco annual growth rate %",SA,0,CURR,0,PN2
+KGF7,"Alcohool & tobacco one quarter growth rate %",SA,0,CURR,0,PN2
+KGF8,"Alcohool & tobacco four quarter growth rate %",SA,0,CURR,0,PN2
+KGF9,"Clothing & footwear annual growth rate %",SA,0,CURR,0,PN2
+KGG2,"Clothing & footwear one quarter growth rate %",SA,0,CURR,0,PN2
+KGG3,"Clothing & footwear four quarter growth rate %",SA,0,CURR,0,PN2
+KGG4,"Clothing & footwear annual growth rate %",SA,0,CURR,0,PN2
+KGG5,"Clothing & footwear one quarter growth rate %",SA,0,CURR,0,PN2
+KGG6,"Clothing & footwear four quarter growth rate %",SA,0,CURR,0,PN2
+KGG7,"Housing annual growth rate %",SA,0,CURR,0,PN2
+KGG8,"Housing one quarter growth rate %",SA,0,CURR,0,PN2
+KGG9,"Housing four quarter growth rate %",SA,0,CURR,0,PN2
+KGH2,"Housing annual growth rate %",SA,0,CURR,0,PN2
+KGH3,"Housing one quarter growth rate %",SA,0,CURR,0,PN2
+KGH4,"Housing four quarter growth rate %",SA,0,CURR,0,PN2
+KGH5,"Household goods & services annual growth rate %",SA,0,CURR,0,PN2
+KGH6,"Household goods & services one quarter growth rate %",SA,0,CURR,0,PN2
+KGH7,"Household goods & services four quarter growth rate %",SA,0,CURR,0,PN2
+KGH8,"Household goods & services annual growth rate %",SA,0,CURR,0,PN2
+KGH9,"Household goods & services one quarter growth rate %",SA,0,CURR,0,PN2
+KGI2,"Household goods & services four quarter growth rate %",SA,0,CURR,0,PN2
+KGI4,"Compensation of employees one quarter growth rate %",NSA,0,CURR,0,PN2
+KGI5,"Compensation of employees four quarter growth rate %",NSA,0,CURR,0,PN2
+KGI6,"Health annual growth rate %",SA,0,CURR,0,PN2
+KGI7,"Health one quarter growth rate %",SA,0,CURR,0,PN2
+KGI8,"Health four quarter growth rate %",SA,0,CURR,0,PN2
+KGI9,"Health annual growth rate %",SA,0,CURR,0,PN2
+KGJ2,"Health one quarter growth rate %",SA,0,CURR,0,PN2
+KGJ3,"Health four quarter growth rate %",SA,0,CURR,0,PN2
+KGJ4,"Transport annual growth rate %",SA,0,CURR,0,PN2
+KGJ5,"Transport one quarter growth rate %",SA,0,CURR,0,PN2
+KGJ6,"Transport four quarter growth rate %",SA,0,CURR,0,PN2
+KGJ7,"Transport annual growth rate %",SA,0,CURR,0,PN2
+KGJ8,"Transport one quarter growth rate %",SA,0,CURR,0,PN2
+KGJ9,"Transport four quarter growth rate %",SA,0,CURR,0,PN2
+KGK2,"Communication annual growth rate %",SA,0,CURR,0,PN2
+KGK3,"Communication one quarter growth rate %",SA,0,CURR,0,PN2
+KGK4,"Communication four quarter growth rate %",SA,0,CURR,0,PN2
+KGK5,"Communication annual growth rate %",SA,0,CURR,0,PN2
+KGK6,"Communication one quarter growth rate %",SA,0,CURR,0,PN2
+KGK7,"Communication four quarter growth rate %",SA,0,CURR,0,PN2
+KGK8,"Recreation & culture annual growth rate %",SA,0,CURR,0,PN2
+KGK9,"Recreation & culture one quarter growth rate %",SA,0,CURR,0,PN2
+KGL2,"Recreation & culture four quarter growth rate %",SA,0,CURR,0,PN2
+KGL3,"Recreation & culture annual growth rate %",SA,0,CURR,0,PN2
+KGL4,"Recreation & culture one quarter growth rate %",SA,0,CURR,0,PN2
+KGL5,"Recreation & culture four quarter growth rate %",SA,0,CURR,0,PN2
+KGL6,"Gross value added at basic prices annual growth rate CP SA %",NSA,0,CURR,0,PN2
+KGL8,"Gross value added at basic prices one quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KGM2,"Gross value added at basic prices four quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KGM4,"Gross value added at basic prices annual deflator growth rate SA %",NSA,0,CURR,0,PN2
+KGM5,"Gross value added at basic prices one quarter deflator growth rate SA %",NSA,0,CURR,0,PN2
+KGM6,"Gross value added at basic prices four quarter deflator growth rate SA %",NSA,0,CURR,0,PN2
+KGM7,"Gross value added at basic prices annual growth CVM SA %",NSA,0,CURR,0,PN2
+KGM9,"Gross value added at basic prices one quarter growth CVM SA %",NSA,0,CURR,0,PN2
+KGN3,"Gross value added at basic prices four quarter growth CVM SA %",NSA,0,CURR,0,PN2
+KGV4,"Gross final expenditure annual growth rate CP SA %",NSA,0,CURR,0,PN2
+KGV8,"Gross final expenditure one quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KGV9,"Gross final expenditure four quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KGW2,"Gross final expenditure annual growth rate CVM SA %",NSA,0,CURR,0,PN2
+KGW6,"Gross final expenditure one quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KGW7,"Gross final expenditure four quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KGW8,"Total domestic expenditure annual growth rate CP SA %",NSA,0,CURR,0,PN2
+KGX4,"Total domestic expenditure one quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KGX5,"Total domestic expenditure four quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KGX6,"Total domestic expenditure annual growth rate CVM SA %",NSA,0,CURR,0,PN2
+KGY2,"Total domestic expenditure one quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KGY3,"Total domestic expenditure four quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KGY7,"Total national household final consumption annual growth rate %",SA,0,CURR,0,PN2
+KGY8,"Households one quarter growth rate CP SA %",SA,0,CURR,0,PN2
+KGY9,"Households four quarter growth rate CP SA %",SA,0,CURR,0,PN2
+KGZ5,"Total national household final consumption annual growth rate %",SA,0,CURR,0,PN2
+KGZ6,"Households one quarter growth rate CVM SA %",SA,0,CURR,0,PN2
+KGZ7,"Households four quarter growth rate CVM SA %",SA,0,CURR,0,PN2
+KGZ9,"Non-profits institutions one quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH22,"Non-profits institutions four quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH23,"Non-profits institutions annual growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH27,"Non-profits institutions one quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH28,"Non-profits institutions four quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH29,"General government annual growth rate CP SA %",NSA,0,CURR,0,PN2
+KH2D,"General government one quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH2E,"General government four quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH2F,"General government annual growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH2J,"General government one quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH2K,"General government four quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH2L,"Total exports annual growth rate CP SA %",NSA,0,CURR,0,PN2
+KH2P,"Total exports one quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH2Q,"Total exports four quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH2R,"Total exports annual growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH2V,"Total exports one quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH2W,"Total exports four quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH35,"Exports services annual growth rate CP SA %",NSA,0,CURR,0,PN2
+KH36,"Exports services one quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH37,"Exports services four quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH3B,"Exports services annual growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH3C,"Exports services one quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH3D,"Exports services four quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH3E,"Total imports annual growth rate CP SA %",NSA,0,CURR,0,PN2
+KH3I,"Total imports one quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH3J,"Total imports four quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH3K,"Total imports annual growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH3O,"Total imports one quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH3P,"Total imports four quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH3W,"Imports services annual growth rate CP SA %",NSA,0,CURR,0,PN2
+KH3X,"Imports services one quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH3Y,"Imports services four quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH44,"Imports services annual growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH45,"Imports services one quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH46,"Imports services four quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH47,"Expenditure based estimate annual growth rate CP SA %",NSA,0,CURR,0,PN2
+KH49,"Expenditure based estimate one quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH4B,"Expenditure based estimate four quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH4D,"Expenditure based estimate annual growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH4F,"Expenditure based estimate one quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH4H,"Expenditure based estimate four quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH4J,"Taxes on products & production less subsidies annual growth rate %",NSA,0,CURR,0,PN2
+KH4M,"Compensation of employees annual growth rate %",NSA,0,CURR,0,PN2
+KH4W,"Total corporations one quarter growth rate",NSA,0,CURR,0,PN2
+KH4X,"Total corporations four quarter growth rate",NSA,0,CURR,0,PN2
+KH54,"Public corporations one quarter growth rate",NSA,0,CURR,0,PN2
+KH55,"Public corporations four quarter growth rate",NSA,0,CURR,0,PN2
+KH5A,"Private non-financial corporations one quarter growth rate %",NSA,0,CURR,0,PN2
+KH5B,"Private non-financial corporations four quarter growth rate %",NSA,0,CURR,0,PN2
+KH5M,"Private financial corporations one quarter growth rate",NSA,0,CURR,0,PN2
+KH5N,"Private financial corporations four quarter growth rate",NSA,0,CURR,0,PN2
+KH66,"Taxes on products & production less subsidies one quarter growth rate %",NSA,0,CURR,0,PN2
+KH67,"Taxes on products & production less subsidies four quarter growth rate %",NSA,0,CURR,0,PN2
+KH68,"Income based estimate annual growth rate CP SA %",NSA,0,CURR,0,PN2
+KH6A,"Income based estimate one quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH6C,"Income based estimate four quarter growth rate CP SA %",NSA,0,CURR,0,PN2
+KH6E,"Income based estimate annual growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH6G,"Income based estimate one quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH6I,"Income based estimate four quarter growth rate CVM SA %",NSA,0,CURR,0,PN2
+KH6K,"Gross added value at factor cost annual growth rate %",NSA,0,CURR,0,PN2
+KH6O,"Gross added value at factor cost one quarter growth rate %",NSA,0,CURR,0,PN2
+KH6P,"Gross added value at factor cost four quarter growth rate %",NSA,0,CURR,0,PN2
+KH6Q,"Other income annual growth rate %",NSA,0,CURR,0,PN2
+KH6U,"Other income one quarter growth rate %",NSA,0,CURR,0,PN2
+KH6V,"Other income four quarter growth rate %",NSA,0,CURR,0,PN2
+KH7D,"Gross domestic expenditure annual deflator growth rate SA %",NSA,0,CURR,0,PN2
+KH7E,"Gross domestic expenditure one quarter deflator growth rate SA %",NSA,0,CURR,0,PN2
+KH7F,"Gross domestic expenditure four quarter deflator growth rate SA %",NSA,0,CURR,0,PN2
+KH7G,"Non-profits institutions annual growth rate CP SA %",NSA,0,CURR,0,PN2
+KH7P,"P.51 £m",NSA,0,CURR,0,PN2
+KH7R,"P.51 £m",NSA,0,CURR,0,PN2
+KH8Y,"Dwellings - annual growth rate %",SA,2010,CONS,0,PN2
+KH92,"GFCF: General government - annual growth rate: CVM: SA %",SA,2010,CONS,0,PN2
+KH95,"Transport equipment - annual growth rate %",SA,2010,CONS,0,PN2
+KH96,"Other machinery and equipment - annual growth rate %",SA,2010,CONS,0,PN2
+KH97,"Other buildings and structures - annual growth rate %",SA,2010,CONS,0,PN2
+KH98,"Intangible fixed assets - annual growth rate %",SA,2010,CONS,0,PN2
+KH9A,"Dwellings - q-on-q1 growth rate %",NSA,2010,CONS,0,PN2
+KH9C,"GFCF: General government - q-on-q1 growth rate CVM SA %",SA,2010,CONS,0,PN2
+KH9F,"Transport equipment - q-on-q1 growth rate %",SA,2010,CONS,0,PN2
+KH9G,"Other machinery and equipment - q-on-q1 growth rate %",SA,2010,CONS,0,PN2
+KH9H,"Other buildings and structures -q-on-q1 growth rate %",SA,2010,CONS,0,PN2
+KH9I,"Intangible fixed assets -q-on-q1 growth rate %",SA,2010,CONS,0,PN2
+KH9K,"Dwellings - q-on-q4 growth rate %",SA,2010,CONS,0,PN2
+KH9M,"GFCF: General government - q-on-q4 growth rate: CVM: SA %",SA,2010,CONS,0,PN2
+KH9P,"Transport equipment - q-on-q4 growth rate %",SA,2010,CONS,0,PN2
+KH9Q,"Other machinery and equipment - q-on-q4 growth rate %",SA,2010,CONS,0,PN2
+KH9R,"Other buildings and structures- q-on-q4 quarter growth rate %",SA,2010,CONS,0,PN2
+KH9S,"Intangible fixed assets - q-on-q4 growth rate %",SA,2010,CONS,0,PN2
+KHB5,"Durable goods annual growth rate %",SA,0,CURR,0,PN2
+KHB6,"Durable goods one quarter growth rate %",SA,0,CURR,0,PN2
+KHB7,"Durable goods four quarter growth rate %",SA,0,CURR,0,PN2
+KHC3,"Durable goods annual growth rate %",SA,0,CURR,0,PN2
+KHC4,"Durable goods one quarter growth rate %",SA,0,CURR,0,PN2
+KHC5,"Durable goods four quarter growth rate %",SA,0,CURR,0,PN2
+KHC9,"Total goods annual growth rate %",SA,0,CURR,0,PN2
+KHD2,"Total goods one quarter growth rate %",SA,0,CURR,0,PN2
+KHD3,"Total goods four quarter growth rate %",SA,0,CURR,0,PN2
+KHD7,"Total goods annual growth rate %",SA,0,CURR,0,PN2
+KHD8,"Total goods one quarter growth rate %",SA,0,CURR,0,PN2
+KHD9,"Total goods four quarter growth rate %",SA,0,CURR,0,PN2
+KHE2,"Non-durable goods annual growth rate %",NSA,0,CURR,0,PN2
+KHE6,"Non-durable goods one quarter growth rate %",SA,0,CURR,0,PN2
+KHE7,"Non-durable goods four quarter growth rate %",SA,0,CURR,0,PN2
+KHF3,"Non-durable goods annual growth rate %",SA,0,CURR,0,PN2
+KHF4,"Non-durable goods one quarter growth rate %",SA,0,CURR,0,PN2
+KHF5,"Non-durable goods four quarter growth rate %",SA,0,CURR,0,PN2
+KHF6,"Services annual growth rate %",NSA,0,CURR,0,PN2
+KHG2,"Services one quarter growth rate %",SA,0,CURR,0,PN2
+KHG3,"Services four quarter growth rate %",SA,0,CURR,0,PN2
+KHG7,"Services annual growth rate %",SA,0,CURR,0,PN2
+KHG8,"Services one quarter growth rate %",SA,0,CURR,0,PN2
+KHG9,"Services four quarter growth rate %",SA,0,CURR,0,PN2
+KHH5,"Semi-durable goods annual growth rate %",SA,0,CURR,0,PN2
+KHH6,"Semi-durable goods one quarter growth rate %",SA,0,CURR,0,PN2
+KHH7,"Semi-durable goods four quarter growth rate %",SA,0,CURR,0,PN2
+KHI3,"Semi-durable goods annual growth rate %",SA,0,CURR,0,PN2
+KHI4,"Semi-durable goods one quarter growth rate %",SA,0,CURR,0,PN2
+KHI5,"Semi-durable goods four quarter growth rate %",SA,0,CURR,0,PN2
+KI8L,"GDP(O) : H+J : Transp. and Storage & Communication £m",SA,2010,CONS,2010,PN2
+KI8M,"H and J : Transport, Storage & Communication £m",SA,2010,CONS,2010,PN2
+KI8N,"GDPo: K-N: Fin., Real est., Scientific, Professional, Technical and Support act",SA,2010,CONS,2010,PN2
+KI8O,"K to N : Business services and Finance £m",SA,2010,CONS,2010,PN2
+KI8P,"GDPo: O-U: PAD, Educ., Health, Soc. work, Arts, Ent'ment and Recreation £m",SA,2010,CONS,2010,PN2
+KI8Q,"O to T : Government and Other Services £m",SA,2010,CONS,2010,PN2
+KIH8,"GDPo: O-T: PAD, Educ., Health, Soc. work, Arts, Ent'ment and Recreation £m",SA,2010,CONS,2010,PN2
+KIH9,"GDPo: K-N: Fin., Real est., Scientific, Professional, Technical and Support act",SA,2010,CONS,2010,PN2
+KII2,"GDP(O) : H+J : Transp. and Storage & Communication £m",SA,2010,CONS,2010,PN2
+KLH7,"GVA excluding oil & gas (06) £m",SA,2010,CONS,2010,PN2
+KLH8,"GVA exc oil & gas growth rate, QonQ, AonA %",SA,2010,CONS,2010,PN2
+KLH9,"GVA exc oil & gas growth rate, Q on same Q 4 periods earlier %",SA,2010,CONS,2010,PN2
+KLS2,"GVAx06 : GVA exc oil & gas £M £m",SA,2010,CONS,2010,PN2
+KNT7,"Revisions to Water supply, sewerafge £m",NSA,0,CURR,0,PN2
+L2KL,"A : Agriculture, Forestry and Fishing £m",SA,2010,CONS,2010,PN2
+L2KQ,"Total Production : Sections B, C, D & E £m",SA,2010,CONS,2010,PN2
+L2KR,"B : Mining And Quarrying £m",SA,2010,CONS,2010,PN2
+L2KX,"C : Manufacturing £m",SA,2010,CONS,2010,PN2
+L2MW,"D : Electricity, Gas, Steam and Air Conditioning Supply £m",SA,2010,CONS,2010,PN2
+L2N2,"E : Water Supply; Sewerage, Waste Management and Remediation Activities £m",SA,2010,CONS,2010,PN2
+L2N8,"F : Construction £m",SA,2010,CONS,2010,PN2
+L2NC,"Total Services : G to T £m",SA,2010,CONS,2010,PN2
+L2NE,"Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles £m",SA,2010,CONS,2010,PN2
+L2NQ,"Accommodation And Food Service Activities £m",SA,2010,CONS,2010,PN2
+L2O6,"Financial And Insurance Activities £m",SA,2010,CONS,2010,PN2
+L2OC,"Real Estate Activities £m",SA,2010,CONS,2010,PN2
+L2OH,"Sections: M & N £m",SA,2010,CONS,2010,PN2
+L2P8,"Public Administration And Defence; Compulsory Social Security £m",SA,2010,CONS,2010,PN2
+L2PA,"Education £m",SA,2010,CONS,2010,PN2
+L2PC,"Human Health And Social Work Activities £m",SA,2010,CONS,2010,PN2
+L2PZ,"G and I : Distribution & Accommodation and Food Service Activities £m",SA,2010,CONS,2010,PN2
+L2Q5,"Other Services £m",SA,2010,CONS,2010,PN2
+L3BB,"mGDP: Agriculture, Forestry And Fishing (period on period growth) %",SA,2010,CONS,2010,PN2
+L3BG,"Sections: B, C, D & E (period on period growth) %",SA,2010,CONS,2010,PN2
+L3BH,"Mining And Quarrying (period on period growth) %",SA,2010,CONS,2010,PN2
+L3BN,"Manufacturing (period on period growth) %",SA,2010,CONS,2010,PN2
+L3DM,"Electricity, Gas, Steam And Air Conditioning Supply £m",SA,2010,CONS,2010,PN2
+L3DQ,"Water Supply; Sewerage, Waste Management And Remediation Activities £m",SA,2010,CONS,2010,PN2
+L3DW,"Construction (period on period growth) %",SA,2010,CONS,2010,PN2
+L3E2,"Total Services: Period on Period Growth %",SA,2010,CONS,2010,PN2
+L3E4,"Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles £m",SA,2010,CONS,2010,PN2
+L3EG,"Accommodation And Food Service Activities (period on period growth) %",SA,2010,CONS,2010,PN2
+L3EU,"Financial And Insurance Activities (period on period growth) %",SA,2010,CONS,2010,PN2
+L3F2,"Real Estate Activities (period on period growth) %",SA,2010,CONS,2010,PN2
+L3F7,"Sections: M & N (period on period growth) %",SA,2010,CONS,2010,PN2
+L3FW,"Public Administration And Defence; Compulsory Social Security £m",SA,2010,CONS,2010,PN2
+L3FY,"Education (period on period growth) %",SA,2010,CONS,2010,PN2
+L3G2,"Human Health And Social Work Activities (period on period growth) %",SA,2010,CONS,2010,PN2
+L3GP,"Distribution & Accommodation and Food Service Activities £m",SA,2010,CONS,2010,PN2
+L3GT,"Other Services (period on period growth) %",SA,2010,CONS,2010,PN2
+L3ZZ,"mGDP: Agriculture, Forestry And Fishing (quarter on 4 quarter growth) %",SA,2010,CONS,2010,PN2
+L426,"Sections: B, C, D & E (period on period growth) %",SA,2010,CONS,2010,PN2
+L427,"Mining And Quarrying (period on period growth) %",SA,2010,CONS,2010,PN2
+L42D,"Manufacturing (period on period growth) %",SA,2010,CONS,2010,PN2
+L44C,"Electricity, Gas, Steam And Air Conditioning Supply (period on period growth) %",SA,2010,CONS,2010,PN2
+L44G,"Water Supply; Sewerage, Waste Management And Remediation Activities £m",SA,2010,CONS,2010,PN2
+L44M,"Construction (period on period growth) %",SA,2010,CONS,2010,PN2
+L44Q,"Total Services: Quarter on 4 Quarter Growth %",SA,2010,CONS,2010,PN2
+L44S,"Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles £m",SA,2010,CONS,2010,PN2
+L456,"Accommodation And Food Service Activities £m",SA,2010,CONS,2010,PN2
+L45K,"Financial And Insurance Activities £m",SA,2010,CONS,2010,PN2
+L45Q,"Real Estate Activities £m",SA,2010,CONS,2010,PN2
+L45V,"Sections: M & N £m",SA,2010,CONS,2010,PN2
+L46M,"Public Administration And Defence; Compulsory Social Security £m",SA,2010,CONS,2010,PN2
+L46O,"Education £m",SA,2010,CONS,2010,PN2
+L46Q,"Human Health And Social Work Activities £m",SA,2010,CONS,2010,PN2
+L47F,"Distribution & Accommodation and Food Service Activities £m",SA,2010,CONS,2010,PN2
+L47J,"Other Services £m",SA,2010,CONS,2010,PN2
+L489,"Total Market Sector GVA : Period on period growth %",SA,2010,CONS,2010,PN2
+L48D,"Total Market Sector GVA : Quarter on 4 Quarter Growth %",SA,2010,CONS,2010,PN2
+L48H,"Total Market Sector GVA : Index 1dp",SA,2010,CONS,2010,PN2
+L62K,"GFCF:Private sector: TOTAL: Dwellings, excluding land: £m: CVM: NSA",NSA,2010,CONS,0,PN2
+L62L,"GFCF:Private sector: TOTAL: Transfer of ownership costs: £m: CVM: NSA",NSA,2010,CONS,0,PN2
+L62M,"GFCF:Public non-fin corps: TOTAL: Dwellings, excluding land: £m: CVM: NSA",NSA,2010,CONS,0,PN2
+L62N,"GFCF:Public non-fin corps: TOTAL: Transfer of ownership costs: £m: CVM: NSA",NSA,2010,CONS,0,PN2
+L634,"GFCF:Public non-fin corps: TOTAL: Dwellings, excluding land: £m: CVM: SA",SA,2010,CONS,0,PN2
+L635,"GFCF:Public non-fin corps: TOTAL: Transfer of ownership costs: £m: CVM: SA",SA,2010,CONS,0,PN2
+L636,"GFCF:Private sector: TOTAL: Dwellings, excluding land: £m: CVM: SA",SA,2010,CONS,0,PN2
+L637,"GFCF:Private sector: TOTAL: Transfer of ownership costs: £m: CVM: SA",SA,2010,CONS,0,PN2
+L64T,"GFCF-5 £m",SA,0,CURR,0,PN2
+L64U,"GFCF-5 £m",SA,0,CURR,0,PN2
+L64V,"GFCF-5 £m",SA,0,CURR,0,PN2
+L64W,"GFCF-6 £m",SA,0,CURR,0,PN2
+L64X,"GFCF-6 £m",SA,0,CURR,0,PN2
+L64Y,"GFCF-6 £m",SA,0,CURR,0,PN2
+L64Z,"GFCF-7 £m",SA,0,CURR,0,PN2
+L652,"GFCF-7 £m",SA,0,CURR,0,PN2
+L653,"GFCF-7 £m",SA,0,CURR,0,PN2
+L654,"GFCF-8 £m",SA,0,CURR,0,PN2
+L655,"GFCF-8 £m",SA,0,CURR,0,PN2
+L656,"GFCF-8 £m",SA,0,CURR,0,PN2
+L8GG,"Implied GDP deflator at market prices: SA £m",SA,2010,IMPL,0,PN2
+L8GH,"Implied GDP deflator: Quarter on quarter growth: SA %",SA,2010,IMPL,2010,PN2
+L8GI,"Implied GDP deflator: Quarter on quarter previous year: SA £m",SA,2010,IMPL,2010,PN2
+NHCZ,"Gross Operating Surplus: Financial Corporations: Total: CP SA £m",SA,0,CURR,0,PN2
+NMRP,"General Government: Final consumption expenditure (P3): CPSA £m",SA,0,CURR,0,PN2
+NMRY,"General Government: Final consumption expenditure: P3: CVM SA £m",SA,2010,CONS,0,PN2
+NPEL,"Gross Fixed Capital Formation: Business Investment: CVM SA: £m",SA,2010,CONS,0,PN2
+NPEN,"Gross Fixed Capital Formation: Business Investment: CVM NSA: £m",NSA,2010,CONS,0,PN2
+NPJQ,"Acquisitions less disposals of valuables: total economy CP SA, £m",SA,0,CURR,0,PN2
+NPJR,"Acquisitions less disposals of valuables: total economy CVM SA, £m",SA,2010,CONS,0,PN2
+NPQR,"Total Gross Fixed Capital Formation CVM NSA £m",NSA,2010,CONS,0,PN2
+NPQS,"Total Gross Fixed Capital Formation CP SA £m",SA,0,CURR,0,PN2
+NPQT,"Total Gross Fixed Capital Formation CVM SA £m",SA,2010,CONS,0,PN2
+NTAO,"Tot adjustment to basic prices (General Government + Rest of the World) CVM SA £",SA,2010,CONS,0,PN2
+NTAP,"Total adjustment to basic prices (General Government + ROW) CP SA £m",SA,0,CURR,0,PN2
+RPZG,"General Government: Assets: Gross fixed capital formation: P.51: CP SA £m",SA,0,CURR,0,PN2
+UTIB,"Durable goods: Total CP SA £m",SA,0,CURR,0,PN2
+UTID,"Durable goods :Total CVM NAYear SA £m",SA,2010,CONS,0,PN2
+UTIF,"Total goods: Total CP SA £m",SA,0,CURR,0,PN2
+UTIH,"Total goods :Total CVM NAYear SA £m",SA,2010,CONS,0,PN2
+UTIJ,"Non-durable goods: Total CP SA £m",SA,0,CURR,0,PN2
+UTIL,"Non-durable goods :Total CVM NAYear SA £m",SA,2010,CONS,0,PN2
+UTIN,"Services: Total CP SA £m",SA,0,CURR,0,PN2
+UTIP,"Services :Total CVM NAYear SA £m",SA,2010,CONS,0,PN2
+UTIR,"Semi-durable goods: Total CP SA £m",SA,0,CURR,0,PN2
+UTIT,"Semi-durable goods :Total CVM NAYear SA £m",SA,2010,CONS,0,PN2
+YBEU,"Gross Domestic Product index: Current price: Seasonally adjusted",SA,0,CURR,2010,PN2
+YBEX,"Gross value added at basic price index: Current price: Seasonally adjusted",SA,0,CURR,2010,PN2
+YBEZ,"Gross domestic product index: CVM: Seasonally adjusted",SA,2010,CONS,2010,PN2
+YBFR,"Gross value added at basic prices: Output Index: CVM SA",SA,2008,CONS,2008,PN2
+YBFV,"Total domestic expenditure deflator: Seasonally adjusted £m",SA,2010,DEFL,2010,PN2
+YBGB,"Gross Domestic Product (Expenditure) at market prices deflator: SA £m",SA,2010,DEFL,2010,PN2
+YBHA,"Gross Domestic Product at market prices: Current price: Seasonally adjusted £m",SA,0,CURR,0,PN2
+YBIL,"Total domestic expenditure (aligned) - P.3+P.5: CP SA £m",SA,0,CURR,0,PN2
+YBIM,"Total domestic expenditure (aligned) - P.3+P.5: CVM SA £m",SA,2010,CONS,0,PN2
+ZAKV,"0 Household final consumption expenditure: Domestic concept CP SA £m",SA,0,CURR,0,PN2
+ZAKW,"0 Household final consumption expenditure :Domestic concept CVM NAYear SA £m",SA,2010,CONS,0,PN2
+ZAKX,"02 Alcoholic beverages and tobacco CP SA £m",SA,0,CURR,0,PN2
+ZAKY,"02 Alcoholic beverages and tobacco CVM NAYear SA £m",SA,2010,CONS,0,PN2
+ZAKZ,"03 Clothing and footwear CP SA £m",SA,0,CURR,0,PN2
+ZALA,"03 Clothing and footwear CVM NAYear SA £m",SA,2010,CONS,0,PN2
+ZAVN,"04 Housing; water; electricity; gas and other fuels CP SA £m",SA,0,CURR,0,PN2
+ZAVO,"04 Housing; water; electricity; gas and other fuels CVM NAYear SA £m",SA,2010,CONS,0,PN2
+ZAVV,"05 Furnishings; household equipment and routine maintenance of the house CP SA £",SA,0,CURR,0,PN2
+ZAVW,"05 Furnishings; household equipment & routine maintnce of the house CVM NAYear £",SA,2010,CONS,0,PN2
+ZAWB,"06 Health CP SA £m",SA,0,CURR,0,PN2
+ZAWC,"06 Health CVM NAYear SA £m",SA,2010,CONS,0,PN2
+ZAWL,"07 Transport CP SA £m",SA,0,CURR,0,PN2
+ZAWM,"07 Transport CVM NAYear SA £m",SA,2010,CONS,0,PN2
+ZAWV,"08 Communication CP SA £m",SA,0,CURR,0,PN2
+ZAWW,"08 Communication CVM NAYear SA £m",SA,2010,CONS,0,PN2
+ZAWZ,"09 Recreation and culture CP SA £m",SA,0,CURR,0,PN2
+ZAXA,"09 Recreation and culture CVM NAYear SA £m",SA,2010,CONS,0,PN2
+ZAXR,"11 Restaurants and hotels CP SA £m",SA,0,CURR,0,PN2
+ZAXS,"11 Restaurants and hotels CVM NAYear SA £m",SA,2010,CONS,0,PN2
+ZAYF,"12 Miscellaneous goods and services CP SA £m",SA,0,CURR,0,PN2
+ZAYG,"12 Miscellaneous goods and services CVM NAYear SA £m",SA,2010,CONS,0,PN2
+ZWUM,"01 Food and non-alcoholic beverages CP SA £m",SA,0,CURR,0,PN2
+ZWUN,"01 Food and non-alcoholic beverages CVM NAYear SA £m",SA,2010,CONS,0,PN2
+ZWUS,"10 Education CP SA £m",SA,0,CURR,0,PN2

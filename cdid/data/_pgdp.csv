@@ -1,0 +1,47 @@
+ABMI,"Gross Domestic Product: chained volume measures: Seasonally adjusted £m",SA,2010,CONS,0,PGDP
+ABMM,"Gross Value Added at basic prices:chained volume measures:Seasonally adjusted £m",SA,2010,CONS,0,PGDP
+L2KK,"Gross value added at basic prices: Output index: CVM SA",SA,2010,CONS,2010,PGDP
+L3BA,"ESA95 % Change on previous period: Gross value added at basic prices",SA,2010,CONS,2010,PGDP
+L3ZY,"ESA95 % Change on same quarter previous year: Gross value added at basic prices",SA,2010,CONS,2010,PGDP
+IHYP,"Gross Domestic Product: Year on Year growth: CVM SA %",SA,2010,CONS,0,PGDP
+IHYQ,"Gross Domestic Product: Quarter on Quarter growth: CVM SA %",SA,2010,CONS,0,PGDP
+IHYR,"Gross Domestic Product: Quarter on quarter previous year: CVM SA £m",SA,2010,CONS,0,PGDP
+KI8L,"GDP(O) : H+J : Transp. and Storage & Communication £m",SA,2010,CONS,2010,PGDP
+KI8M,"H and J : Transport, Storage & Communication £m",SA,2010,CONS,2010,PGDP
+KI8N,"GDPo: K-N: Fin., Real est., Scientific, Professional, Technical and Support act",SA,2010,CONS,2010,PGDP
+KI8O,"K to N : Business services and Finance £m",SA,2010,CONS,2010,PGDP
+KI8P,"GDPo: O-U: PAD, Educ., Health, Soc. work, Arts, Ent'ment and Recreation £m",SA,2010,CONS,2010,PGDP
+KI8Q,"O to T : Government and Other Services £m",SA,2010,CONS,2010,PGDP
+KIH8,"GDPo: O-T: PAD, Educ., Health, Soc. work, Arts, Ent'ment and Recreation £m",SA,2010,CONS,2010,PGDP
+KIH9,"GDPo: K-N: Fin., Real est., Scientific, Professional, Technical and Support act",SA,2010,CONS,2010,PGDP
+KII2,"GDP(O) : H+J : Transp. and Storage & Communication £m",SA,2010,CONS,2010,PGDP
+KLH7,"GVA excluding oil & gas (06) £m",SA,2010,CONS,2010,PGDP
+KLH8,"GVA exc oil & gas growth rate, QonQ, AonA %",SA,2010,CONS,2010,PGDP
+KLH9,"GVA exc oil & gas growth rate, Q on same Q 4 periods earlier %",SA,2010,CONS,2010,PGDP
+L2KL,"A : Agriculture, Forestry and Fishing £m",SA,2010,CONS,2010,PGDP
+L2KQ,"Total Production : Sections B, C, D & E £m",SA,2010,CONS,2010,PGDP
+L2KR,"B : Mining And Quarrying £m",SA,2010,CONS,2010,PGDP
+L2KX,"C : Manufacturing £m",SA,2010,CONS,2010,PGDP
+L2MW,"D : Electricity, Gas, Steam and Air Conditioning Supply £m",SA,2010,CONS,2010,PGDP
+L2N2,"E : Water Supply; Sewerage, Waste Management and Remediation Activities £m",SA,2010,CONS,2010,PGDP
+L2N8,"F : Construction £m",SA,2010,CONS,2010,PGDP
+L2NC,"Total Services : G to T £m",SA,2010,CONS,2010,PGDP
+L2PZ,"G and I : Distribution & Accommodation and Food Service Activities £m",SA,2010,CONS,2010,PGDP
+L3BB,"mGDP: Agriculture, Forestry And Fishing (period on period growth) %",SA,2010,CONS,2010,PGDP
+L3BG,"Sections: B, C, D & E (period on period growth) %",SA,2010,CONS,2010,PGDP
+L3BH,"Mining And Quarrying (period on period growth) %",SA,2010,CONS,2010,PGDP
+L3BN,"Manufacturing (period on period growth) %",SA,2010,CONS,2010,PGDP
+L3DM,"Electricity, Gas, Steam And Air Conditioning Supply £m",SA,2010,CONS,2010,PGDP
+L3DQ,"Water Supply; Sewerage, Waste Management And Remediation Activities £m",SA,2010,CONS,2010,PGDP
+L3DW,"Construction (period on period growth) %",SA,2010,CONS,2010,PGDP
+L3E2,"Total Services: Period on Period Growth %",SA,2010,CONS,2010,PGDP
+L3GP,"Distribution & Accommodation and Food Service Activities £m",SA,2010,CONS,2010,PGDP
+L3ZZ,"mGDP: Agriculture, Forestry And Fishing (quarter on 4 quarter growth) %",SA,2010,CONS,2010,PGDP
+L426,"Sections: B, C, D & E (period on period growth) %",SA,2010,CONS,2010,PGDP
+L427,"Mining And Quarrying (period on period growth) %",SA,2010,CONS,2010,PGDP
+L42D,"Manufacturing (period on period growth) %",SA,2010,CONS,2010,PGDP
+L44C,"Electricity, Gas, Steam And Air Conditioning Supply (period on period growth) %",SA,2010,CONS,2010,PGDP
+L44G,"Water Supply; Sewerage, Waste Management And Remediation Activities £m",SA,2010,CONS,2010,PGDP
+L44M,"Construction (period on period growth) %",SA,2010,CONS,2010,PGDP
+L44Q,"Total Services: Quarter on 4 Quarter Growth %",SA,2010,CONS,2010,PGDP
+L47F,"Distribution & Accommodation and Food Service Activities £m",SA,2010,CONS,2010,PGDP
