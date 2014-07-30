@@ -690,7 +690,7 @@ var keys = (function($, undefined){
 
 
 
-	function tab(tab) {
+	function showTab(tab) {
 		for ( var i=1; i<=7; i++){
 			$("#tab"+i).css("display", 'none');
 			$("#li_tab"+i).children(0).attr("class", '');
@@ -742,6 +742,11 @@ var keys = (function($, undefined){
 			getData(chartTitle);
 		});
     });
+
+    return{
+      showTab:showTab
+    }
+ 
 
 
 }(jQuery)); 
