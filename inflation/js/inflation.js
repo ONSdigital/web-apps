@@ -14,9 +14,10 @@ var inflation = (function($) {
 	//, UPDATE_URL = "http://www.ons.gov.uk/ons/datasets-and-tables/data-selector.html?dataset=mm23"
 
 	// static version using local data snapshot
-	//, BASE_URL = "dataset.csv" 
+	, BASE_URL = "dataset.csv" 
 
-	, BASE_URL = "proxy_dataset.php"
+
+	//, BASE_URL = "proxy_dataset.php"
 	, UPDATE_URL = "data-selector.html"
 	, DOWNLOAD_URL = "http://www.ons.gov.uk/ons/datasets-and-tables/downloads/csv.csv?dataset=mm23&cdid="
 	, INITIAL_LIST = "D7G7,D7BT,L522,L55O,KVR8,KVR9,CHAW,CZBH,CHMK,CDKQ"
