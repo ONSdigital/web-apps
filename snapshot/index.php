@@ -367,6 +367,14 @@ echo '  <!-- Start of first page -->
 
 
     <div  id="" class="item notes" >
+              
+    <div class="container alpha-header">
+      <p class="alpha-header-title">Office for National Statistics
+        <span>Prototype</span>
+      </p>
+      <p class="alpha-header-copy">This is a prototype and does not contain the latest data. Please refer to <a href="http://www.ons.gov.uk">www.ons.gov.uk</a> for the latest information.</p>
+    </div>
+
       <p>
         This snapshot shows key economic data.
       </p>
