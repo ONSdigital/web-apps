@@ -416,3 +416,43 @@ html body .ui-group-theme-a a , li a{
 a.ui-icon-menu:after{
   color: #FFB384;
 }
+
+.alpha-header {
+    background-color: #BC0031;
+  border-bottom: 1px solid black;
+  padding-left:30px;
+    padding-bottom: 10px;
+}
+
+.notes .alpha-header-title{
+  font-size:24px;
+}
+
+.alpha-header-title {
+  font-family: "Open Sans";
+  padding-top:20px;
+  color: #fff;
+    font-size: 24px;
+    font-weight: 600;
+    line-height:24px;
+}
+.alpha-header-title {
+  color: #fff;
+
+}
+.alpha-header-copy{
+  color: #fff;
+    margin-bottom: 10px;
+}
+.alpha-header-copy a{
+  color: #fff;
+  font-weight: 600;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+.alpha-header-title span{
+  text-transform: uppercase;
+  color: #fff;
+  font-size:32px;
+  font-weight:800;
+}
