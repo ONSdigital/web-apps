@@ -1364,7 +1364,7 @@ $(function() {
 var charts = [];
 var  width = 500;
 var height = 340;
-var kid;
+var pymChild = new pym.Child();
 
 
 
@@ -1383,10 +1383,11 @@ $(document).ready( function() {
   initCharts(wd-50);
 
   //pym
- kid = new pym.Child();
+ //kid = new pym.Child();
  //kid = new pym.Child({ renderCallback: sendHt });
 
-
+  pymChild.sendHeight();
+  console.log("set ht");
 
 });
 
@@ -1394,6 +1395,7 @@ $(document).ready( function() {
 
 $(window).resize(function() {
   resizeChart();
+
 });
 
 
