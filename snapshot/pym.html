@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PYM::Economic Snapshot</title>
+
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,800' rel='stylesheet' type='text/css'>
+
+
+
+  <script src="js/jquery-1.10.1.min.js"></script>
+  <script src="js/pym.js"></script>
+
+
+
+
+  <style>
+  </style>
+
+
+
+
+
+
+
+
+</head>
+
+
+<body>
+
+
+<h1> Pym Responsive iFrame </h1>
+
+<a id="myLink" href='#'>test</a>
+
+<div id="frame"></div>
+
+
+
+<script>
+
+$(document).ready( function() {
+  console.log("pym ready");
+  var wd =window.innerWidth;
+  var ht = window.innerHeight;
+  var pymParent = new pym.Parent('frame', 'index.html', {});
+
+
+pymParent.onMessage('response', onResponseMessage);
+
+function onResponseMessage(msg) {
+    console.log("onResponseMessage " + msg);
+}
+
+
+document.getElementById('myLink').addEventListener('click', onLinkClick);
+
+function onLinkClick(e) {
+    e.preventDefault();
+    console.log("parent click");
+
+    pymParent.sendMessage('navigate', "hello Pym!");
+}
+
+
+
+});
+
+
+</script>
+
+</body>
+</html>
