@@ -1362,8 +1362,9 @@ $(function() {
 <script>
 
 var charts = [];
-var  width = 500;
+var width = 500;
 var height = 340;
+var pymChild = null;
 
 
 
@@ -1371,7 +1372,10 @@ $(document).ready( function() {
   var wd =window.innerWidth;
   var ht = window.innerHeight;
 
-
+  //create Pym Child
+  var pymChild = new pym.Child();
+  // manually set the iFrame height
+  pymChild.sendMessage('height', 2000);
 
   // copy footer to all pages
   jQuery.each($("div[data-role='page']"), function(index, element) {
@@ -1381,12 +1385,8 @@ $(document).ready( function() {
 
   initCharts(wd-50);
 
-  //pym
-   var kid = new pym.Child();
-   //var kid = new pym.Child({ renderCallback: myFunc });
 
 });
-
 
 
 
@@ -1397,15 +1397,15 @@ $(window).resize(function() {
 
 
 $( document ).on( "pageshow", function ( event, ui ) {
-var wd =window.innerWidth;
+  var wd =window.innerWidth;
   var ht = window.innerHeight;
-  console.log("pageinit"  );
-console.log(wd, ht);
+  //console.log("pageinit"  );
+  //console.log(wd, ht);
   // check orientation
   if(wd<ht && wd< 768){  //Portrait, so suggest...
-    console.log("we respectfully suggest that you turn your screen around...");
+    //console.log("we respectfully suggest that you turn your screen around...");
   //$( "#popupMenu" ).popup();
-  //  $( "#popupMenu" ).popup('open');
+  //$( "#popupMenu" ).popup('open');
   }else{
 
   }
@@ -1414,8 +1414,8 @@ console.log(wd, ht);
 
 $( document ).on( "pagecontainershow", function ( event, ui ) {
   var activePage = $.mobile.pageContainer.pagecontainer( "getActivePage" );
-  console.log("got page "  );
-  console.log( activePage[0].id );
+  //console.log("got page "  );
+  //console.log( activePage[0].id );
 });
 
 
@@ -1430,7 +1430,6 @@ $( window ).on( "orientationchange", function( event ) {
 
 
 function resizeChart(){
-
   var wd =window.innerWidth;
   var ht = window.innerHeight;
   //var str = "";
@@ -1454,10 +1453,10 @@ function resizeChart(){
 
 
 function toggleCharts(event) {
-  console.log ( this.index );
+  //console.log ( this.index );
   switch( this.index){
     case 0:
-      console.log ( "GDP " );
+      //console.log ( "GDP " );
       var chart = $("#chart_gdp").highcharts();
       var series1 = chart.series[0];
       var series2 = chart.series[1];
@@ -1485,11 +1484,11 @@ function toggleCharts(event) {
       });
     break;
     case 1:
-      console.log ( "BOP" );
+      //console.log ( "BOP" );
 
     break;
     case 2:
-      console.log ( "Lab" );
+      //console.log ( "Lab" );
       var chart = $("#chart_labour").highcharts();
       var series1 = chart.series[0];
       var series2 = chart.series[1];
@@ -1519,7 +1518,7 @@ function toggleCharts(event) {
 
     break;
     case 3:
-      console.log ( "CPI" );
+      //console.log ( "CPI" );
       var chart = $("#chart_prices").highcharts();
       var series1 = chart.series[0];
       var series2 = chart.series[1];
@@ -1557,7 +1556,7 @@ function toggleCharts(event) {
       });
     break;
     case 4:
-      console.log ( "Sales" );
+      //console.log ( "Sales" );
       var chart = $("#chart_sales").highcharts();
       var series1 = chart.series[0];
       var series2 = chart.series[1];
@@ -1580,7 +1579,7 @@ function toggleCharts(event) {
       });
     break;
     case 5:
-      console.log ( "Debt "   );
+      //console.log ( "Debt "   );
 
       var chart = $("#chart_debt").highcharts();
       var series1 = chart.series[0];
