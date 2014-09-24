@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PYM::Highcharts Test</title>
+
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,800' rel='stylesheet' type='text/css'>
+
+
+
+  <script src="js/jquery-1.10.1.min.js"></script>
+  <script src="js/Highcharts.js"></script>
+  <script src="js/pym.js"></script>
+  <script src="js/multiseries.js"></script>
+  <script src="js/charts.js"></script>
+
+
+
+
+  <style>
+  body {
+    font-family: "Open Sans";
+}
+h2 {
+    font-weight: 300;
+    padding: 20px 0px;
+}
+  </style>
+
+
+
+
+
+
+
+
+</head>
+
+
+<body>
+
+<div class="container ">
+
+
+  <div class="row">
+    <h2>Multi-series</h2>
+    <div id="chart_prices" class="chart">
+    </div>
+  </div>
+
+
+</div>
+
+
+
+
+<script>
+
+$(document).ready( function() {
+
+  //create Pym Child
+  var pymChild = new pym.Child();
+
+  // manually set the iFrame height
+  //pymChild.sendMessage('height', 2000);
+
+  //automatically send height
+  //pymChild.sendHeight();
+
+
+
+});
+
+
+
+
+
+</script>
+
+</body>
+</html>
