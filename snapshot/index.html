@@ -1364,6 +1364,7 @@ $(function() {
 var charts = [];
 var  width = 500;
 var height = 340;
+var kid;
 
 
 
@@ -1382,13 +1383,12 @@ $(document).ready( function() {
   initCharts(wd-50);
 
   //pym
-  // var kid = new pym.Child();
-   var kid = new pym.Child();
+ kid = new pym.Child();
+ //kid = new pym.Child({ renderCallback: sendHt });
 
-   kid.sendHeight();
+
 
 });
-
 
 
 
