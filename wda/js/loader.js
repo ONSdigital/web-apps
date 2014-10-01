@@ -1,5 +1,5 @@
 var loader = (function () {
- 
+
 
      function loadData( callBack ) {
         $.ajax({
@@ -18,15 +18,15 @@ var loader = (function () {
 
 
     function setURL( url ) {
-        console.log("LOADER:: set url: " + url);
-          DATA_URL = url;
+        //console.log("LOADER:: set url: " + url);
+        DATA_URL = url;
     }
 
-        
+
     return{
       loadData:loadData,
       setUrl:setURL
     }
- 
+
 
 })();

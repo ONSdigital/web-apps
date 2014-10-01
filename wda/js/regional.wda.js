@@ -83,8 +83,8 @@ function getStats(postcode, isPostcode){
     url = NAME_URL;
   }
 
-  console.log ("getStats " + postcode);
-  console.log ("getStats " + postcode);
+  //console.log ("getStats " + postcode);
+  //console.log ("getStats " + postcode);
   var id;
   mainTitle = "";
 
@@ -93,10 +93,10 @@ function getStats(postcode, isPostcode){
     url: url + postcode,
     dataType: "xml",
     success: function(xml){
-     console.log(xml);
+     //console.log(xml);
      // $("#content").append("<ul></ul>");
       $(xml).find('Area').each(function(){
-       console.log($(this) );
+       //console.log($(this) );
 /*
         var sLevel = $(this).find('LevelTypeId').text();
         var hierarch = $(this).find('HierarchyId').text();
@@ -255,7 +255,7 @@ function setTitle(name){
 
 
 function getData(areaID){
-  console.log ("getData " + areaID);
+  //console.log ("getData " + areaID);
   var titles = [];
   var values = [];
   housing = [];
@@ -287,8 +287,8 @@ function getData(areaID){
     dataType: "json",
 
     success: function(json){
-      console.log("DATA");
-       //   console.log(xml);
+      //console.log("DATA");
+       //   //console.log(xml);
 
       //console.log(json);
       //console.log(json["ons.dataPackage"]);
@@ -421,7 +421,7 @@ function getData(areaID){
         // SLICE the data by TENURE
 
         $.each (chartData[0].data, function (index, value){
-          console.log( value );
+          //console.log( value );
           typeChart.series[5-index].setData( [value] );
           //typeChart.series[6-index].show( );
           //typeChart.series[6-index].update({ showInLegend: true});
@@ -472,7 +472,7 @@ function getData(areaID){
 
         $.each (chartData, function (index, value){
 
-          console.log(value);
+          //console.log(value);
           if(index>0){
             i = index-1;
             detachedChart.series[i].setData( [value.data[0]] );

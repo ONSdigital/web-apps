@@ -6,7 +6,6 @@
 
       function initializeMap() {
 
-        console.log("init map");
         // Create a simple map.
         map = new google.maps.Map(document.getElementById('map'), {
           zoom: 10,
@@ -107,7 +106,6 @@
 
 
     function displayArea(id){
-      console.log("displayArea");
 
       map.data.forEach( function (feature){
         if(feature.getProperty("LAD11CD")===id){

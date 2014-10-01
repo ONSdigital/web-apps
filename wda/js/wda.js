@@ -17,11 +17,9 @@ var wda = (function () {
 
 
   $(document).ready(function() {
-    console.log("WDA ready...");
-    //init map
+
     initializeMap();
     initCharts();
-
 
     addListeners();
 
@@ -61,7 +59,7 @@ var wda = (function () {
 
 
   function parseData(data){
-    console.log(data);
+    //console.log(data);
     var lat = data.wgs84_lat;
     var lon = data.wgs84_lon;
 
@@ -96,33 +94,7 @@ var wda = (function () {
       testPostcode();
     })
 
-/*
-    $("#showBtn").click( function(evt){
-      evt.preventDefault();
-      console.log("showBtn "  );
 
-      showCharts();
-      location.hash = "#comparisonTop";
-
-    })
-
-    $("#clearBtn").click( function(evt){
-      evt.preventDefault();
-      console.log("CLEAR");
-
-      comparisons =[];
-      //updateDisplay();
-      checkComparisonList();
-      updateComparisonList();
-
-    })
-    $("#addBtn").click( function(evt){
-      evt.preventDefault();
-      console.log("add button "  + lastArea);
-
-      addArea(lastArea);
-    })
-    */
   }
 
 
