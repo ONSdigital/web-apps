@@ -1,0 +1,175 @@
+
+  #map{
+    width:100%;
+    height:640px;
+    position: relative;
+    margin-top:20px;
+  }
+  #postcodeSearch{
+    position:relative;
+    float:right;
+    top: -80px;
+    left: -20px;
+    z-index:990;
+  }
+
+
+.navbar{
+  padding-bottom:20px;
+}
+
+  #nessPanel {
+    position: relative;
+    display:block;
+    /*background: #fff;*/
+    height: 80px;
+    padding:10px;
+    border-left: solid 4px #FF950E;
+    background-color: #F9F9F9;
+  }
+
+  #nessContainer{
+    overflow:hidden;
+    height: 80px;
+    margin-bottom:20px;
+    background-color: #F9F9F9;
+  }
+
+
+
+  .chart{
+    height:440px;
+  }
+  .barChart{
+    height:300px;
+  }
+  .piechart{
+    height:200px;
+  }
+
+  /* CHART: tooltip side bar */
+  .sidebar {
+    width:30px;
+    height:100px;
+    margin-right: 5px;
+    float:left;
+    background-color: #f00;
+  }
+
+  .fa{
+    padding-top: 2px;
+  }
+  .fa-square{
+    color:#0084D1;
+  }
+  .headline{
+    font-size:32px;
+  }
+
+  .quarterChart{
+    height:120px;
+  }
+  .halfChart{
+    height:240px;
+  }
+  .regionName{
+    width:100%;
+    background-color:#fff;
+  }
+  .mapPanel{
+    padding:5px 5px 5px 10px;
+    display:block;
+    width:250px;
+    background-color:#fff;
+    margin-bottom:3px;
+  }
+
+body{
+  font-family: "Open Sans";
+}
+
+h2{
+  font-weight: 300;
+  padding:20px 0px;
+}
+
+h3{
+  font-weight: 300;
+  padding-bottom:10px;
+}
+
+h2.subtitle{
+  margin-bottom:0px;
+  padding-bottom:0px;
+}
+h3.subtitle{
+  margin-top:0px;
+  margin-bottom:0px;
+  padding-top:5px;
+  padding-bottom:0px;
+}
+h4.charttitle{
+  font-size:16px;
+
+}
+
+h5{
+  font-family: 'Open Sans Condensed';
+  font-weight: 700;
+  font-size:15px;
+  //padding-bottom:14px;
+}
+
+footer {
+  background-color: #EEE;
+}
+.footer ul {
+  padding:0px;
+}
+.footer li {
+  list-style:none;
+}
+
+body {
+  padding-top: 0px;
+}
+
+
+
+.darkGrey {
+  background-color: #52575F;
+  color:#fff;
+}
+.darkGrey a{
+  color:#fff;
+  text-decoration: none;
+}
+a:hover{
+  color:#52575F;
+  text-decoration: none;
+}
+.icon{
+  padding:8px;
+  color:#fff;
+  border: 1px solid #E3E3E3;
+  border-radius: 6px;
+  margin:10px;
+}
+
+.page-header h1 a {
+  color: black;
+  text-decoration: none;
+}
+
+.page-header h1 small a {
+  color: #999;
+}
+
+
+#chart {
+  margin: 20px 20px;
+}
+
+.para {
+  margin-bottom: 10px;
+}
