@@ -4,15 +4,23 @@ var inflation = (function($) {
 	// location of csv data and also page containing update date
 
 
+	// Links for PREVIEW 
+	//, BASE_URL = "http://wasppreview/ons/datasets-and-tables/downloads/csv.csv"
+	//, UPDATE_URL = "http://wasppreview/ons/datasets-and-tables/data-selector.html?dataset=mm23"
+
+
+	// Links for LIVE  
+	//, BASE_URL = "http://www.ons.gov.uk/ons/datasets-and-tables/downloads/csv.csv"
+	//, UPDATE_URL = "http://www.ons.gov.uk/ons/datasets-and-tables/data-selector.html?dataset=mm23"
+
 	// static version using local data snapshot
-	, BASE_URL = "data/" 
+	, BASE_URL = "dataset.csv" 
 
 
 	//, BASE_URL = "proxy_dataset.php"
 	, UPDATE_URL = "data-selector.html"
 	, DOWNLOAD_URL = "http://www.ons.gov.uk/ons/datasets-and-tables/downloads/csv.csv?dataset=mm23&cdid="
-	, INITIAL_LIST = ['D7G7','D7BT','L522','L55O','KVR8','KVR9','CHAW','CZBH','CHMK','CDKQ']
-	, indices = ["D7BT", "L522", "KVR8", "CHAW", "CHMK"]
+	, INITIAL_LIST = "D7G7,D7BT,L522,L55O,KVR8,KVR9,CHAW,CZBH,CHMK,CDKQ"
 
 	, titles = [
 		"CPI: Consumer Prices Index"                                                
@@ -29,24 +37,48 @@ var inflation = (function($) {
 
 	, dataset = "mm23"
 	, chart
+	, rawData
 	, yearArray
 	, qtrArray
 	, monthArray
 
 	, seriesData = []
 	, descriptions = []
+	, measures = []
+	, id = []
 	, cdids =[]
 
+	, lastValues
+	, penultimateValues
 	, colours = ["#003D57","#A8BD3A","#C5000B","#90B0C9","#FF950E","#7E0021","#FF420E","#314004","#FFD320", "#000000"]
 	, monthNames = [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ]
 	, chartOptions
+	, chartTitle
+	, units
+	, customInterval = {}
+	, xAxisStartPoint
+	, startDate = Array(10)
 
 	, $menu
 	, baseYear
-	, baseValue = []
+	, baseValues = []
 
-	, loadedItems = 0
 
+	, tableObjects ={}
+
+
+	, formalTitles = {
+		  "D7BT":"CPI - Index, 2005=100"
+		, "D7G7":"CPI (% change)"
+		, "L522":"CPIH - Index, 2005=100"
+		, "L55O":"CPIH (% change)"
+		, "KVR8":"RPIJ - Index, 1987=100"
+		, "KVR9":"RPIJ (% change)"
+		, "CHAW":"RPI - Index, Jan 1987=100"
+		, "CZBH":"RPI (% change)"
+		, "CHMK":"RPIX - Index, Jan 1987=100"
+		, "CDKQ":"RPIX (% change)"
+	}
 
 	, measureColours = {
 		  "D7BT": colours[0]
@@ -234,8 +266,6 @@ var inflation = (function($) {
 
 
 
- 
-
 	//formatter function for different tooltips
 	var monthFormat = function () {
 		var s ,
@@ -282,115 +312,198 @@ var inflation = (function($) {
 	}
 
 
+	// function to call ONS website with actual CDIDs
+	function getData(ref){
+		var cdid = ref
+		, url = "blank"
 
-	function getData(list){
+		$.ajax({
+			dataType: "text",
+			url: BASE_URL,
+			data: "dataset=" + dataset + "&cdid=" + cdid,
+			success: function(data) {
 
-		var cdid;
+				rawData = data.split("\n");
+				splitRawData();
 
-		for ( var i=0; i<list.length; i++){
-			cdid = list[i];
+				if (!isIE() || isIE() >= 9) {
+					getUpdatePage();
+				}else  {
+					// is IE version less than 9
+					$("#last_date").text("");
+				}
 
-
-			$.ajax({
-				dataType: "json",
-				url: BASE_URL+ cdid + ".json",
-				success: function(data) {
-					storeData(data);
-				},
-				error: function (xhr, textStatus, errorThrown) {
+			},
+			error: function (xhr, textStatus, errorThrown) {
+					/*
 					console.warn("error");
 					//console.log(xhr);
+
+					//console.log(textStatus);
+					//console.log(errorThrown);
+					*/
+				}
+			});
+	}
+
+
+	// function to call ons website for HTML page containg last updated date
+	function getUpdatePage(ref){
+			var cdid = ref
+			, url = "blank"
+
+			$.ajax({
+				dataType: "text",
+				url: UPDATE_URL,
+				success: function(data) {
+
+					var part = data.split("<div>Last updated: ")[1];
+					part = part.split("</div>")[0];
+
+					$("#last_date").text("Last updated: " + part);
+				},
+				error: function (xhr, textStatus, errorThrown) {
+					alert("Error loading date");
+					/*
+					//console.log(xhr);
+
+					//console.log(textStatus);
+					//console.log(errorThrown);
+					*/
 				}
 			});
 		}
-	}
 
 
+		/////////////////////////////////////////////////////////////////////////////////////////
+		//
+		//	split the CSV data into the component parts:
+		//	month, quarter and year arrrays
+		//	plus measures and the last values
+		//	
+		//	also builds set of objects with the associated data
+		//  {
+		//	baseValue		- used to re-base the indices
+		//	color 			- chart colour
+		//	data 			- legacy
+		//	data_mon		- formatted monthly chart data: array of objects {date:millisecondsUTC, value}
+		//	data_qtr
+		//	data_yr
+		//	endDate 		- last date value
+		//	name 			- series name from CSV
+		//	startDate		- first available date
+		//	visible	 		- is chart line visible
+		//	}
+		//
+		/////////////////////////////////////////////////////////////////////////////////////////
+		function splitRawData(){
+			var i
+			, j
+			, listLength = rawData.length
+			, valueList = rawData[0].split(",")
+			, numValues = valueList.length - 1;
+
+			yearArray  = [];
+			qtrArray   = [];
+			monthArray = [];
+			descriptions = [];
+			measures = [];
+			cdids =[];
+
+			id = rawData[0].slice(1).split(",");	// remove the first entry (timestamp)
+
+			for ( i = 0; i < listLength; i++) {
+				rawData[i] = rawData[i].split(",");
+
+				if(rawData[i][0]){
+					var dateLength = rawData[i][0].length;
+
+					if(dateLength===6){												// YEAR
+						var date = rawData[i][0].substr(1,4)
+						yearArray.push( {date:date, value:rawData[i].slice(1)} );
+					} else if (dateLength===9){										// QUARTER
+						var date = rawData[i][0].substr(1,7);
+						qtrArray.push( {date:date, value:rawData[i].slice(1)} );
+					}else if (dateLength===10){										// MONTH
+						var date = rawData[i][0].substr(1,8);
+						monthArray.push( {date:date, value:rawData[i].slice(1)} );
+					}
+
+				}
+
+			}
+
+			// IMPORTANT this steps back through the csv data and gets the measure and description from the end of the file
+			// REVERSE these so that they are in the same order as the values
+			for ( i = 1; i <=numValues; i++) {
+				var line = listLength - (i*5) - 1;
+				var descriptionStr = rawData[line][1].split("\"")[1];
+				var tempStr = descriptionStr.split(" ")[0];
+				var cdid = rawData[line][0];
+				measures.push( tempStr );
+				descriptions.push( rawData[line] );
+				cdids.push(cdid);
+			}
+
+			// REVERSE these so that they are in the same order as the values
+			measures.reverse();
+			descriptions.reverse();
+			cdids.reverse();
 
 
-	/////////////////////////////////////////////////////////////////////////////////////////
-	//
-	//	Store the JSON in a central modeland split out any data for display:
-	//	month, quarter and year arrrays
-	//	plus measures and the last values
-	//	
-	//	also builds set of objects with the associated data
-	//  {
-	//	baseValue		- used to re-base the indices
-	//	color 			- chart colour
-	//	data 			- legacy
-	//	data_mon		- formatted monthly chart data: array of objects {date:millisecondsUTC, value}
-	//	data_qtr
-	//	data_yr
-	// 	m, q, and y 	- objects for month, quarter and year data start and end, used for displaying baseline years 
-	//	name 			- series name from CSV
-	//	visible	 		- is chart line visible
-	//	}
-	//
-	/////////////////////////////////////////////////////////////////////////////////////////
-	function storeData(json){
+			//set last values and the difference
+			lastValues = monthArray[monthArray.length-1];
+			penultimateValues = monthArray[monthArray.length-2];
 
-		var data = json;
+			for ( i = 0; i <=measures.length; i++) {
+				var measure = measures[i];
+				var cdid = cdids[i];
+				var obj = {};
+				var measureID ="";
 
-		if(!model[data.cdid]){
-			model[data.cdid] = json;
+				switch( cdid ){
+					case "D7G7":
+					measureID = "CPI";
+					break;
+					case "L55O":
+					measureID = "CPIH";
+					break;
+					case "KVR9":
+					measureID = "RPIJ";
+					break;
+					case "CDKQ":
+					measureID = "RPIX";
+					break;
+					case "CZBH":
+					measureID = "RPI";
+					break;
+				}
+
+				if(measureID!==""){
+					obj.last = parseFloat( lastValues.value[i],10);
+					obj.diff = lastValues.value[i] - penultimateValues.value[i];
+					tableObjects[measureID] = obj;
+
+				}
+
+			}
+
+			seriesData = [];
+			addSeries(MONTHLY);
+			addSeries(QUARTERLY);
+			addSeries(YEARLY);
+
+			updateTable();
+
+			setYears();
+
+			populateChartData(MONTHLY);
+
+			console.log(tableObjects);
 		}
 
-		//calculate the change
-		var numMonths = model[data.cdid].months.length;
 
-		var latest = parseFloat(data.number);
-		var last = parseFloat(data.months[numMonths-1].value);
-		if( isNaN(latest) ){
-			latest = last;
-			last = parseFloat(data.months[numMonths-2].value);
-			//also update date
-			model[data.cdid].date = data.months[numMonths-1].month + " " + data.months[numMonths-1].year;
-			console.log(data.cdid + ": " + model[data.cdid].date);
-		}
-
-		var diff = latest - last;
-		model[data.cdid].diff = diff;
-		model[data.cdid].latest = latest;
-
-		var measure = data.name.split(":")[0];
-		if(data.unit ==="%" && measure.indexOf("%")===-1){
-			console.log(data.cdid + " %" + measure);
-			measure += " (% change)";
-		}
-		model[data.cdid].title = measure;
-
-		model[data.cdid].data_mon = addSeries(MONTHLY, data.cdid);
-		model[data.cdid].data_qtr = addSeries(QUARTERLY, data.cdid);
-		model[data.cdid].data_yr = addSeries(YEARLY, data.cdid);
-
-		//use jquery to find the start and end years for each frequncy (used in baseline)
-		model[data.cdid].M = {};
-		model[data.cdid].M.start = Math.min.apply(Math, model[data.cdid].months.map(function(o){return o.year;}));
-		model[data.cdid].M.end = Math.max.apply(Math, model[data.cdid].months.map(function(o){return o.year;}));
-
-		model[data.cdid].Q = {};
-		model[data.cdid].Q.start = Math.min.apply(Math, model[data.cdid].quarters.map(function(o){return o.year;}));
-		model[data.cdid].Q.end = Math.max.apply(Math, model[data.cdid].quarters.map(function(o){return o.year;}));
-
-		model[data.cdid].Y = {};
-		model[data.cdid].Y.start = Math.min.apply(Math, model[data.cdid].years.map(function(o){return o.year;}));
-		model[data.cdid].Y.end = Math.max.apply(Math, model[data.cdid].years.map(function(o){return o.year;}));
-
-		data = null;
-		loadedItems++;
-
-		if(loadedItems === INITIAL_LIST.length){
-			init();
-		}
-	}
-
-
-
-
-
-
-	function addSeries(interval, cdid){
+	function addSeries(interval){
 		var i
 		, j
 		, month
@@ -404,45 +517,45 @@ var inflation = (function($) {
 		, year
 		, mon
 		, tempTitle
-		, intervalTitle;
+		, intervalTitle
 
-		var timeSeries = [];
+		,startDate = []
+		, endDate = [];
 
 		
+ 		//reset chartdata
+ 		charts = [];
+ 		chartOptions = lineChart;
+ 		chartOptions.series =[];
+ 		chartOptions.tooltip.formatter = monthFormat;
+
+ 		chartOptions.yAxis.labels.formatter = normalFormat;
 
  		switch (interval) {
  			case MONTHLY:
- 			timeArray = model[cdid].months;
+ 			timeArray = monthArray;
+
  			break;
 
  			case QUARTERLY:
- 			timeArray = model[cdid].quarters;
+ 			timeArray = qtrArray;
  			break;
 
  			case YEARLY:
- 			timeArray = model[cdid].years;
+ 			timeArray = yearArray;
  			break;
  		}
 
-		// list length is the total number of data entries in the JSON
+		// list length is the total number of data entries in the CSV
 		listLength = timeArray.length;
 
 		// timeArray of objects:
 		// eg
-		/*
-		    {
-		      "date": "2014 AUG",
-		      "value": "128.3",
-		      "year": "2014",
-		      "month": "August",
-		      "sourceDataset": "MM23"
-		    }
-		*/
-		// 
-		// need to split an array of arrays with the time and value for each data point
-		// eg [date in msUTC, value]
+		// {"date": "1973 APR", value:"["", "", "", "" ,"9.2", "", "", "", "", ""]"}
+		// need to split into the individual CDID series
+
 		// so loop through all the data entries
-		// for each data row, and build a separate list of the formatted data
+		// for each data row, loop through the series and build a separate list
 		
         //split array objects {date, value} date into series data [array]
         for ( i = 0; i < listLength; i++) {
@@ -450,52 +563,52 @@ var inflation = (function($) {
         	switch (interval) {
 
         		case MONTHLY:
-        		year = parseInt(timeArray[i].year);
-        		month = timeArray[i].month ;
+        		year = parseInt(monthArray[i].date.split(" ")[0]);
+        		month = monthArray[i].date.split(" ")[1] ;
 
         		switch (month) {
-        			case "January":
+        			case "JAN":
         			mon = 0;
         			break
-        			case "February":
+        			case "FEB":
         			mon = 1;
         			break
-        			case "March":
+        			case "MAR":
         			mon = 2;
         			break
-        			case "April":
+        			case "APR":
         			mon = 3;
         			break
-        			case "May":
+        			case "MAY":
         			mon = 4;
         			break
-        			case "June":
+        			case "JUN":
         			mon = 5;
         			break
-        			case "July":
+        			case "JUL":
         			mon = 6;
         			break
-        			case "August":
+        			case "AUG":
         			mon = 7;
         			break
-        			case "September":
+        			case "SEP":
         			mon = 8;
         			break
-        			case "October":
+        			case "OCT":
         			mon = 9;
         			break
-        			case "November":
+        			case "NOV":
         			mon = 10;
         			break
-        			case "December":
+        			case "DEC":
         			mon = 11;
         			break
         		}
         		break;
 
         		case QUARTERLY:
-        		year = parseInt(timeArray[i].year);
-        		month = timeArray[i].quarter ;
+        		year = parseInt(qtrArray[i].date.split(" ")[0]);
+        		month = qtrArray[i].date.split(" ")[1] ;
 
         		switch (month) {
         			case "Q1":
@@ -514,136 +627,214 @@ var inflation = (function($) {
         		break;
 
         		case YEARLY:
-	        		year = parseInt(timeArray[i].year);
+	        		year = parseInt(yearArray[i].date.split(" ")[0]);
 	        		mon = 0;
         		break;
         	}
+
 
 			// This is where the magic happens...
 			// split out the CSV value into its data series
 
 			if( !isNaN(year) ){
 				timestamp = new Date(year, mon, day).getTime();
+				var objArray =[];//create a data object with date and value
+				objArray[0] = timestamp;// date
+				objArray[1] = [];
 
-    			var dataPoint =[];			//create a blank array for each data object with time and value
-				dataPoint[0] = timestamp;	// date
-				dataPoint[1] = parseFloat(timeArray[i].value);
-				timeSeries.push(dataPoint);
+				var length = timeArray[i].value.length;
+
+				for ( var j=0;j<length;j++){
+					
+					if( timeArray[i].value[j] === ""){
+						objArray[1][j] = null;
+					}else{
+
+						if(!startDate[j]){
+							startDate[j] = timeArray[i].date;
+						}
+
+						objArray[1][j] = parseFloat(timeArray[i].value[j],10);// value
+
+
+						// redefine the indices
+						// id the id array is he first line of the csv, eg a list of the CDID's
+						var idx = measureIndex[ id[j] ];
+
+						if( !chartOptions.series[idx] ){
+							chartOptions.series[idx]  = {};
+						}
+
+						// initialise series Data object
+						if( !seriesData[idx] ){
+							seriesData[idx] = {};
+							seriesData[idx].name = formalTitles[ id[j] ];
+							seriesData[idx].color = measureColours[ id[j] ];
+							seriesData[idx].data_m = [];
+							seriesData[idx].data_q = [];
+							seriesData[idx].data_y = [];
+						}
+						//console.log(j + " baseValues[j]: "  + baseValues[j] );
+						seriesData[idx].baseValue = baseValues[j];
+							//console.log("baseValue: " + baseValues[j]);
+
+
+						// instead of just adding series to the chart object, build separate index and percentage series in order:
+
+						// NB The high chart library requires the data as an array of form [date in msUTC, value]
+						//eg push an array of time and value
+						switch (interval) {
+							case MONTHLY:
+							seriesData[idx].data_m.push( [ objArray[0], objArray [1][j] ] );
+							seriesData[idx].start_m = parseInt(startDate[j].substr(0,4));
+							seriesData[idx].end_m = parseInt(timeArray[i].date.substr(0,4));
+
+							break;
+
+							case QUARTERLY:
+							seriesData[idx].data_q.push( [ objArray[0], objArray [1][j] ] );
+							seriesData[idx].start_q = parseInt(startDate[j].substr(0,4));
+							seriesData[idx].end_q = parseInt(timeArray[i].date.substr(0,4));
+							break;
+
+							case YEARLY:
+							seriesData[idx].data_y.push( [ objArray[0], objArray [1][j] ] );
+							seriesData[idx].start_y = parseInt(startDate[j].substr(0,4));
+							seriesData[idx].end_y = parseInt(timeArray[i].date.substr(0,4));
+							break;
+						}
+						
+					}
+
+				}
+
 			}
 
 		}
-		return timeSeries
 
 	}
 
 
-	// get the average value for the selected year, set the year to 100 and re-index all values
+	// loop through the raw data as all values are already assigned to a given date
 	function getBaseYear(interval){
 		var tempArray = [];
-		var dataArray = [];
 		var index;
 		var numDataItems;
-		var suffix = "";
-		var baseValue = [];
+		baseValues = [];
 
-		var itemLen = indices.length;
+		// set array based on the interval 
+		switch (interval) {
+ 				case MONTHLY:
+ 				timeArray = monthArray;
+ 				numDataItems = 12;
 
-		for ( var i = 0; i<itemLen; i++){
-			tempArray = [];
+ 				break;
 
-			var cdid = indices[i];
+ 				case QUARTERLY:
+ 				timeArray = qtrArray;
+ 				numDataItems = 4;
+ 				break;
 
-			// set array based on the interval 
+ 				case YEARLY:
+ 				timeArray = yearArray;
+ 				numDataItems = 1;
+ 				break;
+ 			}
+
+		// list length is the total number of data entries in the CSV
+		listLength = timeArray.length;
+
+		for ( i = 0; i < listLength; i++) {
+
 			switch (interval) {
 				case MONTHLY:
-				timeArray = model[cdid].months;
-				dataArray = model[cdid].data_mon;
-				numDataItems = 12;
-				suffix = " JAN";
+					//find start point
+					if(timeArray[i].date === baseYear + " JAN"){
+						index = i;
+					}
 				break;
 
-				case QUARTERLY:
-				timeArray = model[cdid].quarters;
-				dataArray = model[cdid].data_qtr;
-				numDataItems = 4;
-				suffix = " Q1";
+				case QUARTERLY:			
+					//find start point	
+					if(timeArray[i].date === baseYear + " Q1"){
+						//console.log("match at " + i);
+						index = i;
+					}
 				break;
 
 				case YEARLY:
-				timeArray = model[cdid].years;
-				dataArray = model[cdid].data_yr;
-				numDataItems = 1;
+					if(timeArray[i].date === baseYear){
+						//console.log("GOT LAST VALUE: "  + timeArray[i].value);
+						index = i;
+					}
 				break;
 			}
-
-
-			// list length is the total number of data entries in the CSV
-			listLength = timeArray.length;
-
-			// loop thru ALL the dates and find matching year
-			for ( j = 0; j < listLength; j++) {
-
-				//find start point
-				if(timeArray[j].date === baseYear + suffix){
-					index = j;
-				}
-
-			}
-			
-			// get the average of the values for the selected year
-
-			// add all the available values into temp array
-			for ( var j=0; j<numDataItems; j++){
-				//console.log("length: "  + timeArray.length + ":" + (index+3));
-				if(timeArray[index+j] && timeArray[index+j].date.indexOf(baseYear)>-1){
-					tempArray.push( parseFloat(timeArray[index+j].value) );
-				}
-			}
-			var len = tempArray.length;
-			var sum = 0;
-			for( var j = 0; j < len; j++ ){
-			    sum += tempArray[j];
-			}
-
-			var avg = sum/len;
-
-
-			// loop thru ALL the dates AGAIN and calculate the re-indexed values
-			listLength = dataArray.length;
-			model[cdid].baseValue = [];
-			for ( j = 0; j < listLength; j++) {
-				var num = 100 * parseFloat(timeArray[j].value) / avg;
-				num = Math.round(num*100)/100;
-				model[cdid].baseValue[j] = [dataArray[j][0], num];
-			}
-
 		}
 
+		//check if all data are available
+		for ( var j=0; j<numDataItems; j++){
+			//console.log("length: "  + timeArray.length + ":" + (index+3));
+			if(timeArray[index+j] && timeArray[index+j].date.indexOf(baseYear)>-1){
+				//console.log("got a match year " + timeArray[index+j].date);
+				tempArray.push(timeArray[index+j].value)
+			}
+		}
+
+		// loop thought all the available data and sum it
+		var len = tempArray.length;
+		var numItems = tempArray[0].length;
+		baseValues = [0,0,0,0,0,0,0,0,0,0];
+		numValues = [0,0,0,0,0,0,0,0,0,0];
+
+		// loop through each date
+		for ( var j=0; j<len; j++){
+			// sum each value
+			for (var k=0; k<numItems; k++){
+				var num = tempArray[j][k];
+				if (num === ""){
+					num = 0;
+				}else{
+					num = parseFloat( tempArray[j][k], 10 );
+					numValues[k]++;
+				}
+				baseValues[k] += num;
+			}
+		}
+
+		// loop through each value to calc mean
+		for (var k=0; k<numItems; k++){
+			if(numValues[k]>0){
+				baseValues[k] = baseValues[k] / numValues[k];
+			}
+		}
+
+		//assign base value to seriesData
+		var length = baseValues.length;
+
+		for ( var j=0;j<length;j++){
+			var idx = measureIndex[ id[j] ];
+			seriesData[idx].baseValue = baseValues[j];
+		}
 	}
 
-
-
 	function updateTable(){
-		var cpi_diff = model["D7G7"].diff;
-		var cpih_diff = model["L55O"].diff;
-		var rpij_diff = model["KVR9"].diff;
-		var rpi_diff = model["CZBH"].diff;
-		var rpix_diff = model["CDKQ"].diff;
+		var cpi_diff = tableObjects["CPI"].diff;
+		var cpih_diff = tableObjects["CPIH"].diff;
+		var rpij_diff = tableObjects["RPIJ"].diff;
+		var rpi_diff = tableObjects["RPI"].diff;
+		var rpix_diff = tableObjects["RPIX"].diff;
+		var CPI_last = tableObjects["CPI"].last;
+		var CPIH_last = tableObjects["CPIH"].last;
+		var RPIJ_last = tableObjects["RPIJ"].last;
+		var RPI_last = tableObjects["RPI"].last;
+		var RPIX_last = tableObjects["RPIX"].last;
 
-		var CPI_last = model["D7G7"].latest;
-		var CPIH_last = model["L55O"].latest;
-		var RPIJ_last = model["KVR9"].latest;
-		var RPI_last = model["CZBH"].latest;
-		var RPIX_last = model["CDKQ"].latest;
-
-		var CPI_date = model["D7G7"].date;
-		var CPIH_date = model["L55O"].date;
-		var RPIJ_date = model["KVR9"].date;
-		var RPI_date = model["CZBH"].date;
-		var RPIX_date = model["CDKQ"].date;
-
-		var display =  model["D7BT"].date;
-		$("#last_date").text("Last updated: " + display);
+		var cpi_date = lastValues.date;
+		var temp = cpi_date.split(" ");
+		var mon = temp[1]; 
+		var yr = temp[0];
+		var displayMonth = mon.capitalise();
+		var display = displayMonth +" " +yr;
 
 		if(cpi_diff=== 0){
 			cpi_diff = "unchanged";
@@ -726,11 +917,11 @@ var inflation = (function($) {
 		$("#RPIX_change").text(rpix_diff);
 
 
-		$("#CPI_date").text(CPI_date);
-		$("#CPIH_date").text(CPIH_date );
-		$("#RPIJ_date").text(RPIJ_date);
-		$("#RPI_date").text(RPI_date);
-		$("#RPIX_date").text(RPIX_date);
+		$("#CPI_date").text(display);
+		$("#CPIH_date").text(display );
+		$("#RPIJ_date").text(display);
+		$("#RPI_date").text(display);
+		$("#RPIX_date").text(display);
 
 	}
 
@@ -738,45 +929,42 @@ var inflation = (function($) {
 
 
 	function populateChartData(interval){
+		var len =  seriesData.length;
 
-		var len =  INITIAL_LIST.length;
+		// set the base chart data
+		// NB AS THE BASE DATA SETS ARE ARRAYS WE NEED TO DEEP CLONE THEM
+		for ( var i=0; i<len;i++){
+			seriesData[i].data = seriesData[i]["data_"+interval.toLowerCase()].slice(0);
+
+			var length = seriesData[i].data.length;
+			for ( var j=0; j<length;j++){
+			seriesData[i].data[j] = seriesData[i].data[j].slice(0);
+			}
+		}
 
 		if(baseYear){
 			getBaseYear(interval);
 		}
 
-		// loop through each measure and build series data
-		// start with monthly
-		for (var item in model){
-			//use the measure as an index to order the sereis data into indices and percentages in a consistent order
-			var idx = measureIndex[item];
-
-			seriesData[idx] = [];
-			var obj =[];
-			obj.name = model[item].title;
-			obj.color = measureColours[ item ];
-
-			switch (interval) {
-				case MONTHLY:
-					obj.data = model[item].data_mon;
-				break;
-				case QUARTERLY:			
-					obj.data = model[item].data_qtr;
-				break;
-				case YEARLY:
-					obj.data = model[item].data_yr;
-				break;
-			}
+		for ( var i=0; i<len;i++){
 
 			if(baseYear){
-				obj.data = model[item].baseValue;
+				var length = seriesData[i].data.length;
+				var last = seriesData[i].baseValue;
+				if(!last){
+					last = 100;
+				}
+
+				for ( var j=0; j<length;j++){
+					var num = 100 * seriesData[i].data[j][1]/last;
+					num = Math.round(num*100)/100;
+					seriesData[i].data[j][1] = ( num );
+				}
+
 			}
-
-			seriesData[idx] = obj;
-
 		}
 
-		// example series Data.data = [1388534400000, 126.7] - eg the time in milliseconds and tehn the value for each point
+		// example series Data.data = [1388534400000, 126.7]
 		chartOptions.series = seriesData;
 
 		var type = "Index";
@@ -789,14 +977,14 @@ var inflation = (function($) {
 
 		chartOptions.yAxis.title.text = type;
 
-		if(!isIE() || isIE()>9){
-			drawChart();
-			showSeries(type);
-		}else{
-			drawTable();
-		}
+			if(!isIE() || isIE()>9){
+				drawChart();
+				showSeries(type);
+			}else{
+				//console.log("is ie");
+				drawTable();
+			}
 	}
-
 
 
 	function drawChart () {
@@ -813,7 +1001,6 @@ var inflation = (function($) {
 		chart = $("#chart").highcharts();
 
 	}
-
 
 
 	function drawTable() {
@@ -946,6 +1133,7 @@ var inflation = (function($) {
 				chart.series[4].hide();
 			}
 
+
 			for ( var i=5; i<10; i++){
 				var item = chart.series[i];
 				item.hide();
@@ -1004,16 +1192,15 @@ var inflation = (function($) {
 
 	}
 
-		  
-	// display available years in a drop down list for baseline
+
 	function setYears(){
 
 		var startPoint = 1900;
 		var endPoint;
 		var html = "";
 
-
-		var frequency =  $('[id^="freq"]:checked').val().toUpperCase();
+		var frequency =  $('[id^="freq"]:checked').val().toLowerCase();
+		//console.log("freq " + frequency);
 
 		var checklist = new Array();
 		$('#example_list input:checked').each(function() {
@@ -1023,12 +1210,10 @@ var inflation = (function($) {
 		for (i in checklist){
 			//loop through each checklist and get the start date
 			var id = checklist[i]
-			var cdid = indices[id];
-
-			var item = model[cdid][frequency];
-			endPoint = item.end;
-			//get the largest value
-			startPoint = Math.max(startPoint, item.start);
+			var item = seriesData[id];
+				endPoint = item["end_"+frequency];
+				//get the largest value
+				startPoint = Math.max(startPoint, item["start_"+frequency]);
 		}
 		
 		html = "<option>Select baseline date*</option>";
@@ -1049,22 +1234,9 @@ var inflation = (function($) {
 		$("#"+name).attr("checked", vis);
 	}
 
-
-
-	function init(arguments) {
-		//reset chartdata
- 		charts = [];
- 		chartOptions = lineChart;
- 		chartOptions.series =[];
- 		chartOptions.tooltip.formatter = monthFormat;
- 		chartOptions.yAxis.labels.formatter = normalFormat;
-
-		updateTable();
-		setYears();
-		populateChartData(MONTHLY);
-
+	String.prototype.capitalise = function() {
+		return this.charAt(0).toUpperCase() + this.slice(1).toLowerCase();
 	}
-
 
 
 	$(document).ready(function() {
@@ -1093,6 +1265,7 @@ var inflation = (function($) {
 
 			// show and hide series
 			// (toggle depending on indices or percent)
+
 			$( "input:checkbox:checked" ).each(function( index ) {
 
 				var percentageAdjust = 0;
@@ -1104,6 +1277,7 @@ var inflation = (function($) {
 				var series = chart.series[idx];
 				series.show();
 			});
+
 
 			$( "input:checkbox:not(:checked)" ).each(function( index ) {
 				var percentageAdjust = 0;
@@ -1199,10 +1373,12 @@ var inflation = (function($) {
 
 
 		$( "input:checkbox:checked" ).change(function(){
+			//console.log("changes...")
 			setYears();
 		})
 
 		$( "[id^='freq']" ).change(function(){
+			//console.log("radio ch,ch,changes...")
 			setYears();
 		})
 
@@ -1210,13 +1386,11 @@ var inflation = (function($) {
 		if( status === 'percent' ){
 			$('#dateSelect').attr('disabled', true);
 		}
+		units = "";
 
 		$("#downloadBtn").hide();
 
-	
 		getData( INITIAL_LIST );
-
-
 	});
 
 
