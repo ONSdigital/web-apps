@@ -346,7 +346,7 @@ var inflation = (function($) {
 			last = parseFloat(data.months[numMonths-2].value);
 			//also update date
 			model[data.cdid].date = data.months[numMonths-1].month + " " + data.months[numMonths-1].year;
-			console.log(data.cdid + ": " + model[data.cdid].date);
+			//console.log(data.cdid + ": " + model[data.cdid].date);
 		}
 
 		var diff = latest - last;
@@ -355,7 +355,7 @@ var inflation = (function($) {
 
 		var measure = data.name.split(":")[0];
 		if(data.unit ==="%" && measure.indexOf("%")===-1){
-			console.log(data.cdid + " %" + measure);
+			//console.log(data.cdid + " %" + measure);
 			measure += " (% change)";
 		}
 		model[data.cdid].title = measure;
